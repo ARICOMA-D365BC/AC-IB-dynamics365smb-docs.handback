@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="ui-troubleshoot-self-signup.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-964a5eb" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">df6a385620b1e9688ebe425f94a6aa467492f77d</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\ui-troubleshoot-self-signup.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">024fa17274497f231e0c3d2005d9144cd792c9d3</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a56cd4dbcf9766f1c09b0193e855dde2a1eec801</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Ways to Troubleshoot or Work Around Issues with Self-Service Sign-Up | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Ways to Troubleshoot or Work Around Issues with Self-Service Sign-Up | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Způsoby řešení problémů při samostatné registraci | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Learn about the most common reasons why you may not be able to complete the signup to Business Central, and ways to work around them.</source><seg-source><mrk mtype="seg" mid="2">Learn about the most common reasons why you may not be able to complete the signup to Business Central, and ways to work around them.</mrk></seg-source><target><mrk mtype="seg" mid="2">Naučte se o nejčastějších důvodech, proč nelze dokončit registraci do Business Central, a o způsobech, jakými tyto problémy vyřešit.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Troubleshooting Self-Service Sign-Up</source><seg-source><mrk mtype="seg" mid="3">Troubleshooting Self-Service Sign-Up</mrk></seg-source><target><mrk mtype="seg" mid="3">Řešení problémů při samostatné registraci.</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Signing up for <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> is easy and can be done very quickly.</source><seg-source><mrk mtype="seg" mid="4">Signing up for <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> is easy and can be done very quickly.</mrk></seg-source><target><mrk mtype="seg" mid="4">Registrace do <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> je jednoduchá a lze ji provést velmi rychle.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>You can create a free account even if you are an existing organization.</source><seg-source><mrk mtype="seg" mid="5">You can create a free account even if you are an existing organization.</mrk></seg-source><target><mrk mtype="seg" mid="5">Můžete si vytvořit účet zdarma, i když jste již existující organizací.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This article addresses issues that you may have during signup.</source><seg-source><mrk mtype="seg" mid="6">This article addresses issues that you may have during signup.</mrk></seg-source><target><mrk mtype="seg" mid="6">Tento článek se zabývá problémy, které se mohou vyskytnout během registrace.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>What email address can I use with Business Central?</source><seg-source><mrk mtype="seg" mid="7">What email address can I use with Business Central?</mrk></seg-source><target><mrk mtype="seg" mid="7">Jakou e-mailovou adresu mohu použít v Business Central?</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> requires that you use a work, or school, email address to sign up.</source><seg-source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="8">requires that you use a work, or school, email address to sign up.</mrk></seg-source><target><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="8">vyžaduje, abyste k registraci použili e-mailovou adresu práce nebo školy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> does not support email addresses provided by consumer email services or telecommunication providers.</source><seg-source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="9">does not support email addresses provided by consumer email services or telecommunication providers.</mrk></seg-source><target><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="9">nepodporuje e-mailové adresy poskytované spotřebitelskými e-mailovými službami nebo poskytovateli telekomunikačních služeb.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>This includes outlook.com, hotmail.com, gmail.com, and others.</source><seg-source><mrk mtype="seg" mid="10">This includes outlook.com, hotmail.com, gmail.com, and others.</mrk></seg-source><target><mrk mtype="seg" mid="10">To zahrnuje outlook.com, hotmail.com, gmail.com a další.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>If you try to sign up with a personal email address, you will get a message indicating to use a work or school email address.</source><seg-source><mrk mtype="seg" mid="11">If you try to sign up with a personal email address, you will get a message indicating to use a work or school email address.</mrk></seg-source><target><mrk mtype="seg" mid="11">Pokud se pokusíte zaregistrovat pomocí své osobní e-mailové adresy, zobrazí se zpráva, že bude třeba použít pracovní nebo školní e-mailovou adresu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Troubleshooting</source><seg-source><mrk mtype="seg" mid="12">Troubleshooting</mrk></seg-source><target><mrk mtype="seg" mid="12">Odstraňování problémů</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>In many cases, registering for <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> can be achieved by following the sign-up process.</source><seg-source><mrk mtype="seg" mid="13">In many cases, registering for <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> can be achieved by following the sign-up process.</mrk></seg-source><target><mrk mtype="seg" mid="13">V mnoha případech lze registraci do <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> provést řízením se dle následujícího procesu registrace.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>However, there are several reasons why you may not be able to complete self-service signup.</source><seg-source><mrk mtype="seg" mid="14">However, there are several reasons why you may not be able to complete self-service signup.</mrk></seg-source><target><mrk mtype="seg" mid="14">Existuje však několik důvodů, proč nemusí být možné samostatnou registraci dokončit.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>The table below summarizes some of the most common reasons you may not be able to complete signup and ways you can workaround these issues.</source><seg-source><mrk mtype="seg" mid="15">The table below summarizes some of the most common reasons you may not be able to complete signup and ways you can workaround these issues.</mrk></seg-source><target><mrk mtype="seg" mid="15">Níže uvedená tabulka shrnuje některé nejčastější důvody, proč není možné registraci dokončit, a způsoby, jakými tyto problémy vyřešit.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Symptom/Error Message</source><seg-source><mrk mtype="seg" mid="16">Symptom/Error Message</mrk></seg-source><target><mrk mtype="seg" mid="16">Příznak / Chybová zpráva</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Cause and Workaround</source><seg-source><mrk mtype="seg" mid="17">Cause and Workaround</mrk></seg-source><target><mrk mtype="seg" mid="17">Příčina a Řešení</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>For Office 365 email addresses that are not registered in the United States, you receive a message like the following during signup:</source><seg-source><mrk mtype="seg" mid="18">For Office 365 email addresses that are not registered in the United States, you receive a message like the following during signup:</mrk></seg-source><target><mrk mtype="seg" mid="18">U e-mailových adres Office 365, které nejsou registrovány ve Spojených státech, se během registrace zobrazí následující zpráva:</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>That didn't work, we don't support your country or region yet.<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="19">That didn't work, we don't support your country or region yet.</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="19">To nefungovalo, zatím nepodporujeme vaši zemi nebo region.</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> currently only supports Office 365 US registered email accounts.</source><seg-source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="20">currently only supports Office 365 US registered email accounts.</mrk></seg-source><target><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="20">v současné době podporuje pouze e-mailové účty 365 Office registrované v USA.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Personal email addresses such as <ph id="ph1">nancy@gmail.com</ph> are not supported.</source><seg-source><mrk mtype="seg" mid="21">Personal email addresses such as <ph id="ph1">nancy@gmail.com</ph> are not supported.</mrk></seg-source><target><mrk mtype="seg" mid="21">Osobní e-mailové adresy, jako například <ph id="ph1">nancy@gmail.com</ph>, nejsou podporovány.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>You receive a message like the following during signup:</source><seg-source><mrk mtype="seg" mid="22">You receive a message like the following during signup:</mrk></seg-source><target><mrk mtype="seg" mid="22">Během registrace se zobrazí následující zpráva:</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>You entered a personal email address: Please enter your work email address so we can securely store your company's data.<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="23">You entered a personal email address:</mrk> <mrk mtype="seg" mid="24">Please enter your work email address so we can securely store your company's data.</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="23">Zadali jste osobní e-mailovou adresu:</mrk> <mrk mtype="seg" mid="24">Zadejte prosím svou pracovní e-mailovou adresu, abychom mohli bezpečně ukládat data vaší společnosti.</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>or</source><seg-source><mrk mtype="seg" mid="25">or</mrk></seg-source><target><mrk mtype="seg" mid="25">nebo</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>That looks like a personal email address. Enter your work address so we can connect you with others in your company. And don’t worry. We won’t share your address with anyone.<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="26">That looks like a personal email address.</mrk> <mrk mtype="seg" mid="27">Enter your work address so we can connect you with others in your company.</mrk> <mrk mtype="seg" mid="28">And don’t worry.</mrk> <mrk mtype="seg" mid="29">We won’t share your address with anyone.</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="26">To vypadá jako osobní e-mailová adresa.</mrk> <mrk mtype="seg" mid="27">Zadejte svou pracovní adresu, abychom vás mohli spojit s ostatními ve vaší společnosti.</mrk> <mrk mtype="seg" mid="28">A nebojte se.</mrk> <mrk mtype="seg" mid="29">S nikým vaši adresu sdílet nebudeme.</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> does not support email addresses provided by consumer email services or telecommunications providers.</source><seg-source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="30">does not support email addresses provided by consumer email services or telecommunications providers.</mrk></seg-source><target><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="30">nepodporuje e-mailové adresy poskytované spotřebitelskými e-mailovými službami nebo poskytovateli telekomunikačních služeb.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>To complete signup, try again using an email address assigned by your work or school.</source><seg-source><mrk mtype="seg" mid="31">To complete signup, try again using an email address assigned by your work or school.</mrk></seg-source><target><mrk mtype="seg" mid="31">Pro dokončení registrace zkuste použít e-mailovou adresu přiřazenou vaší prací nebo školou.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>If you still cannot sign up and are willing to complete a more advanced setup process, you can register for a new Office 365 trial subscription and use that email address to sign up.</source><seg-source><mrk mtype="seg" mid="32">If you still cannot sign up and are willing to complete a more advanced setup process, you can register for a new Office 365 trial subscription and use that email address to sign up.</mrk></seg-source><target><mrk mtype="seg" mid="32">Pokud se stále nemůžete zaregistrovat a jste ochotni dokončit pokročilejší proces nastavení, můžete si zaregistrovat nové zkušební předplatné sady Office 365 a pomocí této e-mailové adresy se zaregistrovat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>.gov or .mil email addresses You receive a message like the following during signup:</source><seg-source><mrk mtype="seg" mid="33">.gov or .mil email addresses You receive a message like the following during signup:</mrk></seg-source><target><mrk mtype="seg" mid="33">E-mailové adresy .gov nebo .mil Během registrace se zobrazí následující zpráva:</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> unavailable: <ph id="ph2">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> is not available for users with .gov or .mil email addresses at this time. Use another work email address or check back later.<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="34">unavailable:</mrk> <ph id="ph2">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="35">is not available for users with .gov or .mil email addresses at this time.</mrk> <mrk mtype="seg" mid="36">Use another work email address or check back later.</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="34">nedostupné:</mrk> <ph id="ph2">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="35">není v současné době k dispozici uživatelům s e-mailovými adresami .gov nebo .mil.</mrk> <mrk mtype="seg" mid="36">Použijte jinou pracovní e-mailovou adresu nebo to zkuste později.</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>or</source><seg-source><mrk mtype="seg" mid="37">or</mrk></seg-source><target><mrk mtype="seg" mid="37">nebo</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>We can't finish signing you up. It looks like <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> isn't currently available for your work or school.<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="38">We can't finish signing you up.</mrk> <mrk mtype="seg" mid="39">It looks like <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> isn't currently available for your work or school.</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="38">Nemůžeme dokončit vaši registraci.</mrk> <mrk mtype="seg" mid="39">Vypadá to, že <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> pro vaši práci nebo školu momentálně není k dispozici.</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> does not support .gov or .mil addresses at this time.</source><seg-source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="40">does not support .gov or .mil addresses at this time.</mrk></seg-source><target><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="40">v současné době nepodporuje adresy .gov nebo .mil.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Self-service signup is not enabled.</source><seg-source><mrk mtype="seg" mid="41">Self-service signup is not enabled.</mrk></seg-source><target><mrk mtype="seg" mid="41">Samostatná registrace není povolena.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>You receive a message like the following during signup:</source><seg-source><mrk mtype="seg" mid="42">You receive a message like the following during signup:</mrk></seg-source><target><mrk mtype="seg" mid="42">Během registrace se zobrazí následující zpráva:</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>We can't finish signing you up. Your IT department has turned off signup for <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>. Contact them to complete signup.<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="43">We can't finish signing you up.</mrk> <mrk mtype="seg" mid="44">Your IT department has turned off signup for <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</mrk> <mrk mtype="seg" mid="45">Contact them to complete signup.</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="43">Nemůžeme dokončit vaši registraci.</mrk> <mrk mtype="seg" mid="44">Vaše IT oddělení vypnulo registraci do <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</mrk> <mrk mtype="seg" mid="45">Chcete-li dokončit registraci, kontaktujte je.</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>or</source><seg-source><mrk mtype="seg" mid="46">or</mrk></seg-source><target><mrk mtype="seg" mid="46">nebo</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>That looks like a personal email address. Enter your work address so we can connect you with others in your company. And don’t worry. We won’t share your address with anyone.<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="47">That looks like a personal email address.</mrk> <mrk mtype="seg" mid="48">Enter your work address so we can connect you with others in your company.</mrk> <mrk mtype="seg" mid="49">And don’t worry.</mrk> <mrk mtype="seg" mid="50">We won’t share your address with anyone.</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="47">To vypadá jako osobní e-mailová adresa.</mrk> <mrk mtype="seg" mid="48">Zadejte svou pracovní adresu, abychom vás mohli spojit s ostatními ve vaší společnosti.</mrk> <mrk mtype="seg" mid="49">A nebojte se.</mrk> <mrk mtype="seg" mid="50">S nikým vaši adresu sdílet nebudeme.</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Your organization’s IT administrator has disabled self-service signup for <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</source><seg-source><mrk mtype="seg" mid="51">Your organization’s IT administrator has disabled self-service signup for <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</mrk></seg-source><target><mrk mtype="seg" mid="51">IT správce vaší organizace zakázal samostatnou registraci pro <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>To complete signup, contact your IT administrator and ask them to follow the instructions on the page below to allow existing users to sign up for <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> and to allow new users to join your existing tenant.</source><seg-source><mrk mtype="seg" mid="52">To complete signup, contact your IT administrator and ask them to follow the instructions on the page below to allow existing users to sign up for <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> and to allow new users to join your existing tenant.</mrk></seg-source><target><mrk mtype="seg" mid="52">Pro dokončení registrace se obraťte na správce IT a požádejte jej, aby postupoval podle pokynů na níže uvedené stránce a umožnil stávajícím uživatelům registrovat se do <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> a umožnil novým uživatelům připojit se ke stávajícímu klientovi.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>You may also experience this problem if you signed up for Office 365 through a partner.</source><seg-source><mrk mtype="seg" mid="53">You may also experience this problem if you signed up for Office 365 through a partner.</mrk></seg-source><target><mrk mtype="seg" mid="53">Tento problém může také nastat, pokud jste se zaregistrovali do Office 365 prostřednictvím partnera.</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Email address is not an Office 365 ID.</source><seg-source><mrk mtype="seg" mid="54">Email address is not an Office 365 ID.</mrk></seg-source><target><mrk mtype="seg" mid="54">E-mailová adresa není ID Office 365.</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>You receive a message like the following during signup:</source><seg-source><mrk mtype="seg" mid="55">You receive a message like the following during signup:</mrk></seg-source><target><mrk mtype="seg" mid="55">Během registrace se zobrazí následující zpráva:</mrk></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>We can't find you at contoso.com. Do you use a different ID at work or school? Try signing in with that, and if it doesn't work, contact your IT department.<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="56">We can't find you at contoso.com.</mrk> <mrk mtype="seg" mid="57">Do you use a different ID at work or school?</mrk> <mrk mtype="seg" mid="58">Try signing in with that, and if it doesn't work, contact your IT department.</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="56">Nemůžeme vás najít na contoso.com.</mrk> <mrk mtype="seg" mid="57">Používáte v práci nebo ve škole jinou ID ?</mrk> <mrk mtype="seg" mid="58">Zkuste se přihlásit pomocí ní a pokud to nepomůže, obraťte se na IT oddělení.</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Your organization uses IDs to sign in to Office 365 and other Microsoft services that are different than your email address.</source><seg-source><mrk mtype="seg" mid="59">Your organization uses IDs to sign in to Office 365 and other Microsoft services that are different than your email address.</mrk></seg-source><target><mrk mtype="seg" mid="59">ID používané vaší organizací k přihlášení do Office 365 a dalších služeb společnosti Microsoft se liší od vaší e-mailové adresy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>For example, your email address might be <ph id="ph1">Nancy.Smith@contoso.com</ph> but your ID is <ph id="ph2">nancys@contoso.com</ph>.</source><seg-source><mrk mtype="seg" mid="60">For example, your email address might be <ph id="ph1">Nancy.Smith@contoso.com</ph> but your ID is <ph id="ph2">nancys@contoso.com</ph>.</mrk></seg-source><target><mrk mtype="seg" mid="60">Například vaše e-mailová adresa může být <ph id="ph1">Nancy.Smith@contoso.com</ph>, ale vaše ID je <ph id="ph2">nancys@contoso.com</ph>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>To complete signup, use the ID that your organization has assigned to for signing in to Office 365 or other Microsoft services.</source><seg-source><mrk mtype="seg" mid="61">To complete signup, use the ID that your organization has assigned to for signing in to Office 365 or other Microsoft services.</mrk></seg-source><target><mrk mtype="seg" mid="61">Chcete-li dokončit registraci, použijte ID, kterou vaše organizace přiřadila k přihlášení do Office 365 nebo jiných služeb společnosti Microsoft.</mrk></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>If you do not know what this is, contact your IT administrator.</source><seg-source><mrk mtype="seg" mid="62">If you do not know what this is, contact your IT administrator.</mrk></seg-source><target><mrk mtype="seg" mid="62">Pokud neznáte svou ID, obraťte se na svého IT správce.</mrk></target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>If you still cannot sign up and are able to complete a more advanced setup process, you can register for a new Office 365 trial subscription and use that email address to sign up.</source><seg-source><mrk mtype="seg" mid="63">If you still cannot sign up and are able to complete a more advanced setup process, you can register for a new Office 365 trial subscription and use that email address to sign up.</mrk></seg-source><target><mrk mtype="seg" mid="63">Pokud se stále nemůžete zaregistrovat a jste ochotni dokončit pokročilejší proces nastavení, můžete si zaregistrovat nové zkušební předplatné sady Office 365 a pomocí této e-mailové adresy se zaregistrovat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="64">See Also</mrk></seg-source><target><mrk mtype="seg" mid="64">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Welcome to <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_long_md.md)]</ph><ept id="p1">](index.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="65">Welcome to</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_long_md.md)]</ph><ept id="p1">](index.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="65">Vítejte v</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_long_md.md)]</ph><ept id="p1">](index.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="66">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="66">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
