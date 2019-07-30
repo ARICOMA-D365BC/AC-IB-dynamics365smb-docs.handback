@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="ui-work-report.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-5ae97a8" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">98d51b10d3ca415a463b58405cb3c4f2449b75ad</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\ui-work-report.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">433b4e986aadc6371d659056adfe7945dd0c682b</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8af0fa0f5a604dba18c944b1604b3be8410b2730</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Scheduling a Report to Run at a Specific Date and Time | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Scheduling a Report to Run at a Specific Date and Time | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Naplánování spouštění sestavy k určitému datu a času | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Learn about entering a report into a job queue and scheduling it to be processed at a specific date and time.</source><seg-source><mrk mtype="seg" mid="2">Learn about entering a report into a job queue and scheduling it to be processed at a specific date and time.</mrk></seg-source><target><mrk mtype="seg" mid="2">Zjistěte, jak zadat sestavu do fronty úloh a naplánovat její zpracování ke konkrétnímu datu a času.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Working with Reports and Batch Jobs</source><seg-source><mrk mtype="seg" mid="3">Working with Reports and Batch Jobs</mrk></seg-source><target><mrk mtype="seg" mid="3">Práce se Sestavami a Dávkovými úlohami</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>A report gathers information based on a specified set of criteria, and organizes and presents the information in an easy-to-read, printable format.</source><seg-source><mrk mtype="seg" mid="4">A report gathers information based on a specified set of criteria, and organizes and presents the information in an easy-to-read, printable format.</mrk></seg-source><target><mrk mtype="seg" mid="4">Sestava shromažďuje informace na základě zadaného souboru kritérií a organizuje a prezentuje je ve snadno čitelném a tisknutelném formátu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>There are many reports that you can access throughout the application.</source><seg-source><mrk mtype="seg" mid="5">There are many reports that you can access throughout the application.</mrk></seg-source><target><mrk mtype="seg" mid="5">Existuje mnoho sestav, ke kterým máte v rámci aplikace přístup.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>The reports typically provide information relative to the context of the page you are on.</source><seg-source><mrk mtype="seg" mid="6">The reports typically provide information relative to the context of the page you are on.</mrk></seg-source><target><mrk mtype="seg" mid="6">Tyto sestavy obvykle obsahují informace týkající se kontextu stránky, na které se právě nacházíte.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>For example, the <bpt id="p1">**</bpt>Customer<ept id="p1">**</ept> page includes reports for the top 10 customers and the sales statistics, and more.</source><seg-source><mrk mtype="seg" mid="7">For example, the <bpt id="p1">**</bpt>Customer<ept id="p1">**</ept> page includes reports for the top 10 customers and the sales statistics, and more.</mrk></seg-source><target><mrk mtype="seg" mid="7">Například stránka <bpt id="p1">**</bpt>Zákazníci<ept id="p1">**</ept> obsahuje sestavy pro 10 nejlepších zákazníků, statistiky prodeje a další.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Batch jobs do more or less the same as reports but for the purpose of performing a process.</source><seg-source><mrk mtype="seg" mid="8">Batch jobs do more or less the same as reports but for the purpose of performing a process.</mrk></seg-source><target><mrk mtype="seg" mid="8">Dávkové úlohy dělají víceméně to samé jako sestavy, ale za účelem provedení procesu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>For example, the <bpt id="p1">**</bpt>Create Reminders<ept id="p1">**</ept> batch job creates reminder documents for customers with overdue payments.</source><seg-source><mrk mtype="seg" mid="9">For example, the <bpt id="p1">**</bpt>Create Reminders<ept id="p1">**</ept> batch job creates reminder documents for customers with overdue payments.</mrk></seg-source><target><mrk mtype="seg" mid="9">Například dávková úloha <bpt id="p1">**</bpt>Vytvořit upomínky<ept id="p1">**</ept> vytvoří upomínkové dokumenty pro zákazníky s opožděnými platbami.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>This topic refers mainly to "report", but similar information applies to batch jobs.</source><seg-source><mrk mtype="seg" mid="10">This topic refers mainly to "report", but similar information applies to batch jobs.</mrk></seg-source><target><mrk mtype="seg" mid="10">Toto téma se týká převážně „sestavy“, ale podobné informace platí i pro dávkové úlohy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>You can find reports in the <bpt id="p1">**</bpt>Reports<ept id="p1">**</ept> tab on selected pages, or you can use search <bpt id="p2">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p2">]</ept><bpt id="p3">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p3">")</ept> to find reports by name.</source><seg-source><mrk mtype="seg" mid="11">You can find reports in the <bpt id="p1">**</bpt>Reports<ept id="p1">**</ept> tab on selected pages, or you can use search <bpt id="p2">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p2">]</ept><bpt id="p3">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p3">")</ept> to find reports by name.</mrk></seg-source><target><mrk mtype="seg" mid="11">Sestavy můžete najít v záložce <bpt id="p1">**</bpt>Sestavy<ept id="p1">**</ept> na vybraných stránkách, nebo můžete použít <bpt id="p2">![</bpt>vyhledávací žárovku, která otevře funkci Řekněte mi<ept id="p2">]</ept><bpt id="p3">(media/ui-search/search_small.png "</bpt>Řekněte mi, co chcete udělat<ept id="p3">")</ept>, abyste našli sestavy podle jména.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Specifying the Data to Include in the Report</source><seg-source><mrk mtype="seg" mid="12">Specifying the Data to Include in the Report</mrk></seg-source><target><mrk mtype="seg" mid="12">Specifikace údajů, které mají být zahrnuty do sestavy</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>When you open a report, you are typically presented with a page where you set various options and filters that determine what to include in the report.</source><seg-source><mrk mtype="seg" mid="13">When you open a report, you are typically presented with a page where you set various options and filters that determine what to include in the report.</mrk></seg-source><target><mrk mtype="seg" mid="13">Když otevřete sestavu, obvykle se zobrazí stránka, na které nastavíte různé možnosti a filtry, které určují, co se má do sestavy zahrnout.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>This page is called the report request page.</source><seg-source><mrk mtype="seg" mid="14">This page is called the report request page.</mrk></seg-source><target><mrk mtype="seg" mid="14">Tato stránka se nazývá dialog sestavy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>For example, the report request page lets you create a report for a specific customer, a certain date range, or sort the order of information in the report.</source><seg-source><mrk mtype="seg" mid="15">For example, the report request page lets you create a report for a specific customer, a certain date range, or sort the order of information in the report.</mrk></seg-source><target><mrk mtype="seg" mid="15">Stránka dialogu sestavy například umožňuje vytvořit sestavu pro konkrétního zákazníka, určité časové období, nebo uspořádat pořadí informací v sestavě.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Here is an example of a report request page:</source><seg-source><mrk mtype="seg" mid="16">Here is an example of a report request page:</mrk></seg-source><target><mrk mtype="seg" mid="16">Zde je příklad stránky dialogu sestavy:</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">![</bpt>Report options<ept id="p1">]</ept><bpt id="p2">(media/report_options.png "</bpt>Report options<ept id="p2">")</ept></source><seg-source><mrk mtype="seg" mid="17"><bpt id="p1">![</bpt>Report options<ept id="p1">]</ept><bpt id="p2">(media/report_options.png "</bpt>Report options<ept id="p2">")</ept></mrk></seg-source><target><mrk mtype="seg" mid="17"><bpt id="p1">![</bpt>Možnosti sestavy<ept id="p1">]</ept><bpt id="p2">(media/report_options.png "</bpt>Možnosti sestavy<ept id="p2">")</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Show results<ept id="p1">**</ept> section on a request page provides a generic filtering capability for reports.</source><seg-source><mrk mtype="seg" mid="18">The <bpt id="p1">**</bpt>Show results<ept id="p1">**</ept> section on a request page provides a generic filtering capability for reports.</mrk></seg-source><target><mrk mtype="seg" mid="18">Oddíl <bpt id="p1">**</bpt>Zobrazit výsledky<ept id="p1">**</ept> na stránce dialogu poskytuje obecnou možnost filtrování sestav.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>These filters are optional.</source><seg-source><mrk mtype="seg" mid="19">These filters are optional.</mrk></seg-source><target><mrk mtype="seg" mid="19">Tyto filtry jsou volitelné.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Some reports will ignore any such filters, meaning that no matter what filter is set in the <bpt id="p1">**</bpt>Show results<ept id="p1">**</ept> section, the output of the report is the same.</source><seg-source><mrk mtype="seg" mid="20">Some reports will ignore any such filters, meaning that no matter what filter is set in the <bpt id="p1">**</bpt>Show results<ept id="p1">**</ept> section, the output of the report is the same.</mrk></seg-source><target><mrk mtype="seg" mid="20">Některé sestavy budou ignorovat všechny takové filtry, což znamená, že bez ohledu na to, jaký filtr je nastaven v části <bpt id="p1">**</bpt>Zobrazit výsledky<ept id="p1">**</ept>, je výstup sestavy stejný.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>It is not possible to provide a list of which fields are ignored in which reports, so you will have to experiment with the filters when using them.</source><seg-source><mrk mtype="seg" mid="21">It is not possible to provide a list of which fields are ignored in which reports, so you will have to experiment with the filters when using them.</mrk></seg-source><target><mrk mtype="seg" mid="21">Není možné poskytnout seznam obsahující informace o tom, která pole jsou ignorována v kterých sestavách, takže při jejich užívání s nimi budete muset experimentovat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Example<ept id="p1">**</ept>: When you use the <bpt id="p2">**</bpt>Create Reminders<ept id="p2">**</ept> batch job, a filter for the <bpt id="p3">**</bpt>Customer Ledger Entries<ept id="p3">**</ept> field of <bpt id="p4">**</bpt>Last Issued Reminder Level<ept id="p4">**</ept> will be ignored because filters are fixed for that batch job.</source><seg-source><mrk mtype="seg" mid="22"><bpt id="p1">**</bpt>Example<ept id="p1">**</ept>:</mrk> <mrk mtype="seg" mid="23">When you use the <bpt id="p2">**</bpt>Create Reminders<ept id="p2">**</ept> batch job, a filter for the <bpt id="p3">**</bpt>Customer Ledger Entries<ept id="p3">**</ept> field of <bpt id="p4">**</bpt>Last Issued Reminder Level<ept id="p4">**</ept> will be ignored because filters are fixed for that batch job.</mrk></seg-source><target><mrk mtype="seg" mid="22"><bpt id="p1">**</bpt>Příklad<ept id="p1">**</ept>:</mrk> <mrk mtype="seg" mid="23">Při použití dávkové úlohy <bpt id="p2">**</bpt>Vytvořit upomínky<ept id="p2">**</ept> bude filtr pro pole <bpt id="p3">**</bpt>Položky zákazníka<ept id="p3">**</ept> <bpt id="p4">**</bpt>Úrovně poslední vydané upomínky<ept id="p4">**</ept> ignorován, protože filtry jsou pro danou dávkovou úlohu pevně stanoveny.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a name="SavedSettings"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept>Using Saved Settings</source><seg-source><bpt id="p1">&lt;a name="SavedSettings"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept><mrk mtype="seg" mid="24">Using Saved Settings</mrk></seg-source><target><bpt id="p1">&lt;a name="SavedSettings"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept><mrk mtype="seg" mid="24">Použití uloženého nastavení</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>With some reports, depending on how they are designed, the report page might include the <bpt id="p1">**</bpt>Saved Settings<ept id="p1">**</ept> section that contains one or more entries in the <bpt id="p2">**</bpt>Use default value from<ept id="p2">**</ept> box.</source><seg-source><mrk mtype="seg" mid="25">With some reports, depending on how they are designed, the report page might include the <bpt id="p1">**</bpt>Saved Settings<ept id="p1">**</ept> section that contains one or more entries in the <bpt id="p2">**</bpt>Use default value from<ept id="p2">**</ept> box.</mrk></seg-source><target><mrk mtype="seg" mid="25">U některých sestav, podle toho, jak jsou navrženy, může stránka sestavy zahrnovat sekci <bpt id="p1">**</bpt>Uložená nastavení<ept id="p1">**</ept>, která obsahuje jeden nebo více záznamů v poli <bpt id="p2">**</bpt>Použít výchozí hodnoty z<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>The entries in this box are called <bpt id="p1">*</bpt>saved settings<ept id="p1">*</ept>.</source><seg-source><mrk mtype="seg" mid="26">The entries in this box are called <bpt id="p1">*</bpt>saved settings<ept id="p1">*</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="26">Položky v tomto poli se nazývají <bpt id="p1">*</bpt>uložená nastavení<ept id="p1">*</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>A saved setting is basically a predefined group of options and filters that you can apply to the report before previewing or sending the report to a file.</source><seg-source><mrk mtype="seg" mid="27">A saved setting is basically a predefined group of options and filters that you can apply to the report before previewing or sending the report to a file.</mrk></seg-source><target><mrk mtype="seg" mid="27">Uložené nastavení je v podstatě předdefinovaná skupina možností a filtrů, které můžete použít pro sestavu před zobrazením náhledu nebo jejím odesláním do souboru.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>The saved settings entry called <bpt id="p1">**</bpt>Last used options and filters<ept id="p1">**</ept> is always available.</source><seg-source><mrk mtype="seg" mid="28">The saved settings entry called <bpt id="p1">**</bpt>Last used options and filters<ept id="p1">**</ept> is always available.</mrk></seg-source><target><mrk mtype="seg" mid="28">Uložená položka nastavení s názvem <bpt id="p1">**</bpt>Naposledy použité možnosti a filtry<ept id="p1">**</ept> je vždy k dispozici.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>This entry sets the report to use options and filters that were used the last time you looked at the report.</source><seg-source><mrk mtype="seg" mid="29">This entry sets the report to use options and filters that were used the last time you looked at the report.</mrk></seg-source><target><mrk mtype="seg" mid="29">Tato položka nastaví sestavu tak, aby použila možnosti a filtry, které byly použity při posledním prohlížení sestavy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Using saved settings is a fast and reliable way to consistently generate reports that contain the correct data.</source><seg-source><mrk mtype="seg" mid="30">Using saved settings is a fast and reliable way to consistently generate reports that contain the correct data.</mrk></seg-source><target><mrk mtype="seg" mid="30">Použití uložených nastavení je rychlý a spolehlivý způsob, jak důsledně generovat sestavy obsahující správná data.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>After you set the <bpt id="p1">**</bpt>Use default value from<ept id="p1">**</ept> box to a saved settings entry, you can change any of the options and filters before previewing or saving the report.</source><seg-source><mrk mtype="seg" mid="31">After you set the <bpt id="p1">**</bpt>Use default value from<ept id="p1">**</ept> box to a saved settings entry, you can change any of the options and filters before previewing or saving the report.</mrk></seg-source><target><mrk mtype="seg" mid="31">Po nastavení pole <bpt id="p1">**</bpt>Použít výchozí hodnoty z<ept id="p1">**</ept> v položce uloženého nastavení můžete před zobrazením náhledu nebo uložením sestavy změnit libovolné možnosti a filtry.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>The changes that you make will not be saved to the saved settings entry you selected, but they will be saved to the <bpt id="p1">**</bpt>Last used options and filters<ept id="p1">**</ept>.</source><seg-source><mrk mtype="seg" mid="32">The changes that you make will not be saved to the saved settings entry you selected, but they will be saved to the <bpt id="p1">**</bpt>Last used options and filters<ept id="p1">**</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="32">Provedené změny nebudou uloženy do vybrané položky uložených nastavení, ale do <bpt id="p1">**</bpt>Naposledy použitých možností a filtrů<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>If you are an administrator, you can create and manage the saved settings for reports for all users.</source><seg-source><mrk mtype="seg" mid="33">If you are an administrator, you can create and manage the saved settings for reports for all users.</mrk></seg-source><target><mrk mtype="seg" mid="33">Pokud jste administrátor, můžete vytvořit a spravovat uložená nastavení sestav pro všechny uživatele.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Managing Saved Settings on Reports<ept id="p1">](reports-saving-reusing-settings.md)</ept>.</source><seg-source><mrk mtype="seg" mid="34">For more information, see <bpt id="p1">[</bpt>Managing Saved Settings on Reports<ept id="p1">](reports-saving-reusing-settings.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="34">Pro další informace se podívejte na <bpt id="p1">[</bpt> Správa uložených nastavení sestav<ept id="p1">](reports-saving-reusing-settings.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Setting Options and Filters</source><seg-source><mrk mtype="seg" mid="35">Setting Options and Filters</mrk></seg-source><target><mrk mtype="seg" mid="35">Nastavení možností a filtrů</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>If you want to further limit or pin-point the data that is included in a report, you can set additional options and filters.</source><seg-source><mrk mtype="seg" mid="36">If you want to further limit or pin-point the data that is included in a report, you can set additional options and filters.</mrk></seg-source><target><mrk mtype="seg" mid="36">Pokud chcete dále omezit nebo přesně určit data, která jsou obsažena v sestavě, můžete nastavit další možnosti a filtry.</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Filters enable you display data based on a specific criteria.</source><seg-source><mrk mtype="seg" mid="37">Filters enable you display data based on a specific criteria.</mrk></seg-source><target><mrk mtype="seg" mid="37">Filtry umožňují zobrazit data na základě konkrétních kritérií.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Filters are grouped by the entity to which they belong, such as <bpt id="p1">**</bpt>Customer<ept id="p1">**</ept> in the illustration above.</source><seg-source><mrk mtype="seg" mid="38">Filters are grouped by the entity to which they belong, such as <bpt id="p1">**</bpt>Customer<ept id="p1">**</ept> in the illustration above.</mrk></seg-source><target><mrk mtype="seg" mid="38">Filtry jsou seskupeny podle celku, do kterého patří, jako je například <bpt id="p1">**</bpt>Zákazník<ept id="p1">**</ept> na obrázku výše.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>You define a filter by setting the <bpt id="p1">**</bpt>Where<ept id="p1">**</ept> box to the field that you want to filter on, and then adding the criteria in the <bpt id="p2">**</bpt>is:<ept id="p2">**</ept> box.</source><seg-source><mrk mtype="seg" mid="39">You define a filter by setting the <bpt id="p1">**</bpt>Where<ept id="p1">**</ept> box to the field that you want to filter on, and then adding the criteria in the <bpt id="p2">**</bpt>is:<ept id="p2">**</ept> box.</mrk></seg-source><target><mrk mtype="seg" mid="39">Filtr definujete nastavením pole <bpt id="p1">**</bpt>Kde<ept id="p1">**</ept> v poli, na kterém chcete filtrovat, a přidáním kritérií do pole <bpt id="p2">**</bpt>je:<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>For example, in the illustration above, there is a single filter that will create report for the customer whose <bpt id="p1">**</bpt>No.<ept id="p1">**</ept></source><seg-source><mrk mtype="seg" mid="40">For example, in the illustration above, there is a single filter that will create report for the customer whose <bpt id="p1">**</bpt>No.<ept id="p1">**</ept></mrk></seg-source><target><mrk mtype="seg" mid="40">Například na obrázku výše je jediný filtr, který vytvoří sestavu pro zákazníka, jehož <bpt id="p1">**</bpt>Číslo<ept id="p1">**</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>is equal to <bpt id="p1">**</bpt>01121212<ept id="p1">**</ept>.</source><seg-source><mrk mtype="seg" mid="41">is equal to <bpt id="p1">**</bpt>01121212<ept id="p1">**</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="41">je rovno <bpt id="p1">**</bpt>01121212<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>You can add more filters by setting the <bpt id="p1">**</bpt>Add<ept id="p1">**</ept> boxes.</source><seg-source><mrk mtype="seg" mid="42">You can add more filters by setting the <bpt id="p1">**</bpt>Add<ept id="p1">**</ept> boxes.</mrk></seg-source><target><mrk mtype="seg" mid="42">Další filtry můžete přidat nastavením polí <bpt id="p1">**</bpt>Přidat<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>When you have more than one filter, only results that meet the criteria for all filters will be included in the report.</source><seg-source><mrk mtype="seg" mid="43">When you have more than one filter, only results that meet the criteria for all filters will be included in the report.</mrk></seg-source><target><mrk mtype="seg" mid="43">Pokud máte více než jeden filtr, budou do přehledu zahrnuty pouze výsledky, které splňují kritéria pro všechny filtry.</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Depending on what type field you are filtering, you can specify the filter criteria to look for an exact match, partial match, range of values, and more.</source><seg-source><mrk mtype="seg" mid="44">Depending on what type field you are filtering, you can specify the filter criteria to look for an exact match, partial match, range of values, and more.</mrk></seg-source><target><mrk mtype="seg" mid="44">V závislosti na typu pole, které filtrujete, můžete určit kritéria filtru, která budou hledat přesnou shodu, částečnou shodu, rozsah hodnot a další.</mrk></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>For help about how to set up filters, see:</source><seg-source><mrk mtype="seg" mid="45">For help about how to set up filters, see:</mrk></seg-source><target><mrk mtype="seg" mid="45">Další informace o nastavení filtrů naleznete v části:</mrk></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Filtering<ept id="p1">](ui-enter-criteria-filters.md#FilterCriteria)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="46">Filtering</mrk><ept id="p1">](ui-enter-criteria-filters.md#FilterCriteria)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="46">Filtrování</mrk><ept id="p1">](ui-enter-criteria-filters.md#FilterCriteria)</ept></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with Calendar Dates and Times<ept id="p1">](ui-enter-date-ranges.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="47">Working with Calendar Dates and Times</mrk><ept id="p1">](ui-enter-date-ranges.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="47">Práce s Kalendářními daty a Časy</mrk><ept id="p1">](ui-enter-date-ranges.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Previewing a Report</source><seg-source><mrk mtype="seg" mid="48">Previewing a Report</mrk></seg-source><target><mrk mtype="seg" mid="48">Náhled sestavy</mrk></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Choose <bpt id="p1">**</bpt>Preview<ept id="p1">**</ept> to see the report in the Internet browser.</source><seg-source><mrk mtype="seg" mid="49">Choose <bpt id="p1">**</bpt>Preview<ept id="p1">**</ept> to see the report in the Internet browser.</mrk></seg-source><target><mrk mtype="seg" mid="49">Chcete-li zobrazit sestavu v internetovém prohlížeči, zvolte <bpt id="p1">**</bpt>Náhled<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Point to an area of the report to show the menu bar.</source><seg-source><mrk mtype="seg" mid="50">Point to an area of the report to show the menu bar.</mrk></seg-source><target><mrk mtype="seg" mid="50">Chcete-li zobrazit řádek nabídek, najeďte myší na sestavu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">![</bpt>Report preview toolbar<ept id="p1">]</ept><bpt id="p2">(media/report_viewer.png "</bpt>Report preview toolbar<ept id="p2">")</ept></source><seg-source><mrk mtype="seg" mid="51"><bpt id="p1">![</bpt>Report preview toolbar<ept id="p1">]</ept><bpt id="p2">(media/report_viewer.png "</bpt>Report preview toolbar<ept id="p2">")</ept></mrk></seg-source><target><mrk mtype="seg" mid="51"><bpt id="p1">![</bpt>Panel nástrojů náhledu sestavy<ept id="p1">]</ept><bpt id="p2">(media/report_viewer.png "</bpt>Panel nástrojů náhledu sestavy<ept id="p2">")</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Use the menu bar to:</source><seg-source><mrk mtype="seg" mid="52">Use the menu bar to:</mrk></seg-source><target><mrk mtype="seg" mid="52">Pomocí řádku nabídek můžete:</mrk></target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Move through pages</source><seg-source><mrk mtype="seg" mid="53">Move through pages</mrk></seg-source><target><mrk mtype="seg" mid="53">Procházet stránkami</mrk></target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>Zoom in and out</source><seg-source><mrk mtype="seg" mid="54">Zoom in and out</mrk></seg-source><target><mrk mtype="seg" mid="54">Přiblížit a oddálit</mrk></target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Resize to fit the page</source><seg-source><mrk mtype="seg" mid="55">Resize to fit the page</mrk></seg-source><target><mrk mtype="seg" mid="55">Změnit velikost, aby se obsah vešel na stránku</mrk></target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Select text</source><seg-source><mrk mtype="seg" mid="56">Select text</mrk></seg-source><target><mrk mtype="seg" mid="56">Označit text</mrk></target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>You can copy text from a report, and then paste it somewhere else, like a page in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> or Microsoft Word.</source><seg-source><mrk mtype="seg" mid="57">You can copy text from a report, and then paste it somewhere else, like a page in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> or Microsoft Word.</mrk></seg-source><target><mrk mtype="seg" mid="57">Můžete zkopírovat text ze sestavy a poté ho vložit někam jinam, například do stránky v <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> nebo do aplikace Microsoft Word.</mrk></target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>Using a mouse, for example, you press and hold where you want to start, and then move the mouse to select one or more words, sentences, or paragraphs.</source><seg-source><mrk mtype="seg" mid="58">Using a mouse, for example, you press and hold where you want to start, and then move the mouse to select one or more words, sentences, or paragraphs.</mrk></seg-source><target><mrk mtype="seg" mid="58">Pomocí myši stiskněte a přidržte místo, kde chcete začít, a potom pohybem myši vyberete jedno nebo více slov, vět nebo odstavců.</mrk></target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>You can then press the right mouse button, and select <bpt id="p1">**</bpt>Copy<ept id="p1">**</ept>.</source><seg-source><mrk mtype="seg" mid="59">You can then press the right mouse button, and select <bpt id="p1">**</bpt>Copy<ept id="p1">**</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="59">Poté můžete stisknout pravé tlačítko myši a vybrat <bpt id="p1">**</bpt>Kopírovat<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>You can the paste the selected text where ever you want it.</source><seg-source><mrk mtype="seg" mid="60">You can the paste the selected text where ever you want it.</mrk></seg-source><target><mrk mtype="seg" mid="60">Vybraný text můžete vložit kamkoli budete chtít.</mrk></target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>Pan the document</source><seg-source><mrk mtype="seg" mid="61">Pan the document</mrk></seg-source><target><mrk mtype="seg" mid="61">Posun dokumentu</mrk></target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>You can move the visible area of the report in any direction so you can view other areas or the report.</source><seg-source><mrk mtype="seg" mid="62">You can move the visible area of the report in any direction so you can view other areas or the report.</mrk></seg-source><target><mrk mtype="seg" mid="62">Viditelnou část sestavy můžete přesunout libovolným směrem, abyste si mohli prohlédnout jiné oblasti nebo sestavu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>This is helpful when you have zoomed in to see details.</source><seg-source><mrk mtype="seg" mid="63">This is helpful when you have zoomed in to see details.</mrk></seg-source><target><mrk mtype="seg" mid="63">To je užitečné, pokud jste přiblížili zobrazení, aby jste viděli podrobnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>Using your mouse, for example, press and hold the mouse button anywhere in the report preview, and then move your mouse.</source><seg-source><mrk mtype="seg" mid="64">Using your mouse, for example, press and hold the mouse button anywhere in the report preview, and then move your mouse.</mrk></seg-source><target><mrk mtype="seg" mid="64">Pomocí myši stiskněte a podržte tlačítko myši kdekoli v náhledu zprávy a poté pohněte myší.</mrk></target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>Download to a PDF file on your computer or network.</source><seg-source><mrk mtype="seg" mid="65">Download to a PDF file on your computer or network.</mrk></seg-source><target><mrk mtype="seg" mid="65">Stahujte do souboru PDF v počítači nebo síti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>Print</source><seg-source><mrk mtype="seg" mid="66">Print</mrk></seg-source><target><mrk mtype="seg" mid="66">Tisk</mrk></target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>Saving a Report</source><seg-source><mrk mtype="seg" mid="67">Saving a Report</mrk></seg-source><target><mrk mtype="seg" mid="67">Uložení sestavy</mrk></target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>You can save a report to a PDF document, Microsoft Word document, or Microsoft Excel document by choosing <bpt id="p1">**</bpt>Send to<ept id="p1">**</ept>, and then making your selection.</source><seg-source><mrk mtype="seg" mid="68">You can save a report to a PDF document, Microsoft Word document, or Microsoft Excel document by choosing <bpt id="p1">**</bpt>Send to<ept id="p1">**</ept>, and then making your selection.</mrk></seg-source><target><mrk mtype="seg" mid="68">Sestavu můžete uložit do dokumentu PDF, dokumentu Microsoft Word nebo dokumentu Microsoft Excel tak, že vyberete možnost <bpt id="p1">**</bpt>Odeslat do<ept id="p1">**</ept>  a poté provedete výběr.</mrk></target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a name="ScheduleReport"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> Scheduling a Report to Run</source><seg-source><bpt id="p1">&lt;a name="ScheduleReport"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> <mrk mtype="seg" mid="69">Scheduling a Report to Run</mrk></seg-source><target><bpt id="p1">&lt;a name="ScheduleReport"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> <mrk mtype="seg" mid="69">Plánování spuštění sestavy</mrk></target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>You can schedule a report to run at a specific date and time.</source><seg-source><mrk mtype="seg" mid="70">You can schedule a report to run at a specific date and time.</mrk></seg-source><target><mrk mtype="seg" mid="70">Můžete naplánovat spuštění sestavy v konkrétní datu a čase.</mrk></target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>Scheduled reports are entered in the job queue and processed at the scheduled time, similar to other jobs.</source><seg-source><mrk mtype="seg" mid="71">Scheduled reports are entered in the job queue and processed at the scheduled time, similar to other jobs.</mrk></seg-source><target><mrk mtype="seg" mid="71">Naplánované sestavy se zadávají do fronty úloh a zpracovávají se v naplánovaném čase, podobně jako u jiných úloh.</mrk></target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>You can choose to save the processed report to a file, such as an Excel, Word, or PDF, print it to a selected printer, or process the report only.</source><seg-source><mrk mtype="seg" mid="72">You can choose to save the processed report to a file, such as an Excel, Word, or PDF, print it to a selected printer, or process the report only.</mrk></seg-source><target><mrk mtype="seg" mid="72">Můžete si vybrat, zda chcete sestavu pouze zpracovat, nebo zpracovanou sestavu uložit do souboru, jako Excel, Word nebo PDF, případně ji vytisknout na vybranou tiskárnu,</mrk></target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>If you choose to save the report to a file, then the processed report is sent to the <bpt id="p1">**</bpt>Report Inbox<ept id="p1">**</ept> area on your Role Center, where you can view it.</source><seg-source><mrk mtype="seg" mid="73">If you choose to save the report to a file, then the processed report is sent to the <bpt id="p1">**</bpt>Report Inbox<ept id="p1">**</ept> area on your Role Center, where you can view it.</mrk></seg-source><target><mrk mtype="seg" mid="73">Pokud se rozhodnete uložit sestavu do souboru, bude zpracovaná sestava odeslána do <bpt id="p1">**</bpt>Schránky sestav<ept id="p1">**</ept> ve vašem Centru rolí, kde si ji můžete prohlédnout.</mrk></target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>You can schedule a report when you open a report.</source><seg-source><mrk mtype="seg" mid="74">You can schedule a report when you open a report.</mrk></seg-source><target><mrk mtype="seg" mid="74">Můžete naplánovat sestavu při jejím otevření.</mrk></target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>You choose the <bpt id="p1">**</bpt>Schedule<ept id="p1">**</ept> action and then you enter information such as printer, and time and date.</source><seg-source><mrk mtype="seg" mid="75">You choose the <bpt id="p1">**</bpt>Schedule<ept id="p1">**</ept> action and then you enter information such as printer, and time and date.</mrk></seg-source><target><mrk mtype="seg" mid="75">Zvolíte akci <bpt id="p1">**</bpt>Plánovat<ept id="p1">**</ept> a potom zadáte informace, jako tiskárna, čas a datum.</mrk></target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>The report is then added to the job queue and will be run at the specified time.</source><seg-source><mrk mtype="seg" mid="76">The report is then added to the job queue and will be run at the specified time.</mrk></seg-source><target><mrk mtype="seg" mid="76">Sestava je poté přidána do fronty úloh a bude spuštěna ve specifikovaném čase.</mrk></target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>When the report is processed, the item will be removed from the job queue.</source><seg-source><mrk mtype="seg" mid="77">When the report is processed, the item will be removed from the job queue.</mrk></seg-source><target><mrk mtype="seg" mid="77">Po zpracování sestavy bude položka odstraněna z fronty úloh.</mrk></target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>If you saved the processed report to a file, it will be available in the <bpt id="p1">**</bpt>Report Inbox<ept id="p1">**</ept> area.</source><seg-source><mrk mtype="seg" mid="78">If you saved the processed report to a file, it will be available in the <bpt id="p1">**</bpt>Report Inbox<ept id="p1">**</ept> area.</mrk></seg-source><target><mrk mtype="seg" mid="78">Pokud jste zpracovanou sestavu uložili do souboru, bude k dispozici v oblasti <bpt id="p1">**</bpt>Schránka sestav<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a name="PrintReport"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept>Printing a Report</source><seg-source><bpt id="p1">&lt;a name="PrintReport"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept><mrk mtype="seg" mid="79">Printing a Report</mrk></seg-source><target><bpt id="p1">&lt;a name="PrintReport"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept><mrk mtype="seg" mid="79">Tisk sestavy</mrk></target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>You can print a report from the <bpt id="p1">**</bpt>Print<ept id="p1">**</ept> button on the options page that appears when you open the report or from the menu bar in Preview.</source><seg-source><mrk mtype="seg" mid="80">You can print a report from the <bpt id="p1">**</bpt>Print<ept id="p1">**</ept> button on the options page that appears when you open the report or from the menu bar in Preview.</mrk></seg-source><target><mrk mtype="seg" mid="80">Sestavu můžete vytisknout tlačítkem <bpt id="p1">**</bpt>Tisk<ept id="p1">**</ept> na stránce možností, která se zobrazí při otevření sestavy, nebo z řádku nabídek v Náhledu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>Changing the layout and look of a report</source><seg-source><mrk mtype="seg" mid="81">Changing the layout and look of a report</mrk></seg-source><target><mrk mtype="seg" mid="81">Změna rozložení a vzhledu sestavy</mrk></target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>A report layout controls what is shown on a report, how it is arranged, and how it is styled.</source><seg-source><mrk mtype="seg" mid="82">A report layout controls what is shown on a report, how it is arranged, and how it is styled.</mrk></seg-source><target><mrk mtype="seg" mid="82">Rozložení sestavy řídí, co se v sestavě zobrazí, jak je uspořádána a jak je stylizována.</mrk></target>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>If you want to switch to a different layout, see <bpt id="p1">[</bpt>Change Which Layout is Currently Used on a Report<ept id="p1">](ui-how-change-layout-currently-used-report.md)</ept>.</source><seg-source><mrk mtype="seg" mid="83">If you want to switch to a different layout, see <bpt id="p1">[</bpt>Change Which Layout is Currently Used on a Report<ept id="p1">](ui-how-change-layout-currently-used-report.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="83">Pokud chcete přepnout na jiné rozložení, navštivte <bpt id="p1">[</bpt>Změna aktuálně používaného rozložení sestavy<ept id="p1">](ui-how-change-layout-currently-used-report.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>Or, if you want to customize your own report layout, see <bpt id="p1">[</bpt>Create and Modify a Custom Report Layout<ept id="p1">](ui-how-create-custom-report-layout.md)</ept>.</source><seg-source><mrk mtype="seg" mid="84">Or, if you want to customize your own report layout, see <bpt id="p1">[</bpt>Create and Modify a Custom Report Layout<ept id="p1">](ui-how-create-custom-report-layout.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="84">Pokud si chcete přizpůsobit své vlastní rozložení sestavy, navštivte <bpt id="p1">[</bpt>Vytvoření a úprava vlastního rozložení sestavy<ept id="p1">](ui-how-create-custom-report-layout.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="85">See Also</mrk></seg-source><target><mrk mtype="seg" mid="85">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Specify Printer Selection for Reports<ept id="p1">](ui-specify-printer-selection-reports.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="86">Specify Printer Selection for Reports</mrk><ept id="p1">](ui-specify-printer-selection-reports.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="86">Určete výběr tiskárny pro sestavy</mrk><ept id="p1">](ui-specify-printer-selection-reports.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Managing Report and Document Layouts<ept id="p1">](ui-manage-report-layouts.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="87">Managing Report and Document Layouts</mrk><ept id="p1">](ui-manage-report-layouts.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="87">Správa rozložení Sestav a Dokumentů</mrk><ept id="p1">](ui-manage-report-layouts.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="88">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="88">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

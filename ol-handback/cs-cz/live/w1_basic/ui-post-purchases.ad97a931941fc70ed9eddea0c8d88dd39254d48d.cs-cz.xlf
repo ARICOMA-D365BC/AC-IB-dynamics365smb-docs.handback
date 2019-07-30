@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="ui-post-purchases.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-435fba6" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5f3c709e6e2588fe7cf409e44291d331acc09432</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\ui-post-purchases.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">bc9b30520a5507bf44199d77708aaa9a75a1c1a7</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">aa36b9399a028c73fd8e24e6be9b1161698fe61e</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Understanding How To Post Purchase Documents | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Understanding How To Post Purchase Documents | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Porozumění způsobu účtování nákupních dokladů | Microsoft Docs </mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Learn about the different posting functions to post purchase documents.</source><seg-source><mrk mtype="seg" mid="2">Learn about the different posting functions to post purchase documents.</mrk></seg-source><target><mrk mtype="seg" mid="2">Zjistěte více o různých funkcích účtování pro účtování nákupních dokladů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Posting Purchases</source><seg-source><mrk mtype="seg" mid="3">Posting Purchases</mrk></seg-source><target><mrk mtype="seg" mid="3">Účtování Nákupů</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Posting group<ept id="p1">**</ept> on a purchase document, you can choose between the following posting functions:</source><seg-source><mrk mtype="seg" mid="4">In the <bpt id="p1">**</bpt>Posting group<ept id="p1">**</ept> on a purchase document, you can choose between the following posting functions:</mrk></seg-source><target><mrk mtype="seg" mid="4">V <bpt id="p1">**</bpt>Účto skupina<ept id="p1">**</ept> na dokladu o nákupu si můžete vybrat z následujících funkcí účtování:</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Post<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="5">Post</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="5">Účtovat</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Preview Posting<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="6">Preview Posting</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="6">Náhled Účtování</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Post and Print<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="7">Post and Print</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="7">Účtovat a Vytisknout</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Test Report<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="8">Test Report</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="8">Testovací Sestava</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Post Batch<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="9">Post Batch</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="9">Dávkové Účtování</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>When you have completed all the lines and entered all the information on the purchase order, you can post it, that is, create a receipt and an invoice.</source><seg-source><mrk mtype="seg" mid="10">When you have completed all the lines and entered all the information on the purchase order, you can post it, that is, create a receipt and an invoice.</mrk></seg-source><target><mrk mtype="seg" mid="10">Když vyplníte všechny řádky a zadáte všechny informace o nákupní objednávce, můžete ji zaúčtovat, tj. vytvořit příjemku a fakturu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>When a purchase order is posted, the vendor's account, the general ledger, and the item ledger entries are updated.</source><seg-source><mrk mtype="seg" mid="11">When a purchase order is posted, the vendor's account, the general ledger, and the item ledger entries are updated.</mrk></seg-source><target><mrk mtype="seg" mid="11">Po zaúčtování nákupní objednávky se aktualizuje účet dodavatele, hlavní kniha a položky zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>For each purchase order, a purchase entry is created in the <bpt id="p1">**</bpt>G/L Entry<ept id="p1">**</ept> table.</source><seg-source><mrk mtype="seg" mid="12">For each purchase order, a purchase entry is created in the <bpt id="p1">**</bpt>G/L Entry<ept id="p1">**</ept> table.</mrk></seg-source><target><mrk mtype="seg" mid="12">Pro každou nákupní objednávku se vytvoří nákupní položka v tabulce <bpt id="p1">**</bpt>Věcná položka<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>An entry is also created in the vendor's account in the <bpt id="p1">**</bpt>Vendor Ledger Entry<ept id="p1">**</ept> table and a G/L entry is created in the relevant payables account.</source><seg-source><mrk mtype="seg" mid="13">An entry is also created in the vendor's account in the <bpt id="p1">**</bpt>Vendor Ledger Entry<ept id="p1">**</ept> table and a G/L entry is created in the relevant payables account.</mrk></seg-source><target><mrk mtype="seg" mid="13">Položka se také vytvoří na účtu dodavatele v tabulce <bpt id="p1">**</bpt>Položka dodavatele<ept id="p1">**</ept> a věcná položka se vytvoří na příslušném účtu závazků.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>In addition, posting the order may result in a VAT entry and a G/L entry for the discount amount.</source><seg-source><mrk mtype="seg" mid="14">In addition, posting the order may result in a VAT entry and a G/L entry for the discount amount.</mrk></seg-source><target><mrk mtype="seg" mid="14">Kromě toho může naúčtování objednávky vést k DPH položce a věcné položce pro částku slevy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Whether an entry for the discount is posted depends on the contents of the <bpt id="p1">**</bpt>Discount Posting<ept id="p1">**</ept> field on the <bpt id="p2">**</bpt>Purchases &amp; Payables Setup<ept id="p2">**</ept> page.</source><seg-source><mrk mtype="seg" mid="15">Whether an entry for the discount is posted depends on the contents of the <bpt id="p1">**</bpt>Discount Posting<ept id="p1">**</ept> field on the <bpt id="p2">**</bpt>Purchases &amp; Payables Setup<ept id="p2">**</ept> page.</mrk></seg-source><target><mrk mtype="seg" mid="15">To jestli je položka slevy naúčtovaná, záleží na obsahu pole <bpt id="p1">**</bpt>Účtování slevy<ept id="p1">**</ept> na stránce <bpt id="p2">**</bpt>Nastavení nákupu a závazků<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>For each purchase order line, an item ledger entry will be created in the <bpt id="p1">**</bpt>Item Ledger Entry<ept id="p1">**</ept> table (if the purchase lines contain item numbers) or a G/L entry will be created in the <bpt id="p2">**</bpt>G/L Entry<ept id="p2">**</ept> table (if the purchase lines contain a G/L account).</source><seg-source><mrk mtype="seg" mid="16">For each purchase order line, an item ledger entry will be created in the <bpt id="p1">**</bpt>Item Ledger Entry<ept id="p1">**</ept> table (if the purchase lines contain item numbers) or a G/L entry will be created in the <bpt id="p2">**</bpt>G/L Entry<ept id="p2">**</ept> table (if the purchase lines contain a G/L account).</mrk></seg-source><target><mrk mtype="seg" mid="16">Pro každý řádek nákupní objednávky se vytvoří položka zboží v tabulce <bpt id="p1">**</bpt>Položka zboží<ept id="p1">**</ept> (pokud nákupní řádky obsahují čísla položek) nebo bude vytvořená věcná položka v tabulce <bpt id="p2">**</bpt>Věcná položka<ept id="p2">**</ept> (pokud nákupní řádky obsahují finanční účet).</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>In addition, purchase orders are always recorded in the <bpt id="p1">**</bpt>Purch. Recpt. Header<ept id="p1">**</ept> and <bpt id="p2">**</bpt>Purch. Inv. Header<ept id="p2">**</ept> tables.</source><seg-source><mrk mtype="seg" mid="17">In addition, purchase orders are always recorded in the <bpt id="p1">**</bpt>Purch.</mrk> <mrk mtype="seg" mid="18">Recpt.</mrk> <mrk mtype="seg" mid="19">Header<ept id="p1">**</ept> and <bpt id="p2">**</bpt>Purch.</mrk> <mrk mtype="seg" mid="20">Inv.</mrk> <mrk mtype="seg" mid="21">Header<ept id="p2">**</ept> tables.</mrk></seg-source><target><mrk mtype="seg" mid="17">Kromě toho jsou nákupní objednávky vždy zaznamenány v <bpt id="p1">**</bpt>Nák.</mrk> <mrk mtype="seg" mid="18">Příjemka</mrk> <mrk mtype="seg" mid="19">Záhlaví<ept id="p1">**</ept> a <bpt id="p2">**</bpt>Nák.</mrk> <mrk mtype="seg" mid="20">Faktura</mrk> <mrk mtype="seg" mid="21">Tabulky Záhlaví<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Before you start to post, you can print a test report that contains all the information in the purchase order and indicates any errors there.</source><seg-source><mrk mtype="seg" mid="22">Before you start to post, you can print a test report that contains all the information in the purchase order and indicates any errors there.</mrk></seg-source><target><mrk mtype="seg" mid="22">Než začnete účtovat, můžete si vytisknout testovací sestavu, která obsahuje všechny informace o nákupní objednávce a naznačuje případné chyby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>To print the report, choose <bpt id="p1">**</bpt>Posting<ept id="p1">**</ept>, and then choose <bpt id="p2">**</bpt>Test Report<ept id="p2">**</ept>.</source><seg-source><mrk mtype="seg" mid="23">To print the report, choose <bpt id="p1">**</bpt>Posting<ept id="p1">**</ept>, and then choose <bpt id="p2">**</bpt>Test Report<ept id="p2">**</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="23">Chcete-li sestavu vytisknout, zvolte <bpt id="p1">**</bpt>Zaúčtování<ept id="p1">**</ept>, a poté zvolte <bpt id="p2">**</bpt>Testovací sestava<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>When you post an order, you can create both a receipt and an invoice.</source><seg-source><mrk mtype="seg" mid="24">When you post an order, you can create both a receipt and an invoice.</mrk></seg-source><target><mrk mtype="seg" mid="24">Když zaúčtujete objednávku, můžete vytvořit zároveň příjemku i fakturu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>These can be done simultaneously or independently.</source><seg-source><mrk mtype="seg" mid="25">These can be done simultaneously or independently.</mrk></seg-source><target><mrk mtype="seg" mid="25">To lze provést současně nebo nezávisle.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>You can also create a partial receipt and a partial invoice by completing the <bpt id="p1">**</bpt>Qty. to Receive<ept id="p1">**</ept> and <bpt id="p2">**</bpt>Qty. to Invoice<ept id="p2">**</ept> fields on the individual purchase order lines before you post.</source><seg-source><mrk mtype="seg" mid="26">You can also create a partial receipt and a partial invoice by completing the <bpt id="p1">**</bpt>Qty. to Receive<ept id="p1">**</ept> and <bpt id="p2">**</bpt>Qty. to Invoice<ept id="p2">**</ept> fields on the individual purchase order lines before you post.</mrk></seg-source><target><mrk mtype="seg" mid="26">Můžete také před účtováním vytvořit částečnou příjemku a částečnou fakturu vyplněním polí <bpt id="p1">**</bpt>K příjmu<ept id="p1">**</ept> a <bpt id="p2">**</bpt>K fakturaci<ept id="p2">**</ept> na jednotlivých řádcích nákupních objednávek.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Note that you cannot create an invoice for something that has not been received.</source><seg-source><mrk mtype="seg" mid="27">Note that you cannot create an invoice for something that has not been received.</mrk></seg-source><target><mrk mtype="seg" mid="27">Upozorňujeme, že nemůžete vytvořit fakturu za něco, co nebylo přijato.</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>That is, before you can invoice, you must have recorded a receipt, or you must choose to receive and invoice at the same time.</source><seg-source><mrk mtype="seg" mid="28">That is, before you can invoice, you must have recorded a receipt, or you must choose to receive and invoice at the same time.</mrk></seg-source><target><mrk mtype="seg" mid="28">To znamená, že dříve, než budete moci fakturovat, musíte zaznamenat příjemku nebo se musíte rozhodnout přijmout a fakturovat současně.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>You can either post, or post and print.</source><seg-source><mrk mtype="seg" mid="29">You can either post, or post and print.</mrk></seg-source><target><mrk mtype="seg" mid="29">Můžete buď účtovat, nebo účtovat a vytisknout.</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>If you choose to post and print, a report is printed when the order is posted.</source><seg-source><mrk mtype="seg" mid="30">If you choose to post and print, a report is printed when the order is posted.</mrk></seg-source><target><mrk mtype="seg" mid="30">Pokud se rozhodnete účtovat a vytisknout, po zaúčtování objednávky se vytiskne sestava.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>You can also choose the <bpt id="p1">**</bpt>Post Batch<ept id="p1">**</ept> function, which lets you post several orders at the same time.</source><seg-source><mrk mtype="seg" mid="31">You can also choose the <bpt id="p1">**</bpt>Post Batch<ept id="p1">**</ept> function, which lets you post several orders at the same time.</mrk></seg-source><target><mrk mtype="seg" mid="31">Můžete také zvolit funkci <bpt id="p1">**</bpt>Dávkové účtování<ept id="p1">**</ept>, která vám umožní zaúčtovat několik objednávek současně.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>When the posting is completed, the posted purchase lines are removed from the order.</source><seg-source><mrk mtype="seg" mid="32">When the posting is completed, the posted purchase lines are removed from the order.</mrk></seg-source><target><mrk mtype="seg" mid="32">Po dokončení účtování budou zaúčtované nákupní řádky z objednávky odstraněny.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>A message tells you when the posting is completed.</source><seg-source><mrk mtype="seg" mid="33">A message tells you when the posting is completed.</mrk></seg-source><target><mrk mtype="seg" mid="33">Po dokončení účtování se zobrazí zpráva.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>After this, you will be able to see the posted entries in the various pages that contain posted entries, such as the <bpt id="p1">**</bpt>Vendor Ledger Entries<ept id="p1">**</ept>, <bpt id="p2">**</bpt>G/L Entries<ept id="p2">**</ept>, <bpt id="p3">**</bpt>Item Ledger Entries<ept id="p3">**</ept>, <bpt id="p4">**</bpt>Purchase Receipts<ept id="p4">**</ept>, and <bpt id="p5">**</bpt>Posted Purchase Invoices<ept id="p5">**</ept> pages.</source><seg-source><mrk mtype="seg" mid="34">After this, you will be able to see the posted entries in the various pages that contain posted entries, such as the <bpt id="p1">**</bpt>Vendor Ledger Entries<ept id="p1">**</ept>, <bpt id="p2">**</bpt>G/L Entries<ept id="p2">**</ept>, <bpt id="p3">**</bpt>Item Ledger Entries<ept id="p3">**</ept>, <bpt id="p4">**</bpt>Purchase Receipts<ept id="p4">**</ept>, and <bpt id="p5">**</bpt>Posted Purchase Invoices<ept id="p5">**</ept> pages.</mrk></seg-source><target><mrk mtype="seg" mid="34">Poté budete moci zobrazit zaúčtované položky na různých stránkách, které obsahují zaúčtované položky, jako jsou stránky <bpt id="p1">**</bpt>Položky dodavatele<ept id="p1">**</ept>, <bpt id="p2">**</bpt>Věcné položky<ept id="p2">**</ept>, <bpt id="p3">**</bpt>Položky zboží<ept id="p3">**</ept>, <bpt id="p4">**</bpt>Nákupní příjemky<ept id="p4">**</ept> a <bpt id="p5">**</bpt>Účtované nákupní faktury<ept id="p5">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="35">See Also</mrk></seg-source><target><mrk mtype="seg" mid="35">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Purchasing<ept id="p1">](purchasing-manage-purchasing.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="36">Purchasing</mrk><ept id="p1">](purchasing-manage-purchasing.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="36">Nákup</mrk><ept id="p1">](purchasing-manage-purchasing.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Post Documents and Journals<ept id="p1">](ui-post-documents-journals.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="37">Post Documents and Journals</mrk><ept id="p1">](ui-post-documents-journals.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="37">Účtování dokladů a deníků</mrk><ept id="p1">](ui-post-documents-journals.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="38">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="38">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
