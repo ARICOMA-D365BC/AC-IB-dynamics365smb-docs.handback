@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="ui-search-faq.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-435fba6" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">70ab7fb07cda5ce9d86b3f39dd14321829e85a52</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\ui-search-faq.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fdc92bfc5b9341b93938b83f23d40007babdb9e1</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9ab401c2e18bc837e219d941ce213c7ec064fe0e</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Frequently Asked Questions about Tell Me | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Frequently Asked Questions about Tell Me | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Často kladené otázky o Řekněte mi | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>This article provides answers to questions that our partners and customers often ask about Tell Me.</source><seg-source><mrk mtype="seg" mid="2">This article provides answers to questions that our partners and customers often ask about Tell Me.</mrk></seg-source><target><mrk mtype="seg" mid="2">Tento článek poskytuje odpovědi na otázky, které naši partneři a zákazníky často kladou na Řekněte mi.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Tell Me FAQ</source><seg-source><mrk mtype="seg" mid="3">Tell Me FAQ</mrk></seg-source><target><mrk mtype="seg" mid="3">Řekněte mi FAQ</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This topic answers questions that our advanced users often ask about the new Tell Me feature, which has replaced the previous Page Search feature known as <bpt id="p1">**</bpt>Find Pages and Reports<ept id="p1">**</ept>.</source><seg-source><mrk mtype="seg" mid="4">This topic answers questions that our advanced users often ask about the new Tell Me feature, which has replaced the previous Page Search feature known as <bpt id="p1">**</bpt>Find Pages and Reports<ept id="p1">**</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="4">Toto téma odpovídá na otázky, na které se naši pokročilí uživatelé často ptají o funkci Řekněte mi, která nahradila předchozí funkci Vyhledávání na stránce, známou jako <bpt id="p1">**</bpt>Hledej stránky a sestavy<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Are all actions from my current page discoverable in Tell Me?</source><seg-source><mrk mtype="seg" mid="5">Are all actions from my current page discoverable in Tell Me?</mrk></seg-source><target><mrk mtype="seg" mid="5">Jsou všechny akce z mé aktuální stránky zjistitelné v Řekněte mi?</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>No.</source><seg-source><mrk mtype="seg" mid="6">No.</mrk></seg-source><target><mrk mtype="seg" mid="6">Ne.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Actions in parts, such as the Sales Lines part or FactBoxes, are not displayed in Tell Me.</source><seg-source><mrk mtype="seg" mid="7">Actions in parts, such as the Sales Lines part or FactBoxes, are not displayed in Tell Me.</mrk></seg-source><target><mrk mtype="seg" mid="7">Akce v částech, jako je například část Prodejní řádky nebo Okna s fakty, se v Řekněte mi nezobrazí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Are the results in Tell Me filtered by permissions?</source><seg-source><mrk mtype="seg" mid="8">Are the results in Tell Me filtered by permissions?</mrk></seg-source><target><mrk mtype="seg" mid="8">Jsou výsledky v Řekněte mi filtrovány podle oprávnění?</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>If the user does not have AccessByPermissions then actions are not displayed.</source><seg-source><mrk mtype="seg" mid="9">If the user does not have AccessByPermissions then actions are not displayed.</mrk></seg-source><target><mrk mtype="seg" mid="9">Pokud uživatel nemá oprávnění, akce se nezobrazí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>However, pages and reports appear in the results but require that the user has permission to access them.</source><seg-source><mrk mtype="seg" mid="10">However, pages and reports appear in the results but require that the user has permission to access them.</mrk></seg-source><target><mrk mtype="seg" mid="10">Nicméně, stránky a sestavy se objeví ve výsledcích, ale vyžadují, aby k nim měl uživatel přístup.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>A message will display if the user does not have permission to view the object.</source><seg-source><mrk mtype="seg" mid="11">A message will display if the user does not have permission to view the object.</mrk></seg-source><target><mrk mtype="seg" mid="11">Pokud uživatel nemá oprávnění k prohlížení objektu, zobrazí se zpráva.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Does Tell Me display content from my customizations or installed third-party extensions?</source><seg-source><mrk mtype="seg" mid="12">Does Tell Me display content from my customizations or installed third-party extensions?</mrk></seg-source><target><mrk mtype="seg" mid="12">Zobrazuje funkce Řekněte mi obsah z mých vlastních nastavení nebo nainstalovaných rozšíření třetích stran?</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Actions, pages, and reports that originate from extensions are picked up by Tell Me, but custom help documentation is not.</source><seg-source><mrk mtype="seg" mid="13">Actions, pages, and reports that originate from extensions are picked up by Tell Me, but custom help documentation is not.</mrk></seg-source><target><mrk mtype="seg" mid="13">Akce, stránky a sestavy, které pocházejí z rozšíření jsou sebrány funkcí Řekněte mi, ale vlastní dokumentace nápovědy není.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>For technical information about how to make custom pages and reports discoverable, see <bpt id="p1">[</bpt>Adding Pages and Reports to Search<ept id="p1">](/dynamics365/business-central/dev-itpro/developer/devenv-al-menusuite-functionality)</ept>.</source><seg-source><mrk mtype="seg" mid="14">For technical information about how to make custom pages and reports discoverable, see <bpt id="p1">[</bpt>Adding Pages and Reports to Search<ept id="p1">](/dynamics365/business-central/dev-itpro/developer/devenv-al-menusuite-functionality)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="14">Technické informace o tom, jak učinit vlastní stránky a sestavy zjistitelnými, naleznete v části <bpt id="p1">[</bpt>Přidávání Stránek a Sestav do Vyhledávání<ept id="p1">](/dynamics365/business-central/dev-itpro/developer/devenv-al-menusuite-functionality)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>What makes this different from what was previously known as Page Search?</source><seg-source><mrk mtype="seg" mid="15">What makes this different from what was previously known as Page Search?</mrk></seg-source><target><mrk mtype="seg" mid="15">Čím se to liší od toho, co bylo dříve známe jako Vyhledávání na stránce?</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Page Search has evolved into Tell Me to help you get work done quickly.</source><seg-source><mrk mtype="seg" mid="16">Page Search has evolved into Tell Me to help you get work done quickly.</mrk></seg-source><target><mrk mtype="seg" mid="16">Vyhledávání na stránce se vyvinulo v Řekněte mi, aby vám pomohlo rychle dokončit práci.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Page Search could only help you navigate to pages or reports.</source><seg-source><mrk mtype="seg" mid="17">Page Search could only help you navigate to pages or reports.</mrk></seg-source><target><mrk mtype="seg" mid="17">Vyhledávání na stránce vám může pomoci pouze při přechodu na stránky nebo sestavy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>At a technical level, Tell Me is no longer based on the legacy MenuSuite concept.</source><seg-source><mrk mtype="seg" mid="18">At a technical level, Tell Me is no longer based on the legacy MenuSuite concept.</mrk></seg-source><target><mrk mtype="seg" mid="18">Na technické úrovni již Řekněte mi není založen na starém konceptu MenuSuite.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>I use on-premises <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</source><seg-source><mrk mtype="seg" mid="19">I use on-premises <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</mrk></seg-source><target><mrk mtype="seg" mid="19">Využívám na místě <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Does that include Tell Me?</source><seg-source><mrk mtype="seg" mid="20">Does that include Tell Me?</mrk></seg-source><target><mrk mtype="seg" mid="20">Zahrnuje to Řekněte mi?</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>You can use Tell Me in the on-premises Web Client to find actions, pages, and reports, but not documentation.</source><seg-source><mrk mtype="seg" mid="21">You can use Tell Me in the on-premises Web Client to find actions, pages, and reports, but not documentation.</mrk></seg-source><target><mrk mtype="seg" mid="21">Pomocí místního klienta v místním Webovém klientovi můžete vyhledat akce, stránky a sestavy, nikoli však dokumentaci.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Users connecting to <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> from the Dynamics NAV client continue to use Page Search.</source><seg-source><mrk mtype="seg" mid="22">Users connecting to <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> from the Dynamics NAV client continue to use Page Search.</mrk></seg-source><target><mrk mtype="seg" mid="22">Uživatelé připojující se k <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> z klienta Dynamics NAV pokračují v používání Vyhledávání na stránce.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Is Tell Me available for all form factors?</source><seg-source><mrk mtype="seg" mid="23">Is Tell Me available for all form factors?</mrk></seg-source><target><mrk mtype="seg" mid="23">Je funkce Řekněte mi k dispozici pro všechna provedení?</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Tell Me is only available in the Web Client or Windows desktop app.</source><seg-source><mrk mtype="seg" mid="24">Tell Me is only available in the Web Client or Windows desktop app.</mrk></seg-source><target><mrk mtype="seg" mid="24">Řekněte mi je k dispozici pouze ve Webovém klientovi nebo v aplikaci pro Windows.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Are the documentation results available in any language?</source><seg-source><mrk mtype="seg" mid="25">Are the documentation results available in any language?</mrk></seg-source><target><mrk mtype="seg" mid="25">Jsou výsledky dokumentace k dispozici v jakémkoli jazyce?</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>The help articles display in the language you have specified in <bpt id="p1">**</bpt>My Settings<ept id="p1">**</ept>, if help is available in that language.</source><seg-source><mrk mtype="seg" mid="26">The help articles display in the language you have specified in <bpt id="p1">**</bpt>My Settings<ept id="p1">**</ept>, if help is available in that language.</mrk></seg-source><target><mrk mtype="seg" mid="26">Články nápovědy se zobrazují v jazyce, který jste si zvolili v <bpt id="p1">**</bpt>Moje nastavení<ept id="p1">**</ept>, pokud je v tomto jazyce k dispozici nápověda.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="27">See Also</mrk></seg-source><target><mrk mtype="seg" mid="27">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Finding Features and Information<ept id="p1">](ui-search.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="28">Finding Features and Information</mrk><ept id="p1">](ui-search.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="28">Hledání Funkcí a Informací</mrk><ept id="p1">](ui-search.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
