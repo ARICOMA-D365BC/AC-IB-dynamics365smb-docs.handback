@@ -1,0 +1,603 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="ui-enter-data.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-15c36f0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ae8ef874abd6ca3b307dcbfdb3f4700b49e6680e</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\ui-enter-data.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c4ab827a8dc557e0970b31d3536b08a45345afdc</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">32e528ad50c075e744aca2f7b88bd790e25be5de</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>How to Enter Data in Fields| Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">How to Enter Data in Fields| Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Jak Zadat Data do Polí | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>There are many general functions that help you enter data  in a quick and easy way.</source><seg-source><mrk mtype="seg" mid="2">There are many general functions that help you enter data  in a quick and easy way.</mrk></seg-source><target><mrk mtype="seg" mid="2">Existuje mnoho obecných funkcí, které vám pomohou rychle a snadno zadávat data.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>The general functions for entering data are described in this topic.</source><seg-source><mrk mtype="seg" mid="3">The general functions for entering data are described in this topic.</mrk></seg-source><target><mrk mtype="seg" mid="3">V tomto textu jsou popsány obecné funkce pro zadávání dat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Entering Data</source><seg-source><mrk mtype="seg" mid="4">Entering Data</mrk></seg-source><target><mrk mtype="seg" mid="4">Vkládání dat</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>There are many general functions that help you enter data  in a quick and easy way.</source><seg-source><mrk mtype="seg" mid="5">There are many general functions that help you enter data  in a quick and easy way.</mrk></seg-source><target><mrk mtype="seg" mid="5">Existuje mnoho obecných funkcí, které vám pomohou rychle a snadno zadávat data.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>The general functions for entering data are described in this article.</source><seg-source><mrk mtype="seg" mid="6">The general functions for entering data are described in this article.</mrk></seg-source><target><mrk mtype="seg" mid="6">V tomto textu jsou popsány obecné funkce pro zadávání dat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>The examples in this article use the demonstration data.</source><seg-source><mrk mtype="seg" mid="7">The examples in this article use the demonstration data.</mrk></seg-source><target><mrk mtype="seg" mid="7">Příklady v tomto článku používají demonstrační data.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Mandatory Fields</source><seg-source><mrk mtype="seg" mid="8">Mandatory Fields</mrk></seg-source><target><mrk mtype="seg" mid="8">Povinná pole</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>When you enter data on pages, certain fields are marked with a red asterisk.</source><seg-source><mrk mtype="seg" mid="9">When you enter data on pages, certain fields are marked with a red asterisk.</mrk></seg-source><target><mrk mtype="seg" mid="9">Při zadávání dat na stránkách jsou některá pole označena červenou hvězdičkou.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>The red asterisk means that the field must be filled to complete a certain process that uses the field, such as posting a transaction that uses the value in the field.</source><seg-source><mrk mtype="seg" mid="10">The red asterisk means that the field must be filled to complete a certain process that uses the field, such as posting a transaction that uses the value in the field.</mrk></seg-source><target><mrk mtype="seg" mid="10">Červená hvězdička znamená, že pole musí být vyplněno, aby se dokončil určitý proces, který pole používá, jako je účtování transakce, která používá hodnotu v poli.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Even though the field contains a red asterisk, you are not forced to fill the field before you continue to other fields or close the page.</source><seg-source><mrk mtype="seg" mid="11">Even though the field contains a red asterisk, you are not forced to fill the field before you continue to other fields or close the page.</mrk></seg-source><target><mrk mtype="seg" mid="11">Přestože pole obsahuje červenou hvězdičku, nemusíte být nuceni vyplnit pole dříve, než budete pokračovat do jiných polí nebo zavřete stránku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>The red asterisk only serves as a reminder that you will be blocked from completing a certain process.</source><seg-source><mrk mtype="seg" mid="12">The red asterisk only serves as a reminder that you will be blocked from completing a certain process.</mrk></seg-source><target><mrk mtype="seg" mid="12">Červená hvězdička slouží pouze jako připomenutí, že vám bude zablokováno dokončení určitého procesu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Finding Data As You Type</source><seg-source><mrk mtype="seg" mid="13">Finding Data As You Type</mrk></seg-source><target><mrk mtype="seg" mid="13">Hledání dat při psaní</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>When you start to type characters in a field, a drop-down list is displayed and shows possible field values.</source><seg-source><mrk mtype="seg" mid="14">When you start to type characters in a field, a drop-down list is displayed and shows possible field values.</mrk></seg-source><target><mrk mtype="seg" mid="14">Když začnete psát znaky do pole, zobrazí se rozevírací seznam a zobrazuje možné hodnoty pole.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>The list changes as you type more characters, and you can select the correct value when it is displayed.</source><seg-source><mrk mtype="seg" mid="15">The list changes as you type more characters, and you can select the correct value when it is displayed.</mrk></seg-source><target><mrk mtype="seg" mid="15">Seznam se při psaní více znaků mění a při zobrazení můžete vybrat správnou hodnotu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Many fields have a down arrow button that you can choose.</source><seg-source><mrk mtype="seg" mid="16">Many fields have a down arrow button that you can choose.</mrk></seg-source><target><mrk mtype="seg" mid="16">Mnoho polí má tlačítko se šipkou dolů, které si můžete zvolit.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>You choose the arrow to get a list of data that is available to enter in the field.</source><seg-source><mrk mtype="seg" mid="17">You choose the arrow to get a list of data that is available to enter in the field.</mrk></seg-source><target><mrk mtype="seg" mid="17">Pomocí šipky získáte seznam dat, která jsou k dispozici pro zadávání do pole.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>The button has two functions depending on the type of field:</source><seg-source><mrk mtype="seg" mid="18">The button has two functions depending on the type of field:</mrk></seg-source><target><mrk mtype="seg" mid="18">Tlačítko má dvě funkce v závislosti na typu pole:</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Lookup - Displays information from another table that you can enter in the field.</source><seg-source><mrk mtype="seg" mid="19">Lookup - Displays information from another table that you can enter in the field.</mrk></seg-source><target><mrk mtype="seg" mid="19">Vyhledat - Zobrazí informace z jiné tabulky, kterou můžete zadat do pole.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>You can select one piece of data at a time.</source><seg-source><mrk mtype="seg" mid="20">You can select one piece of data at a time.</mrk></seg-source><target><mrk mtype="seg" mid="20">Můžete si vybrat část dat najednou.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Drop-down - Displays the set of options that exist for the field.</source><seg-source><mrk mtype="seg" mid="21">Drop-down - Displays the set of options that exist for the field.</mrk></seg-source><target><mrk mtype="seg" mid="21">Rozevírací nabídka - Zobrazí sadu možností, které pro dané pole existují.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>You can select only one of the options.</source><seg-source><mrk mtype="seg" mid="22">You can select only one of the options.</mrk></seg-source><target><mrk mtype="seg" mid="22">Můžete vybrat pouze jednu z možností.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Entering Quantities by Calculation</source><seg-source><mrk mtype="seg" mid="23">Entering Quantities by Calculation</mrk></seg-source><target><mrk mtype="seg" mid="23">Zadávání množství výpočtem</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>When entering numbers into quantity fields, such as the <bpt id="p1">**</bpt>Quantity<ept id="p1">**</ept> field on an item journal line, you can enter the formula instead of the sum quantity.</source><seg-source><mrk mtype="seg" mid="24">When entering numbers into quantity fields, such as the <bpt id="p1">**</bpt>Quantity<ept id="p1">**</ept> field on an item journal line, you can enter the formula instead of the sum quantity.</mrk></seg-source><target><mrk mtype="seg" mid="24">Při zadávání čísel do polí množství, například do pole <bpt id="p1">**</bpt>Množství<ept id="p1">**</ept> na řádku deníku položky, můžete místo množství částky zadat vzorec.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Examples</source><seg-source><mrk mtype="seg" mid="25">Examples</mrk></seg-source><target><mrk mtype="seg" mid="25">Příklady:</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>If you enter 19+19, the field is calculated to 38.</source><seg-source><mrk mtype="seg" mid="26">If you enter 19+19, the field is calculated to 38.</mrk></seg-source><target><mrk mtype="seg" mid="26">Pokud zadáte 19+19, pole se vypočítá na hodnotu 38.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>If you enter 41-9, the field is calculated to 32.</source><seg-source><mrk mtype="seg" mid="27">If you enter 41-9, the field is calculated to 32.</mrk></seg-source><target><mrk mtype="seg" mid="27">Pokud zadáte 41-9, pole se vypočítá na hodnotu 32.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>If you enter 12*4, the field is calculated to 48.</source><seg-source><mrk mtype="seg" mid="28">If you enter 12*4, the field is calculated to 48.</mrk></seg-source><target><mrk mtype="seg" mid="28">Pokud zadáte 12*4, pole se vypočítá na hodnotu 48.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>If you enter 12/4, the field is calculated to 3.</source><seg-source><mrk mtype="seg" mid="29">If you enter 12/4, the field is calculated to 3.</mrk></seg-source><target><mrk mtype="seg" mid="29">Pokud zadáte 12/4, pole se vypočítá na hodnotu 3.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Entering Negative Numbers</source><seg-source><mrk mtype="seg" mid="30">Entering Negative Numbers</mrk></seg-source><target><mrk mtype="seg" mid="30">Zadávání záporných čísel</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>You can enter negative numbers in two ways.</source><seg-source><mrk mtype="seg" mid="31">You can enter negative numbers in two ways.</mrk></seg-source><target><mrk mtype="seg" mid="31">Záporná čísla můžete zadat dvěma způsoby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>The number -20.5 can be entered as:</source><seg-source><mrk mtype="seg" mid="32">The number -20.5 can be entered as:</mrk></seg-source><target><mrk mtype="seg" mid="32">Číslo -20,5 lze zadat jako:</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>-20.5</source><seg-source><mrk mtype="seg" mid="33">-20.5</mrk></seg-source><target><mrk mtype="seg" mid="33">-20,5</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>or</source><seg-source><mrk mtype="seg" mid="34">or</mrk></seg-source><target><mrk mtype="seg" mid="34">nebo</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>20.5-</source><seg-source><mrk mtype="seg" mid="35">20.5-</mrk></seg-source><target><mrk mtype="seg" mid="35">20,5-</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>In both cases, the amount will be recorded in as -20.5.</source><seg-source><mrk mtype="seg" mid="36">In both cases, the amount will be recorded in as -20.5.</mrk></seg-source><target><mrk mtype="seg" mid="36">V obou případech bude částka zaznamenána jako -20,5.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>If the last character of the expression is a <bpt id="p1">**</bpt><ph id="ph1">+</ph><ept id="p1">**</ept> or a <bpt id="p2">**</bpt><ph id="ph2">-</ph><ept id="p2">**</ept>, the entire expression will be recorded with that sign.</source><seg-source><mrk mtype="seg" mid="37">If the last character of the expression is a <bpt id="p1">**</bpt><ph id="ph1">+</ph><ept id="p1">**</ept> or a <bpt id="p2">**</bpt><ph id="ph2">-</ph><ept id="p2">**</ept>, the entire expression will be recorded with that sign.</mrk></seg-source><target><mrk mtype="seg" mid="37">Pokud je poslední znak výrazu <bpt id="p1">**</bpt><ph id="ph1">+</ph><ept id="p1">**</ept> nebo <bpt id="p2">**</bpt><ph id="ph2">-</ph><ept id="p2">**</ept>, bude celý výraz zaznamenán s tímto znaménkem.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>An example, <bpt id="p1">**</bpt>10-20+<ept id="p1">**</ept> will result in 10 and not -10.</source><seg-source><mrk mtype="seg" mid="38">An example, <bpt id="p1">**</bpt>10-20+<ept id="p1">**</ept> will result in 10 and not -10.</mrk></seg-source><target><mrk mtype="seg" mid="38">Příklad: <bpt id="p1">**</bpt>10-20+<ept id="p1">**</ept> bude mít za následek 10 a ne -10.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Entering Dates and Times</source><seg-source><mrk mtype="seg" mid="39">Entering Dates and Times</mrk></seg-source><target><mrk mtype="seg" mid="39">Zadávání dat a časů</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>You can enter dates and times in all the fields that are specifically assigned to dates (date fields).</source><seg-source><mrk mtype="seg" mid="40">You can enter dates and times in all the fields that are specifically assigned to dates (date fields).</mrk></seg-source><target><mrk mtype="seg" mid="40">Můžete zadat data a časy do všech polí, která jsou specificky přiřazena k datům (datová pole).</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>You can enter dates with or without separators.</source><seg-source><mrk mtype="seg" mid="41">You can enter dates with or without separators.</mrk></seg-source><target><mrk mtype="seg" mid="41">Můžete zadat data s oddělovači nebo bez nich.</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>How you enter dates and times depends on your <bpt id="p1">**</bpt>Region<ept id="p1">**</ept> settings.</source><seg-source><mrk mtype="seg" mid="42">How you enter dates and times depends on your <bpt id="p1">**</bpt>Region<ept id="p1">**</ept> settings.</mrk></seg-source><target><mrk mtype="seg" mid="42">Způsob zadání data a času závisí na nastavení <bpt id="p1">**</bpt>Oblasti<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Changing Basic Settings<ept id="p1">](ui-change-basic-settings.md)</ept>.</source><seg-source><mrk mtype="seg" mid="43">For more information, see <bpt id="p1">[</bpt>Changing Basic Settings<ept id="p1">](ui-change-basic-settings.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="43">Pro další informace se podívejte na <bpt id="p1">[</bpt>Změna základního nastavení<ept id="p1">](ui-change-basic-settings.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Entering Dates</source><seg-source><mrk mtype="seg" mid="44">Entering Dates</mrk></seg-source><target><mrk mtype="seg" mid="44">Zadávání dat</mrk></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>In a date field you can enter two, four, six, or eight digits:</source><seg-source><mrk mtype="seg" mid="45">In a date field you can enter two, four, six, or eight digits:</mrk></seg-source><target><mrk mtype="seg" mid="45">Do datového pole můžete zadat dvě, čtyři, šest nebo osm číslic:</mrk></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>If you enter only two digits, this is interpreted as the day, and it will add the month and the year of the work date.</source><seg-source><mrk mtype="seg" mid="46">If you enter only two digits, this is interpreted as the day, and it will add the month and the year of the work date.</mrk></seg-source><target><mrk mtype="seg" mid="46">Pokud zadáte pouze dvě číslice, bude to interpretováno jako den a přidá se měsíc a rok pracovního dne.</mrk></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>If you enter four digits, this is interpreted as the day and the month, and it will add the year of the work date.</source><seg-source><mrk mtype="seg" mid="47">If you enter four digits, this is interpreted as the day and the month, and it will add the year of the work date.</mrk></seg-source><target><mrk mtype="seg" mid="47">Pokud zadáte čtyři číslice, bude to interpretováno jako den a měsíc a přidá se pouze rok daného pracovního roku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>If the date you want to enter is in the range 01/01/1930 through 12/31/2029, you can enter the year with two digits; otherwise, enter the year with four digits.</source><seg-source><mrk mtype="seg" mid="48">If the date you want to enter is in the range 01/01/1930 through 12/31/2029, you can enter the year with two digits; otherwise, enter the year with four digits.</mrk></seg-source><target><mrk mtype="seg" mid="48">Pokud je datum, které chcete zadat, v rozsahu 01/01/1930 až 31/31/2029, můžete zadat rok dvěma číslicemi; jinak zadejte rok čtyřmi číslicemi.</mrk></target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>You can also enter a date as a weekday followed by a week number and, optionally, a year (for example, Mon25 or mon25 means Monday in week 25).</source><seg-source><mrk mtype="seg" mid="49">You can also enter a date as a weekday followed by a week number and, optionally, a year (for example, Mon25 or mon25 means Monday in week 25).</mrk></seg-source><target><mrk mtype="seg" mid="49">Můžete také zadat datum jako pracovní den následovaný číslem týdne a volitelně rokem (například Mon25 nebo mon25 znamená pondělí v týdnu 25).</mrk></target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Instead of entering a specific date, you can enter one of two codes.</source><seg-source><mrk mtype="seg" mid="50">Instead of entering a specific date, you can enter one of two codes.</mrk></seg-source><target><mrk mtype="seg" mid="50">Místo zadání konkrétního data můžete zadat jeden ze dvou kódů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Code</source><seg-source><mrk mtype="seg" mid="51">Code</mrk></seg-source><target><mrk mtype="seg" mid="51">Kód</mrk></target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Result</source><seg-source><mrk mtype="seg" mid="52">Result</mrk></seg-source><target><mrk mtype="seg" mid="52">Výsledek</mrk></target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>t</source><seg-source><mrk mtype="seg" mid="53">t</mrk></seg-source><target><mrk mtype="seg" mid="53">t</mrk></target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>This is today's date (the system date for the computer).</source><seg-source><mrk mtype="seg" mid="54">This is today's date (the system date for the computer).</mrk></seg-source><target><mrk mtype="seg" mid="54">Toto je dnešní datum (systémové datum pro počítač).</mrk></target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>w</source><seg-source><mrk mtype="seg" mid="55">w</mrk></seg-source><target><mrk mtype="seg" mid="55">w</mrk></target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>This is the work date that is setup in the application.</source><seg-source><mrk mtype="seg" mid="56">This is the work date that is setup in the application.</mrk></seg-source><target><mrk mtype="seg" mid="56">Toto je pracovní datum nastavené v aplikaci.</mrk></target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>To change the work date, see <bpt id="p1">[</bpt>Changing Basic Settings<ept id="p1">](ui-change-basic-settings.md)</ept>.</source><seg-source><mrk mtype="seg" mid="57">To change the work date, see <bpt id="p1">[</bpt>Changing Basic Settings<ept id="p1">](ui-change-basic-settings.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="57">Chcete-li změnit datum práce, viz <bpt id="p1">[</bpt>Změna základních nastavení<ept id="p1">](ui-change-basic-settings.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>You may want to use a work date if you have many transactions with a date other than today's date.</source><seg-source><mrk mtype="seg" mid="58">You may want to use a work date if you have many transactions with a date other than today's date.</mrk></seg-source><target><mrk mtype="seg" mid="58">Možná budete chtít použít pracovní datum, pokud máte mnoho transakcí s jiným než dnešním datem.</mrk></target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Entering Times</source><seg-source><mrk mtype="seg" mid="59">Entering Times</mrk></seg-source><target><mrk mtype="seg" mid="59">Zadávání časů</mrk></target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>When you enter times, you can insert any separator sign that you want between the units, but it is not required.</source><seg-source><mrk mtype="seg" mid="60">When you enter times, you can insert any separator sign that you want between the units, but it is not required.</mrk></seg-source><target><mrk mtype="seg" mid="60">Když zadáte časy, můžete mezi jednotky vložit libovolný znak oddělovače, který však není nutný.</mrk></target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>You do not have to write minutes, seconds, or AM/PM.</source><seg-source><mrk mtype="seg" mid="61">You do not have to write minutes, seconds, or AM/PM.</mrk></seg-source><target><mrk mtype="seg" mid="61">Nemusíte psát minuty, sekundy nebo AM / PM.</mrk></target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>The following table lists the various ways in which times can be entered and how they are interpreted.</source><seg-source><mrk mtype="seg" mid="62">The following table lists the various ways in which times can be entered and how they are interpreted.</mrk></seg-source><target><mrk mtype="seg" mid="62">V následující tabulce jsou uvedeny různé způsoby zadávání časů a jejich interpretace.</mrk></target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>Entry</source><seg-source><mrk mtype="seg" mid="63">Entry</mrk></seg-source><target><mrk mtype="seg" mid="63">Vstup</mrk></target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>Interpretation</source><seg-source><mrk mtype="seg" mid="64">Interpretation</mrk></seg-source><target><mrk mtype="seg" mid="64">Interpretace</mrk></target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>5</source><seg-source><mrk mtype="seg" mid="65">5</mrk></seg-source><target><mrk mtype="seg" mid="65">5</mrk></target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>05:00:00</source><seg-source><mrk mtype="seg" mid="66">05:00:00</mrk></seg-source><target><mrk mtype="seg" mid="66">05:00:00</mrk></target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>5:30</source><seg-source><mrk mtype="seg" mid="67">5:30</mrk></seg-source><target><mrk mtype="seg" mid="67">5:30</mrk></target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>05:30:00</source><seg-source><mrk mtype="seg" mid="68">05:30:00</mrk></seg-source><target><mrk mtype="seg" mid="68">5:30:00</mrk></target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>0530</source><seg-source><mrk mtype="seg" mid="69">0530</mrk></seg-source><target><mrk mtype="seg" mid="69">0530</mrk></target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>05:30:00</source><seg-source><mrk mtype="seg" mid="70">05:30:00</mrk></seg-source><target><mrk mtype="seg" mid="70">5:30:00</mrk></target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>5:30:5</source><seg-source><mrk mtype="seg" mid="71">5:30:5</mrk></seg-source><target><mrk mtype="seg" mid="71">05:30:5</mrk></target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>05:30:05</source><seg-source><mrk mtype="seg" mid="72">05:30:05</mrk></seg-source><target><mrk mtype="seg" mid="72">5:30:05</mrk></target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>053005</source><seg-source><mrk mtype="seg" mid="73">053005</mrk></seg-source><target><mrk mtype="seg" mid="73">053005</mrk></target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>05:30:05</source><seg-source><mrk mtype="seg" mid="74">05:30:05</mrk></seg-source><target><mrk mtype="seg" mid="74">5:30:05</mrk></target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>5:30:5,50</source><seg-source><mrk mtype="seg" mid="75">5:30:5,50</mrk></seg-source><target><mrk mtype="seg" mid="75">05:30:5,50</mrk></target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>05:30:05.5</source><seg-source><mrk mtype="seg" mid="76">05:30:05.5</mrk></seg-source><target><mrk mtype="seg" mid="76">05:30:05.5</mrk></target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>053005050</source><seg-source><mrk mtype="seg" mid="77">053005050</mrk></seg-source><target><mrk mtype="seg" mid="77">053005050</mrk></target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>05:30:05.05</source><seg-source><mrk mtype="seg" mid="78">05:30:05.05</mrk></seg-source><target><mrk mtype="seg" mid="78">05:30:05.05</mrk></target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>You must enter two digits for each unit of time if you do not enter a separator.</source><seg-source><mrk mtype="seg" mid="79">You must enter two digits for each unit of time if you do not enter a separator.</mrk></seg-source><target><mrk mtype="seg" mid="79">Pokud nezadáte oddělovač, musíte pro každou jednotku času zadat dvě číslice.</mrk></target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>Entering Datetimes</source><seg-source><mrk mtype="seg" mid="80">Entering Datetimes</mrk></seg-source><target><mrk mtype="seg" mid="80">Zadávání dat a časů</mrk></target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>When you enter datetimes you must enter a space between the date and the time.</source><seg-source><mrk mtype="seg" mid="81">When you enter datetimes you must enter a space between the date and the time.</mrk></seg-source><target><mrk mtype="seg" mid="81">Při zadávání dat a časů je nutné zadat mezeru mezi datem a časem.</mrk></target>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>The following table lists the various ways in which you can enter datetimes and how they are interpreted.</source><seg-source><mrk mtype="seg" mid="82">The following table lists the various ways in which you can enter datetimes and how they are interpreted.</mrk></seg-source><target><mrk mtype="seg" mid="82">Následující tabulka uvádí různé způsoby, jak můžete zadat data a časy a jak jsou interpretovány.</mrk></target>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>Entry</source><seg-source><mrk mtype="seg" mid="83">Entry</mrk></seg-source><target><mrk mtype="seg" mid="83">Vstup</mrk></target>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>Interpretation</source><seg-source><mrk mtype="seg" mid="84">Interpretation</mrk></seg-source><target><mrk mtype="seg" mid="84">Interpretace</mrk></target>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>131202 132455</source><seg-source><mrk mtype="seg" mid="85">131202 132455</mrk></seg-source><target><mrk mtype="seg" mid="85">131202 132455</mrk></target>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>13-12-02 13:24:55</source><seg-source><mrk mtype="seg" mid="86">13-12-02 13:24:55</mrk></seg-source><target><mrk mtype="seg" mid="86">13-12-02 13:24:55</mrk></target>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>1-12-02 10</source><seg-source><mrk mtype="seg" mid="87">1-12-02 10</mrk></seg-source><target><mrk mtype="seg" mid="87">1-12-02 10</mrk></target>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>01-12-02 10:00:00</source><seg-source><mrk mtype="seg" mid="88">01-12-02 10:00:00</mrk></seg-source><target><mrk mtype="seg" mid="88">01-12-02 10:00:00</mrk></target>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>1.12.02 5</source><seg-source><mrk mtype="seg" mid="89">1.12.02 5</mrk></seg-source><target><mrk mtype="seg" mid="89">1.12.02 5</mrk></target>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>01-12-02 05:00:00</source><seg-source><mrk mtype="seg" mid="90">01-12-02 05:00:00</mrk></seg-source><target><mrk mtype="seg" mid="90">01-12-02 5:00:00</mrk></target>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>1.12.02</source><seg-source><mrk mtype="seg" mid="91">1.12.02</mrk></seg-source><target><mrk mtype="seg" mid="91">1.12.02</mrk></target>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>01-12-02 00:00:00</source><seg-source><mrk mtype="seg" mid="92">01-12-02 00:00:00</mrk></seg-source><target><mrk mtype="seg" mid="92">01-12-02 0:00:00</mrk></target>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>11 12</source><seg-source><mrk mtype="seg" mid="93">11 12</mrk></seg-source><target><mrk mtype="seg" mid="93">11 12</mrk></target>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>11-current month-current year 12:00:00</source><seg-source><mrk mtype="seg" mid="94">11-current month-current year 12:00:00</mrk></seg-source><target><mrk mtype="seg" mid="94">11-aktuální měsíc-aktuální rok 12:00:00</mrk></target>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>1112 12</source><seg-source><mrk mtype="seg" mid="95">1112 12</mrk></seg-source><target><mrk mtype="seg" mid="95">1112 12</mrk></target>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>11-12-current year 12:00:00</source><seg-source><mrk mtype="seg" mid="96">11-12-current year 12:00:00</mrk></seg-source><target><mrk mtype="seg" mid="96">11-12 - aktuální rok 12:00:00</mrk></target>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>t or today</source><seg-source><mrk mtype="seg" mid="97">t or today</mrk></seg-source><target><mrk mtype="seg" mid="97">t nebo dnes</mrk></target>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>today's date 00:00:00</source><seg-source><mrk mtype="seg" mid="98">today's date 00:00:00</mrk></seg-source><target><mrk mtype="seg" mid="98">dnešní datum 00:00:00</mrk></target>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>t time</source><seg-source><mrk mtype="seg" mid="99">t time</mrk></seg-source><target><mrk mtype="seg" mid="99">t čas</mrk></target>
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>today's date actual time</source><seg-source><mrk mtype="seg" mid="100">today's date actual time</mrk></seg-source><target><mrk mtype="seg" mid="100">dnešní aktuální datum</mrk></target>
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>t 10:30</source><seg-source><mrk mtype="seg" mid="101">t 10:30</mrk></seg-source><target><mrk mtype="seg" mid="101">t 10:30</mrk></target>
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>today's date 10:30:00</source><seg-source><mrk mtype="seg" mid="102">today's date 10:30:00</mrk></seg-source><target><mrk mtype="seg" mid="102">dnešní datum 10:30:00</mrk></target>
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>t 3:3:3</source><seg-source><mrk mtype="seg" mid="103">t 3:3:3</mrk></seg-source><target><mrk mtype="seg" mid="103">t 3:3:3</mrk></target>
+        </trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>today's date 03:03:03</source><seg-source><mrk mtype="seg" mid="104">today's date 03:03:03</mrk></seg-source><target><mrk mtype="seg" mid="104">dnešní datum 3:03:03</mrk></target>
+        </trans-unit>
+        <trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>w or workdate</source><seg-source><mrk mtype="seg" mid="105">w or workdate</mrk></seg-source><target><mrk mtype="seg" mid="105">w nebo pracovní datum</mrk></target>
+        </trans-unit>
+        <trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>the working date 00:00:00</source><seg-source><mrk mtype="seg" mid="106">the working date 00:00:00</mrk></seg-source><target><mrk mtype="seg" mid="106">pracovní datum 00:00:00</mrk></target>
+        </trans-unit>
+        <trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>m or Monday</source><seg-source><mrk mtype="seg" mid="107">m or Monday</mrk></seg-source><target><mrk mtype="seg" mid="107">m nebo pondělí</mrk></target>
+        </trans-unit>
+        <trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>Monday of the current week 00:00:00</source><seg-source><mrk mtype="seg" mid="108">Monday of the current week 00:00:00</mrk></seg-source><target><mrk mtype="seg" mid="108">Pondělí aktuálního týdne 00:00:00</mrk></target>
+        </trans-unit>
+        <trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>tu or Tuesday</source><seg-source><mrk mtype="seg" mid="109">tu or Tuesday</mrk></seg-source><target><mrk mtype="seg" mid="109">tu nebo úterý</mrk></target>
+        </trans-unit>
+        <trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>Tuesday of the current week 00:00:00</source><seg-source><mrk mtype="seg" mid="110">Tuesday of the current week 00:00:00</mrk></seg-source><target><mrk mtype="seg" mid="110">Úterý aktuálního týdne 00:00:00</mrk></target>
+        </trans-unit>
+        <trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>we or Wednesday</source><seg-source><mrk mtype="seg" mid="111">we or Wednesday</mrk></seg-source><target><mrk mtype="seg" mid="111">we nebo středa</mrk></target>
+        </trans-unit>
+        <trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>Wednesday of the current week 00:00:00</source><seg-source><mrk mtype="seg" mid="112">Wednesday of the current week 00:00:00</mrk></seg-source><target><mrk mtype="seg" mid="112">Středa aktuálního týdne 00:00:00</mrk></target>
+        </trans-unit>
+        <trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>th or Thursday</source><seg-source><mrk mtype="seg" mid="113">th or Thursday</mrk></seg-source><target><mrk mtype="seg" mid="113">th nebo čtvrtek</mrk></target>
+        </trans-unit>
+        <trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>Thursday of the current week 00:00:00</source><seg-source><mrk mtype="seg" mid="114">Thursday of the current week 00:00:00</mrk></seg-source><target><mrk mtype="seg" mid="114">Čtvrtek aktuálního týdne 00:00:00</mrk></target>
+        </trans-unit>
+        <trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>f or Friday</source><seg-source><mrk mtype="seg" mid="115">f or Friday</mrk></seg-source><target><mrk mtype="seg" mid="115">f nebo pátek</mrk></target>
+        </trans-unit>
+        <trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>Friday of the current week 00:00:00</source><seg-source><mrk mtype="seg" mid="116">Friday of the current week 00:00:00</mrk></seg-source><target><mrk mtype="seg" mid="116">Pátek aktuálního týdne 00:00:00</mrk></target>
+        </trans-unit>
+        <trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>s or Saturday</source><seg-source><mrk mtype="seg" mid="117">s or Saturday</mrk></seg-source><target><mrk mtype="seg" mid="117">s nebo sobota</mrk></target>
+        </trans-unit>
+        <trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>Saturday of the current week 00:00:00</source><seg-source><mrk mtype="seg" mid="118">Saturday of the current week 00:00:00</mrk></seg-source><target><mrk mtype="seg" mid="118">Sobota aktuálního týdne 00:00:00</mrk></target>
+        </trans-unit>
+        <trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>su or Sunday</source><seg-source><mrk mtype="seg" mid="119">su or Sunday</mrk></seg-source><target><mrk mtype="seg" mid="119">su nebo neděle</mrk></target>
+        </trans-unit>
+        <trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>Sunday of the current week 00:00:00</source><seg-source><mrk mtype="seg" mid="120">Sunday of the current week 00:00:00</mrk></seg-source><target><mrk mtype="seg" mid="120">Neděle aktuálního týdne 00:00:00</mrk></target>
+        </trans-unit>
+        <trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>tu 10:30</source><seg-source><mrk mtype="seg" mid="121">tu 10:30</mrk></seg-source><target><mrk mtype="seg" mid="121">tu 10:30</mrk></target>
+        </trans-unit>
+        <trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>Tuesday of the current week 10:30:00</source><seg-source><mrk mtype="seg" mid="122">Tuesday of the current week 10:30:00</mrk></seg-source><target><mrk mtype="seg" mid="122">Úterý aktuálního týdne 10:30:00</mrk></target>
+        </trans-unit>
+        <trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>tu 3:3:3</source><seg-source><mrk mtype="seg" mid="123">tu 3:3:3</mrk></seg-source><target><mrk mtype="seg" mid="123">tu 3:3:3</mrk></target>
+        </trans-unit>
+        <trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>Tuesday of the current week 03:03:03</source><seg-source><mrk mtype="seg" mid="124">Tuesday of the current week 03:03:03</mrk></seg-source><target><mrk mtype="seg" mid="124">Úterý aktuálního týdne 3:03:03</mrk></target>
+        </trans-unit>
+        <trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>Entering Duration</source><seg-source><mrk mtype="seg" mid="125">Entering Duration</mrk></seg-source><target><mrk mtype="seg" mid="125">Zadávání doby trvání</mrk></target>
+        </trans-unit>
+        <trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>You enter a duration as a number followed by its unit of measure.</source><seg-source><mrk mtype="seg" mid="126">You enter a duration as a number followed by its unit of measure.</mrk></seg-source><target><mrk mtype="seg" mid="126">Trvání zadáte jako číslo následované jeho měrnou jednotkou.</mrk></target>
+        </trans-unit>
+        <trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>Here are some examples.</source><seg-source><mrk mtype="seg" mid="127">Here are some examples.</mrk></seg-source><target><mrk mtype="seg" mid="127">Zde jsou nějaké příklady.</mrk></target>
+        </trans-unit>
+        <trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>Duration</source><seg-source><mrk mtype="seg" mid="128">Duration</mrk></seg-source><target><mrk mtype="seg" mid="128">Doba trvání</mrk></target>
+        </trans-unit>
+        <trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>Unit of measure**</source><seg-source><mrk mtype="seg" mid="129">Unit of measure**</mrk></seg-source><target><mrk mtype="seg" mid="129">Měrná jednotka**</mrk></target>
+        </trans-unit>
+        <trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>2h</source><seg-source><mrk mtype="seg" mid="130">2h</mrk></seg-source><target><mrk mtype="seg" mid="130">2h</mrk></target>
+        </trans-unit>
+        <trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>2 hrs</source><seg-source><mrk mtype="seg" mid="131">2 hrs</mrk></seg-source><target><mrk mtype="seg" mid="131">2 hod</mrk></target>
+        </trans-unit>
+        <trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>6h 30 m</source><seg-source><mrk mtype="seg" mid="132">6h 30 m</mrk></seg-source><target><mrk mtype="seg" mid="132">6h 30 m</mrk></target>
+        </trans-unit>
+        <trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>6 hrs 30 mins</source><seg-source><mrk mtype="seg" mid="133">6 hrs 30 mins</mrk></seg-source><target><mrk mtype="seg" mid="133">6 hod 30 min</mrk></target>
+        </trans-unit>
+        <trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>6.5h</source><seg-source><mrk mtype="seg" mid="134">6.5h</mrk></seg-source><target><mrk mtype="seg" mid="134">6.5h</mrk></target>
+        </trans-unit>
+        <trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>6 hrs 30 mins</source><seg-source><mrk mtype="seg" mid="135">6 hrs 30 mins</mrk></seg-source><target><mrk mtype="seg" mid="135">6 hod 30 min</mrk></target>
+        </trans-unit>
+        <trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>90m</source><seg-source><mrk mtype="seg" mid="136">90m</mrk></seg-source><target><mrk mtype="seg" mid="136">90m</mrk></target>
+        </trans-unit>
+        <trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>1 hr 30 mins</source><seg-source><mrk mtype="seg" mid="137">1 hr 30 mins</mrk></seg-source><target><mrk mtype="seg" mid="137">1 hod 30 min</mrk></target>
+        </trans-unit>
+        <trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>2d 6h 30m</source><seg-source><mrk mtype="seg" mid="138">2d 6h 30m</mrk></seg-source><target><mrk mtype="seg" mid="138">2d 6h 30m</mrk></target>
+        </trans-unit>
+        <trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>2 days 6 hrs 30 mins</source><seg-source><mrk mtype="seg" mid="139">2 days 6 hrs 30 mins</mrk></seg-source><target><mrk mtype="seg" mid="139">2 dny 6 hod 30 min</mrk></target>
+        </trans-unit>
+        <trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>2d 6h 30m 56s 600ms</source><seg-source><mrk mtype="seg" mid="140">2d 6h 30m 56s 600ms</mrk></seg-source><target><mrk mtype="seg" mid="140">2d 6h 30m 56s 600ms</mrk></target>
+        </trans-unit>
+        <trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>2 days 6 hrs 30 mins 56 secs 600 msecs</source><seg-source><mrk mtype="seg" mid="141">2 days 6 hrs 30 mins 56 secs 600 msecs</mrk></seg-source><target><mrk mtype="seg" mid="141">2 dny 6 hod 30 min 56 sec 600 msec</mrk></target>
+        </trans-unit>
+        <trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>You can also enter a number and it is automatically converted to a duration.</source><seg-source><mrk mtype="seg" mid="142">You can also enter a number and it is automatically converted to a duration.</mrk></seg-source><target><mrk mtype="seg" mid="142">Můžete také zadat číslo a automaticky se převede na dobu trvání.</mrk></target>
+        </trans-unit>
+        <trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>The number you enter is converted according to the default unit of measure that has been specified for the duration field.</source><seg-source><mrk mtype="seg" mid="143">The number you enter is converted according to the default unit of measure that has been specified for the duration field.</mrk></seg-source><target><mrk mtype="seg" mid="143">Zadané číslo se převede podle výchozí měrné jednotky, která byla zadána pro pole trvání.</mrk></target>
+        </trans-unit>
+        <trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>To see what unit of measure is being used in a duration field, enter a number and see which unit of measure it is converted to.</source><seg-source><mrk mtype="seg" mid="144">To see what unit of measure is being used in a duration field, enter a number and see which unit of measure it is converted to.</mrk></seg-source><target><mrk mtype="seg" mid="144">Chcete-li vidět, jaká měrná jednotka se používá v poli trvání, zadejte číslo a podívejte se, na kterou měrnou jednotku se převede.</mrk></target>
+        </trans-unit>
+        <trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>The number 5 is converted to 5 hrs, if the unit of measure is hours.</source><seg-source><mrk mtype="seg" mid="145">The number 5 is converted to 5 hrs, if the unit of measure is hours.</mrk></seg-source><target><mrk mtype="seg" mid="145">Číslo 5 se převede na 5 hodin, pokud je měrnou jednotkou hodiny.</mrk></target>
+        </trans-unit>
+        <trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>Using Date Formulas</source><seg-source><mrk mtype="seg" mid="146">Using Date Formulas</mrk></seg-source><target><mrk mtype="seg" mid="146">Použití vzorců dat</mrk></target>
+        </trans-unit>
+        <trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>A date formula is a short, abbreviated combination of letters and numbers that specifies how to calculate dates.</source><seg-source><mrk mtype="seg" mid="147">A date formula is a short, abbreviated combination of letters and numbers that specifies how to calculate dates.</mrk></seg-source><target><mrk mtype="seg" mid="147">Vzorec data je krátká, zkrácená kombinace písmen a číslic, která určuje, jak vypočítat data.</mrk></target>
+        </trans-unit>
+        <trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>You can enter date formulas in various date calculation fields and in recurring frequency fields in recurring journals.</source><seg-source><mrk mtype="seg" mid="148">You can enter date formulas in various date calculation fields and in recurring frequency fields in recurring journals.</mrk></seg-source><target><mrk mtype="seg" mid="148">Vzorce data můžete zadat do různých polí pro výpočet data a do opakujících se frekvenčních polí v opakujících se denících.</mrk></target>
+        </trans-unit>
+        <trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>In all data formula fields, one day is automatically included to cover today as the day when the period starts.</source><seg-source><mrk mtype="seg" mid="149">In all data formula fields, one day is automatically included to cover today as the day when the period starts.</mrk></seg-source><target><mrk mtype="seg" mid="149">Ve všech polích vzorců dat je jeden den automaticky zahrnut jako den, kdy začíná období.</mrk></target>
+        </trans-unit>
+        <trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>Accordingly, if you enter 1W, for example, then the period is actually eight days because today is included.</source><seg-source><mrk mtype="seg" mid="150">Accordingly, if you enter 1W, for example, then the period is actually eight days because today is included.</mrk></seg-source><target><mrk mtype="seg" mid="150">Pokud tedy například zadáte 1W, pak je tato doba ve skutečnosti osm dní, protože je zahrnuta i dnes.</mrk></target>
+        </trans-unit>
+        <trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>To specify a period of seven days (one true week) including the period starting date, then you must enter 6D or 1W-1D.</source><seg-source><mrk mtype="seg" mid="151">To specify a period of seven days (one true week) including the period starting date, then you must enter 6D or 1W-1D.</mrk></seg-source><target><mrk mtype="seg" mid="151">Chcete-li určit období sedmi dnů (jeden skutečný týden) včetně data začátku období, musíte zadat 6D nebo 1W-1D.</mrk></target>
+        </trans-unit>
+        <trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>Here are some examples of how date formulas can be used:</source><seg-source><mrk mtype="seg" mid="152">Here are some examples of how date formulas can be used:</mrk></seg-source><target><mrk mtype="seg" mid="152">Zde je několik příkladů, jak lze použít vzorce:</mrk></target>
+        </trans-unit>
+        <trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>The date formula in the recurring frequency field in recurring journals determines how often the entry on the journal line will be posted.</source><seg-source><mrk mtype="seg" mid="153">The date formula in the recurring frequency field in recurring journals determines how often the entry on the journal line will be posted.</mrk></seg-source><target><mrk mtype="seg" mid="153">Vzorec data v poli frekvence periody v periodických denících určuje, jak často bude položka na řádku deníku zaúčtována.</mrk></target>
+        </trans-unit>
+        <trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>The date formula in the Grace Period field for a specified reminder level determines the period of time that must pass from the due date (or from the date of the previous reminder) before a reminder will be created.</source><seg-source><mrk mtype="seg" mid="154">The date formula in the Grace Period field for a specified reminder level determines the period of time that must pass from the due date (or from the date of the previous reminder) before a reminder will be created.</mrk></seg-source><target><mrk mtype="seg" mid="154">Vzorec data v poli Lhůta odkladu pro určenou úroveň upomínky určuje časové období, které musí uplynout od data splatnosti (nebo od data předchozí upomínky) před vytvořením upomínky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>The date formula in the Due Date Calculation field determines how to calculate the due date on the reminder.</source><seg-source><mrk mtype="seg" mid="155">The date formula in the Due Date Calculation field determines how to calculate the due date on the reminder.</mrk></seg-source><target><mrk mtype="seg" mid="155">Vzorec data v poli Výpočet splatnosti určuje, jak vypočítat datum splatnosti pro připomenutí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>The date calculation formula can contain a maximum of 20 characters, both numbers and letters.</source><seg-source><mrk mtype="seg" mid="156">The date calculation formula can contain a maximum of 20 characters, both numbers and letters.</mrk></seg-source><target><mrk mtype="seg" mid="156">Vzorec pro výpočet data může obsahovat maximálně 20 znaků, číslic i písmen.</mrk></target>
+        </trans-unit>
+        <trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>You can use the following letters, which are abbreviations for time specifications.</source><seg-source><mrk mtype="seg" mid="157">You can use the following letters, which are abbreviations for time specifications.</mrk></seg-source><target><mrk mtype="seg" mid="157">Pro specifikaci času můžete použít následující písmena, která jsou zkratkami.</mrk></target>
+        </trans-unit>
+        <trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>C</source><seg-source><mrk mtype="seg" mid="158">C</mrk></seg-source><target><mrk mtype="seg" mid="158">C</mrk></target>
+        </trans-unit>
+        <trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>Current</source><seg-source><mrk mtype="seg" mid="159">Current</mrk></seg-source><target><mrk mtype="seg" mid="159">Aktuální</mrk></target>
+        </trans-unit>
+        <trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>D</source><seg-source><mrk mtype="seg" mid="160">D</mrk></seg-source><target><mrk mtype="seg" mid="160">D</mrk></target>
+        </trans-unit>
+        <trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>Day(s)</source><seg-source><mrk mtype="seg" mid="161">Day(s)</mrk></seg-source><target><mrk mtype="seg" mid="161">Den (dny)</mrk></target>
+        </trans-unit>
+        <trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>W</source><seg-source><mrk mtype="seg" mid="162">W</mrk></seg-source><target><mrk mtype="seg" mid="162">W</mrk></target>
+        </trans-unit>
+        <trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>Week(s)</source><seg-source><mrk mtype="seg" mid="163">Week(s)</mrk></seg-source><target><mrk mtype="seg" mid="163">Týden (týdny)</mrk></target>
+        </trans-unit>
+        <trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>M</source><seg-source><mrk mtype="seg" mid="164">M</mrk></seg-source><target><mrk mtype="seg" mid="164">M</mrk></target>
+        </trans-unit>
+        <trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>Month(s)</source><seg-source><mrk mtype="seg" mid="165">Month(s)</mrk></seg-source><target><mrk mtype="seg" mid="165">Měsíc (měsíce)</mrk></target>
+        </trans-unit>
+        <trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>Q</source><seg-source><mrk mtype="seg" mid="166">Q</mrk></seg-source><target><mrk mtype="seg" mid="166">Q</mrk></target>
+        </trans-unit>
+        <trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>Quarter(s)</source><seg-source><mrk mtype="seg" mid="167">Quarter(s)</mrk></seg-source><target><mrk mtype="seg" mid="167">Čtvrtletí</mrk></target>
+        </trans-unit>
+        <trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>Y</source><seg-source><mrk mtype="seg" mid="168">Y</mrk></seg-source><target><mrk mtype="seg" mid="168">Y</mrk></target>
+        </trans-unit>
+        <trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>Year(s)</source><seg-source><mrk mtype="seg" mid="169">Year(s)</mrk></seg-source><target><mrk mtype="seg" mid="169">Rok (roky)</mrk></target>
+        </trans-unit>
+        <trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>You can construct a date formula in three ways.</source><seg-source><mrk mtype="seg" mid="170">You can construct a date formula in three ways.</mrk></seg-source><target><mrk mtype="seg" mid="170">Vzorec data můžete vytvořit třemi způsoby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>The following example shows how current plus a time unit.</source><seg-source><mrk mtype="seg" mid="171">The following example shows how current plus a time unit.</mrk></seg-source><target><mrk mtype="seg" mid="171">Následující příklad ukazuje, jak se dá vytvořit datum pomocí C-aktuální a časové jednotky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="272" translate="yes" xml:space="preserve">
+          <source>CW</source><seg-source><mrk mtype="seg" mid="172">CW</mrk></seg-source><target><mrk mtype="seg" mid="172">CW</mrk></target>
+        </trans-unit>
+        <trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>Current week</source><seg-source><mrk mtype="seg" mid="173">Current week</mrk></seg-source><target><mrk mtype="seg" mid="173">Aktuální týden</mrk></target>
+        </trans-unit>
+        <trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>CM</source><seg-source><mrk mtype="seg" mid="174">CM</mrk></seg-source><target><mrk mtype="seg" mid="174">CM</mrk></target>
+        </trans-unit>
+        <trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>Current month</source><seg-source><mrk mtype="seg" mid="175">Current month</mrk></seg-source><target><mrk mtype="seg" mid="175">Aktuální měsíc</mrk></target>
+        </trans-unit>
+        <trans-unit id="276" translate="yes" xml:space="preserve">
+          <source>The following example shows how a number and a time unit.</source><seg-source><mrk mtype="seg" mid="176">The following example shows how a number and a time unit.</mrk></seg-source><target><mrk mtype="seg" mid="176">Následující příklad ukazuje, jak se dá vytvořit datum pomocí čísla a časové jednotky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="277" translate="yes" xml:space="preserve">
+          <source>A number cannot be larger than 9999.</source><seg-source><mrk mtype="seg" mid="177">A number cannot be larger than 9999.</mrk></seg-source><target><mrk mtype="seg" mid="177">Číslo nesmí být větší než 9999.</mrk></target>
+        </trans-unit>
+        <trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>10D</source><seg-source><mrk mtype="seg" mid="178">10D</mrk></seg-source><target><mrk mtype="seg" mid="178">10D</mrk></target>
+        </trans-unit>
+        <trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>10 days from today</source><seg-source><mrk mtype="seg" mid="179">10 days from today</mrk></seg-source><target><mrk mtype="seg" mid="179">10 dnů od dnešního dne</mrk></target>
+        </trans-unit>
+        <trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>2W</source><seg-source><mrk mtype="seg" mid="180">2W</mrk></seg-source><target><mrk mtype="seg" mid="180">2W</mrk></target>
+        </trans-unit>
+        <trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>2 weeks from today</source><seg-source><mrk mtype="seg" mid="181">2 weeks from today</mrk></seg-source><target><mrk mtype="seg" mid="181">2 týdny od dnešního dne</mrk></target>
+        </trans-unit>
+        <trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>The following example shows how a time unit and a number.</source><seg-source><mrk mtype="seg" mid="182">The following example shows how a time unit and a number.</mrk></seg-source><target><mrk mtype="seg" mid="182">Následující příklad ukazuje, jak se dá vytvořit datum pomocí časové jednotky a čísla.</mrk></target>
+        </trans-unit>
+        <trans-unit id="283" translate="yes" xml:space="preserve">
+          <source>D10</source><seg-source><mrk mtype="seg" mid="183">D10</mrk></seg-source><target><mrk mtype="seg" mid="183">D10</mrk></target>
+        </trans-unit>
+        <trans-unit id="284" translate="yes" xml:space="preserve">
+          <source>The next 10th day of a month</source><seg-source><mrk mtype="seg" mid="184">The next 10th day of a month</mrk></seg-source><target><mrk mtype="seg" mid="184">Dalšího 10. dne v měsíci</mrk></target>
+        </trans-unit>
+        <trans-unit id="285" translate="yes" xml:space="preserve">
+          <source>WD4</source><seg-source><mrk mtype="seg" mid="185">WD4</mrk></seg-source><target><mrk mtype="seg" mid="185">WD4</mrk></target>
+        </trans-unit>
+        <trans-unit id="286" translate="yes" xml:space="preserve">
+          <source>The next 4th day of a week (Thursday)</source><seg-source><mrk mtype="seg" mid="186">The next 4th day of a week (Thursday)</mrk></seg-source><target><mrk mtype="seg" mid="186">Další 4. den v týdnu (čtvrtek)</mrk></target>
+        </trans-unit>
+        <trans-unit id="287" translate="yes" xml:space="preserve">
+          <source>The following example shows how you can combine these three forms as needed.</source><seg-source><mrk mtype="seg" mid="187">The following example shows how you can combine these three forms as needed.</mrk></seg-source><target><mrk mtype="seg" mid="187">Následující příklad ukazuje, jak můžete tyto tři formy kombinovat podle potřeby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="288" translate="yes" xml:space="preserve">
+          <source>CM+10D</source><seg-source><mrk mtype="seg" mid="188">CM+10D</mrk></seg-source><target><mrk mtype="seg" mid="188">CM+10D</mrk></target>
+        </trans-unit>
+        <trans-unit id="289" translate="yes" xml:space="preserve">
+          <source>Current month + 10 days</source><seg-source><mrk mtype="seg" mid="189">Current month + 10 days</mrk></seg-source><target><mrk mtype="seg" mid="189">Aktuální měsíc + 10 dní</mrk></target>
+        </trans-unit>
+        <trans-unit id="290" translate="yes" xml:space="preserve">
+          <source>The following example shows how you can use a minus sign to indicate a date in the past.</source><seg-source><mrk mtype="seg" mid="190">The following example shows how you can use a minus sign to indicate a date in the past.</mrk></seg-source><target><mrk mtype="seg" mid="190">Následující příklad ukazuje, jak můžete použít znaménko mínus k označení data v minulosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="291" translate="yes" xml:space="preserve">
+          <source>-1Y</source><seg-source><mrk mtype="seg" mid="191">-1Y</mrk></seg-source><target><mrk mtype="seg" mid="191">-1Y</mrk></target>
+        </trans-unit>
+        <trans-unit id="292" translate="yes" xml:space="preserve">
+          <source>1 year ago from today</source><seg-source><mrk mtype="seg" mid="192">1 year ago from today</mrk></seg-source><target><mrk mtype="seg" mid="192">Před 1 rokem od dnešního dne</mrk></target>
+        </trans-unit>
+        <trans-unit id="293" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="193">See Also</mrk></seg-source><target><mrk mtype="seg" mid="193">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="294" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Searching, Filtering, and Sorting Data<ept id="p1">](ui-enter-criteria-filters.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="194">Searching, Filtering, and Sorting Data</mrk><ept id="p1">](ui-enter-criteria-filters.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="194">Vyhledávání, Filtrování a Řazení dat</mrk><ept id="p1">](ui-enter-criteria-filters.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="295" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="195">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="195">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
