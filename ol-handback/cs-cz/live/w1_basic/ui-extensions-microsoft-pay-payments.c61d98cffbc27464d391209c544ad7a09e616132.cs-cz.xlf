@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="ui-extensions-microsoft-pay-payments.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-b1d70e6" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">79e532dd8cba1daf34362f7050d320778b23c85f</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\ui-extensions-microsoft-pay-payments.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f99ac9404e164bffe2dd5a59294fedc99851a31a</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a78e9e74a368e588e6bd61417130d701c1df0f56</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Microsoft Pay Standard| Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Microsoft Pay Standard| Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Microsoft Pay Standard | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Provides information about the Microsoft Pay extension</source><seg-source><mrk mtype="seg" mid="2">Provides information about the Microsoft Pay extension</mrk></seg-source><target><mrk mtype="seg" mid="2">Poskytuje informace o rozšíření Microsoft Pay</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>The Microsoft Pay Extension</source><seg-source><mrk mtype="seg" mid="3">The Microsoft Pay Extension</mrk></seg-source><target><mrk mtype="seg" mid="3">Rozšíření Microsoft Pay</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Customers continuously require higher customer service, both in terms of the quality of product but also in terms of delivery and payment services.</source><seg-source><mrk mtype="seg" mid="4">Customers continuously require higher customer service, both in terms of the quality of product but also in terms of delivery and payment services.</mrk></seg-source><target><mrk mtype="seg" mid="4">Zákazníci neustále vyžadují vyšší zákaznický servis, a to jak z hlediska kvality produktu, tak i z hlediska dodacích a platebních služeb.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The Microsoft Pay service helps you increase your customer service.</source><seg-source><mrk mtype="seg" mid="5">The Microsoft Pay service helps you increase your customer service.</mrk></seg-source><target><mrk mtype="seg" mid="5">Služba Microsoft Pay vám pomůže zvýšit zákaznický servis.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>The Microsoft Pay extension adds a Microsoft Pay link to your sales documents so customers can easily pay using Microsoft Pay.</source><seg-source><mrk mtype="seg" mid="6">The Microsoft Pay extension adds a Microsoft Pay link to your sales documents so customers can easily pay using Microsoft Pay.</mrk></seg-source><target><mrk mtype="seg" mid="6">Rozšíření Microsoft Pay přidá do vašich prodejních dokumentů odkaz Microsoft Pay, takže zákazníci mohou snadno platit pomocí Microsoft Pay.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Then you can send the documents by email to provide higher customer service and shorten the time it takes for customers’ payments to arrive on your bank account.</source><seg-source><mrk mtype="seg" mid="7">Then you can send the documents by email to provide higher customer service and shorten the time it takes for customers’ payments to arrive on your bank account.</mrk></seg-source><target><mrk mtype="seg" mid="7">Poté můžete dokumenty odeslat e-mailem, abyste poskytli vyšší zákaznický servis a zkrátili dobu potřebnou k tomu, aby platby zákazníků dorazily na váš bankovní účet.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>The Microsoft Pay extension provides the following benefits:</source><seg-source><mrk mtype="seg" mid="8">The Microsoft Pay extension provides the following benefits:</mrk></seg-source><target><mrk mtype="seg" mid="8">Rozšíření Microsoft Pay poskytuje následující výhody:</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Customer payments appear faster on your bank account.</source><seg-source><mrk mtype="seg" mid="9">Customer payments appear faster on your bank account.</mrk></seg-source><target><mrk mtype="seg" mid="9">Platby zákazníků se na vašem bankovním účtu zobrazují rychleji.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Customers have more ways to pay invoices.</source><seg-source><mrk mtype="seg" mid="10">Customers have more ways to pay invoices.</mrk></seg-source><target><mrk mtype="seg" mid="10">Zákazníci mají více způsobů, jak platit faktury.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Microsoft Pay offers a trustworthy payment service, which customers prefer to entering credit card information on unknown web sites.</source><seg-source><mrk mtype="seg" mid="11">Microsoft Pay offers a trustworthy payment service, which customers prefer to entering credit card information on unknown web sites.</mrk></seg-source><target><mrk mtype="seg" mid="11">Microsoft Pay nabízí důvěryhodnou platební službu, kterou zákazníci upřednostňují zadávání informací o kreditní kartě na neznámých webových stránkách.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Microsoft Pay offers multiple ways of handling payments, including credit card processing, such as PayPal and Stripe.</source><seg-source><mrk mtype="seg" mid="12">Microsoft Pay offers multiple ways of handling payments, including credit card processing, such as PayPal and Stripe.</mrk></seg-source><target><mrk mtype="seg" mid="12">Microsoft Pay nabízí několik způsobů zpracování plateb, včetně zpracování kreditní karty, například PayPal a Stripe.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>The Microsoft Pay link can be embedded automatically on every invoice document or by the user.</source><seg-source><mrk mtype="seg" mid="13">The Microsoft Pay link can be embedded automatically on every invoice document or by the user.</mrk></seg-source><target><mrk mtype="seg" mid="13">Odkaz Microsoft Pay může být automaticky nebo uživatelem vložen do každého fakturačního dokumentu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Because this functionality is built as an extension, it gives you full control to enable it when and if your business processes require it.</source><seg-source><mrk mtype="seg" mid="14">Because this functionality is built as an extension, it gives you full control to enable it when and if your business processes require it.</mrk></seg-source><target><mrk mtype="seg" mid="14">Protože je tato funkce vytvořena jako rozšíření, poskytuje vám plnou kontrolu když je to možné a pokud to vaše obchodní procesy vyžadují.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Enabling payment service extensions is free in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>, however, you will need to contact the payment service to get an account.</source><seg-source><mrk mtype="seg" mid="15">Enabling payment service extensions is free in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>, however, you will need to contact the payment service to get an account.</mrk></seg-source><target><mrk mtype="seg" mid="15">Povolení rozšíření platebních služeb je zdarma, v <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> pro získání účtu však budete muset kontaktovat platební službu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Enable Customer Payment Through Payment Services<ept id="p1">](sales-how-enable-payment-service-extensions.md)</ept>.</source><seg-source><mrk mtype="seg" mid="16">For more information, see <bpt id="p1">[</bpt>Enable Customer Payment Through Payment Services<ept id="p1">](sales-how-enable-payment-service-extensions.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="16">Pro více informací navštivte (odkaz) <bpt id="p1">[</bpt>Povolení plateb zákazníkům prostřednictvím platebních služeb<ept id="p1">](sales-how-enable-payment-service-extensions.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="17">See Also</mrk></seg-source><target><mrk mtype="seg" mid="17">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Customizing <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Using Extensions<ept id="p1">](ui-extensions.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="18">Customizing <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Using Extensions</mrk><ept id="p1">](ui-extensions.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="18">Přizpůsobení <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Pomocí rozšíření</mrk><ept id="p1">](ui-extensions.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Sales<ept id="p1">](sales-setup-sales.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="19">Setting Up Sales</mrk><ept id="p1">](sales-setup-sales.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="19">Nastavení Prodeje</mrk><ept id="p1">](sales-setup-sales.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="20">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="20">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

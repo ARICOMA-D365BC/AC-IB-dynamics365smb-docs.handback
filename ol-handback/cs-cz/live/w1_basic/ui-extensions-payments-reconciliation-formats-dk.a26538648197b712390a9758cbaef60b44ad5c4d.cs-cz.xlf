@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="ui-extensions-payments-reconciliation-formats-dk.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-964a5eb" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3834dc62ca5b2c66ecc59bc43331b4c6a2523ec0</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\ui-extensions-payments-reconciliation-formats-dk.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a7e0141ae37b33b83a6ebb18f940458c9b9dc524</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fd307a47e1dd931a2611d4f35d033dae704a7993</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Using the Payments and Reconciliations (DK) Extension | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Using the Payments and Reconciliations (DK) Extension | Microsoft Docs</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="1">Používání rozšíření Payments and Reconciliations (DK) | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>This extension makes it easy to export files that are pre-formatted to meet bank requirements for electronic submissions.</source><seg-source><mrk mtype="seg" mid="2">This extension makes it easy to export files that are pre-formatted to meet bank requirements for electronic submissions.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="2">Toto rozšíření usnadňuje export souborů, které jsou předem naformátovány tak, aby splňovaly bankovní požadavky na elektronická podání.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>The Payments and Reconciliations (DK) Extension for Microsoft Dynamics for Business Central</source><seg-source><mrk mtype="seg" mid="3">The Payments and Reconciliations (DK) Extension for Microsoft Dynamics for Business Central</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="3">Rozšíření Paymants and Reconciliations (DK) pro Microsoft Dynamics for Business Central</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Make fast, error-free payments by exporting files that are formatted specifically for exchanges with your vendor or bank.</source><seg-source><mrk mtype="seg" mid="4">Make fast, error-free payments by exporting files that are formatted specifically for exchanges with your vendor or bank.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="4">Proveďte rychlé a bezchybné platby exportováním souborů, které jsou speciálně formátovány pro výměny s dodavatelem nebo bankou.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>These files speed up the payment and reconciliation processes, and eliminate errors that can happen when you manually enter the information on a bank website.</source><seg-source><mrk mtype="seg" mid="5">These files speed up the payment and reconciliation processes, and eliminate errors that can happen when you manually enter the information on a bank website.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="5">Tyto soubory urychlují procesy platby a odsouhlasení a eliminují chyby, ke kterým může dojít, když ručně zadáváte informace na webové stránce banky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This extension supports file formats for several Danish banks.</source><seg-source><mrk mtype="seg" mid="6">This extension supports file formats for several Danish banks.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="6">Toto rozšíření podporuje formáty souborů pro několik dánských bank.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>When you export payment information to a file, the extension packages the data into the format that your bank requires.</source><seg-source><mrk mtype="seg" mid="7">When you export payment information to a file, the extension packages the data into the format that your bank requires.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Při exportu platebních údajů do souboru rozšíření doplní data do formátu, který vaše banka vyžaduje.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>For example, the formats include Bankdata-V3, BEC, SDC, and FIK, which many different banks use, and some that are more specialized for certain banks, for example, Danske Bank and Nordea.</source><seg-source><mrk mtype="seg" mid="8">For example, the formats include Bankdata-V3, BEC, SDC, and FIK, which many different banks use, and some that are more specialized for certain banks, for example, Danske Bank and Nordea.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="8">Formáty například zahrnují Bankdata-V3, BEC, SDC and FIK, které používá mnoho různých bank, a některé, které jsou více specializovány pro určité banky, například Danske Bank a Nordea.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>The extension also includes some formats for importing and reconciling bank statements.</source><seg-source><mrk mtype="seg" mid="9">The extension also includes some formats for importing and reconciling bank statements.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="9">Rozšíření také zahrnuje některé formáty pro import a odslouhlasení bankovních výpisů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>To use the extension, you must know the format that your bank or vendor requires.</source><seg-source><mrk mtype="seg" mid="10">To use the extension, you must know the format that your bank or vendor requires.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="10">Chcete-li toto rozšíření používat, musíte znát formát, který vaše banka nebo prodejce vyžaduje.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Some banks or vendors provide this information on their websites; however, you might need to contact their customer service to get the information.</source><seg-source><mrk mtype="seg" mid="11">Some banks or vendors provide this information on their websites; however, you might need to contact their customer service to get the information.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">Některé banky nebo prodejci poskytují tyto informace na svých webových stránkách, ale možná budete muset kontaktovat jejich zákaznický servis, abyste získali tyto informace.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Supported Bank Formats</source><seg-source><mrk mtype="seg" mid="12">Supported Bank Formats</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="12">Podporované formáty bank</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>This extension can apply the following file formats for payment files:</source><seg-source><mrk mtype="seg" mid="13">This extension can apply the following file formats for payment files:</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="13">Toto rozšíření může pro platební soubory použít následující formáty souborů:</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>BANKDATA-V3</source><seg-source><mrk mtype="seg" mid="14">BANKDATA-V3</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="14">BANKDATA-V3</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>BEC-INDLAND</source><seg-source><mrk mtype="seg" mid="15">BEC-INDLAND</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="15">BEC-INDLAND</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>BEC-CSV</source><seg-source><mrk mtype="seg" mid="16">BEC-CSV</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="16">BEC-CSV</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>DANSKEBANK-CMKV</source><seg-source><mrk mtype="seg" mid="17">DANSKEBANK-CMKV</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="17">DANSKEBANK-CMKV</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>DANSKEBANK-CMKXKSX</source><seg-source><mrk mtype="seg" mid="18">DANSKEBANK-CMKXKSX</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="18">DANSKEBANK-CMKXKSX</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>DANSKEBANK</source><seg-source><mrk mtype="seg" mid="19">DANSKEBANK</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="19">DANSKEBANK</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>FIK71</source><seg-source><mrk mtype="seg" mid="20">FIK71</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="20">FIK71</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>NORDEA-ERHVERV-CSV</source><seg-source><mrk mtype="seg" mid="21">NORDEA-ERHVERV-CSV</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="21">NORDEA-ERHVERV-CSV</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>NORDEA</source><seg-source><mrk mtype="seg" mid="22">NORDEA</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="22">NORDEA</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>NORDEA-UNITEL-V3</source><seg-source><mrk mtype="seg" mid="23">NORDEA-UNITEL-V3</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="23">NORDEA-UNITEL-V3</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>SDC</source><seg-source><mrk mtype="seg" mid="24">SDC</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="24">SDC</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>SDC-CSV</source><seg-source><mrk mtype="seg" mid="25">SDC-CSV</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="25">SDC-CVS</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>To set up the extension</source><seg-source><mrk mtype="seg" mid="26">To set up the extension</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="26">Pro nastavení rozšíření</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>There are a few steps to get started.</source><seg-source><mrk mtype="seg" mid="27">There are a few steps to get started.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="27">Začněte několika kroky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Allow payment data exports.</source><seg-source><mrk mtype="seg" mid="28">Allow payment data exports.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="28">Povolte export platebních údajů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>To help protect your data, this is not readily available.</source><seg-source><mrk mtype="seg" mid="29">To help protect your data, this is not readily available.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="29">Toto není snadno dostupné z důvodu ochrany vašich dat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Set up purchase and payables so that you do not require external document numbers on invoices.</source><seg-source><mrk mtype="seg" mid="30">Set up purchase and payables so that you do not require external document numbers on invoices.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="30">Nastavte nákup a závazky tak, abyste na fakturách nevyžadovali externí čísla dokumentů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>If needed, you can use the reference number to refer to a specific invoice.</source><seg-source><mrk mtype="seg" mid="31">If needed, you can use the reference number to refer to a specific invoice.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="31">V případě potřeby můžete použít referenční číslo pro odkaz na konkrétní fakturu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Specify the payment method for each vendor.</source><seg-source><mrk mtype="seg" mid="32">Specify the payment method for each vendor.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="32">Zadejte způsob platby pro každého dodavatele.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Payment methods define how you pay invoices from the vendor.</source><seg-source><mrk mtype="seg" mid="33">Payment methods define how you pay invoices from the vendor.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="33">Způsoby platby definují, jak zaplatíte faktury od dodavatele.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>For example, Bank, Cash, Check, or Account.</source><seg-source><mrk mtype="seg" mid="34">For example, Bank, Cash, Check, or Account.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="34">Například banka, hotovost, šek nebo účet.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Specify the type of format to use for each of your bank accounts.</source><seg-source><mrk mtype="seg" mid="35">Specify the type of format to use for each of your bank accounts.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="35">Určete typ formátu, který se použije pro každý z vašich bankovních účtů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>For example, NORDEA, DANSKEBANK, SDC, and so on.</source><seg-source><mrk mtype="seg" mid="36">For example, NORDEA, DANSKEBANK, SDC, and so on.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="36">Například NORDEA, DANSKEBANK, SDC atd.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Additionally, you must assign vendors to a domestic <bpt id="p1">**</bpt>Gen. Bus. Posting Group<ept id="p1">**</ept> and a <bpt id="p2">**</bpt>Vendor Posting Group<ept id="p2">**</ept>.</source><seg-source><mrk mtype="seg" mid="37">Additionally, you must assign vendors to a domestic <bpt id="p1">**</bpt>Gen.</mrk> <mrk mtype="seg" mid="38">Bus. Posting Group<ept id="p1">**</ept> and a <bpt id="p2">**</bpt>Vendor Posting Group<ept id="p2">**</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="37">Kromě toho musíte přiřadit dodavatele k domácí <bpt id="p1">**</bpt>Obecné</mrk> <mrk mtype="seg" mid="38">obch.účto<ept id="p1">**</ept> skupině a k <bpt id="p2">**</bpt>Účto skupině dodatavatele<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>The Country/Region setting for the vendor must be Denmark (DK).</source><seg-source><mrk mtype="seg" mid="39">The Country/Region setting for the vendor must be Denmark (DK).</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="39">Nastavení země/oblasti pro dodavatele musí být Dánsko (DK). </mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Setting Up Posting Groups<ept id="p1">](finance-posting-groups.md)</ept>.</source><seg-source><mrk mtype="seg" mid="40">For more information, see <bpt id="p1">[</bpt>Setting Up Posting Groups<ept id="p1">](finance-posting-groups.md)</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="40">Pro další informace navštivte <bpt id="p1">[</bpt>Nastavení skupin účtování<ept id="p1">](finance-posting-groups.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>To allow <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> to export payment data</source><seg-source><mrk mtype="seg" mid="41">To allow <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> to export payment data</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="41">Pro umožnění <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> exportovat data platby</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Payment Journal<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="42">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Payment Journal<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="42">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat Stránku nebo Sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, klikněte na <bpt id="p3">**</bpt>Deník plateb<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Edit Payment Journal<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>Bank<ept id="p2">**</ept> batch.</source><seg-source><mrk mtype="seg" mid="43">In the <bpt id="p1">**</bpt>Edit Payment Journal<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>Bank<ept id="p2">**</ept> batch.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="43">V okně <bpt id="p1">**</bpt>Upravit deník plateb<ept id="p1">**</ept> zvolte dávku <bpt id="p2">**</bpt>Banka<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>Allow Payment Export<ept id="p1">**</ept> check box.</source><seg-source><mrk mtype="seg" mid="44">Choose the <bpt id="p1">**</bpt>Allow Payment Export<ept id="p1">**</ept> check box.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="44">Zaškrtněte políčko <bpt id="p1">**</bpt>Povolen export úhrad<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>To specify a payment method for a vendor</source><seg-source><mrk mtype="seg" mid="45">To specify a payment method for a vendor</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="45">Pro určení způsobu platby pro dodavatele</mrk></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>The following table shows the combinations of FIK and GIRO payment methods that <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> supports.</source><seg-source><mrk mtype="seg" mid="46">The following table shows the combinations of FIK and GIRO payment methods that <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> supports.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="46">Následující tabulka ukazuje kombinace platebních metod FIK a ŽIRO, které <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> podporuje.</mrk></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Type 01</source><seg-source><mrk mtype="seg" mid="47">Type 01</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="47">Typ 01</mrk></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Type 04</source><seg-source><mrk mtype="seg" mid="48">Type 04</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="48">Typ 04</mrk></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Type 71</source><seg-source><mrk mtype="seg" mid="49">Type 71</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="49">Typ 71</mrk></target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Type 73</source><seg-source><mrk mtype="seg" mid="50">Type 73</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="50">Typ 73</mrk></target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Giro Account No. or FIK Creditor No.?</source><seg-source><mrk mtype="seg" mid="51">Giro Account No. or FIK Creditor No.?</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="51">Číslo žirového účtu nebo číslo FIK kreditora?</mrk></target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Giro Account No.</source><seg-source><mrk mtype="seg" mid="52">Giro Account No.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="52">Číslo žirového účtu</mrk></target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Giro Account No.</source><seg-source><mrk mtype="seg" mid="53">Giro Account No.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="53">Číslo žirového účtu</mrk></target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>FIK Creditor No.</source><seg-source><mrk mtype="seg" mid="54">FIK Creditor No.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="54">Číslo FIK kreditora</mrk></target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>FIK Creditor No.</source><seg-source><mrk mtype="seg" mid="55">FIK Creditor No.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="55">Číslo FIK kreditora</mrk></target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Allows Message to Recipient?</source><seg-source><mrk mtype="seg" mid="56">Allows Message to Recipient?</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="56">Umožňuje zprávu příjemci?</mrk></target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="57">Yes</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="57">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="58">No</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="58">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="59">No</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="59">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="60">Yes</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="60">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>Contains Payment Reference number?</source><seg-source><mrk mtype="seg" mid="61">Contains Payment Reference number?</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="61">Obsahuje referenční číslo platby?</mrk></target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="62">No</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="62">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>Yes, 16 digits.</source><seg-source><mrk mtype="seg" mid="63">Yes, 16 digits.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="63">Ano, 16 číslic.</mrk></target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>Yes, 15 digits.</source><seg-source><mrk mtype="seg" mid="64">Yes, 15 digits.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="64">Ano, 15 číslic.</mrk></target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="65">No</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="65">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Vendors<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="66">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Vendors<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="66">Vyberte ikonu <bpt id="p1">![</bpt>Hledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Hledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Dodavatelé<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>Open the card, expand the <bpt id="p1">**</bpt>Payments<ept id="p1">**</ept> tab, in the <bpt id="p2">**</bpt>Payment Method<ept id="p2">**</ept> field choose the payment method.</source><seg-source><mrk mtype="seg" mid="67">Open the card, expand the <bpt id="p1">**</bpt>Payments<ept id="p1">**</ept> tab, in the <bpt id="p2">**</bpt>Payment Method<ept id="p2">**</ept> field choose the payment method.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="67">Otevřete kartu, rozbalte záložku <bpt id="p1">**</bpt>Platby<ept id="p1">**</ept> a v poli <bpt id="p2">**</bpt>Způsob platby<ept id="p2">**</ept> zvolte způsob platby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>Depending on your selection, you must complete other fields.</source><seg-source><mrk mtype="seg" mid="68">Depending on your selection, you must complete other fields.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="68">V závislosti na vašem výběru musíte vyplnit další pole.</mrk></target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>See the table above for a description of the combinations.</source><seg-source><mrk mtype="seg" mid="69">See the table above for a description of the combinations.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="69">Popis kombinací viz tabulka výše.</mrk></target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>To specify the format to use for a bank account</source><seg-source><mrk mtype="seg" mid="70">To specify the format to use for a bank account</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="70">Pro určení formátu, který se použije pro bankovní účet</mrk></target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Bank Accounts<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="71">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Bank Accounts<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="71">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Bankovní účty<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>Open the card for the bank account.</source><seg-source><mrk mtype="seg" mid="72">Open the card for the bank account.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="72">Otevřete kartu pro bankovní účet.</mrk></target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Payment Export Format<ept id="p1">**</ept> field, choose the format for your export file.</source><seg-source><mrk mtype="seg" mid="73">In the <bpt id="p1">**</bpt>Payment Export Format<ept id="p1">**</ept> field, choose the format for your export file.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="73">V poli <bpt id="p1">**</bpt>Formát exportu plateb<ept id="p1">**</ept>, zvolte formát vašeho exportovaného souboru.</mrk></target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>Choosing the FIK or Giro payment information for vendor invoices</source><seg-source><mrk mtype="seg" mid="74">Choosing the FIK or Giro payment information for vendor invoices</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="74">Výběr platebních informací FIK nebo ŽIRO pro faktury dodavatele</mrk></target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Purchase Invoices<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="75">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Purchase Invoices<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="75">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Nákupní faktury<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>Choose the vendor.</source><seg-source><mrk mtype="seg" mid="76">Choose the vendor.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="76">Vyberte dodavatele.</mrk></target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>Remember, this must be a Danish vendor with an address in Denmark.</source><seg-source><mrk mtype="seg" mid="77">Remember, this must be a Danish vendor with an address in Denmark.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="77">Pamatujte, že se musí jednat o dánského prodejce s adresou v Dánsku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>Create an invoice.</source><seg-source><mrk mtype="seg" mid="78">Create an invoice.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="78">Vytvořte fakturu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Payment Method<ept id="p1">**</ept> and <bpt id="p2">**</bpt>Vendor Number<ept id="p2">**</ept> fields are filled in based on settings on the Vendor card.</source><seg-source><mrk mtype="seg" mid="79">The <bpt id="p1">**</bpt>Payment Method<ept id="p1">**</ept> and <bpt id="p2">**</bpt>Vendor Number<ept id="p2">**</ept> fields are filled in based on settings on the Vendor card.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="79">Pole <bpt id="p1">**</bpt>Způsob platby<ept id="p1">**</ept> a <bpt id="p2">**</bpt>Číslo dodavatele<ept id="p2">**</ept> jsou vyplněna na základě nastavení v kartě dodavatele.</mrk></target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>You can change them if you want.</source><seg-source><mrk mtype="seg" mid="80">You can change them if you want.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="80">Můžete je změnit, pokud chcete.</mrk></target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Payment Reference<ept id="p1">**</ept> field, enter the 15-digit number from the vendor invoice.</source><seg-source><mrk mtype="seg" mid="81">In the <bpt id="p1">**</bpt>Payment Reference<ept id="p1">**</ept> field, enter the 15-digit number from the vendor invoice.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="81">Do pole <bpt id="p1">**</bpt>Platební reference<ept id="p1">**</ept> zadejte 15místné číslo z faktury dodavatele.</mrk></target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>You only have to add the last 11 digits of the number.</source><seg-source><mrk mtype="seg" mid="82">You only have to add the last 11 digits of the number.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="82">Musíte přidat pouze posledních 11 číslic tohoto čísla.</mrk></target>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> will add four zeros to the beginning of the number.</source><seg-source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="83">will add four zeros to the beginning of the number.</mrk></seg-source><target state="translated"><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="83">přidá čtyři nuly na začátek čísla.</mrk></target>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>Post the invoice.</source><seg-source><mrk mtype="seg" mid="84">Post the invoice.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="84">Zaúčtujte fakturu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>To use the extension to export payment data</source><seg-source><mrk mtype="seg" mid="85">To use the extension to export payment data</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="85">Pro použití rozšíření pro export dat platby</mrk></target>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Payment Journals<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="86">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Payment Journals<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="86">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat Stránku nebo Sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, klikněte na <bpt id="p3">**</bpt>Deník plateb<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>Suggest Vendor Payment Journals<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="87">Choose the <bpt id="p1">**</bpt>Suggest Vendor Payment Journals<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="87">Vyberte akci <bpt id="p1">**</bpt>Navrhnout platební deníky dodavatele<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>If you want to export only specific payments, use the options for filtering the data.</source><seg-source><mrk mtype="seg" mid="88">If you want to export only specific payments, use the options for filtering the data.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="88">Pokud chcete exportovat pouze konkrétní platby, použijte možnosti filtrování dat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>If needed, you can add filters to export only specific payments.</source><seg-source><mrk mtype="seg" mid="89">If needed, you can add filters to export only specific payments.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="89">V případě potřeby můžete přidat filtry a exportovat pouze konkrétní platby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Bank Payment Type<ept id="p1">**</ept> field, choose <bpt id="p2">**</bpt>Electronic Payment<ept id="p2">**</ept>.</source><seg-source><mrk mtype="seg" mid="90">In the <bpt id="p1">**</bpt>Bank Payment Type<ept id="p1">**</ept> field, choose <bpt id="p2">**</bpt>Electronic Payment<ept id="p2">**</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="90">V poli <bpt id="p1">**</bpt>Typ platby v bance<ept id="p1">**</ept> Zvolte <bpt id="p2">**</bpt>Elektronická platba<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>Export<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="91">Choose the <bpt id="p1">**</bpt>Export<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="91">Zvolte akci <bpt id="p1">**</bpt>Exportovat<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>See also</source><seg-source><mrk mtype="seg" mid="92">See also</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="92">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Customizing Business Central for <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Using Extensions<ept id="p1">](ui-extensions.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="93">Customizing Business Central for <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Using Extensions</mrk><ept id="p1">](ui-extensions.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="93">Přizpůsobení Business Central pro <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> pomocí rozšíření</mrk><ept id="p1">](ui-extensions.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create SEPA Direct Debit Collection Entries and Export to a Bank File<ept id="p1">](finance-how-create-sepa-direct-debit-collection-entries-export-bank-file.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="94">Create SEPA Direct Debit Collection Entries and Export to a Bank File</mrk><ept id="p1">](finance-how-create-sepa-direct-debit-collection-entries-export-bank-file.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="94">Vytvoření záznamu SEPA – příkaz k inkasu a jeho export do bankovního souboru</mrk><ept id="p1">](finance-how-create-sepa-direct-debit-collection-entries-export-bank-file.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up SEPA Direct Debit<ept id="p1">](finance-how-to-set-up-sepa-direct-debit.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="95">Set Up SEPA Direct Debit</mrk><ept id="p1">](finance-how-to-set-up-sepa-direct-debit.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="95">Nastavení SEPA – příkaz k inkasu</mrk><ept id="p1">](finance-how-to-set-up-sepa-direct-debit.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Post SEPA Direct Debit Payment Receipts<ept id="p1">](finance-how-to-post-sepa-direct-debit-payment-receipts.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="96">Post SEPA Direct Debit Payment Receipts</mrk><ept id="p1">](finance-how-to-post-sepa-direct-debit-payment-receipts.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="96">Účtování přijaté platby SEPA – příkaz k inkasu</mrk><ept id="p1">](finance-how-to-post-sepa-direct-debit-payment-receipts.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Collecting Payments with SEPA Direct Debit<ept id="p1">](finance-collect-payments-with-sepa-direct-debit.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="97">Collecting Payments with SEPA Direct Debit</mrk><ept id="p1">](finance-collect-payments-with-sepa-direct-debit.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="97">Sběr plateb pomocí SEPA – příkaz k inkasu</mrk><ept id="p1">](finance-collect-payments-with-sepa-direct-debit.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with General Journals<ept id="p1">](ui-work-general-journals.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="98">Working with General Journals</mrk><ept id="p1">](ui-work-general-journals.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="98">Práce s finančními deníky</mrk><ept id="p1">](ui-work-general-journals.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
