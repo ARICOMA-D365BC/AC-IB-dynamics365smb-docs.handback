@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="ui-extensions-quickbooks-data-migration.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-964a5eb" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9c08ef61b9534cd3f826cd5ff7f088c1d199ee57</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\ui-extensions-quickbooks-data-migration.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ae7bad69f73fc59617a1a305070ed381817309c5</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e0998f5f91bf5b2ec85e01ca312e610d5f480dd3</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Using the QuickBooks Migration Extension | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Using the QuickBooks Migration Extension | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Použití rozšíření QuickBooks Migration | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Describes how to use the extension to import customers, vendors, items, and accounts from QuickBooks Desktop to Business Central.</source><seg-source><mrk mtype="seg" mid="2">Describes how to use the extension to import customers, vendors, items, and accounts from QuickBooks Desktop to Business Central.</mrk></seg-source><target><mrk mtype="seg" mid="2">Popisuje jak používat rozšíření k importaci zákazníků, dodavatelů, zboží a účtů z QuickBooks Desktop do Business Central.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>The QuickBooks Data Migration Extension for Business Central</source><seg-source><mrk mtype="seg" mid="3">The QuickBooks Data Migration Extension for Business Central</mrk></seg-source><target><mrk mtype="seg" mid="3">Rozšíření Quickbooks Data Migration pro Business Central</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This extension makes it easy to migrate customers, vendors, items, and accounts from QuickBooks to <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</source><seg-source><mrk mtype="seg" mid="4">This extension makes it easy to migrate customers, vendors, items, and accounts from QuickBooks to <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</mrk></seg-source><target><mrk mtype="seg" mid="4">Toto rozšíření usnadňuje migraci zákazníků, dodavatelů, zboží a účtů z QuickBooks na <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>If your business uses QuickBooks today, you can export the relevant information and then open an assisted setup guide to upload the data to <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</source><seg-source><mrk mtype="seg" mid="5">If your business uses QuickBooks today, you can export the relevant information and then open an assisted setup guide to upload the data to <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</mrk></seg-source><target><mrk mtype="seg" mid="5">Pokud vaše firma používá QuickBooks, můžete exportovat příslušné informace skrz průvodce asistovaného nastavení a poté data uložit do <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Importing Business Data from Other Finance Systems<ept id="p1">](across-import-data-configuration-packages.md)</ept>.</source><seg-source><mrk mtype="seg" mid="6">For more information, see <bpt id="p1">[</bpt>Importing Business Data from Other Finance Systems<ept id="p1">](across-import-data-configuration-packages.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="6">Pro více informací navštivte <bpt id="p1">[</bpt>Import obchodních dat z jiných finančních systémů<ept id="p1">](across-import-data-configuration-packages.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Exporting Data from QuickBooks Desktop</source><seg-source><mrk mtype="seg" mid="7">Exporting Data from QuickBooks Desktop</mrk></seg-source><target><mrk mtype="seg" mid="7">Exportování dat z QuickBooks Desktop</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>You must have exported some or all of your existing customers, vendors, inventory items, and accounts to an Intuit Interchange Format (IIF) file.</source><seg-source><mrk mtype="seg" mid="8">You must have exported some or all of your existing customers, vendors, inventory items, and accounts to an Intuit Interchange Format (IIF) file.</mrk></seg-source><target><mrk mtype="seg" mid="8">Musíte exportovat některé nebo všechny vaše stávající zákazníky, dodavatele, skladové položky a účty do souboru Intuit Interchange Format (IIF).</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>The QuickBooks Data Migration extension includes a default mapping of QuickBooks data so that you can use your existing data to test your new <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> company.</source><seg-source><mrk mtype="seg" mid="9">The QuickBooks Data Migration extension includes a default mapping of QuickBooks data so that you can use your existing data to test your new <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> company.</mrk></seg-source><target><mrk mtype="seg" mid="9">Rozšíření migrace dat QuickBooks obsahuje výchozí mapování dat QuickBooks, takže můžete použít vaše stávající data k testování vaší nové <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>společnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>The default mapping will be sufficient in the vast majority of cases, but you can change the mapping in the assisted setup guide.</source><seg-source><mrk mtype="seg" mid="10">The default mapping will be sufficient in the vast majority of cases, but you can change the mapping in the assisted setup guide.</mrk></seg-source><target><mrk mtype="seg" mid="10">Ve většině případů bude výchozí mapování dostatečné, ale mapování můžete změnit v průvodci asistovaného nastavení.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>In QuickBooks, the File menu includes a utility to export lists.</source><seg-source><mrk mtype="seg" mid="11">In QuickBooks, the File menu includes a utility to export lists.</mrk></seg-source><target><mrk mtype="seg" mid="11">V QuickBooks, nabídka Soubor obsahuje nástroj pro export seznamů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>For the purposes of <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, you can export the following lists:</source><seg-source><mrk mtype="seg" mid="12">For the purposes of <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, you can export the following lists:</mrk></seg-source><target><mrk mtype="seg" mid="12">Pro účely <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> můžete exportovat následující seznamy:</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Customer List</source><seg-source><mrk mtype="seg" mid="13">Customer List</mrk></seg-source><target><mrk mtype="seg" mid="13">Seznam zákazníků</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Vendor List</source><seg-source><mrk mtype="seg" mid="14">Vendor List</mrk></seg-source><target><mrk mtype="seg" mid="14">Seznam dodavatelů</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Item List</source><seg-source><mrk mtype="seg" mid="15">Item List</mrk></seg-source><target><mrk mtype="seg" mid="15">Seznam zboží</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Account List</source><seg-source><mrk mtype="seg" mid="16">Account List</mrk></seg-source><target><mrk mtype="seg" mid="16">Seznam účtů</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>The exported data is saved as an IIF file that you can then upload to <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</source><seg-source><mrk mtype="seg" mid="17">The exported data is saved as an IIF file that you can then upload to <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</mrk></seg-source><target><mrk mtype="seg" mid="17">Exportovaná data jsou uložena jako IIF soubor a poté nahrána do <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Finding the QuickBooks Data Migration Extension</source><seg-source><mrk mtype="seg" mid="18">Finding the QuickBooks Data Migration Extension</mrk></seg-source><target><mrk mtype="seg" mid="18">Vyhledání rozšíření QuickBooks Data Migration</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>The QuickBooks Data Migration extension is installed and ready to go as an integrated part of the Data Migration assisted setup guide.</source><seg-source><mrk mtype="seg" mid="19">The QuickBooks Data Migration extension is installed and ready to go as an integrated part of the Data Migration assisted setup guide.</mrk></seg-source><target><mrk mtype="seg" mid="19">Rozšíření QuickBooks Data Migration je nainstalováno a připraveno k použítí jako integrovaná část asistovaného průvodce nastavením Data Migration.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>If you are ready to get started now, and have exported your data from QuickBooks, choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Assisted Setup<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="20">If you are ready to get started now, and have exported your data from QuickBooks, choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Assisted Setup<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="20">Pokud jste připraveni začít hned teď a exportovali jste svá data z QuickBooks, zvolte ikonu <bpt id="p1">![</bpt>Hledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Hledat stránku nebo ikonu sestavy<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Asistované nastaven<ept id="p3">**</ept>í a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Choose <bpt id="p1">**</bpt>Migrate business data<ept id="p1">**</ept>, and then follow the steps in the guide.</source><seg-source><mrk mtype="seg" mid="21">Choose <bpt id="p1">**</bpt>Migrate business data<ept id="p1">**</ept>, and then follow the steps in the guide.</mrk></seg-source><target><mrk mtype="seg" mid="21">Vyberte možnost <bpt id="p1">**</bpt>Migrovat obchodní data<ept id="p1">**</ept> a poté postupujte podle pokynů v průvodci.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="22">See Also</mrk></seg-source><target><mrk mtype="seg" mid="22">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Importing Business Data from Other Finance Systems<ept id="p1">](upload-data.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="23">Importing Business Data from Other Finance Systems</mrk><ept id="p1">](upload-data.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="23">Import obchodních dat z jiných finančních systémů.</mrk><ept id="p1">](upload-data.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Customizing <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> Using Extensions <ept id="p1">](ui-extensions.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="24">Customizing <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> Using Extensions</mrk> <ept id="p1">](ui-extensions.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="24">Přizpůsobení <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> Pomocí rozšíření</mrk> <ept id="p1">](ui-extensions.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
