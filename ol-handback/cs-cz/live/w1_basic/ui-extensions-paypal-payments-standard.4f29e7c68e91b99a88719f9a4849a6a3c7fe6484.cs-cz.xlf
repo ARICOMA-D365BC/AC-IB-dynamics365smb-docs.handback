@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="ui-extensions-paypal-payments-standard.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-964a5eb" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">abf1bb87c623179b146ff7ad69731a937c47056d</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\ui-extensions-paypal-payments-standard.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">12b13c31a1f0fc49159de119836987db6e45a20f</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">78d84770cdc4253b873c211d1d9a8c155e4ae7c8</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Using the PayPal Payments Standard Extension | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Using the PayPal Payments Standard Extension | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Používání standardního rozšíření Paypal Payments | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Describes how to use the extension to enable customers to make payments with PayPal.</source><seg-source><mrk mtype="seg" mid="2">Describes how to use the extension to enable customers to make payments with PayPal.</mrk></seg-source><target><mrk mtype="seg" mid="2">Popisuje, jak rozšíření používat, aby zákazníci mohli provádět platby pomocí PayPal.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>The PayPal Payments Standard Extension to Business Central</source><seg-source><mrk mtype="seg" mid="3">The PayPal Payments Standard Extension to Business Central</mrk></seg-source><target><mrk mtype="seg" mid="3">Rozšíření PayPal Payments Standard pro Business Central</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Customers continuously require higher customer service, both in terms of product quality but also in terms of delivery and payment options.</source><seg-source><mrk mtype="seg" mid="4">Customers continuously require higher customer service, both in terms of product quality but also in terms of delivery and payment options.</mrk></seg-source><target><mrk mtype="seg" mid="4">Zákazníci neustále vyžadují vyšší zákaznický servis, a to jak z hlediska kvality produktu, tak i z hlediska dodacích a platebních možností.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The PayPal Payments Standard service helps you increase your customer service.</source><seg-source><mrk mtype="seg" mid="5">The PayPal Payments Standard service helps you increase your customer service.</mrk></seg-source><target><mrk mtype="seg" mid="5">Služba PayPal Payments Standard vám pomůže zvýšit zákaznický servis.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>As an alternative to collecting payments through bank transfer or credit cards, you can offer your customers to pay you through their PayPal account.</source><seg-source><mrk mtype="seg" mid="6">As an alternative to collecting payments through bank transfer or credit cards, you can offer your customers to pay you through their PayPal account.</mrk></seg-source><target><mrk mtype="seg" mid="6">Jako alternativu k inkasu plateb bankovním převodem nebo kreditními kartami můžete svým zákazníkům nabídnout, aby vám zaplatili prostřednictvím jejich účtu PayPal.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>When you send a sales invoice or sales order by email, there is a PayPal link in the email body and in the attached PDF document.</source><seg-source><mrk mtype="seg" mid="7">When you send a sales invoice or sales order by email, there is a PayPal link in the email body and in the attached PDF document.</mrk></seg-source><target><mrk mtype="seg" mid="7">Když odešlete prodejní nebo prodejní objednávku e-mailem, v těle e-mailu a přiloženém dokumentu PDF je odkaz PayPal.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>When the customer chooses the link, the service page for their PayPal account appears showing the payment details for the sale.</source><seg-source><mrk mtype="seg" mid="8">When the customer chooses the link, the service page for their PayPal account appears showing the payment details for the sale.</mrk></seg-source><target><mrk mtype="seg" mid="8">Když si zákazník vybere odkaz, zobrazí se servisní stránka pro jeho účet PayPal, kde jsou uvedeny platební údaje za prodej.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>The customer can then pay the invoice as any other PayPal payment.</source><seg-source><mrk mtype="seg" mid="9">The customer can then pay the invoice as any other PayPal payment.</mrk></seg-source><target><mrk mtype="seg" mid="9">Zákazník pak může zaplatit fakturu jako jakoukoli jinou platbu PayPal.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>The PayPal Payments Standard service provides the following benefits:</source><seg-source><mrk mtype="seg" mid="10">The PayPal Payments Standard service provides the following benefits:</mrk></seg-source><target><mrk mtype="seg" mid="10">Služba PayPal Payments Standard poskytuje následující výhody:</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Customer payments arrive faster in your bank account.</source><seg-source><mrk mtype="seg" mid="11">Customer payments arrive faster in your bank account.</mrk></seg-source><target><mrk mtype="seg" mid="11">Platby zákazníků přicházejí na váš bankovní účet rychleji.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Customers have more ways to pay invoices.</source><seg-source><mrk mtype="seg" mid="12">Customers have more ways to pay invoices.</mrk></seg-source><target><mrk mtype="seg" mid="12">Zákazníci mají více způsobů, jak platit faktury.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>PayPal offers a trustworthy payment service, which customers prefer to entering credit card information on web sites.</source><seg-source><mrk mtype="seg" mid="13">PayPal offers a trustworthy payment service, which customers prefer to entering credit card information on web sites.</mrk></seg-source><target><mrk mtype="seg" mid="13">PayPal nabízí důvěryhodnou platební službu, kterou zákazníci upřednostňují před zadáváním informací o kreditní kartě na webových stránkách.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>PayPal offers multiple ways of handling payments, including credit card processing, PayPal accounts, and other sources.</source><seg-source><mrk mtype="seg" mid="14">PayPal offers multiple ways of handling payments, including credit card processing, PayPal accounts, and other sources.</mrk></seg-source><target><mrk mtype="seg" mid="14">PayPal nabízí několik způsobů zpracování plateb, včetně zpracování kreditní karty, PayPal účtů a dalších zdrojů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>The PayPal link can be added automatically to sales documents or manually by the user.</source><seg-source><mrk mtype="seg" mid="15">The PayPal link can be added automatically to sales documents or manually by the user.</mrk></seg-source><target><mrk mtype="seg" mid="15">Odkaz PayPal může být přidán automaticky do prodejních dokladů nebo ruřně uživatelem.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>The PayPal Payments Standard service does not involve monthly fees or setup fees.</source><seg-source><mrk mtype="seg" mid="16">The PayPal Payments Standard service does not involve monthly fees or setup fees.</mrk></seg-source><target><mrk mtype="seg" mid="16">Služba PayPal Payments Standard nezahrnuje měsíční ani instalační poplatky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Because it is an extension, you can easily enable the PayPal Payment Standard service when and if your business requires it.</source><seg-source><mrk mtype="seg" mid="17">Because it is an extension, you can easily enable the PayPal Payment Standard service when and if your business requires it.</mrk></seg-source><target><mrk mtype="seg" mid="17">Protože se jedná o rozšíření, můžete snadno povolit službu PayPal Payment Standard, kdykoli to vaše firma vyžaduje.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Enable Customer Payment Through PayPal<ept id="p1">](sales-how-enable-payment-service-extensions.md)</ept>.</source><seg-source><mrk mtype="seg" mid="18">For more information, see <bpt id="p1">[</bpt>Enable Customer Payment Through PayPal<ept id="p1">](sales-how-enable-payment-service-extensions.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="18">Pro další informace navštivte <bpt id="p1">[</bpt>Povolte platby zákazníkům prostřednictvím služby PayPal<ept id="p1">](sales-how-enable-payment-service-extensions.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="19">See Also</mrk></seg-source><target><mrk mtype="seg" mid="19">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Customizing <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Using Extensions<ept id="p1">](ui-extensions.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="20">Customizing <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Using Extensions</mrk><ept id="p1">](ui-extensions.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="20">Přizpůsobení <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Pomocí rozšíření</mrk><ept id="p1">](ui-extensions.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Sales<ept id="p1">](sales-setup-sales.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="21">Setting Up Sales</mrk><ept id="p1">](sales-setup-sales.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="21">Nastavení prodeje</mrk><ept id="p1">](sales-setup-sales.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="22">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="22">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

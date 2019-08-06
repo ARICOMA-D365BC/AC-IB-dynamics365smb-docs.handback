@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="ui-accessibility.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-435fba6" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">bdb9eab2c23d8f1eacafd77433f621275c3dfdf1</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\ui-accessibility.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f6ebe3c202ea39f5227cd2e9ce134ce12db8ec12</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">283e8447f77481e3f359aac936c06c0685fc4cbe</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Assistive features</source><seg-source><mrk mtype="seg" mid="1">Assistive features</mrk></seg-source><target><mrk mtype="seg" mid="1">Pomocné funkce</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Keyboard shortcuts and other assistive features.</source><seg-source><mrk mtype="seg" mid="2">Keyboard shortcuts and other assistive features.</mrk></seg-source><target><mrk mtype="seg" mid="2">Klávesové zkratky a další pomocné funkce.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Accessibility and Keyboard Shortcuts in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph></source><seg-source><mrk mtype="seg" mid="3">Accessibility and Keyboard Shortcuts in</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph></seg-source><target><mrk mtype="seg" mid="3">Přístupnost a klávesové zkratky v systému Windows</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This topic provides information about the features that make <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> readily available to people with disabilities.</source><seg-source><mrk mtype="seg" mid="4">This topic provides information about the features that make <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> readily available to people with disabilities.</mrk></seg-source><target><mrk mtype="seg" mid="4">Toto téma poskytuje informace o funkcích, které jsou snadno v <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> dostupné lidem se zdravotním postižením.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> supports the following accessibility features:</source><seg-source><ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="5">supports the following accessibility features:</mrk></seg-source><target><ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="5">podporuje následující funkce usnadnění přístupu:</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Keyboard shortcuts</source><seg-source><mrk mtype="seg" mid="6">Keyboard shortcuts</mrk></seg-source><target><mrk mtype="seg" mid="6">Klávesové zkratky</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Keyboard Shortcuts<ept id="p1">](keyboard-shortcuts.md)</ept></source><seg-source><mrk mtype="seg" mid="7">For more information, see <bpt id="p1">[</bpt>Keyboard Shortcuts<ept id="p1">](keyboard-shortcuts.md)</ept></mrk></seg-source><target><mrk mtype="seg" mid="7">Pro více informací navštivte <bpt id="p1">[</bpt>Klávesové zkratky<ept id="p1">](keyboard-shortcuts.md)</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Navigation</source><seg-source><mrk mtype="seg" mid="8">Navigation</mrk></seg-source><target><mrk mtype="seg" mid="8">Navigace</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Headings</source><seg-source><mrk mtype="seg" mid="9">Headings</mrk></seg-source><target><mrk mtype="seg" mid="9">Záhlaví</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Alternative text for images and links</source><seg-source><mrk mtype="seg" mid="10">Alternative text for images and links</mrk></seg-source><target><mrk mtype="seg" mid="10">Alternativní text pro obrázky a odkazy</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Support for common assistive technologies</source><seg-source><mrk mtype="seg" mid="11">Support for common assistive technologies</mrk></seg-source><target><mrk mtype="seg" mid="11">Podpora běžných asistenčních technologií</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a name="Navigation"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> Navigation</source><seg-source><bpt id="p1">&lt;a name="Navigation"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> <mrk mtype="seg" mid="12">Navigation</mrk></seg-source><target><bpt id="p1">&lt;a name="Navigation"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> <mrk mtype="seg" mid="12">Navigace</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>You can navigate between the tabs and actions in the ribbon, elements in the navigation bar, and other controls on <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> pages and reports using the keyboard.</source><seg-source><mrk mtype="seg" mid="13">You can navigate between the tabs and actions in the ribbon, elements in the navigation bar, and other controls on <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> pages and reports using the keyboard.</mrk></seg-source><target><mrk mtype="seg" mid="13">Můžete procházet mezi kartami a akcemi na pásu karet, prvky v navigačním panelu a dalšími ovládacími prvky na stránkách <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> a v sestavách pomocí klávesnice.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>To move the focus from one tab, action, or control to another, press the Tab key to move forward.</source><seg-source><mrk mtype="seg" mid="14">To move the focus from one tab, action, or control to another, press the Tab key to move forward.</mrk></seg-source><target><mrk mtype="seg" mid="14">Chcete-li přesunout výběr z jedné karty, akce nebo ovládacího prvku na jiný, stiskněte klávesu Tab pro posun vpřed.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Press Shift+Tab to move backward.</source><seg-source><mrk mtype="seg" mid="15">Press Shift+Tab to move backward.</mrk></seg-source><target><mrk mtype="seg" mid="15">Stiskněte Shift + Tab pro posun zpět.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>By using the tab order, you can also switch between the main browser page and dialog boxes that request confirmation, for example, or the login page.</source><seg-source><mrk mtype="seg" mid="16">By using the tab order, you can also switch between the main browser page and dialog boxes that request confirmation, for example, or the login page.</mrk></seg-source><target><mrk mtype="seg" mid="16">Pomocí pořadí karet můžete také přepínat mezi hlavním stránkou prohlížeče a dialogovými okny, která vyžadují potvrzení, jako je například přihlašovací stránka.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a name="Headings"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> Headings</source><seg-source><bpt id="p1">&lt;a name="Headings"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> <mrk mtype="seg" mid="17">Headings</mrk></seg-source><target><bpt id="p1">&lt;a name="Headings"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> <mrk mtype="seg" mid="17">Záhlaví</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>The HTML source for <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> content uses tags to help users of assistive technology to understand the structure and content of the page.</source><seg-source><mrk mtype="seg" mid="18">The HTML source for <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> content uses tags to help users of assistive technology to understand the structure and content of the page.</mrk></seg-source><target><mrk mtype="seg" mid="18">Zdroj HTML obsahu <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> používá značky, které pomáhají uživatelům asistivních technologií pochopit strukturu a obsah stránky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>For example, on list pages, the columns are defined in TH tags and the column headings are set with TITLE attribute inside the tag.</source><seg-source><mrk mtype="seg" mid="19">For example, on list pages, the columns are defined in TH tags and the column headings are set with TITLE attribute inside the tag.</mrk></seg-source><target><mrk mtype="seg" mid="19">Například na stránkách seznamů jsou sloupce definovány ve značkách TH a záhlaví sloupců jsou nastavena s atributem TITLE uvnitř značky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Captions for elements, such as FastTabs, FactBoxes, and fields are included in heading tags (H1, H2, H3, and H4).</source><seg-source><mrk mtype="seg" mid="20">Captions for elements, such as FastTabs, FactBoxes, and fields are included in heading tags (H1, H2, H3, and H4).</mrk></seg-source><target><mrk mtype="seg" mid="20">V záhlaví značek (H1, H2, H3 a H4) jsou zahrnuty titulky pro prvky, jako jsou Pevné záložky, Okna s fakty a pole.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a name="Images"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> Image and Links</source><seg-source><bpt id="p1">&lt;a name="Images"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> <mrk mtype="seg" mid="21">Image and Links</mrk></seg-source><target><bpt id="p1">&lt;a name="Images"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> <mrk mtype="seg" mid="21">Obrázek a odkazy</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>A descriptive text for images is set with the ALT attribute inside the IMG tag.</source><seg-source><mrk mtype="seg" mid="22">A descriptive text for images is set with the ALT attribute inside the IMG tag.</mrk></seg-source><target><mrk mtype="seg" mid="22">Popisný text pro obrázky je nastaven s atributem ALT uvnitř značky IMG.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>A descriptive text for hyperlinks is set with the title attribute inside the A tag.</source><seg-source><mrk mtype="seg" mid="23">A descriptive text for hyperlinks is set with the title attribute inside the A tag.</mrk></seg-source><target><mrk mtype="seg" mid="23">Popisný text pro hypertextové odkazy je nastaven s atributem title uvnitř značky A.</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a name="AssistiveTech"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> Assistive Technologies</source><seg-source><bpt id="p1">&lt;a name="AssistiveTech"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> <mrk mtype="seg" mid="24">Assistive Technologies</mrk></seg-source><target><bpt id="p1">&lt;a name="AssistiveTech"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> <mrk mtype="seg" mid="24">Pomocné technologie</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> supports various assistive technologies, such as high contrast, screen readers, and voice recognition software.</source><seg-source><ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="25">supports various assistive technologies, such as high contrast, screen readers, and voice recognition software.</mrk></seg-source><target><ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="25">podporuje různé asistenční technologie, jako je vysoký kontrast, čtečky obrazovky a software pro rozpoznávání hlasu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Some assistive technologies may not work well with certain elements in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> pages.</source><seg-source><mrk mtype="seg" mid="26">Some assistive technologies may not work well with certain elements in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> pages.</mrk></seg-source><target><mrk mtype="seg" mid="26">Některé asistenční technologie nemusí u některých prvků na stránkách <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> fungovat správně.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>For more accessibility information</source><seg-source><mrk mtype="seg" mid="27">For more accessibility information</mrk></seg-source><target><mrk mtype="seg" mid="27">Pro více informací o usnadnění přístupu</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>You can find additional information about accessibility with Microsoft products and assistive technologies on the <bpt id="p1">[</bpt>Microsoft Accessibility<ept id="p1">](https://go.microsoft.com/fwlink/?LinkId=262160)</ept> site.</source><seg-source><mrk mtype="seg" mid="28">You can find additional information about accessibility with Microsoft products and assistive technologies on the <bpt id="p1">[</bpt>Microsoft Accessibility<ept id="p1">](https://go.microsoft.com/fwlink/?LinkId=262160)</ept> site.</mrk></seg-source><target><mrk mtype="seg" mid="28">Další informace o usnadnění přístupu k produktům společnosti Microsoft a pomocným technologiím naleznete na webu <bpt id="p1">[</bpt>Microsoft Accessibility<ept id="p1">](https://go.microsoft.com/fwlink/?LinkId=262160)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="29">See Also</mrk></seg-source><target><mrk mtype="seg" mid="29">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Getting Started<ept id="p1">](product-get-started.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="30">Getting Started</mrk><ept id="p1">](product-get-started.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="30">Začínáme</mrk><ept id="p1">](product-get-started.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="31">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="31">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Frequently Asked Questions<ept id="p1">](across-faq.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="32">Frequently Asked Questions</mrk><ept id="p1">](across-faq.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="32">Často kladené otázky</mrk><ept id="p1">](across-faq.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

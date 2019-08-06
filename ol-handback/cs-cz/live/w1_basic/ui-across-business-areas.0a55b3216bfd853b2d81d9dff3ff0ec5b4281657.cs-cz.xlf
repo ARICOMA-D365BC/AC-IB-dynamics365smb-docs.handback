@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="ui-across-business-areas.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-5ae97a8" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ac385409d72fea4ee43f7549a86da3516a299608</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\ui-across-business-areas.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0242ed5ae04af06f572f7e4c6cd0d9ece0e51cb4</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7bd03a0346892e3989baffc2d51234fda429c69e</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Using General Functionality Across Business Areas | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Using General Functionality Across Business Areas | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Používání obecných funkcí napříč obchodními oblastmi | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Learn about the functionality and features that are used across business areas in Business Central .</source><seg-source><mrk mtype="seg" mid="2">Learn about the functionality and features that are used across business areas in Business Central .</mrk></seg-source><target><mrk mtype="seg" mid="2">Naučte se o funkcích a vlastnostech, které se používají ve všech obchodních oblastech Business Central.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>General Business Functionality</source><seg-source><mrk mtype="seg" mid="3">General Business Functionality</mrk></seg-source><target><mrk mtype="seg" mid="3">Obecná obchodní funkcionalita</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> provides dedicated functionality for typical business areas, such as finance and sales.</source><seg-source><ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="4">provides dedicated functionality for typical business areas, such as finance and sales.</mrk></seg-source><target><ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="4">poskytuje vyhrazenou funkcionalitu pro typické obchodní oblasti, jako jsou finance a prodej.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Business Functionality<ept id="p1">](across-business-functionality.md)</ept>.</source><seg-source><mrk mtype="seg" mid="5">For more information, see <bpt id="p1">[</bpt>Business Functionality<ept id="p1">](across-business-functionality.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="5">Pro více informací navštivte <bpt id="p1">[</bpt>Obchodní funkcionalitu<ept id="p1">](across-business-functionality.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>To support those business area-specific tasks, you can use a variety of general business functionality, such as defining extended text for document lines and organizing connecting business tasks in workflows.</source><seg-source><mrk mtype="seg" mid="6">To support those business area-specific tasks, you can use a variety of general business functionality, such as defining extended text for document lines and organizing connecting business tasks in workflows.</mrk></seg-source><target><mrk mtype="seg" mid="6">K podpoře těchto úkolů,specifických pro obchodní oblast, můžete použít celou řadu obecných obchodních funkcí, například definování rozšířeného textu pro řádky dokumentů a organizování propojení obchodních úkolů v pracovních postupech.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>In addition to the business-related functions described in this section, you will use general UI functions every day to interact with the system.</source><seg-source><mrk mtype="seg" mid="7">In addition to the business-related functions described in this section, you will use general UI functions every day to interact with the system.</mrk></seg-source><target><mrk mtype="seg" mid="7">Kromě funkcí souvisejících s podnikáním, popsaných v této části, budete pro interakci se systémem používat každý den také obecné funkce uživatelského rozhraní.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Working with Business Central<ept id="p1">](ui-work-product.md)</ept>.</source><seg-source><mrk mtype="seg" mid="8">For more information, see <bpt id="p1">[</bpt>Working with Business Central<ept id="p1">](ui-work-product.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="8">Další informace naleznete v části <bpt id="p1">[</bpt>Práce s Business Central<ept id="p1">](ui-work-product.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>The following table lists these general business areas with links to topics that describe them.</source><seg-source><mrk mtype="seg" mid="9">The following table lists these general business areas with links to topics that describe them.</mrk></seg-source><target><mrk mtype="seg" mid="9">V následující tabulce jsou uvedeny obecné oblasti podnikání s odkazy na témata, která je popisují.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>To</source><seg-source><mrk mtype="seg" mid="10">To</mrk></seg-source><target><mrk mtype="seg" mid="10">K</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>See</source><seg-source><mrk mtype="seg" mid="11">See</mrk></seg-source><target><mrk mtype="seg" mid="11">viz</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Add extra information to accounts, customers cards, or sales orders to communicate agreements, such as a special price or delivery method, to other users.</source><seg-source><mrk mtype="seg" mid="12">Add extra information to accounts, customers cards, or sales orders to communicate agreements, such as a special price or delivery method, to other users.</mrk></seg-source><target><mrk mtype="seg" mid="12">Přidejte další informace k účtům, zákaznickým kartám nebo prodejním objednávkám za účelem informování dalších uživatelů o dohodách, jako jsou zvláštní cena nebo způsob dodání.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Add Comments to Cards and Documents<ept id="p1">](across-how-use-comments.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="13">Add Comments to Cards and Documents</mrk><ept id="p1">](across-how-use-comments.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="13">Přidávání komentářů ke kartám a dokumentům</mrk><ept id="p1">](across-how-use-comments.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>View ongoing, posted, or archived documents that are related to sales and purchase order lines.</source><seg-source><mrk mtype="seg" mid="14">View ongoing, posted, or archived documents that are related to sales and purchase order lines.</mrk></seg-source><target><mrk mtype="seg" mid="14">Zobrazte probíhající, zaúčtované nebo archivované dokumenty, které souvisejí s řádky prodeje a objednávky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Track Document Lines<ept id="p1">](across-how-to-track-document-lines.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="15">Track Document Lines</mrk><ept id="p1">](across-how-to-track-document-lines.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="15">Sledování řádků dokumentů</mrk><ept id="p1">](across-how-to-track-document-lines.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Communicate the contents of business documents quickly to your business partners, such as the payment information on sales documents to customers.</source><seg-source><mrk mtype="seg" mid="16">Communicate the contents of business documents quickly to your business partners, such as the payment information on sales documents to customers.</mrk></seg-source><target><mrk mtype="seg" mid="16">Sdělte rychle obsah obchodních dokumentů svým obchodním partnerům, například platební informace o prodejních dokladech zákazníkům.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Send Documents by Email<ept id="p1">](ui-how-send-documents-email.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="17">Send Documents by Email</mrk><ept id="p1">](ui-how-send-documents-email.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="17">Odeslat dokumenty e-mailem</mrk><ept id="p1">](ui-how-send-documents-email.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Archive sales and purchase orders, quotes, return orders, and blanket orders, and you use the archived document to recreate the document that it was archived from.</source><seg-source><mrk mtype="seg" mid="18">Archive sales and purchase orders, quotes, return orders, and blanket orders, and you use the archived document to recreate the document that it was archived from.</mrk></seg-source><target><mrk mtype="seg" mid="18">Archivujte prodejní a nákupní objednávky, nabídky, vratky a paušální objednávky a pomocí archivovaného dokladu znovu vytvořte doklad, ze kterého byl archivován.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Archive Documents<ept id="p1">](across-how-to-archive-documents.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="19">Archive Documents</mrk><ept id="p1">](across-how-to-archive-documents.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="19">Archivovat doklady</mrk><ept id="p1">](across-how-to-archive-documents.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Set up standard text codes so you can extend standard text by adding extra lines, and set up conditions for use of the extra lines.</source><seg-source><mrk mtype="seg" mid="20">Set up standard text codes so you can extend standard text by adding extra lines, and set up conditions for use of the extra lines.</mrk></seg-source><target><mrk mtype="seg" mid="20">Nastavte standardní textové kódy, abyste mohli rozšířit standardní text přidáním dalších řádků a nastavit podmínky pro použití dalších řádků.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Add Extended Item Text<ept id="p1">](ui-how-define-ext-text.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="21">Add Extended Item Text</mrk><ept id="p1">](ui-how-define-ext-text.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="21">Přidat rozšířený text položky</mrk><ept id="p1">](ui-how-define-ext-text.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Create tasks to remind you of work to be done.</source><seg-source><mrk mtype="seg" mid="22">Create tasks to remind you of work to be done.</mrk></seg-source><target><mrk mtype="seg" mid="22">Vytvářejte úkoly, které vám připomenou práci, kterou je třeba udělat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>You can create tasks for yourself, but you can also assign tasks to others or be assigned a task by someone else in your organization.</source><seg-source><mrk mtype="seg" mid="23">You can create tasks for yourself, but you can also assign tasks to others or be assigned a task by someone else in your organization.</mrk></seg-source><target><mrk mtype="seg" mid="23">Úkoly si můžete vytvořit sami, ale můžete je také přiřadit ostatním nebo mohou být přiřazeny někým jiným ve vaší organizaci.</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Define User Tasks<ept id="p1">](across-user-tasks.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="24">Define User Tasks</mrk><ept id="p1">](across-user-tasks.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="24">Definice uživatelských úkolů</mrk><ept id="p1">](across-user-tasks.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Attach pictures, documents, and other types of files to all cards, such as the item card and job card, and attach files to all types of sales and purchase documents.</source><seg-source><mrk mtype="seg" mid="25">Attach pictures, documents, and other types of files to all cards, such as the item card and job card, and attach files to all types of sales and purchase documents.</mrk></seg-source><target><mrk mtype="seg" mid="25">Připojte obrázky, dokumenty a další typy souborů ke všem kartám, jako je například karta položky a karta úlohy, a připojte soubory ke všem typům prodejních a nákupních dokladů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Attach Files to Cards and Documents<ept id="p1">](across-attach-document-master-data.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="26">Attach Files to Cards and Documents</mrk><ept id="p1">](across-attach-document-master-data.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="26">Připojte soubory ke kartám a dokladům</mrk><ept id="p1">](across-attach-document-master-data.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Work with your Business Central data in Excel.</source><seg-source><mrk mtype="seg" mid="27">Work with your Business Central data in Excel.</mrk></seg-source><target><mrk mtype="seg" mid="27">Práce s daty Business Central v Excelu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Exporting Your Business Data to Excel<ept id="p1">](about-export-data.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="28">Exporting Your Business Data to Excel</mrk><ept id="p1">](about-export-data.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="28">Export vašich obchodních dat do Excelu</mrk><ept id="p1">](about-export-data.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Understand what happens when you choose the <bpt id="p1">**</bpt>Post<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="29">Understand what happens when you choose the <bpt id="p1">**</bpt>Post<ept id="p1">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="29">Pochopte, co se stane při volbě akce <bpt id="p1">**</bpt>Účtovat<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Posting Documents and Journals<ept id="p1">](ui-post-documents-journals.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="30">Posting Documents and Journals</mrk><ept id="p1">](ui-post-documents-journals.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="30">Účtování dokladů a deníků</mrk><ept id="p1">](ui-post-documents-journals.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Learn how to work with general journals, which are used to post to general ledger accounts and other accounts such as bank, customer, vendor, and fixed assets accounts.</source><seg-source><mrk mtype="seg" mid="31">Learn how to work with general journals, which are used to post to general ledger accounts and other accounts such as bank, customer, vendor, and fixed assets accounts.</mrk></seg-source><target><mrk mtype="seg" mid="31">Naučte se, jak pracovat s finančními deníky, které se používají k účtování na účty hlavní knihy a další účty, jako jsou účty bank, zákazníků, prodejců a dlouhodobých aktiv.</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with General Journals<ept id="p1">](ui-work-general-journals.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="32">Working with General Journals</mrk><ept id="p1">](ui-work-general-journals.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="32">Práce s finančními deníky</mrk><ept id="p1">](ui-work-general-journals.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Schedule a report to run at a specific date and time.</source><seg-source><mrk mtype="seg" mid="33">Schedule a report to run at a specific date and time.</mrk></seg-source><target><mrk mtype="seg" mid="33">Naplánujte spuštění sestavy v konkrétní datu a čase.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Scheduling a Report to Run<ept id="p1">](ui-work-report.md#ScheduleReport)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="34">Scheduling a Report to Run</mrk><ept id="p1">](ui-work-report.md#ScheduleReport)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="34">Plánování spuštění sestavy</mrk><ept id="p1">](ui-work-report.md#ScheduleReport)</ept></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Let the system help you complete tasks quicker and more correctly by prefilling fields or complete lines with data that you would otherwise have to calculate and enter yourself.</source><seg-source><mrk mtype="seg" mid="35">Let the system help you complete tasks quicker and more correctly by prefilling fields or complete lines with data that you would otherwise have to calculate and enter yourself.</mrk></seg-source><target><mrk mtype="seg" mid="35">Nechte systém vám pomoci rychleji a přesněji dokončit úkoly vyplněním polí nebo vyplněním řádků údaji, které byste jinak museli vypočítat a zadat sami.</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Letting Business Central Suggest Values<ept id="p1">](ui-let-system-suggest-values.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="36">Letting Business Central Suggest Values</mrk><ept id="p1">](ui-let-system-suggest-values.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="36">Nechat Business Central navrhovat hodnoty</mrk><ept id="p1">](ui-let-system-suggest-values.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Record external documents, including their file attachments, and then manually create the related documents or automatically convert the files to electronic documents.</source><seg-source><mrk mtype="seg" mid="37">Record external documents, including their file attachments, and then manually create the related documents or automatically convert the files to electronic documents.</mrk></seg-source><target><mrk mtype="seg" mid="37">Zaznamenejte externí doklady včetně jejich příloh a poté ručně vytvořte související doklady nebo je automaticky převeďte na elektronické doklady.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Incoming Documents<ept id="p1">](across-income-documents.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="38">Incoming Documents</mrk><ept id="p1">](across-income-documents.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="38">Příchozí doklady</mrk><ept id="p1">](across-income-documents.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Set up and use workflows that connect tasks performed by different users or by the system, such as automatic posting.</source><seg-source><mrk mtype="seg" mid="39">Set up and use workflows that connect tasks performed by different users or by the system, such as automatic posting.</mrk></seg-source><target><mrk mtype="seg" mid="39">Nastavte a používejte pracovní postupy, které propojují úkoly prováděné různými uživateli nebo systémem, jako je například automatické účtování.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Requesting and granting approval to create or post documents are typical workflow steps.</source><seg-source><mrk mtype="seg" mid="40">Requesting and granting approval to create or post documents are typical workflow steps.</mrk></seg-source><target><mrk mtype="seg" mid="40">Typickým krokem pracovního postupu je vyžádání a udělení schválení k vytvoření nebo zaúčtování dokladů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Workflow<ept id="p1">](across-workflow.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="41">Workflow</mrk><ept id="p1">](across-workflow.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="41">Pracovní postupy</mrk><ept id="p1">](across-workflow.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Set up data exchange definitions so you can send and receive electronic documents.</source><seg-source><mrk mtype="seg" mid="42">Set up data exchange definitions so you can send and receive electronic documents.</mrk></seg-source><target><mrk mtype="seg" mid="42">Nastavte definice výměny dat, abyste mohli odesílat a přijímat elektronické doklady.</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Exchanging Data Electronically<ept id="p1">](across-data-exchange.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="43">Exchanging Data Electronically</mrk><ept id="p1">](across-data-exchange.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="43">Elektronická výměna dat</mrk><ept id="p1">](across-data-exchange.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="44">See Also</mrk></seg-source><target><mrk mtype="seg" mid="44">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="45">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="45">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Administration<ept id="p1">](admin-setup-and-administration.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="46">Administration</mrk><ept id="p1">](admin-setup-and-administration.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="46">Správa</mrk><ept id="p1">](admin-setup-and-administration.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

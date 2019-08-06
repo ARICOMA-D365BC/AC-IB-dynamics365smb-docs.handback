@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="ui-copy-paste.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-5ae97a8" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6f731940714a754275611026749afa4d79a94443</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\ui-copy-paste.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0549c55cd039dfb9151e04cee1696190794ce918</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">990d599f4b5c1b8c4cd19607fd403e0875736ed4</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Copy and paste data</source><seg-source><mrk mtype="seg" mid="1">Copy and paste data</mrk></seg-source><target><mrk mtype="seg" mid="1">Kopírujte a vkládejte data</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Copy fields and rows from Business Central pages and paste somewhere else.</source><seg-source><mrk mtype="seg" mid="2">Copy fields and rows from Business Central pages and paste somewhere else.</mrk></seg-source><target><mrk mtype="seg" mid="2">Zkopírujte pole a řádky ze stránek Business Central a vložte je někam jinam.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Copying and Pasting</source><seg-source><mrk mtype="seg" mid="3">Copying and Pasting</mrk></seg-source><target><mrk mtype="seg" mid="3">Kopírování a vkládání</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>You can copy one or more rows from a list or a single field on a page, and then paste what you copied into the same page, another page, or an external document (like Microsoft Excel and Outlook email).</source><seg-source><mrk mtype="seg" mid="4">You can copy one or more rows from a list or a single field on a page, and then paste what you copied into the same page, another page, or an external document (like Microsoft Excel and Outlook email).</mrk></seg-source><target><mrk mtype="seg" mid="4">Můžete zkopírovat jeden nebo více řádků ze seznamu nebo jednoho pole na stránce a potom vložit zkopírovaný obsah na stejnou stránku, jinou stránku nebo externí dokument (například e-mail Microsoft Excel a Outlook).</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>In short, to copy, you press CTRL+C (cmd+C in macOS) on your keyboard.</source><seg-source><mrk mtype="seg" mid="5">In short, to copy, you press CTRL+C (cmd+C in macOS) on your keyboard.</mrk></seg-source><target><mrk mtype="seg" mid="5">Stručně řečeno, chcete-li kopírovat, stiskněte klávesy CTRL + C (cmd + C v MacOS) na klávesnici.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>To paste, you press CTRL+V (cmd+V in macOS).</source><seg-source><mrk mtype="seg" mid="6">To paste, you press CTRL+V (cmd+V in macOS).</mrk></seg-source><target><mrk mtype="seg" mid="6">Chcete-li vložit, stiskněte klávesy CTRL + V (cmd + V v systému MacOS).</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>There are several other keyboard shortcuts for copying and pasting that help you save time when entering data.</source><seg-source><mrk mtype="seg" mid="7">There are several other keyboard shortcuts for copying and pasting that help you save time when entering data.</mrk></seg-source><target><mrk mtype="seg" mid="7">Existuje několik dalších klávesových zkratek pro kopírování a vkládání, které vám ušetří čas při zadávání dat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>For more information about these, see <bpt id="p1">[</bpt>Keyboard Shortcuts<ept id="p1">](keyboard-shortcuts.md#CopyRows)</ept>.</source><seg-source><mrk mtype="seg" mid="8">For more information about these, see <bpt id="p1">[</bpt>Keyboard Shortcuts<ept id="p1">](keyboard-shortcuts.md#CopyRows)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="8">Pro více informací navštivte <bpt id="p1">[</bpt>Klávesové zkratky<ept id="p1">](keyboard-shortcuts.md#CopyRows)</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>This article answers common questions you might have about copying and pasting.</source><seg-source><mrk mtype="seg" mid="9">This article answers common questions you might have about copying and pasting.</mrk></seg-source><target><mrk mtype="seg" mid="9">Tento článek odpovídá na běžné otázky týkající se kopírování a vkládání.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>What can I copy and paste?</source><seg-source><mrk mtype="seg" mid="10">What can I copy and paste?</mrk></seg-source><target><mrk mtype="seg" mid="10">Co mohu kopírovat a vložit?</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Copy one or more rows in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> to the same list, or to any list with identical columns.</source><seg-source><mrk mtype="seg" mid="11">Copy one or more rows in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> to the same list, or to any list with identical columns.</mrk></seg-source><target><mrk mtype="seg" mid="11">Zkopírujte jeden nebo více řádků v <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> do stejného seznamu nebo do libovolného seznamu se stejnými sloupci.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Copy one or more rows in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> and paste into Excel or other applications.</source><seg-source><mrk mtype="seg" mid="12">Copy one or more rows in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> and paste into Excel or other applications.</mrk></seg-source><target><mrk mtype="seg" mid="12">Zkopírujte jeden nebo více řádků v <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> a vložte je do Excelu nebo jiných aplikací.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Copy one or more rows in Excel and paste into a <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> list.</source><seg-source><mrk mtype="seg" mid="13">Copy one or more rows in Excel and paste into a <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> list.</mrk></seg-source><target><mrk mtype="seg" mid="13">Zkopírujte jeden nebo více řádků v Excelu a vložte je do seznamu v <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Copy the value of an individual field in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> and paste it anywhere.</source><seg-source><mrk mtype="seg" mid="14">Copy the value of an individual field in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> and paste it anywhere.</mrk></seg-source><target><mrk mtype="seg" mid="14">Zkopírujte hodnotu konkrétního pole v <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> a vložte ji kamkoli.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>How do I copy rows?</source><seg-source><mrk mtype="seg" mid="15">How do I copy rows?</mrk></seg-source><target><mrk mtype="seg" mid="15">Jak zkopíruji řádky?</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>To copy a single row, select it, and press Ctrl+C.</source><seg-source><mrk mtype="seg" mid="16">To copy a single row, select it, and press Ctrl+C.</mrk></seg-source><target><mrk mtype="seg" mid="16">Chcete-li zkopírovat jeden řádek, vyberte jej a stiskněte Ctrl + C.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>If you want to copy more rows, you can:</source><seg-source><mrk mtype="seg" mid="17">If you want to copy more rows, you can:</mrk></seg-source><target><mrk mtype="seg" mid="17">Pokud chcete kopírovat více řádků:</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Press Ctrl+Click on another row or press Shift+Click to select the row and all rows in between.</source><seg-source><mrk mtype="seg" mid="18">Press Ctrl+Click on another row or press Shift+Click to select the row and all rows in between.</mrk></seg-source><target><mrk mtype="seg" mid="18">Stiskněte Ctrl a klikněte na další řádek, nebo stiskněte Shift a klikněte, vyberte řádek a všechny řádky mezi nimi.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>See <bpt id="p1">[</bpt>Keyboard Shortcuts<ept id="p1">](keyboard-shortcuts.md#CopyRows)</ept> for more mouse and keyboard combinations for selecting rows.</source><seg-source><mrk mtype="seg" mid="19">See <bpt id="p1">[</bpt>Keyboard Shortcuts<ept id="p1">](keyboard-shortcuts.md#CopyRows)</ept> for more mouse and keyboard combinations for selecting rows.</mrk></seg-source><target><mrk mtype="seg" mid="19">Navštivte <bpt id="p1">[</bpt>Klávesové zkratky<ept id="p1">](keyboard-shortcuts.md#CopyRows)</ept> pro více kombinací výběru řádků pomocí myši a klávesnice.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Select <bpt id="p1">![</bpt>Show more options<ept id="p1">]</ept><bpt id="p2">(media/show-more-options-icon.png "</bpt>Show more options icon<ept id="p2">")</ept> in the first column of a row, choose <bpt id="p3">**</bpt>Select More<ept id="p3">**</ept>, select the check box next to each row that you want to copy, and then press Ctrl+C.</source><seg-source><mrk mtype="seg" mid="20">Select <bpt id="p1">![</bpt>Show more options<ept id="p1">]</ept><bpt id="p2">(media/show-more-options-icon.png "</bpt>Show more options icon<ept id="p2">")</ept> in the first column of a row, choose <bpt id="p3">**</bpt>Select More<ept id="p3">**</ept>, select the check box next to each row that you want to copy, and then press Ctrl+C.</mrk></seg-source><target><mrk mtype="seg" mid="20">Zvolte <bpt id="p1">![</bpt>Zobrazit více možností<ept id="p1">]</ept><bpt id="p2">(media/show-more-options-icon.png "</bpt>Ikona Zobrazit více možností<ept id="p2">")</ept> v prvním sloupci řádku, zvolte <bpt id="p3">**</bpt>Vybrat více<ept id="p3">**</ept>, zaškrtněte políčko vedle každého řádku, který chcete zkopírovat, a poté stiskněte Ctrl + C.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>How do I paste rows?</source><seg-source><mrk mtype="seg" mid="21">How do I paste rows?</mrk></seg-source><target><mrk mtype="seg" mid="21">Jak vložím řádky</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Select an empty row, and press Crtl+V.</source><seg-source><mrk mtype="seg" mid="22">Select an empty row, and press Crtl+V.</mrk></seg-source><target><mrk mtype="seg" mid="22">Vyberte prázdný řádek a stiskněte Ctrl + V.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>If you want to replace existing rows, select the rows and press Crtl+V.</source><seg-source><mrk mtype="seg" mid="23">If you want to replace existing rows, select the rows and press Crtl+V.</mrk></seg-source><target><mrk mtype="seg" mid="23">Pokud chcete nahradit stávající řádky, vyberte řádky a stiskněte Ctrl + V.</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>In this case, you can only paste the same number of rows that you selected.</source><seg-source><mrk mtype="seg" mid="24">In this case, you can only paste the same number of rows that you selected.</mrk></seg-source><target><mrk mtype="seg" mid="24">V takovém případě můžete vložit pouze stejný počet řádků, jaký jste vybrali.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Can I paste rows into an Outlook email or OneNote?</source><seg-source><mrk mtype="seg" mid="25">Can I paste rows into an Outlook email or OneNote?</mrk></seg-source><target><mrk mtype="seg" mid="25">Mohu vložit řádky do aplikace Outlook nebo OneNote?</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Yes.</source><seg-source><mrk mtype="seg" mid="26">Yes.</mrk></seg-source><target><mrk mtype="seg" mid="26">Ano.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>This is pasted as a nicely-formatted table that preserves indentation, numeric alignment and coloring, just as you would see in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</source><seg-source><mrk mtype="seg" mid="27">This is pasted as a nicely-formatted table that preserves indentation, numeric alignment and coloring, just as you would see in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</mrk></seg-source><target><mrk mtype="seg" mid="27">Takový obsah je vložen jako pěkně naformátovaná tabulka, která zachovává odsazení, číselné zarovnání a zbarvení, jaké by jste viděli v <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Does copy and paste work with tiles?</source><seg-source><mrk mtype="seg" mid="28">Does copy and paste work with tiles?</mrk></seg-source><target><mrk mtype="seg" mid="28">Funguje kopírování a vkládání s dlaždicemi?</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>No.</source><seg-source><mrk mtype="seg" mid="29">No.</mrk></seg-source><target><mrk mtype="seg" mid="29">Ne.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>The list must be viewed as rows (List View) for you to copy and paste.</source><seg-source><mrk mtype="seg" mid="30">The list must be viewed as rows (List View) for you to copy and paste.</mrk></seg-source><target><mrk mtype="seg" mid="30">Seznam musí být zobrazen jako řádky (zobrazení seznamu), abyste mohli kopírovat a vkládat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>In which lists can I copy and paste rows?</source><seg-source><mrk mtype="seg" mid="31">In which lists can I copy and paste rows?</mrk></seg-source><target><mrk mtype="seg" mid="31">V jakých seznamech mohu kopírovat a vložit řádky?</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>You can copy rows in any kind of list, including worksheets, FactBoxes, or list that are embedded on a page (like lines of a sales order).</source><seg-source><mrk mtype="seg" mid="32">You can copy rows in any kind of list, including worksheets, FactBoxes, or list that are embedded on a page (like lines of a sales order).</mrk></seg-source><target><mrk mtype="seg" mid="32">Řádky můžete kopírovat v libovolného seznamu, včetně listů, oken s fakty nebo seznamu, které jsou vloženy na stránce (jako například řádky prodejní objednávky).</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>However, to paste rows, the list must be editable.</source><seg-source><mrk mtype="seg" mid="33">However, to paste rows, the list must be editable.</mrk></seg-source><target><mrk mtype="seg" mid="33">Chcete-li však řádky vložit, seznam musí být upravitelný.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>In some pages, the application design may prevent you from pasting of rows.</source><seg-source><mrk mtype="seg" mid="34">In some pages, the application design may prevent you from pasting of rows.</mrk></seg-source><target><mrk mtype="seg" mid="34">Na některých stránkách vám design aplikace může zabránit ve vkládání řádků.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Contact your administrator or application developer to change the <bpt id="p1">[</bpt>Editable property<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/properties/devenv-editable-property)</ept> on the page or <bpt id="p2">[</bpt>PasteIsValid property<ept id="p2">](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/properties/devenv-pasteisvalid-property)</ept> on the source table.</source><seg-source><mrk mtype="seg" mid="35">Contact your administrator or application developer to change the <bpt id="p1">[</bpt>Editable property<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/properties/devenv-editable-property)</ept> on the page or <bpt id="p2">[</bpt>PasteIsValid property<ept id="p2">](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/properties/devenv-pasteisvalid-property)</ept> on the source table.</mrk></seg-source><target><mrk mtype="seg" mid="35">Pro změnu <bpt id="p1">[</bpt>Upravitelných vlastností<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/properties/devenv-editable-property)</ept>na stránce nebo změnu <bpt id="p2">[</bpt>PasteIsValid vlastnosti<ept id="p2">](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/properties/devenv-pasteisvalid-property)</ept>ve zdrojové tabulce kontaktujte svého administrátora nebo vývojáře aplikací.</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>On which clients is copy and paste available?</source><seg-source><mrk mtype="seg" mid="36">On which clients is copy and paste available?</mrk></seg-source><target><mrk mtype="seg" mid="36">Na kterých klientech je kopírování a vkládání k dispozici?</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Copy and paste are available in the browser or the <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> app for Windows 10.</source><seg-source><mrk mtype="seg" mid="37">Copy and paste are available in the browser or the <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> app for Windows 10.</mrk></seg-source><target><mrk mtype="seg" mid="37">Kopírování a vkládání je k dispozici v prohlížeči nebo v <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> aplikaci pro Windows 10.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>What is the maximum number of rows that can be copied?</source><seg-source><mrk mtype="seg" mid="38">What is the maximum number of rows that can be copied?</mrk></seg-source><target><mrk mtype="seg" mid="38">Jaký je maximální počet řádků, který lze kopírovat?</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>You can copy as many rows as you have scrolled into view.</source><seg-source><mrk mtype="seg" mid="39">You can copy as many rows as you have scrolled into view.</mrk></seg-source><target><mrk mtype="seg" mid="39">Můžete kopírovat tolik řádků, kolik jste jich zobrazili.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>For example, to copy all 1000 rows in a page, you must first scroll to the bottom of the page and wait for the rows to appear before copying.</source><seg-source><mrk mtype="seg" mid="40">For example, to copy all 1000 rows in a page, you must first scroll to the bottom of the page and wait for the rows to appear before copying.</mrk></seg-source><target><mrk mtype="seg" mid="40">Chcete-li například zkopírovat všech 1000 řádků na stránce, musíte nejprve sjet do dolní části stránky a před kopírováním počkat, až se řádky zobrazí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>The maximum number of rows you can copy is only limited by the memory of your device.</source><seg-source><mrk mtype="seg" mid="41">The maximum number of rows you can copy is only limited by the memory of your device.</mrk></seg-source><target><mrk mtype="seg" mid="41">Maximální počet řádků, které můžete kopírovat, je omezen pouze pamětí zařízení.</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Must I have the exact same number of columns when pasting rows?</source><seg-source><mrk mtype="seg" mid="42">Must I have the exact same number of columns when pasting rows?</mrk></seg-source><target><mrk mtype="seg" mid="42">Musím mít při vkládání řádků stejný počet sloupců?</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Yes.</source><seg-source><mrk mtype="seg" mid="43">Yes.</mrk></seg-source><target><mrk mtype="seg" mid="43">Ano.</mrk></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Whether you are copying from <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>, from Excel, or from some other table source, the rows that you paste must have the exact matching columns - no more no less.</source><seg-source><mrk mtype="seg" mid="44">Whether you are copying from <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>, from Excel, or from some other table source, the rows that you paste must have the exact matching columns - no more no less.</mrk></seg-source><target><mrk mtype="seg" mid="44">Ať už kopírujete z <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>, z Excelu nebo z jiného zdroje tabulky, řádky, které vložíte, musí mít přesně shodné sloupce - ne více nebo méně.</mrk></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Why do I get errors when pasting rows?</source><seg-source><mrk mtype="seg" mid="45">Why do I get errors when pasting rows?</mrk></seg-source><target><mrk mtype="seg" mid="45">Proč při vkládání řádků dostávám chyby?</mrk></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>When pasting into <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>, each row is checked to make sure that values in each column are valid.</source><seg-source><mrk mtype="seg" mid="46">When pasting into <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>, each row is checked to make sure that values in each column are valid.</mrk></seg-source><target><mrk mtype="seg" mid="46">Při vkládání do <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> se u každého řádku kontroluje, zda jsou hodnoty v každém sloupci platné.</mrk></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>If a column contains a value that is not valid, the pasting is stopped, and an error message is displayed.</source><seg-source><mrk mtype="seg" mid="47">If a column contains a value that is not valid, the pasting is stopped, and an error message is displayed.</mrk></seg-source><target><mrk mtype="seg" mid="47">Pokud sloupec obsahuje hodnotu, která není platná, vkládání se zastaví a zobrazí se chybová zpráva.</mrk></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>To avoid this, make sure that the columns have valid values before you paste them.</source><seg-source><mrk mtype="seg" mid="48">To avoid this, make sure that the columns have valid values before you paste them.</mrk></seg-source><target><mrk mtype="seg" mid="48">Chcete-li tomu zabránit, ujistěte se, že sloupce mají platné hodnoty před jejich vložením.</mrk></target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>See also</source><seg-source><mrk mtype="seg" mid="49">See also</mrk></seg-source><target><mrk mtype="seg" mid="49">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Assistive Features<ept id="p1">](ui-accessibility.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="50">Assistive Features</mrk><ept id="p1">](ui-accessibility.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="50">Pomocné funkce</mrk><ept id="p1">](ui-accessibility.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Getting Started<ept id="p1">](product-get-started.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="51">Getting Started</mrk><ept id="p1">](product-get-started.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="51">Začínáme</mrk><ept id="p1">](product-get-started.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="52">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="52">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Frequently Asked Questions<ept id="p1">](across-faq.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="53">Frequently Asked Questions</mrk><ept id="p1">](across-faq.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="53">Často kladené otázky</mrk><ept id="p1">](across-faq.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
