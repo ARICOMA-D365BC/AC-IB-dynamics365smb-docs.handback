@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="ui-extensions-dynamicsgp-data-migration.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8ebcdd5" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1441e15785b159f7a8c13ee59c8ebea4c32512dc</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\ui-extensions-dynamicsgp-data-migration.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">658ed108ff37440f969efd382a5f1579667101d0</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">349f913f85d15ec523d3ffd5bb23033e922e7921</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Migrate Data from Dynamics GP with the Data Migration Extension | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Migrate Data from Dynamics GP with the Data Migration Extension | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Migrace dat z Dynamics GP pomocí rozšíření Data Migration | Dokumenty Microsoft</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Use the Dynamics GP Data Migration extension to migrate customers, vendors, inventory items, general ledger accounts, open payables and open receivables transactions from Dynamics GP to Business Central .</source><seg-source><mrk mtype="seg" mid="2">Use the Dynamics GP Data Migration extension to migrate customers, vendors, inventory items, general ledger accounts, open payables and open receivables transactions from Dynamics GP to Business Central .</mrk></seg-source><target><mrk mtype="seg" mid="2">Pomocí rozšíření Dynamics GP Data Migration můžete migrovat zákazníky, dodavatele, skladové položky, účty hlavní knihy, otevřené závazky a otevřené transakce pohledávek z Dynamics GP do Business Central.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>The Dynamics GP Data Migration Extension</source><seg-source><mrk mtype="seg" mid="3">The Dynamics GP Data Migration Extension</mrk></seg-source><target><mrk mtype="seg" mid="3">Rozšíření Dynamics GP Data Migration</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This extension makes it easy to migrate customers, vendors, inventory items, general ledger accounts, open payables and open receivables transactions from Dynamics GP to <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph>.</source><seg-source><mrk mtype="seg" mid="4">This extension makes it easy to migrate customers, vendors, inventory items, general ledger accounts, open payables and open receivables transactions from Dynamics GP to <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph>.</mrk></seg-source><target><mrk mtype="seg" mid="4">Toto rozšíření usnadňuje migraci zákazníků, dodavatelů, skladových položek, účtů hlavní knihy, otevřených závazků a transakcí otevřených pohledávek z Dynamics GP do <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>If your business uses Dynamics GP today, you can export the relevant records and then open an assisted setup guide to add the data to <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph>.</source><seg-source><mrk mtype="seg" mid="5">If your business uses Dynamics GP today, you can export the relevant records and then open an assisted setup guide to add the data to <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph>.</mrk></seg-source><target><mrk mtype="seg" mid="5">Pokud vaše firma nyní používá aplikaci Dynamics GP, můžete exportovat příslušné záznamy a poté otevřít průvodce asistovaným nastavením pro přidání dat do <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>The migration extension works for all supported versions of Microsoft Dyanmics GP.</source><seg-source><mrk mtype="seg" mid="6">The migration extension works for all supported versions of Microsoft Dyanmics GP.</mrk></seg-source><target><mrk mtype="seg" mid="6">Migrační rozšíření funguje pro všechny podporované verze Microsoft Dynamics GP.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Importing Business Data from Other Finance Systems<ept id="p1">](across-import-data-configuration-packages.md)</ept>.</source><seg-source><mrk mtype="seg" mid="7">For more information, see <bpt id="p1">[</bpt>Importing Business Data from Other Finance Systems<ept id="p1">](across-import-data-configuration-packages.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="7">Pro více informací navštivte <bpt id="p1">[</bpt>Importování obchodních dat z jiných finančních systémů.<ept id="p1">](across-import-data-configuration-packages.md)</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Exporting Data from Dynamics GP</source><seg-source><mrk mtype="seg" mid="8">Exporting Data from Dynamics GP</mrk></seg-source><target><mrk mtype="seg" mid="8">Exportování dat z Dynamics GP</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>You must have exported some or all of your existing customers, vendors, inventory items, and general ledger accounts using data export functionality within Dynamics GP.</source><seg-source><mrk mtype="seg" mid="9">You must have exported some or all of your existing customers, vendors, inventory items, and general ledger accounts using data export functionality within Dynamics GP.</mrk></seg-source><target><mrk mtype="seg" mid="9">Musíte exportovat některé nebo všechny své stávající zákazníky, dodavatele, skladové položky a účty hlavní knihy pomocí funkce exportu dat v Dynamics GP.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>When selecting the data to export the following types can be selected:</source><seg-source><mrk mtype="seg" mid="10">When selecting the data to export the following types can be selected:</mrk></seg-source><target><mrk mtype="seg" mid="10">Při výběru dat pro export lze vybrat následující typy:</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Account</source><seg-source><mrk mtype="seg" mid="11">Account</mrk></seg-source><target><mrk mtype="seg" mid="11">Účet</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Customer</source><seg-source><mrk mtype="seg" mid="12">Customer</mrk></seg-source><target><mrk mtype="seg" mid="12">Zákazník</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Item</source><seg-source><mrk mtype="seg" mid="13">Item</mrk></seg-source><target><mrk mtype="seg" mid="13">Položka</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Vendor</source><seg-source><mrk mtype="seg" mid="14">Vendor</mrk></seg-source><target><mrk mtype="seg" mid="14">Dodavatel</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>When the export file is created you will have a zip file that contains several txt files that will be determined by what you selected during the export data process.</source><seg-source><mrk mtype="seg" mid="15">When the export file is created you will have a zip file that contains several txt files that will be determined by what you selected during the export data process.</mrk></seg-source><target><mrk mtype="seg" mid="15">Po vytvoření exportního souboru budete mít soubor ZIP, který obsahuje několik souborů txt, které budou určeny tím, co jste vybrali během procesu exportu dat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>There will also be additional txt files that are generated that contain supporting information needed for setup within your new <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph> company.</source><seg-source><mrk mtype="seg" mid="16">There will also be additional txt files that are generated that contain supporting information needed for setup within your new <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph> company.</mrk></seg-source><target><mrk mtype="seg" mid="16">Budou také vytvořeny další soubory txt, které obsahují podpůrné informace, potřebné pro nastavení ve vaší nové <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph> společnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>The Dynamics GP Data Migration extension automatically maps the exported data so that your data is quickly available to you in your new <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph> company.</source><seg-source><mrk mtype="seg" mid="17">The Dynamics GP Data Migration extension automatically maps the exported data so that your data is quickly available to you in your new <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph> company.</mrk></seg-source><target><mrk mtype="seg" mid="17">Rozšíření Dynamics GP Data Migration automaticky mapuje exportovaná data tak, že vaše data jsou rychle k dispozici ve vaší nové <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph> společnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>What's New in the October 2018 Release</source><seg-source><mrk mtype="seg" mid="18">What's New in the October 2018 Release</mrk></seg-source><target><mrk mtype="seg" mid="18">Co je nového ve vydání Říjen 2018</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>In this version, we have expanded the amount of data we bring into <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph> from Dynamics GP.</source><seg-source><mrk mtype="seg" mid="19">In this version, we have expanded the amount of data we bring into <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph> from Dynamics GP.</mrk></seg-source><target><mrk mtype="seg" mid="19">V této verzi jsme rozšířili množství dat, které přenášíme do <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph>z Dynamics GP.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>In the migration wizard, you can now choose how you want to migrate the Dynamics GP chart of accounts.</source><seg-source><mrk mtype="seg" mid="20">In the migration wizard, you can now choose how you want to migrate the Dynamics GP chart of accounts.</mrk></seg-source><target><mrk mtype="seg" mid="20">V průvodci migrací si nyní můžete vybrat, jak chcete migrovat účetní osnovu Dynamics GP.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>You can migrate the existing chart of accounts, or you can create a new chart of accounts based on the existing chart of accounts.</source><seg-source><mrk mtype="seg" mid="21">You can migrate the existing chart of accounts, or you can create a new chart of accounts based on the existing chart of accounts.</mrk></seg-source><target><mrk mtype="seg" mid="21">Můžete migrovat existující účetní osnovu nebo můžete vytvořit novou účetní osnovu na základě existující účetní osnovy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>If you choose to use the existing chart of accounts, the accounts will be set up as the main account segment from Dynamics GP and the additional segments will be setup as dimensions within <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph>.</source><seg-source><mrk mtype="seg" mid="22">If you choose to use the existing chart of accounts, the accounts will be set up as the main account segment from Dynamics GP and the additional segments will be setup as dimensions within <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph>.</mrk></seg-source><target><mrk mtype="seg" mid="22">Pokud se rozhodnete použít stávající účetní osnovu, budou účty nastaveny jako hlavní segment účtu z Dynamics GP a další segmenty budou nastaveny jako dimenze uvnitř <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>If you choose to create a new chart of accounts, you will get an additional account information page in the wizard so that you can download the workbook, make the relevant changes, and then import the workbook again to change your accounts.</source><seg-source><mrk mtype="seg" mid="23">If you choose to create a new chart of accounts, you will get an additional account information page in the wizard so that you can download the workbook, make the relevant changes, and then import the workbook again to change your accounts.</mrk></seg-source><target><mrk mtype="seg" mid="23">Pokud se rozhodnete vytvořit novou účetní osnovu, získáte v průvodci další stránku s informacemi o účtu, která vám umožní stáhnout sešit, provést příslušné změny a poté znovu importovat sešit a změnit své účty.</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>You will have to download the Excel workbook and map a new account number to each account number in the Excel spreadsheet.</source><seg-source><mrk mtype="seg" mid="24">You will have to download the Excel workbook and map a new account number to each account number in the Excel spreadsheet.</mrk></seg-source><target><mrk mtype="seg" mid="24">Budete si muset stáhnout sešit aplikace Excel a namapovat nové číslo účtu pro každé číslo účtu v tabulce Excel.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Each account will be required to have its own number, or the migration will error.</source><seg-source><mrk mtype="seg" mid="25">Each account will be required to have its own number, or the migration will error.</mrk></seg-source><target><mrk mtype="seg" mid="25">Každý účet bude muset mít své vlastní číslo, jinak dojde k chybě migrace.</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>When you have completed the mapping, you can continue through the migration wizard by importing the Excel workbook that you just updated.</source><seg-source><mrk mtype="seg" mid="26">When you have completed the mapping, you can continue through the migration wizard by importing the Excel workbook that you just updated.</mrk></seg-source><target><mrk mtype="seg" mid="26">Po dokončení mapování můžete pokračovat v průvodci migrací importem sešitu aplikace Excel, který jste právě aktualizovali.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>The wizard will validate that each row has a unique account number and that no rows have an empty new account number in them.</source><seg-source><mrk mtype="seg" mid="27">The wizard will validate that each row has a unique account number and that no rows have an empty new account number in them.</mrk></seg-source><target><mrk mtype="seg" mid="27">Průvodce ověří, že každý řádek má jedinečné číslo účtu a že v žádném řádku není prázdné číslo nového účtu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>With the change to the mapping of the chart of account options, you will also note a change to the type of data that comes across into the general journal for the account numbers.</source><seg-source><mrk mtype="seg" mid="28">With the change to the mapping of the chart of account options, you will also note a change to the type of data that comes across into the general journal for the account numbers.</mrk></seg-source><target><mrk mtype="seg" mid="28">Při změně mapování možností účetní osnovy si také všimněte změny typu dat, která se vyskytují ve finančním deníku pro čísla účtů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>If you choose to use the existing account numbers, we will bring over the beginning balance of the main segment (new account number) as a summation of the main account number at the time of the migration.</source><seg-source><mrk mtype="seg" mid="29">If you choose to use the existing account numbers, we will bring over the beginning balance of the main segment (new account number) as a summation of the main account number at the time of the migration.</mrk></seg-source><target><mrk mtype="seg" mid="29">Pokud se rozhodnete použít existující čísla účtů, převedeme počáteční zůstatek hlavního segmentu (nové číslo účtu) jako součet čísla hlavního účtu v době migrace.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>If you choose to create new account numbers, we will bring summary information for the equivalent of two fiscal years based on the fiscal periods you have set up in Dynamics GP.</source><seg-source><mrk mtype="seg" mid="30">If you choose to create new account numbers, we will bring summary information for the equivalent of two fiscal years based on the fiscal periods you have set up in Dynamics GP.</mrk></seg-source><target><mrk mtype="seg" mid="30">Pokud se rozhodnete vytvořit nová čísla účtů, přeneseme souhrnné informace za dva fiskální roky , na základě fiskálních období, která jste nastavili v Dynamics GP.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>In earlier versions of <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph>, the wizard migrated a summary transaction for the customer/vendor balance in Dynamics GP.</source><seg-source><mrk mtype="seg" mid="31">In earlier versions of <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph>, the wizard migrated a summary transaction for the customer/vendor balance in Dynamics GP.</mrk></seg-source><target><mrk mtype="seg" mid="31">V dřívějších verzích <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph> průvodce migroval souhrnnou transakci zůstatku zákazníka/dodavatele v aplikaci Dynamics GP.</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Now we bring in the detailed open transactions for customers and vendors at the time of the migration.</source><seg-source><mrk mtype="seg" mid="32">Now we bring in the detailed open transactions for customers and vendors at the time of the migration.</mrk></seg-source><target><mrk mtype="seg" mid="32">Nyní přeneseme podrobné otevřené transakce pro zákazníky a dodavatele v době migrace.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>What does this mean?</source><seg-source><mrk mtype="seg" mid="33">What does this mean?</mrk></seg-source><target><mrk mtype="seg" mid="33">Co to znamená ?</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>If your customer has 3 outstanding transactions registered in the Receivables module, the wizard brings those transactions into <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph> with the outstanding amount as the document amount.</source><seg-source><mrk mtype="seg" mid="34">If your customer has 3 outstanding transactions registered in the Receivables module, the wizard brings those transactions into <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph> with the outstanding amount as the document amount.</mrk></seg-source><target><mrk mtype="seg" mid="34">Pokud má váš zákazník v modulu Pohledávky zaregistrovány 3 neuhrazené transakce, přenese průvodce tyto transakce do <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph> se zbývající částkou jako částku dokladu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>This is the same for the Payables module for vendors.</source><seg-source><mrk mtype="seg" mid="35">This is the same for the Payables module for vendors.</mrk></seg-source><target><mrk mtype="seg" mid="35">Totéž platí pro modul Závazky dodavatele.</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Inventory items are imported with the cost valuation method that was selected when the company setup wizard was run.</source><seg-source><mrk mtype="seg" mid="36">Inventory items are imported with the cost valuation method that was selected when the company setup wizard was run.</mrk></seg-source><target><mrk mtype="seg" mid="36">Skladové položky se importují pomocí metody oceňování nákladů, která byla vybrána při spuštění průvodce nastavením společnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Service items are automatically assigned the FIFO valuation method.</source><seg-source><mrk mtype="seg" mid="37">Service items are automatically assigned the FIFO valuation method.</mrk></seg-source><target><mrk mtype="seg" mid="37">Servisním položkám se automaticky přiřadí metoda oceňování FIFO.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Currently we bring in the Quantity on Hand for the items at the time of migration.</source><seg-source><mrk mtype="seg" mid="38">Currently we bring in the Quantity on Hand for the items at the time of migration.</mrk></seg-source><target><mrk mtype="seg" mid="38">V současné době přenášíme Množství na skladě pro položky v době migrace.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>This quantity is brought into the blank location.</source><seg-source><mrk mtype="seg" mid="39">This quantity is brought into the blank location.</mrk></seg-source><target><mrk mtype="seg" mid="39">Toto množství se přenese na prázdné místo.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>The last option you see in the Data Migration wizard for Dynamics GP is the ability to specify your posting option.</source><seg-source><mrk mtype="seg" mid="40">The last option you see in the Data Migration wizard for Dynamics GP is the ability to specify your posting option.</mrk></seg-source><target><mrk mtype="seg" mid="40">Poslední možností, kterou vidíte v Průvodci migrací dat pro aplikaci Dynamics GP, je možnost zadat možnost účtování.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>This setting specifies if you want to automatically post all transactions in the general journals as soon as the migration moves the data into <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph>, or if you want to post manually so that all transactions will sit in batches inside the General Journal page so you can verify the information before you post.</source><seg-source><mrk mtype="seg" mid="41">This setting specifies if you want to automatically post all transactions in the general journals as soon as the migration moves the data into <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph>, or if you want to post manually so that all transactions will sit in batches inside the General Journal page so you can verify the information before you post.</mrk></seg-source><target><mrk mtype="seg" mid="41">Toto nastavení určuje, zda chcete automaticky zaúčtovat všechny transakce ve finančních denících jakmile migrace přesune data do <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph>, nebo zda chcete transakce zaúčtovat ručně tak, aby všechny transakce seděly v dávkách uvnitř stránky finančního deníku a vy jste si mohli ověřit informace před jejich zveřejněním.</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>This option is visible on the Chart of Accounts options page.</source><seg-source><mrk mtype="seg" mid="42">This option is visible on the Chart of Accounts options page.</mrk></seg-source><target><mrk mtype="seg" mid="42">Tato možnost je viditelná na stránce Možnosti účetní osnovy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="43">See Also</mrk></seg-source><target><mrk mtype="seg" mid="43">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Importing Business Data from Other Finance Systems<ept id="p1">](across-import-data-configuration-packages.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="44">Importing Business Data from Other Finance Systems</mrk><ept id="p1">](across-import-data-configuration-packages.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="44">Import obchodních dat z jiných finančních systémů.</mrk><ept id="p1">](across-import-data-configuration-packages.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Customizing <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph> Using Extensions <ept id="p1">](ui-extensions.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="45">Customizing <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph> Using Extensions</mrk> <ept id="p1">](ui-extensions.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="45">Přizpůsobení <ph id="ph1">[!INCLUDE[prodshort](includes/prodshort.md)]</ph> Pomocí rozšíření</mrk> <ept id="p1">](ui-extensions.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
