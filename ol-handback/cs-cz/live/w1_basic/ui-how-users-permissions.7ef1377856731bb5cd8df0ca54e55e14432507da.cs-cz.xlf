@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="ui-how-users-permissions.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-964a5eb" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">eb7c56cf204bf8d6b48fb642223facec3d1577cd</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\ui-how-users-permissions.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5e4530ce574f6fa26649f9a426303ab0c0d3a5c6</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">80a20aab811ab9b9babeb5233fe5a8cab5d8a67d</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Assign User Permissions and Create or Modify Permission Sets | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Assign User Permissions and Create or Modify Permission Sets | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Přiřazení uživatelských oprávnění a vytvoření nebo úprava sad oprávnění | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Describes how add Office 365 users to Business Central, and then assign permissions, access rights, and security settings.</source><seg-source><mrk mtype="seg" mid="2">Describes how add Office 365 users to Business Central, and then assign permissions, access rights, and security settings.</mrk></seg-source><target><mrk mtype="seg" mid="2">Popisuje, jak přidat uživatele Office 365 do Business Central a poté přiřadit oprávnění, přístupová práva a nastavení zabezpečení.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Manage Users and Permissions</source><seg-source><mrk mtype="seg" mid="3">Manage Users and Permissions</mrk></seg-source><target><mrk mtype="seg" mid="3">Správa uživatelů a práv</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>To add users in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, your company's Office 365 administrator must first create the users in the Office 365 Admin Center.</source><seg-source><mrk mtype="seg" mid="4">To add users in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, your company's Office 365 administrator must first create the users in the Office 365 Admin Center.</mrk></seg-source><target><mrk mtype="seg" mid="4">Chcete-li přidat uživatele do <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, musí správce vaší společnosti Office 365 nejprve vytvořit uživatele v Admin Center Office 365.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Add Users to Office 365 for business<ept id="p1">](https://support.office.com/en-us/article/Add-users-to-Office-365-for-business-435ccec3-09dd-4587-9ebd-2f3cad6bc2bc)</ept></source><seg-source><mrk mtype="seg" mid="5">For more information, see <bpt id="p1">[</bpt>Add Users to Office 365 for business<ept id="p1">](https://support.office.com/en-us/article/Add-users-to-Office-365-for-business-435ccec3-09dd-4587-9ebd-2f3cad6bc2bc)</ept></mrk></seg-source><target><mrk mtype="seg" mid="5">Pro více informací navštivte (odkaz) <bpt id="p1">[</bpt>Přidejte uživatele do Office 365 pro firmy<ept id="p1">](https://support.office.com/en-us/article/Add-users-to-Office-365-for-business-435ccec3-09dd-4587-9ebd-2f3cad6bc2bc)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Once users are created in Office 365, they can be imported into the <bpt id="p1">**</bpt>Users<ept id="p1">**</ept> window by using the <bpt id="p2">**</bpt>Get Users from Office 365<ept id="p2">**</ept> action.</source><seg-source><mrk mtype="seg" mid="6">Once users are created in Office 365, they can be imported into the <bpt id="p1">**</bpt>Users<ept id="p1">**</ept> window by using the <bpt id="p2">**</bpt>Get Users from Office 365<ept id="p2">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="6">Jakmile jsou uživatelé vytvořeni v Office 365, mohou být importováni do okna <bpt id="p1">**</bpt>Uživatelé<ept id="p1">**</ept> pomocí akce <bpt id="p2">**</bpt>Získat uživatele z Office 365<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Users are assigned permission sets depending on the plan assigned to the User in Office 365.</source><seg-source><mrk mtype="seg" mid="7">Users are assigned permission sets depending on the plan assigned to the User in Office 365.</mrk></seg-source><target><mrk mtype="seg" mid="7">Uživatelům jsou přiřazeny sady oprávnění v závislosti na plánu přiřazeném uživateli v Office 365.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>You can then proceed to assign permission sets to the users to define which database objects, and thereby which UI elements, they have access to, and in which companies.</source><seg-source><mrk mtype="seg" mid="8">You can then proceed to assign permission sets to the users to define which database objects, and thereby which UI elements, they have access to, and in which companies.</mrk></seg-source><target><mrk mtype="seg" mid="8">Poté můžete přistoupit k přiřazení sad oprávnění uživatelům, k definování, které databázové objekty a ke kterým prvkům uživatelského rozhraní, mají uživatelé přístup a ve kterých společnostech.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>You can add users to user groups.</source><seg-source><mrk mtype="seg" mid="9">You can add users to user groups.</mrk></seg-source><target><mrk mtype="seg" mid="9">Můžete přidat uživatele do skupin uživatelů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>This makes it easier to assign the same permission sets to multiple users.</source><seg-source><mrk mtype="seg" mid="10">This makes it easier to assign the same permission sets to multiple users.</mrk></seg-source><target><mrk mtype="seg" mid="10">To usnadňuje přiřazení stejných sad oprávnění více uživatelům.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>A permission set is a collection of permissions for specific objects in the database.</source><seg-source><mrk mtype="seg" mid="11">A permission set is a collection of permissions for specific objects in the database.</mrk></seg-source><target><mrk mtype="seg" mid="11">Sada oprávnění je souhrn oprávnění pro konkrétní objekty v databázi.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>All users must be assigned one or more permission sets before they can access <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</source><seg-source><mrk mtype="seg" mid="12">All users must be assigned one or more permission sets before they can access <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</mrk></seg-source><target><mrk mtype="seg" mid="12">Všichni uživatelé musí mít před přístupem <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> přidělenu jednu nebo více sad oprávnění.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>A number of predefined permission sets are provided by default.</source><seg-source><mrk mtype="seg" mid="13">A number of predefined permission sets are provided by default.</mrk></seg-source><target><mrk mtype="seg" mid="13">Ve výchozím nastavení je k dispozici řada předdefinovaných sad oprávnění.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>You can use these permission sets as already defined, modify the default permission sets, or create additional permission sets.</source><seg-source><mrk mtype="seg" mid="14">You can use these permission sets as already defined, modify the default permission sets, or create additional permission sets.</mrk></seg-source><target><mrk mtype="seg" mid="14">Můžete tyto předdefinované sady oprávnění použít, změnit jich nebo vytvořit další sady oprávnění.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Administrators can use the <bpt id="p1">**</bpt>User Setup<ept id="p1">**</ept> window to define periods of time during which specified users are able to post, and also specify if the system logs the amount of time users are logged on.</source><seg-source><mrk mtype="seg" mid="15">Administrators can use the <bpt id="p1">**</bpt>User Setup<ept id="p1">**</ept> window to define periods of time during which specified users are able to post, and also specify if the system logs the amount of time users are logged on.</mrk></seg-source><target><mrk mtype="seg" mid="15">Správci mohou pomocí okna <bpt id="p1">**</bpt>Nastavení uživatele<ept id="p1">**</ept> definovat časové intervaly, během nichž jsou určití uživatelé schopni účtovat položky, a také určit systémové protokoly množství času, po který jsou uživatelé přihlášeni.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>To assign permissions to a user</source><seg-source><mrk mtype="seg" mid="16">To assign permissions to a user</mrk></seg-source><target><mrk mtype="seg" mid="16">Přiřazení oprávnění uživateli</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Users<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="17">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Users<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="17">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Ikona Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Uživatelé<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Select the user that you want to assign permission to.</source><seg-source><mrk mtype="seg" mid="18">Select the user that you want to assign permission to.</mrk></seg-source><target><mrk mtype="seg" mid="18">Vyberte uživatele, kterému chcete přiřadit oprávnění.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Any permission sets that are already assigned to the user are displayed in the <bpt id="p1">**</bpt>Permission Sets<ept id="p1">**</ept> FactBox.</source><seg-source><mrk mtype="seg" mid="19">Any permission sets that are already assigned to the user are displayed in the <bpt id="p1">**</bpt>Permission Sets<ept id="p1">**</ept> FactBox.</mrk></seg-source><target><mrk mtype="seg" mid="19">Všechny sady oprávnění, které jsou již uživateli přiřazeny, jsou zobrazeny v FactBoxu <bpt id="p1">**</bpt>Sad oprávnění<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>Edit<ept id="p1">**</ept> action to open the <bpt id="p2">**</bpt>User Card<ept id="p2">**</ept> window.</source><seg-source><mrk mtype="seg" mid="20">Choose the <bpt id="p1">**</bpt>Edit<ept id="p1">**</ept> action to open the <bpt id="p2">**</bpt>User Card<ept id="p2">**</ept> window.</mrk></seg-source><target><mrk mtype="seg" mid="20">Zvolte akci <bpt id="p1">**</bpt>Upravit<ept id="p1">**</ept> a otevřete okno <bpt id="p2">**</bpt>Karta uživatele<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">**</bpt>User Permission Sets<ept id="p1">**</ept> FastTab, on a new line, fill in the fields as necessary.</source><seg-source><mrk mtype="seg" mid="21">On the <bpt id="p1">**</bpt>User Permission Sets<ept id="p1">**</ept> FastTab, on a new line, fill in the fields as necessary.</mrk></seg-source><target><mrk mtype="seg" mid="21">Na záložce s náhledem <bpt id="p1">**</bpt>Sady oprávnění uživatele<ept id="p1">**</ept>, na novém řádku vyplňte pole podle potřeby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>To group users in user groups</source><seg-source><mrk mtype="seg" mid="22">To group users in user groups</mrk></seg-source><target><mrk mtype="seg" mid="22">Seskupení uživatelů do skupin uživatelů</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>You can set up users groups to help you manage permission sets for groups of users in your company.</source><seg-source><mrk mtype="seg" mid="23">You can set up users groups to help you manage permission sets for groups of users in your company.</mrk></seg-source><target><mrk mtype="seg" mid="23">Můžete nastavit skupiny uživatelů, které vám pomohou spravovat sady oprávnění pro skupiny uživatelů ve vaší společnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>You can use a function to copy all permission sets from an existing user group to your new user group.</source><seg-source><mrk mtype="seg" mid="24">You can use a function to copy all permission sets from an existing user group to your new user group.</mrk></seg-source><target><mrk mtype="seg" mid="24">Pomocí funkce můžete zkopírovat všechny sady oprávnění z existující skupiny uživatelů do nové skupiny uživatelů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>User group members are not copied.</source><seg-source><mrk mtype="seg" mid="25">User group members are not copied.</mrk></seg-source><target><mrk mtype="seg" mid="25">Členové uživatelské skupiny nejsou zkopírováni.</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>User Groups<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="26">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>User Groups<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="26">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Ikona Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Skupiny uživatelů<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Alternatively, in the <bpt id="p1">**</bpt>Users<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>User Groups<ept id="p2">**</ept> action.</source><seg-source><mrk mtype="seg" mid="27">Alternatively, in the <bpt id="p1">**</bpt>Users<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>User Groups<ept id="p2">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="27">Případně v okně <bpt id="p1">**</bpt>Uživatelé<ept id="p1">**</ept> vyberte akci <bpt id="p2">**</bpt>Skupiny uživatelů<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>User Group<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>User Group Members<ept id="p2">**</ept> action.</source><seg-source><mrk mtype="seg" mid="28">In the <bpt id="p1">**</bpt>User Group<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>User Group Members<ept id="p2">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="28">V okně <bpt id="p1">**</bpt>Uživatelé<ept id="p1">**</ept> vyberte akci <bpt id="p2">**</bpt>Členové skupiny uživatelů<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>User Group Members<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>Add Users<ept id="p2">**</ept> action.</source><seg-source><mrk mtype="seg" mid="29">In the <bpt id="p1">**</bpt>User Group Members<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>Add Users<ept id="p2">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="29">V okně <bpt id="p1">**</bpt>Členové skupiny uživatelů<ept id="p1">**</ept> vyberte akci <bpt id="p2">**</bpt>Přidat uživatele<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>To add new or additional permission sets, in the <bpt id="p1">**</bpt>User Groups<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>User Group Permission Sets<ept id="p2">**</ept> action.</source><seg-source><mrk mtype="seg" mid="30">To add new or additional permission sets, in the <bpt id="p1">**</bpt>User Groups<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>User Group Permission Sets<ept id="p2">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="30">Chcete-li přidat nové nebo další sady oprávnění, vyberte v okně <bpt id="p1">**</bpt>Skupin uživatelů<ept id="p1">**</ept> akci <bpt id="p2">**</bpt>Sady oprávnění skupiny uživatelů<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>User Group Permission Sets<ept id="p1">**</ept> window, on a new line, fill in the fields as necessary by selecting from existing permission sets.</source><seg-source><mrk mtype="seg" mid="31">In the <bpt id="p1">**</bpt>User Group Permission Sets<ept id="p1">**</ept> window, on a new line, fill in the fields as necessary by selecting from existing permission sets.</mrk></seg-source><target><mrk mtype="seg" mid="31">V okno <bpt id="p1">**</bpt>Sady oprávnění skupiny uživatelů<ept id="p1">**</ept>, na novém řádku vyplňte pole podle potřeby výběrem ze stávajících sad oprávnění.</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>To set up user time constraints</source><seg-source><mrk mtype="seg" mid="32">To set up user time constraints</mrk></seg-source><target><mrk mtype="seg" mid="32">Nastavení uživatelských časových omezení</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Administrators can define periods of time during which specified users are able to post, and also specify if the system logs the amount of time users are logged on.</source><seg-source><mrk mtype="seg" mid="33">Administrators can define periods of time during which specified users are able to post, and also specify if the system logs the amount of time users are logged on.</mrk></seg-source><target><mrk mtype="seg" mid="33">Správci mohou definovat časové období, během kterého jsou určití uživatelé schopni účtovat položky, a také určit systémové protokoly množství času, po který jsou uživatelé přihlášeni.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Administrators can also assign responsibility centers to users.</source><seg-source><mrk mtype="seg" mid="34">Administrators can also assign responsibility centers to users.</mrk></seg-source><target><mrk mtype="seg" mid="34">Administrátoři mohou také uživatelům přiřadit centra odpovědnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Work with Responsibility Centers<ept id="p1">](inventory-responsibility-centers.md)</ept>.</source><seg-source><mrk mtype="seg" mid="35">For more information, see <bpt id="p1">[</bpt>Work with Responsibility Centers<ept id="p1">](inventory-responsibility-centers.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="35">Pro více informací navštivte (odkaz) <bpt id="p1">[</bpt>Práce s Centry odpovědnosti<ept id="p1">](inventory-responsibility-centers.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>User Setup<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="36">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>User Setup<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="36">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Ikona Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Nastavení uživatelů<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>User Setup<ept id="p1">**</ept> window opens, choose the <bpt id="p2">**</bpt>New<ept id="p2">**</ept> action.</source><seg-source><mrk mtype="seg" mid="37">In the <bpt id="p1">**</bpt>User Setup<ept id="p1">**</ept> window opens, choose the <bpt id="p2">**</bpt>New<ept id="p2">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="37">V okně <bpt id="p1">**</bpt>Nastavení uživatelů<ept id="p1">**</ept> vyberte akci <bpt id="p2">**</bpt>Nový<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>User ID<ept id="p1">**</ept> field, enter the ID of a user, or choose the field to see all current Windows users in the system.</source><seg-source><mrk mtype="seg" mid="38">In the <bpt id="p1">**</bpt>User ID<ept id="p1">**</ept> field, enter the ID of a user, or choose the field to see all current Windows users in the system.</mrk></seg-source><target><mrk mtype="seg" mid="38">Do pole <bpt id="p1">**</bpt>ID uživatele<ept id="p1">**</ept> zadejte ID uživatele nebo vyberte pole pro zobrazení všech aktuálních uživatelů systému Windows v systému.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Fill in the fields as necessary.</source><seg-source><mrk mtype="seg" mid="39">Fill in the fields as necessary.</mrk></seg-source><target><mrk mtype="seg" mid="39">Vyplňte pole podle potřeby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="40">See Also</mrk></seg-source><target><mrk mtype="seg" mid="40">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Getting Ready for Doing Business<ept id="p1">](ui-get-ready-business.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="41">Getting Ready for Doing Business</mrk><ept id="p1">](ui-get-ready-business.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="41">Příprava na Podnikání</mrk><ept id="p1">](ui-get-ready-business.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setup and Administration in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](admin-setup-and-administration.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="42">Setup and Administration in</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](admin-setup-and-administration.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="42">Nastavení a správa</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](admin-setup-and-administration.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Welcome to <ph id="ph1">[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</ph><ept id="p1">](index.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="43">Welcome to</mrk> <ph id="ph1">[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</ph><ept id="p1">](index.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="43">Vítejte v</mrk> <ph id="ph1">[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</ph><ept id="p1">](index.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="44">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="44">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
