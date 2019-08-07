@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="ui-experiences.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-964a5eb" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">64744b5227c6c9ebc5b226cf5fb726d71d54c1f9</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\ui-experiences.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">95bf7f4a7f90ceff98e29ff911168418c5a312ac</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c0646f57a0f2398e39bcff3826bed526ad5e7678</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Choosing the User Experience to Show or Hide Advanced Features | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Choosing the User Experience to Show or Hide Advanced Features | Microsoft Docs</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="1">Výběr uživatelského prostředí pro zobrazení nebo skrytí rozšířených funkcí | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Learn what the Basic and Essential user experience tiers mean for the user interface, application areas, and your company.</source><seg-source><mrk mtype="seg" mid="2">Learn what the Basic and Essential user experience tiers mean for the user interface, application areas, and your company.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="2">Zjistěte, co pro uživatelské rozhraní, oblasti aplikací a vaši společnost znamenají úrovně uživatelského prostředí Basic a Essential.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Customizing Your <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> Experience</source><seg-source><mrk mtype="seg" mid="3">Customizing Your <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> Experience</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="3">Přizpůsobení vaší <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> zkušenosti</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> is designed to help you run your business, regardless which line of business you are in.</source><seg-source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="4">is designed to help you run your business, regardless which line of business you are in.</mrk></seg-source><target state="translated"><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="4">je navržen tak, aby vám pomohl řídit vaše podnikání, bez ohledu na to, ve které oblasti podnikání jste.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>At the core of <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, you find financial reporting and sales and purchasing processes.</source><seg-source><mrk mtype="seg" mid="5">At the core of <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, you find financial reporting and sales and purchasing processes.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="5">V jádru <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> najdete finanční výkaznictví a procesy prodeje a nákupu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>You add experiences to that according to your business needs by adding extensions from AppSource or by changing the Experience setting for your company.</source><seg-source><mrk mtype="seg" mid="6">You add experiences to that according to your business needs by adding extensions from AppSource or by changing the Experience setting for your company.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="6">K tomu přidáváte zkušenosti podle svých obchodních potřeb přidáním rozšíření z AppSource nebo změnou nastavení Zkušenosti pro vaši společnost.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Customizing <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Using Extensions<ept id="p1">](ui-extensions.md)</ept>, or the <bpt id="p2">*</bpt>Choosing a User Experience<ept id="p2">*</ept> section below.</source><seg-source><mrk mtype="seg" mid="7">For more information, see <bpt id="p1">[</bpt>Customizing <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Using Extensions<ept id="p1">](ui-extensions.md)</ept>, or the <bpt id="p2">*</bpt>Choosing a User Experience<ept id="p2">*</ept> section below.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Pro více informací navštivte <bpt id="p1">[</bpt>Přizpůsobení <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> pomocí rozšíření<ept id="p1">](ui-extensions.md)</ept> nebo část <bpt id="p2">*</bpt>Výběr uživatelského prostředí<ept id="p2">*</ept> níže.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Choosing a User Experience to Show or Hide Features</source><seg-source><mrk mtype="seg" mid="8">Choosing a User Experience to Show or Hide Features</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="8">Výběr uživatelského prostředí pro zobrazení nebo skrytí funkcí</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>The user experience determines how much of the core functionality is available when you and your colleagues use <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</source><seg-source><mrk mtype="seg" mid="9">The user experience determines how much of the core functionality is available when you and your colleagues use <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="9">Uživatelská zkušenost určuje, kolik obecných funkcí je k dispozici, když vy a vaši kolegové používáte <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>You can choose the user experience for your company in the <bpt id="p1">**</bpt>Company Information<ept id="p1">**</ept> window, in the <bpt id="p2">**</bpt>Experience<ept id="p2">**</ept> field.</source><seg-source><mrk mtype="seg" mid="10">You can choose the user experience for your company in the <bpt id="p1">**</bpt>Company Information<ept id="p1">**</ept> window, in the <bpt id="p2">**</bpt>Experience<ept id="p2">**</ept> field.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="10">Uživatelské prostředí pro vaši společnost si můžete vybrat v okně <bpt id="p1">**</bpt>Informace o společnosti<ept id="p1">**</ept> v poli <bpt id="p2">**</bpt>Zkušenosti<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>This setting applies to all users in your company.</source><seg-source><mrk mtype="seg" mid="11">This setting applies to all users in your company.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">Toto nastavení se vztahuje na všechny uživatele ve vaší společnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Users can customize their own experience even further by changing page layouts and content.</source><seg-source><mrk mtype="seg" mid="12">Users can customize their own experience even further by changing page layouts and content.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="12">Uživatelé si mohou své vlastní zkušenosti ještě více přizpůsobit změnou rozvržení stránky a obsahu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Personalizing Your Workspace and Pages<ept id="p1">](ui-personalization-user.md)</ept>.</source><seg-source><mrk mtype="seg" mid="13">For more information, see <bpt id="p1">[</bpt>Personalizing Your Workspace and Pages<ept id="p1">](ui-personalization-user.md)</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="13">Pro více informací navštivte <bpt id="p1">[</bpt>Přizpůsobení vašeho pracovního prostoru a Stránek<ept id="p1">](ui-personalization-user.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>The following table lists the experiences that are currently available.</source><seg-source><mrk mtype="seg" mid="14">The following table lists the experiences that are currently available.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="14">Následující tabulka obsahuje seznam aktuálně dostupných zkušeností.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Experience</source><seg-source><mrk mtype="seg" mid="15">Experience</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="15">Zkušenosti</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Impact on User Interface</source><seg-source><mrk mtype="seg" mid="16">Impact on User Interface</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="16">Dopad na uživatelské rozhraní</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Basic<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="17">Basic</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="17">Basic</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Shows only core actions and fields within the most common business functionality, such as sales, purchasing, inventory, and finance.</source><seg-source><mrk mtype="seg" mid="18">Shows only core actions and fields within the most common business functionality, such as sales, purchasing, inventory, and finance.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="18">Zobrazuje pouze základní akce a pole v rámci nejběžnějších obchodních funkcí, jako je prodej, nákup, inventář a finance.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Essential<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="19">Essential</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="19">Essential</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Shows all actions and fields for all common business functionality.</source><seg-source><mrk mtype="seg" mid="20">Shows all actions and fields for all common business functionality.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="20">Zobrazuje všechny akce a pole pro běžné obchodní funkce.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>With the Sandbox option, you can select the <bpt id="p1">**</bpt>Advanced<ept id="p1">**</ept> experience, which gives access to all possible business functionality, including Manufacturing and Service Management.</source><seg-source><mrk mtype="seg" mid="21">With the Sandbox option, you can select the <bpt id="p1">**</bpt>Advanced<ept id="p1">**</ept> experience, which gives access to all possible business functionality, including Manufacturing and Service Management.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="21">S možností Sandbox můžete vybrat pokročilé <bpt id="p1">**</bpt>Rozšíření<ept id="p1">**</ept>, které poskytuje přístup ke všem možným obchodním funkcím, včetně výroby a správy servisu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Create a Sandbox Environment<ept id="p1">](across-how-create-sandbox-environment.md)</ept>.</source><seg-source><mrk mtype="seg" mid="22">For more information, see <bpt id="p1">[</bpt>Create a Sandbox Environment<ept id="p1">](across-how-create-sandbox-environment.md)</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="22">Pro více informací navštivte <bpt id="p1">[</bpt>Vytvoření Sandbox prostředí<ept id="p1">](across-how-create-sandbox-environment.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>See also</source><seg-source><mrk mtype="seg" mid="23">See also</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="23">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Creating New Companies<ept id="p1">](about-new-company.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="24">Creating New Companies</mrk><ept id="p1">](about-new-company.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="24">Vytvoření nové společnosti</mrk><ept id="p1">](about-new-company.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Changing Basic Settings<ept id="p1">](ui-change-basic-settings.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="25">Changing Basic Settings</mrk><ept id="p1">](ui-change-basic-settings.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="25">Změna základního nastavení</mrk><ept id="p1">](ui-change-basic-settings.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Customizing <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Using Extensions<ept id="p1">](ui-extensions.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="26">Customizing <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Using Extensions</mrk><ept id="p1">](ui-extensions.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="26">Přizpůsobení <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Pomocí rozšíření</mrk><ept id="p1">](ui-extensions.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="27">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="27">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
