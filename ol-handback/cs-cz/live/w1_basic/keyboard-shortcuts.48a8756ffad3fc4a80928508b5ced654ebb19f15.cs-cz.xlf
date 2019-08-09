@@ -13,379 +13,379 @@
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
-          <source>Keyboard Shortcuts</source><seg-source><mrk mtype="seg" mid="1">Keyboard Shortcuts</mrk></seg-source><target><mrk mtype="seg" mid="1">Klávesové zkratky</mrk></target>
+          <source>Keyboard Shortcuts</source><seg-source><mrk mtype="seg" mid="1">Keyboard Shortcuts</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="1">Klávesové zkratky</mrk></target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
-          <source>List of keyboard shortcuts for navigating in lists.</source><seg-source><mrk mtype="seg" mid="2">List of keyboard shortcuts for navigating in lists.</mrk></seg-source><target><mrk mtype="seg" mid="2">Seznam klávesových zkratek pro navigaci v seznamech.</mrk></target>
+          <source>List of keyboard shortcuts for navigating in lists.</source><seg-source><mrk mtype="seg" mid="2">List of keyboard shortcuts for navigating in lists.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="2">Seznam klávesových zkratek pro navigaci v seznamech.</mrk></target>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
-          <source>Keyboard Shortcuts</source><seg-source><mrk mtype="seg" mid="3">Keyboard Shortcuts</mrk></seg-source><target><mrk mtype="seg" mid="3">Klávesové zkratky</mrk></target>
+          <source>Keyboard Shortcuts</source><seg-source><mrk mtype="seg" mid="3">Keyboard Shortcuts</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="3">Klávesové zkratky</mrk></target>
         </trans-unit>
         <trans-unit id="104" translate="yes" xml:space="preserve">
-          <source>This article provides an overview of some of the shortcut key combinations that you can use when you are working with <ph id="ph1">[!INCLUDE [d365fin_long_md](includes/d365fin_long_md.md)]</ph>.</source><seg-source><mrk mtype="seg" mid="4">This article provides an overview of some of the shortcut key combinations that you can use when you are working with <ph id="ph1">[!INCLUDE [d365fin_long_md](includes/d365fin_long_md.md)]</ph>.</mrk></seg-source><target><mrk mtype="seg" mid="4">Tento článek poskytuje přehled některých kombinací klávesových zkratek, které můžete použít při práci s <ph id="ph1">[!INCLUDE [d365fin_long_md](includes/d365fin_long_md.md)]</ph>.</mrk></target>
+          <source>This article provides an overview of some of the shortcut key combinations that you can use when you are working with <ph id="ph1">[!INCLUDE [d365fin_long_md](includes/d365fin_long_md.md)]</ph>.</source><seg-source><mrk mtype="seg" mid="4">This article provides an overview of some of the shortcut key combinations that you can use when you are working with <ph id="ph1">[!INCLUDE [d365fin_long_md](includes/d365fin_long_md.md)]</ph>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="4">Tento článek poskytuje přehled některých kombinací klávesových zkratek, které můžete použít při práci s <ph id="ph1">[!INCLUDE [d365fin_long_md](includes/d365fin_long_md.md)]</ph>.</mrk></target>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
-          <source>Overview</source><seg-source><mrk mtype="seg" mid="5">Overview</mrk></seg-source><target><mrk mtype="seg" mid="5">Přehled</mrk></target>
+          <source>Overview</source><seg-source><mrk mtype="seg" mid="5">Overview</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="5">Přehled</mrk></target>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
-          <source>The keyboard shortcuts aide accessibility and can make it easier and more efficient to navigate to different areas and elements on a page.</source><seg-source><mrk mtype="seg" mid="6">The keyboard shortcuts aide accessibility and can make it easier and more efficient to navigate to different areas and elements on a page.</mrk></seg-source><target><mrk mtype="seg" mid="6">Klávesové zkratky usnadňují přístup a mohou zefektivnit navigaci do různých oblastí a prvků na stránce.</mrk></target>
+          <source>The keyboard shortcuts aide accessibility and can make it easier and more efficient to navigate to different areas and elements on a page.</source><seg-source><mrk mtype="seg" mid="6">The keyboard shortcuts aide accessibility and can make it easier and more efficient to navigate to different areas and elements on a page.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="6">Klávesové zkratky usnadňují přístup a mohou zefektivnit navigaci do různých oblastí a prvků na stránce.</mrk></target>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
-          <source>The keyboard shortcuts are supported by most web browsers; however the behavior may vary slightly.</source><seg-source><mrk mtype="seg" mid="7">The keyboard shortcuts are supported by most web browsers; however the behavior may vary slightly.</mrk></seg-source><target><mrk mtype="seg" mid="7">Klávesové zkratky jsou podporovány většinou webových prohlížečů, avšak chování se však může mírně lišit.</mrk></target>
+          <source>The keyboard shortcuts are supported by most web browsers; however the behavior may vary slightly.</source><seg-source><mrk mtype="seg" mid="7">The keyboard shortcuts are supported by most web browsers; however the behavior may vary slightly.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Klávesové zkratky jsou podporovány většinou webových prohlížečů avšak chování se však může mírně lišit.</mrk></target>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
-          <source>The keyboard shortcuts described here refer to the U.S. keyboard layout.</source><seg-source><mrk mtype="seg" mid="8">The keyboard shortcuts described here refer to the U.S. keyboard layout.</mrk></seg-source><target><mrk mtype="seg" mid="8">Zde popsané klávesové zkratky se vztahují k americkému rozložení klávesnice.</mrk></target>
+          <source>The keyboard shortcuts described here refer to the U.S. keyboard layout.</source><seg-source><mrk mtype="seg" mid="8">The keyboard shortcuts described here refer to the U.S. keyboard layout.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="8">Zde popsané klávesové zkratky se vztahují k americkému rozložení klávesnice.</mrk></target>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source>The layout of the keys on other keyboards may not correspond exactly to the keys on a U.S. keyboard.</source><seg-source><mrk mtype="seg" mid="9">The layout of the keys on other keyboards may not correspond exactly to the keys on a U.S. keyboard.</mrk></seg-source><target><mrk mtype="seg" mid="9">Rozložení kláves na jiných klávesnicích nemusí přesně odpovídat klávesám na americké klávesnici.</mrk></target>
+          <source>The layout of the keys on other keyboards may not correspond exactly to the keys on a U.S. keyboard.</source><seg-source><mrk mtype="seg" mid="9">The layout of the keys on other keyboards may not correspond exactly to the keys on a U.S. keyboard.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="9">Rozložení kláves na jiných klávesnicích nemusí přesně odpovídat klávesám na americké klávesnici.</mrk></target>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">&lt;a name="Keyboard"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> General Keyboard Shortcuts</source><seg-source><bpt id="p1">&lt;a name="Keyboard"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> <mrk mtype="seg" mid="10">General Keyboard Shortcuts</mrk></seg-source><target><bpt id="p1">&lt;a name="Keyboard"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> <mrk mtype="seg" mid="10">Obecné klávesové zkratky</mrk></target>
+          <source><bpt id="p1">&lt;a name="Keyboard"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> General Keyboard Shortcuts</source><seg-source><bpt id="p1">&lt;a name="Keyboard"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> <mrk mtype="seg" mid="10">General Keyboard Shortcuts</mrk></seg-source><target state="translated"><bpt id="p1">&lt;a name="Keyboard"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> <mrk mtype="seg" mid="10">Obecné klávesové zkratky</mrk></target>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
-          <source>The following table describes keyboard shortcuts for navigating and accessing different elements of a page, such as actions, drop-down lists, lookups, and more.</source><seg-source><mrk mtype="seg" mid="11">The following table describes keyboard shortcuts for navigating and accessing different elements of a page, such as actions, drop-down lists, lookups, and more.</mrk></seg-source><target><mrk mtype="seg" mid="11">Následující tabulka popisuje klávesové zkratky pro navigaci a přístup k různým prvkům stránky, jako jsou akce, rozevírací seznamy, vyhledávání a další.</mrk></target>
+          <source>The following table describes keyboard shortcuts for navigating and accessing different elements of a page, such as actions, drop-down lists, lookups, and more.</source><seg-source><mrk mtype="seg" mid="11">The following table describes keyboard shortcuts for navigating and accessing different elements of a page, such as actions, drop-down lists, lookups, and more.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">Následující tabulka popisuje klávesové zkratky pro navigaci a přístup k různým prvkům stránky, jako jsou akce, rozevírací seznamy, vyhledávání a další.</mrk></target>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
-          <source>For details about keyboard shortcuts for navigating records once you get inside a list, see the next section.</source><seg-source><mrk mtype="seg" mid="12">For details about keyboard shortcuts for navigating records once you get inside a list, see the next section.</mrk></seg-source><target><mrk mtype="seg" mid="12">Podrobné informace o klávesových zkratkách pro navigaci mezi záznamy získáte v následující části.</mrk></target>
+          <source>For details about keyboard shortcuts for navigating records once you get inside a list, see the next section.</source><seg-source><mrk mtype="seg" mid="12">For details about keyboard shortcuts for navigating records once you get inside a list, see the next section.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="12">Podrobné informace o klávesových zkratkách pro navigaci mezi záznamy získáte v následující části.</mrk></target>
         </trans-unit>
         <trans-unit id="113" translate="yes" xml:space="preserve">
-          <source>Press these keys</source><seg-source><mrk mtype="seg" mid="13">Press these keys</mrk></seg-source><target><mrk mtype="seg" mid="13">Stiskněte tyto klávesy</mrk></target>
+          <source>Press these keys</source><seg-source><mrk mtype="seg" mid="13">Press these keys</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="13">Stiskněte tyto klávesy</mrk></target>
         </trans-unit>
         <trans-unit id="114" translate="yes" xml:space="preserve">
-          <source>To do this</source><seg-source><mrk mtype="seg" mid="14">To do this</mrk></seg-source><target><mrk mtype="seg" mid="14">Pro udělání tohoto</mrk></target>
+          <source>To do this</source><seg-source><mrk mtype="seg" mid="14">To do this</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="14">Pro udělání tohoto</mrk></target>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
-          <source>Tab</source><seg-source><mrk mtype="seg" mid="15">Tab</mrk></seg-source><target><mrk mtype="seg" mid="15">Tab</mrk></target>
+          <source>Tab</source><seg-source><mrk mtype="seg" mid="15">Tab</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="15">Tab</mrk></target>
         </trans-unit>
         <trans-unit id="116" translate="yes" xml:space="preserve">
-          <source>Move focus to the next control or element on a page, such as actions, buttons, fields, or list headings.</source><seg-source><mrk mtype="seg" mid="16">Move focus to the next control or element on a page, such as actions, buttons, fields, or list headings.</mrk></seg-source><target><mrk mtype="seg" mid="16">Přesune zaměření na další ovládací prvek na stránce, jako jsou akce, tlačítka, pole, nebo nadpisy seznamu.</mrk></target>
+          <source>Move focus to the next control or element on a page, such as actions, buttons, fields, or list headings.</source><seg-source><mrk mtype="seg" mid="16">Move focus to the next control or element on a page, such as actions, buttons, fields, or list headings.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="16">Přesune zaměření na další ovládací prvek na stránce, jako jsou akce, tlačítka, pole, nebo nadpisy seznamu.</mrk></target>
         </trans-unit>
         <trans-unit id="117" translate="yes" xml:space="preserve">
-          <source>Shift+Tab</source><seg-source><mrk mtype="seg" mid="17">Shift+Tab</mrk></seg-source><target><mrk mtype="seg" mid="17">Shift+Tab</mrk></target>
+          <source>Shift+Tab</source><seg-source><mrk mtype="seg" mid="17">Shift+Tab</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="17">Shift+Tab</mrk></target>
         </trans-unit>
         <trans-unit id="118" translate="yes" xml:space="preserve">
-          <source>Move focus to the previous control or element on a page, such as buttons, fields, or list headings.</source><seg-source><mrk mtype="seg" mid="18">Move focus to the previous control or element on a page, such as buttons, fields, or list headings.</mrk></seg-source><target><mrk mtype="seg" mid="18">Přesune zaměření na předchozí ovládací prvek na stránce, jako jsou tlačítka, pole, nebo nadpisy seznamu.</mrk></target>
+          <source>Move focus to the previous control or element on a page, such as buttons, fields, or list headings.</source><seg-source><mrk mtype="seg" mid="18">Move focus to the previous control or element on a page, such as buttons, fields, or list headings.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="18">Přesune zaměření na předchozí ovládací prvek na stránce, jako jsou tlačítka, pole, nebo nadpisy seznamu.</mrk></target>
         </trans-unit>
         <trans-unit id="119" translate="yes" xml:space="preserve">
-          <source>Enter</source><seg-source><mrk mtype="seg" mid="19">Enter</mrk></seg-source><target><mrk mtype="seg" mid="19">Enter</mrk></target>
+          <source>Enter</source><seg-source><mrk mtype="seg" mid="19">Enter</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="19">Enter</mrk></target>
         </trans-unit>
         <trans-unit id="120" translate="yes" xml:space="preserve">
-          <source>Enable or access the element or control that is in focus.</source><seg-source><mrk mtype="seg" mid="20">Enable or access the element or control that is in focus.</mrk></seg-source><target><mrk mtype="seg" mid="20">Povolí nebo přistoupí k prvku nebo ovládacímu prvku, který je zaměřen.</mrk></target>
+          <source>Enable or access the element or control that is in focus.</source><seg-source><mrk mtype="seg" mid="20">Enable or access the element or control that is in focus.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="20">Povolí nebo přistoupí k prvku nebo ovládacímu prvku, který je zaměřen.</mrk></target>
         </trans-unit>
         <trans-unit id="121" translate="yes" xml:space="preserve">
-          <source>Alt+Down Arrow</source><seg-source><mrk mtype="seg" mid="21">Alt+Down Arrow</mrk></seg-source><target><mrk mtype="seg" mid="21">Alt+šipka dolů</mrk></target>
+          <source>Alt+Down Arrow</source><seg-source><mrk mtype="seg" mid="21">Alt+Down Arrow</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="21">Alt+šipka dolů</mrk></target>
         </trans-unit>
         <trans-unit id="122" translate="yes" xml:space="preserve">
-          <source>Open a drop-down list or look up a value for a field.</source><seg-source><mrk mtype="seg" mid="22">Open a drop-down list or look up a value for a field.</mrk></seg-source><target><mrk mtype="seg" mid="22">Otevře rozevírací seznam nebo vyhledá hodnotu pole.</mrk></target>
+          <source>Open a drop-down list or look up a value for a field.</source><seg-source><mrk mtype="seg" mid="22">Open a drop-down list or look up a value for a field.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="22">Otevře rozevírací seznam nebo vyhledá hodnotu pole.</mrk></target>
         </trans-unit>
         <trans-unit id="123" translate="yes" xml:space="preserve">
-          <source>Alt+Right Arrow</source><seg-source><mrk mtype="seg" mid="23">Alt+Right Arrow</mrk></seg-source><target><mrk mtype="seg" mid="23">Alt+šipka vpravo</mrk></target>
+          <source>Alt+Right Arrow</source><seg-source><mrk mtype="seg" mid="23">Alt+Right Arrow</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="23">Alt+šipka vpravo</mrk></target>
         </trans-unit>
         <trans-unit id="124" translate="yes" xml:space="preserve">
-          <source>See the transactions that resulted in a calculated value in a field.</source><seg-source><mrk mtype="seg" mid="24">See the transactions that resulted in a calculated value in a field.</mrk></seg-source><target><mrk mtype="seg" mid="24">Zobrazí transakce, jejichž výsledkem byla vypočítaná hodnota v poli.</mrk></target>
+          <source>See the transactions that resulted in a calculated value in a field.</source><seg-source><mrk mtype="seg" mid="24">See the transactions that resulted in a calculated value in a field.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="24">Zobrazí transakce, jejichž výsledkem byla vypočítaná hodnota v poli.</mrk></target>
         </trans-unit>
         <trans-unit id="125" translate="yes" xml:space="preserve">
-          <source>Keyboard Shortcuts in Lists</source><seg-source><mrk mtype="seg" mid="25">Keyboard Shortcuts in Lists</mrk></seg-source><target><mrk mtype="seg" mid="25">Klávesové zkratky v seznamech</mrk></target>
+          <source>Keyboard Shortcuts in Lists</source><seg-source><mrk mtype="seg" mid="25">Keyboard Shortcuts in Lists</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="25">Klávesové zkratky v seznamech</mrk></target>
         </trans-unit>
         <trans-unit id="126" translate="yes" xml:space="preserve">
-          <source>The following table describes the keyboard shortcuts that you can use in a list page.</source><seg-source><mrk mtype="seg" mid="26">The following table describes the keyboard shortcuts that you can use in a list page.</mrk></seg-source><target><mrk mtype="seg" mid="26">Následující tabulka popisuje klávesové zkratky, které můžete použít na stránce seznamu.</mrk></target>
+          <source>The following table describes the keyboard shortcuts that you can use in a list page.</source><seg-source><mrk mtype="seg" mid="26">The following table describes the keyboard shortcuts that you can use in a list page.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="26">Následující tabulka popisuje klávesové zkratky, které můžete použít na stránce seznamu.</mrk></target>
         </trans-unit>
         <trans-unit id="127" translate="yes" xml:space="preserve">
-          <source>The shortcut action is slightly different depending on whether the page is shown in the list view or tile view.</source><seg-source><mrk mtype="seg" mid="27">The shortcut action is slightly different depending on whether the page is shown in the list view or tile view.</mrk></seg-source><target><mrk mtype="seg" mid="27">Akce zkratky se mírně liší v závislosti na tom, zda je stránka zobrazena v zobrazení seznamu nebo v zobrazení dlaždic.</mrk></target>
+          <source>The shortcut action is slightly different depending on whether the page is shown in the list view or tile view.</source><seg-source><mrk mtype="seg" mid="27">The shortcut action is slightly different depending on whether the page is shown in the list view or tile view.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="27">Akce zkratky se mírně liší v závislosti na tom, zda je stránka zobrazena v zobrazení seznamu nebo v zobrazení dlaždic.</mrk></target>
         </trans-unit>
         <trans-unit id="128" translate="yes" xml:space="preserve">
-          <source>Most of the shortcuts are the same no matter whether the operating system is Windows or macOS; however, there are some shortcuts that are different for macOS than Windows.</source><seg-source><mrk mtype="seg" mid="28">Most of the shortcuts are the same no matter whether the operating system is Windows or macOS; however, there are some shortcuts that are different for macOS than Windows.</mrk></seg-source><target><mrk mtype="seg" mid="28">Většina klávesových zkratek je stejná bez ohledu na to, zda je operační systém Windows nebo macOS; existují však některé zkratky, které jsou u macOS a Windows rozdílné .</mrk></target>
+          <source>Most of the shortcuts are the same no matter whether the operating system is Windows or macOS; however, there are some shortcuts that are different for macOS than Windows.</source><seg-source><mrk mtype="seg" mid="28">Most of the shortcuts are the same no matter whether the operating system is Windows or macOS; however, there are some shortcuts that are different for macOS than Windows.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="28">Většina klávesových zkratek je stejná bez ohledu na to, zda je operační systém Windows nebo macOS; existují však některé zkratky, které jsou u macOS a Windows rozdílné .</mrk></target>
         </trans-unit>
         <trans-unit id="129" translate="yes" xml:space="preserve">
-          <source>These are indicated in parantheses in the table as well.</source><seg-source><mrk mtype="seg" mid="29">These are indicated in parantheses in the table as well.</mrk></seg-source><target><mrk mtype="seg" mid="29">Ty jsou uvedeny také v závorkách v tabulce.</mrk></target>
+          <source>These are indicated in parantheses in the table as well.</source><seg-source><mrk mtype="seg" mid="29">These are indicated in parantheses in the table as well.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="29">Ty jsou uvedeny také v závorkách v tabulce.</mrk></target>
         </trans-unit>
         <trans-unit id="130" translate="yes" xml:space="preserve">
-          <source>In the table that follows, the term <bpt id="p1">*</bpt>actionable field<ept id="p1">*</ept> refers to a field on which you can do something, like change a value or link to another page.</source><seg-source><mrk mtype="seg" mid="30">In the table that follows, the term <bpt id="p1">*</bpt>actionable field<ept id="p1">*</ept> refers to a field on which you can do something, like change a value or link to another page.</mrk></seg-source><target><mrk mtype="seg" mid="30">V následující tabulce se pojem <bpt id="p1">*</bpt>akční pole<ept id="p1">*</ept>  vztahuje na pole, ve kterém můžete něco udělat, například změnit hodnotu nebo odkaz na jinou stránku.</mrk></target>
+          <source>In the table that follows, the term <bpt id="p1">*</bpt>actionable field<ept id="p1">*</ept> refers to a field on which you can do something, like change a value or link to another page.</source><seg-source><mrk mtype="seg" mid="30">In the table that follows, the term <bpt id="p1">*</bpt>actionable field<ept id="p1">*</ept> refers to a field on which you can do something, like change a value or link to another page.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="30">V následující tabulce se pojem <bpt id="p1">*</bpt>akční pole<ept id="p1">*</ept>  vztahuje na pole, ve kterém můžete něco udělat, například změnit hodnotu nebo odkaz na jinou stránku.</mrk></target>
         </trans-unit>
         <trans-unit id="131" translate="yes" xml:space="preserve">
-          <source>In general, the shortcuts will skip over fields that display information that you cannot change from the list (in other words, fields that are read-only).</source><seg-source><mrk mtype="seg" mid="31">In general, the shortcuts will skip over fields that display information that you cannot change from the list (in other words, fields that are read-only).</mrk></seg-source><target><mrk mtype="seg" mid="31">Zkratky obecně přeskočí přes pole, která zobrazují informace, které nelze ze seznamu změnit (jinými slovy, pole, která jsou pouze pro čtení).</mrk></target>
+          <source>In general, the shortcuts will skip over fields that display information that you cannot change from the list (in other words, fields that are read-only).</source><seg-source><mrk mtype="seg" mid="31">In general, the shortcuts will skip over fields that display information that you cannot change from the list (in other words, fields that are read-only).</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="31">Zkratky obecně přeskočí přes pole, která zobrazují informace, které nelze ze seznamu změnit (jinými slovy, pole, která jsou pouze pro čtení).</mrk></target>
         </trans-unit>
         <trans-unit id="132" translate="yes" xml:space="preserve">
-          <source>Press these keys</source><seg-source><mrk mtype="seg" mid="32">Press these keys</mrk></seg-source><target><mrk mtype="seg" mid="32">Stiskněte tyto klávesy</mrk></target>
+          <source>Press these keys</source><seg-source><mrk mtype="seg" mid="32">Press these keys</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="32">Stiskněte tyto klávesy</mrk></target>
         </trans-unit>
         <trans-unit id="133" translate="yes" xml:space="preserve">
-          <source>(in macOS)</source><seg-source><mrk mtype="seg" mid="33">(in macOS)</mrk></seg-source><target><mrk mtype="seg" mid="33">(na macOS)</mrk></target>
+          <source>(in macOS)</source><seg-source><mrk mtype="seg" mid="33">(in macOS)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="33">(na macOS)</mrk></target>
         </trans-unit>
         <trans-unit id="134" translate="yes" xml:space="preserve">
-          <source>To do this in a list view</source><seg-source><mrk mtype="seg" mid="34">To do this in a list view</mrk></seg-source><target><mrk mtype="seg" mid="34">Pro udělání tohoto v seznamovém zobrazení</mrk></target>
+          <source>To do this in a list view</source><seg-source><mrk mtype="seg" mid="34">To do this in a list view</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="34">Pro udělání tohoto v seznamovém zobrazení</mrk></target>
         </trans-unit>
         <trans-unit id="135" translate="yes" xml:space="preserve">
-          <source>To do this in a list view</source><seg-source><mrk mtype="seg" mid="35">To do this in a list view</mrk></seg-source><target><mrk mtype="seg" mid="35">Pro udělání tohoto v seznamovém zobrazení</mrk></target>
+          <source>To do this in a list view</source><seg-source><mrk mtype="seg" mid="35">To do this in a list view</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="35">Pro udělání tohoto v seznamovém zobrazení</mrk></target>
         </trans-unit>
         <trans-unit id="136" translate="yes" xml:space="preserve">
-          <source>Remarks</source><seg-source><mrk mtype="seg" mid="36">Remarks</mrk></seg-source><target><mrk mtype="seg" mid="36">Poznámky</mrk></target>
+          <source>Remarks</source><seg-source><mrk mtype="seg" mid="36">Remarks</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="36">Poznámky</mrk></target>
         </trans-unit>
         <trans-unit id="137" translate="yes" xml:space="preserve">
-          <source>Up Arrow</source><seg-source><mrk mtype="seg" mid="37">Up Arrow</mrk></seg-source><target><mrk mtype="seg" mid="37">Šipka nahoru</mrk></target>
+          <source>Up Arrow</source><seg-source><mrk mtype="seg" mid="37">Up Arrow</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="37">Šipka nahoru</mrk></target>
         </trans-unit>
         <trans-unit id="138" translate="yes" xml:space="preserve">
-          <source>Move in the same column to the field in the row above.</source><seg-source><mrk mtype="seg" mid="38">Move in the same column to the field in the row above.</mrk></seg-source><target><mrk mtype="seg" mid="38">Přesune Vás ve stejném sloupci do pole v řádku nad ním.</mrk></target>
+          <source>Move in the same column to the field in the row above.</source><seg-source><mrk mtype="seg" mid="38">Move in the same column to the field in the row above.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="38">Přesune Vás ve stejném sloupci do pole v řádku nad ním.</mrk></target>
         </trans-unit>
         <trans-unit id="139" translate="yes" xml:space="preserve">
-          <source>Move in the same column to the tile in the row above.</source><seg-source><mrk mtype="seg" mid="39">Move in the same column to the tile in the row above.</mrk></seg-source><target><mrk mtype="seg" mid="39">Přesune Vás ve stejném sloupci do dlaždice v řádku nad ní.</mrk></target>
+          <source>Move in the same column to the tile in the row above.</source><seg-source><mrk mtype="seg" mid="39">Move in the same column to the tile in the row above.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="39">Přesune Vás ve stejném sloupci do dlaždice v řádku nad ní.</mrk></target>
         </trans-unit>
         <trans-unit id="140" translate="yes" xml:space="preserve">
-          <source>Down Arrow</source><seg-source><mrk mtype="seg" mid="40">Down Arrow</mrk></seg-source><target><mrk mtype="seg" mid="40">Šipka dolů</mrk></target>
+          <source>Down Arrow</source><seg-source><mrk mtype="seg" mid="40">Down Arrow</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="40">Šipka dolů</mrk></target>
         </trans-unit>
         <trans-unit id="141" translate="yes" xml:space="preserve">
-          <source>Move in the same column to the field in the row below.</source><seg-source><mrk mtype="seg" mid="41">Move in the same column to the field in the row below.</mrk></seg-source><target><mrk mtype="seg" mid="41">Přesune Vás ve stejném sloupci do pole v řádku pod ním.</mrk></target>
+          <source>Move in the same column to the field in the row below.</source><seg-source><mrk mtype="seg" mid="41">Move in the same column to the field in the row below.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="41">Přesune Vás ve stejném sloupci do pole v řádku pod ním.</mrk></target>
         </trans-unit>
         <trans-unit id="142" translate="yes" xml:space="preserve">
-          <source>Move in the same column to the tile in the row below.</source><seg-source><mrk mtype="seg" mid="42">Move in the same column to the tile in the row below.</mrk></seg-source><target><mrk mtype="seg" mid="42">Přesune Vás ve stejném sloupci do dlaždice v řádku pod ní.</mrk></target>
+          <source>Move in the same column to the tile in the row below.</source><seg-source><mrk mtype="seg" mid="42">Move in the same column to the tile in the row below.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="42">Přesune Vás ve stejném sloupci do dlaždice v řádku pod ní.</mrk></target>
         </trans-unit>
         <trans-unit id="143" translate="yes" xml:space="preserve">
-          <source>Right Arrow</source><seg-source><mrk mtype="seg" mid="43">Right Arrow</mrk></seg-source><target><mrk mtype="seg" mid="43">Šipka vpravo</mrk></target>
+          <source>Right Arrow</source><seg-source><mrk mtype="seg" mid="43">Right Arrow</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="43">Šipka vpravo</mrk></target>
         </trans-unit>
         <trans-unit id="144" translate="yes" xml:space="preserve">
-          <source>Move in the same row to the next actionable field to the right.</source><seg-source><mrk mtype="seg" mid="44">Move in the same row to the next actionable field to the right.</mrk></seg-source><target><mrk mtype="seg" mid="44">Přesunete se ve stejném řádku na další akční pole vpravo.</mrk></target>
+          <source>Move in the same row to the next actionable field to the right.</source><seg-source><mrk mtype="seg" mid="44">Move in the same row to the next actionable field to the right.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="44">Přesunete se ve stejném řádku na další akční pole vpravo.</mrk></target>
         </trans-unit>
         <trans-unit id="145" translate="yes" xml:space="preserve">
-          <source>Move in the same row to the next tile to the right.</source><seg-source><mrk mtype="seg" mid="45">Move in the same row to the next tile to the right.</mrk></seg-source><target><mrk mtype="seg" mid="45">Přesunete se ve stejném řádku na další dlaždici vpravo.</mrk></target>
+          <source>Move in the same row to the next tile to the right.</source><seg-source><mrk mtype="seg" mid="45">Move in the same row to the next tile to the right.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="45">Přesunete se ve stejném řádku na další dlaždici vpravo.</mrk></target>
         </trans-unit>
         <trans-unit id="146" translate="yes" xml:space="preserve">
-          <source>This does not pertain when the list editable.</source><seg-source><mrk mtype="seg" mid="46">This does not pertain when the list editable.</mrk></seg-source><target><mrk mtype="seg" mid="46">To neplatí, pokud je seznam upravitelný.</mrk></target>
+          <source>This does not pertain when the list editable.</source><seg-source><mrk mtype="seg" mid="46">This does not pertain when the list editable.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="46">To neplatí, pokud je seznam upravitelný.</mrk></target>
         </trans-unit>
         <trans-unit id="147" translate="yes" xml:space="preserve">
-          <source>Left Arrow</source><seg-source><mrk mtype="seg" mid="47">Left Arrow</mrk></seg-source><target><mrk mtype="seg" mid="47">Šipka vlevo</mrk></target>
+          <source>Left Arrow</source><seg-source><mrk mtype="seg" mid="47">Left Arrow</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="47">Šipka vlevo</mrk></target>
         </trans-unit>
         <trans-unit id="148" translate="yes" xml:space="preserve">
-          <source>Move in the same row to the previous field to the left.</source><seg-source><mrk mtype="seg" mid="48">Move in the same row to the previous field to the left.</mrk></seg-source><target><mrk mtype="seg" mid="48">Přesunete se ve stejném řádku na předchozí pole vlevo.</mrk></target>
+          <source>Move in the same row to the previous field to the left.</source><seg-source><mrk mtype="seg" mid="48">Move in the same row to the previous field to the left.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="48">Přesunete se ve stejném řádku na předchozí pole vlevo.</mrk></target>
         </trans-unit>
         <trans-unit id="149" translate="yes" xml:space="preserve">
-          <source>Move in the same row to the previous tile to the left.</source><seg-source><mrk mtype="seg" mid="49">Move in the same row to the previous tile to the left.</mrk></seg-source><target><mrk mtype="seg" mid="49">Přesunete se ve stejném řádku na předchozí dlaždici vlevo.</mrk></target>
+          <source>Move in the same row to the previous tile to the left.</source><seg-source><mrk mtype="seg" mid="49">Move in the same row to the previous tile to the left.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="49">Přesunete se ve stejném řádku na předchozí dlaždici vlevo.</mrk></target>
         </trans-unit>
         <trans-unit id="150" translate="yes" xml:space="preserve">
-          <source>This does not pertain when the list editable.</source><seg-source><mrk mtype="seg" mid="50">This does not pertain when the list editable.</mrk></seg-source><target><mrk mtype="seg" mid="50">To neplatí, pokud je seznam upravitelný.</mrk></target>
+          <source>This does not pertain when the list editable.</source><seg-source><mrk mtype="seg" mid="50">This does not pertain when the list editable.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="50">To neplatí, pokud je seznam upravitelný.</mrk></target>
         </trans-unit>
         <trans-unit id="151" translate="yes" xml:space="preserve">
-          <source>Home</source><seg-source><mrk mtype="seg" mid="51">Home</mrk></seg-source><target><mrk mtype="seg" mid="51">Domů</mrk></target>
+          <source>Home</source><seg-source><mrk mtype="seg" mid="51">Home</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="51">Domů</mrk></target>
         </trans-unit>
         <trans-unit id="152" translate="yes" xml:space="preserve">
-          <source>(Fn+Left Arrow)</source><seg-source><mrk mtype="seg" mid="52">(Fn+Left Arrow)</mrk></seg-source><target><mrk mtype="seg" mid="52">(Fn+šipka vlevo)</mrk></target>
+          <source>(Fn+Left Arrow)</source><seg-source><mrk mtype="seg" mid="52">(Fn+Left Arrow)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="52">(Fn+šipka vlevo)</mrk></target>
         </trans-unit>
         <trans-unit id="153" translate="yes" xml:space="preserve">
-          <source>Move to the first field in the row.</source><seg-source><mrk mtype="seg" mid="53">Move to the first field in the row.</mrk></seg-source><target><mrk mtype="seg" mid="53">Přesunete se na první pole v řádku.</mrk></target>
+          <source>Move to the first field in the row.</source><seg-source><mrk mtype="seg" mid="53">Move to the first field in the row.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="53">Přesunete se na první pole v řádku.</mrk></target>
         </trans-unit>
         <trans-unit id="154" translate="yes" xml:space="preserve">
-          <source>Move to the first tile in the row.</source><seg-source><mrk mtype="seg" mid="54">Move to the first tile in the row.</mrk></seg-source><target><mrk mtype="seg" mid="54">Přesunete se na první dlaždici v řádku.</mrk></target>
+          <source>Move to the first tile in the row.</source><seg-source><mrk mtype="seg" mid="54">Move to the first tile in the row.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="54">Přesunete se na první dlaždici v řádku.</mrk></target>
         </trans-unit>
         <trans-unit id="155" translate="yes" xml:space="preserve">
-          <source>End</source><seg-source><mrk mtype="seg" mid="55">End</mrk></seg-source><target><mrk mtype="seg" mid="55">End</mrk></target>
+          <source>End</source><seg-source><mrk mtype="seg" mid="55">End</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="55">End</mrk></target>
         </trans-unit>
         <trans-unit id="156" translate="yes" xml:space="preserve">
-          <source>(Fn+right Arrow)</source><seg-source><mrk mtype="seg" mid="56">(Fn+right Arrow)</mrk></seg-source><target><mrk mtype="seg" mid="56">(Fn+šipka vpravo)</mrk></target>
+          <source>(Fn+right Arrow)</source><seg-source><mrk mtype="seg" mid="56">(Fn+right Arrow)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="56">(Fn+šipka vpravo)</mrk></target>
         </trans-unit>
         <trans-unit id="157" translate="yes" xml:space="preserve">
-          <source>Move to the last actionable field in the row.</source><seg-source><mrk mtype="seg" mid="57">Move to the last actionable field in the row.</mrk></seg-source><target><mrk mtype="seg" mid="57">Přesunete se na poslední akční pole v řádku.</mrk></target>
+          <source>Move to the last actionable field in the row.</source><seg-source><mrk mtype="seg" mid="57">Move to the last actionable field in the row.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="57">Přesunete se na poslední akční pole v řádku.</mrk></target>
         </trans-unit>
         <trans-unit id="158" translate="yes" xml:space="preserve">
-          <source>Move to the last tile in the row.</source><seg-source><mrk mtype="seg" mid="58">Move to the last tile in the row.</mrk></seg-source><target><mrk mtype="seg" mid="58">Přesunete se na poslední dlaždici v řádku.</mrk></target>
+          <source>Move to the last tile in the row.</source><seg-source><mrk mtype="seg" mid="58">Move to the last tile in the row.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="58">Přesunete se na poslední dlaždici v řádku.</mrk></target>
         </trans-unit>
         <trans-unit id="159" translate="yes" xml:space="preserve">
-          <source>Page Up</source><seg-source><mrk mtype="seg" mid="59">Page Up</mrk></seg-source><target><mrk mtype="seg" mid="59">Page Up</mrk></target>
+          <source>Page Up</source><seg-source><mrk mtype="seg" mid="59">Page Up</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="59">Page Up</mrk></target>
         </trans-unit>
         <trans-unit id="160" translate="yes" xml:space="preserve">
-          <source>(Fn+up Arrow)</source><seg-source><mrk mtype="seg" mid="60">(Fn+up Arrow)</mrk></seg-source><target><mrk mtype="seg" mid="60">(Fn+šipka nahoru)</mrk></target>
+          <source>(Fn+up Arrow)</source><seg-source><mrk mtype="seg" mid="60">(Fn+up Arrow)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="60">(Fn+šipka nahoru)</mrk></target>
         </trans-unit>
         <trans-unit id="161" translate="yes" xml:space="preserve">
-          <source>Move in the same column to the uppermost visible row.</source><seg-source><mrk mtype="seg" mid="61">Move in the same column to the uppermost visible row.</mrk></seg-source><target><mrk mtype="seg" mid="61">Přesune Vás ve stejném sloupci do nejvyššího viditelného řádku.</mrk></target>
+          <source>Move in the same column to the uppermost visible row.</source><seg-source><mrk mtype="seg" mid="61">Move in the same column to the uppermost visible row.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="61">Přesune Vás ve stejném sloupci do nejvyššího viditelného řádku.</mrk></target>
         </trans-unit>
         <trans-unit id="162" translate="yes" xml:space="preserve">
-          <source>Move in the same column to the uppermost visible row.</source><seg-source><mrk mtype="seg" mid="62">Move in the same column to the uppermost visible row.</mrk></seg-source><target><mrk mtype="seg" mid="62">Přesune Vás ve stejném sloupci do nejvyššího viditelného řádku.</mrk></target>
+          <source>Move in the same column to the uppermost visible row.</source><seg-source><mrk mtype="seg" mid="62">Move in the same column to the uppermost visible row.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="62">Přesune Vás ve stejném sloupci do nejvyššího viditelného řádku.</mrk></target>
         </trans-unit>
         <trans-unit id="163" translate="yes" xml:space="preserve">
-          <source>Page Down</source><seg-source><mrk mtype="seg" mid="63">Page Down</mrk></seg-source><target><mrk mtype="seg" mid="63">Page Down</mrk></target>
+          <source>Page Down</source><seg-source><mrk mtype="seg" mid="63">Page Down</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="63">Page Down</mrk></target>
         </trans-unit>
         <trans-unit id="164" translate="yes" xml:space="preserve">
-          <source>(Fn+down Arrow)</source><seg-source><mrk mtype="seg" mid="64">(Fn+down Arrow)</mrk></seg-source><target><mrk mtype="seg" mid="64">(Fn+šipka dolů)</mrk></target>
+          <source>(Fn+down Arrow)</source><seg-source><mrk mtype="seg" mid="64">(Fn+down Arrow)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="64">(Fn+šipka dolů)</mrk></target>
         </trans-unit>
         <trans-unit id="165" translate="yes" xml:space="preserve">
-          <source>Move in the same column to lowermost visible row.</source><seg-source><mrk mtype="seg" mid="65">Move in the same column to lowermost visible row.</mrk></seg-source><target><mrk mtype="seg" mid="65">Přesune Vás ve stejném sloupci do nejnižšího viditelného řádku.</mrk></target>
+          <source>Move in the same column to lowermost visible row.</source><seg-source><mrk mtype="seg" mid="65">Move in the same column to lowermost visible row.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="65">Přesune Vás ve stejném sloupci do nejvyššího viditelného řádku.</mrk></target>
         </trans-unit>
         <trans-unit id="166" translate="yes" xml:space="preserve">
-          <source>Move in the same column to the lowermost visible row.</source><seg-source><mrk mtype="seg" mid="66">Move in the same column to the lowermost visible row.</mrk></seg-source><target><mrk mtype="seg" mid="66">Přesune Vás ve stejném sloupci do nejnižšího viditelného řádku.</mrk></target>
+          <source>Move in the same column to the lowermost visible row.</source><seg-source><mrk mtype="seg" mid="66">Move in the same column to the lowermost visible row.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="66">Přesune Vás ve stejném sloupci do nejnižšího viditelného řádku.</mrk></target>
         </trans-unit>
         <trans-unit id="167" translate="yes" xml:space="preserve">
-          <source>Enter</source><seg-source><mrk mtype="seg" mid="67">Enter</mrk></seg-source><target><mrk mtype="seg" mid="67">Enter</mrk></target>
+          <source>Enter</source><seg-source><mrk mtype="seg" mid="67">Enter</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="67">Enter</mrk></target>
         </trans-unit>
         <trans-unit id="168" translate="yes" xml:space="preserve">
-          <source>(Fn+down Arrow)</source><seg-source><mrk mtype="seg" mid="68">(Fn+down Arrow)</mrk></seg-source><target><mrk mtype="seg" mid="68">(Fn+šipka dolů)</mrk></target>
+          <source>(Fn+down Arrow)</source><seg-source><mrk mtype="seg" mid="68">(Fn+down Arrow)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="68">(Fn+šipka dolů)</mrk></target>
         </trans-unit>
         <trans-unit id="169" translate="yes" xml:space="preserve">
-          <source>Open the record that is associated with the field</source><seg-source><mrk mtype="seg" mid="69">Open the record that is associated with the field</mrk></seg-source><target><mrk mtype="seg" mid="69">Otevře záznam, který je přidružen k poli</mrk></target>
+          <source>Open the record that is associated with the field</source><seg-source><mrk mtype="seg" mid="69">Open the record that is associated with the field</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="69">Otevře záznam, který je přidružen k poli</mrk></target>
         </trans-unit>
         <trans-unit id="170" translate="yes" xml:space="preserve">
-          <source>Opens the record.</source><seg-source><mrk mtype="seg" mid="70">Opens the record.</mrk></seg-source><target><mrk mtype="seg" mid="70">Otevře záznam.</mrk></target>
+          <source>Opens the record.</source><seg-source><mrk mtype="seg" mid="70">Opens the record.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="70">Otevře záznam.</mrk></target>
         </trans-unit>
         <trans-unit id="171" translate="yes" xml:space="preserve">
-          <source>Only relevant if a card page is associated with the record.</source><seg-source><mrk mtype="seg" mid="71">Only relevant if a card page is associated with the record.</mrk></seg-source><target><mrk mtype="seg" mid="71">Relevantní, jestli je k záznamu přiřazena stránka karty.</mrk></target>
+          <source>Only relevant if a card page is associated with the record.</source><seg-source><mrk mtype="seg" mid="71">Only relevant if a card page is associated with the record.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="71">Relevantní, jestli je k záznamu přiřazena stránka karty.</mrk></target>
         </trans-unit>
         <trans-unit id="172" translate="yes" xml:space="preserve">
-          <source>Ctrl+Home</source><seg-source><mrk mtype="seg" mid="72">Ctrl+Home</mrk></seg-source><target><mrk mtype="seg" mid="72">Ctrl+Home</mrk></target>
+          <source>Ctrl+Home</source><seg-source><mrk mtype="seg" mid="72">Ctrl+Home</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="72">Ctrl+Home</mrk></target>
         </trans-unit>
         <trans-unit id="173" translate="yes" xml:space="preserve">
-          <source>(Fn+Ctrl+Left Arrow)</source><seg-source><mrk mtype="seg" mid="73">(Fn+Ctrl+Left Arrow)</mrk></seg-source><target><mrk mtype="seg" mid="73">(Fn+Ctrl+šipka vlevo)</mrk></target>
+          <source>(Fn+Ctrl+Left Arrow)</source><seg-source><mrk mtype="seg" mid="73">(Fn+Ctrl+Left Arrow)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="73">(Fn+Ctrl+šipka vlevo)</mrk></target>
         </trans-unit>
         <trans-unit id="174" translate="yes" xml:space="preserve">
-          <source>Select the first row in the list; focus moves to the first actionable field in row</source><seg-source><mrk mtype="seg" mid="74">Select the first row in the list; focus moves to the first actionable field in row</mrk></seg-source><target><mrk mtype="seg" mid="74">Vybere první řádek v seznamu; zobrazení se přesune na první akční pole v řadě.</mrk></target>
+          <source>Select the first row in the list; focus moves to the first actionable field in row</source><seg-source><mrk mtype="seg" mid="74">Select the first row in the list; focus moves to the first actionable field in row</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="74">Vybere první řádek v seznamu; zobrazení se přesune na první akční pole v řadě.</mrk></target>
         </trans-unit>
         <trans-unit id="175" translate="yes" xml:space="preserve">
-          <source>Move to the tile in first row in the list</source><seg-source><mrk mtype="seg" mid="75">Move to the tile in first row in the list</mrk></seg-source><target><mrk mtype="seg" mid="75">Přesune na dlaždici v prvním řádku v seznamu</mrk></target>
+          <source>Move to the tile in first row in the list</source><seg-source><mrk mtype="seg" mid="75">Move to the tile in first row in the list</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="75">Přesune na dlaždici v prvním řádku v seznamu</mrk></target>
         </trans-unit>
         <trans-unit id="176" translate="yes" xml:space="preserve">
-          <source>Ctrl+End</source><seg-source><mrk mtype="seg" mid="76">Ctrl+End</mrk></seg-source><target><mrk mtype="seg" mid="76">Ctrl+End</mrk></target>
+          <source>Ctrl+End</source><seg-source><mrk mtype="seg" mid="76">Ctrl+End</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="76">Ctrl+End</mrk></target>
         </trans-unit>
         <trans-unit id="177" translate="yes" xml:space="preserve">
-          <source>(Fn+Ctrl+Right Arrow)</source><seg-source><mrk mtype="seg" mid="77">(Fn+Ctrl+Right Arrow)</mrk></seg-source><target><mrk mtype="seg" mid="77">(Fn+Ctrl+šipka vlevo)</mrk></target>
+          <source>(Fn+Ctrl+Right Arrow)</source><seg-source><mrk mtype="seg" mid="77">(Fn+Ctrl+Right Arrow)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="77">(Fn+Ctrl+šipka vlevo)</mrk></target>
         </trans-unit>
         <trans-unit id="178" translate="yes" xml:space="preserve">
-          <source>Select the last row in the list; focus moves to first actionable field in row</source><seg-source><mrk mtype="seg" mid="78">Select the last row in the list; focus moves to first actionable field in row</mrk></seg-source><target><mrk mtype="seg" mid="78">Vybere poslední řádek v seznamu; zobrazení se přesune na první akční pole v řadě.</mrk></target>
+          <source>Select the last row in the list; focus moves to first actionable field in row</source><seg-source><mrk mtype="seg" mid="78">Select the last row in the list; focus moves to first actionable field in row</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="78">Vybere poslední řádek v seznamu; zobrazení se přesune na první akční pole v řadě.</mrk></target>
         </trans-unit>
         <trans-unit id="179" translate="yes" xml:space="preserve">
-          <source>Move to the first tile in last row in the list</source><seg-source><mrk mtype="seg" mid="79">Move to the first tile in last row in the list</mrk></seg-source><target><mrk mtype="seg" mid="79">Přesune na první dlaždici v posledním řádku v seznamu</mrk></target>
+          <source>Move to the first tile in last row in the list</source><seg-source><mrk mtype="seg" mid="79">Move to the first tile in last row in the list</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="79">Přesune na první dlaždici v posledním řádku v seznamu</mrk></target>
         </trans-unit>
         <trans-unit id="180" translate="yes" xml:space="preserve">
-          <source>Ctrl+Click</source><seg-source><mrk mtype="seg" mid="80">Ctrl+Click</mrk></seg-source><target><mrk mtype="seg" mid="80">Ctrl+kliknutí</mrk></target>
+          <source>Ctrl+Click</source><seg-source><mrk mtype="seg" mid="80">Ctrl+Click</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="80">Ctrl+kliknutí</mrk></target>
         </trans-unit>
         <trans-unit id="181" translate="yes" xml:space="preserve">
-          <source>(Cmd+Click)</source><seg-source><mrk mtype="seg" mid="81">(Cmd+Click)</mrk></seg-source><target><mrk mtype="seg" mid="81">(Cmd+kliknutí)</mrk></target>
+          <source>(Cmd+Click)</source><seg-source><mrk mtype="seg" mid="81">(Cmd+Click)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="81">(Cmd+kliknutí)</mrk></target>
         </trans-unit>
         <trans-unit id="182" translate="yes" xml:space="preserve">
-          <source>Extend the selection of rows to include the row that you click.</source><seg-source><mrk mtype="seg" mid="82">Extend the selection of rows to include the row that you click.</mrk></seg-source><target><mrk mtype="seg" mid="82">Rozšíří výběr řádků o řádek, na který jste klikli.</mrk></target>
+          <source>Extend the selection of rows to include the row that you click.</source><seg-source><mrk mtype="seg" mid="82">Extend the selection of rows to include the row that you click.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="82">Rozšíří výběr řádků o řádek, na který jste klikli.</mrk></target>
         </trans-unit>
         <trans-unit id="183" translate="yes" xml:space="preserve">
-          <source>Not applicable</source><seg-source><mrk mtype="seg" mid="83">Not applicable</mrk></seg-source><target><mrk mtype="seg" mid="83">Neuvedeno</mrk></target>
+          <source>Not applicable</source><seg-source><mrk mtype="seg" mid="83">Not applicable</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="83">Neuvedeno</mrk></target>
         </trans-unit>
         <trans-unit id="184" translate="yes" xml:space="preserve">
-          <source>Shift+Click</source><seg-source><mrk mtype="seg" mid="84">Shift+Click</mrk></seg-source><target><mrk mtype="seg" mid="84">Shift+kliknutí</mrk></target>
+          <source>Shift+Click</source><seg-source><mrk mtype="seg" mid="84">Shift+Click</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="84">Shift+kliknutí</mrk></target>
         </trans-unit>
         <trans-unit id="185" translate="yes" xml:space="preserve">
-          <source>Extend the selection of rows to include the row that you click and all the rows in between.</source><seg-source><mrk mtype="seg" mid="85">Extend the selection of rows to include the row that you click and all the rows in between.</mrk></seg-source><target><mrk mtype="seg" mid="85">Rozšíří výběr řádků o řádek, na který jste klikli a všechny řádky mezi nimi</mrk></target>
+          <source>Extend the selection of rows to include the row that you click and all the rows in between.</source><seg-source><mrk mtype="seg" mid="85">Extend the selection of rows to include the row that you click and all the rows in between.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="85">Rozšíří výběr řádků o řádek, na který jste klikli a všechny řádky mezi nimi</mrk></target>
         </trans-unit>
         <trans-unit id="186" translate="yes" xml:space="preserve">
-          <source>Not applicable</source><seg-source><mrk mtype="seg" mid="86">Not applicable</mrk></seg-source><target><mrk mtype="seg" mid="86">Neuvedeno</mrk></target>
+          <source>Not applicable</source><seg-source><mrk mtype="seg" mid="86">Not applicable</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="86">Neuvedeno</mrk></target>
         </trans-unit>
         <trans-unit id="187" translate="yes" xml:space="preserve">
-          <source>You can use this after using Ctrl+Up Arrow or Ctrl+Up Down to expand your selection.</source><seg-source><mrk mtype="seg" mid="87">You can use this after using Ctrl+Up Arrow or Ctrl+Up Down to expand your selection.</mrk></seg-source><target><mrk mtype="seg" mid="87">Toto můžete použít po stisknutí kláves Ctrl + šipka nahoru nebo Ctrl + šipka dolů pro rozšíření vašeho výběru.</mrk></target>
+          <source>You can use this after using Ctrl+Up Arrow or Ctrl+Up Down to expand your selection.</source><seg-source><mrk mtype="seg" mid="87">You can use this after using Ctrl+Up Arrow or Ctrl+Up Down to expand your selection.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="87">Toto můžete použít po stisknutí kláves Ctrl + šipka nahoru nebo Ctrl + šipka dolů pro rozšíření vašeho výběru.</mrk></target>
         </trans-unit>
         <trans-unit id="188" translate="yes" xml:space="preserve">
-          <source>Ctrl+Up Arrow</source><seg-source><mrk mtype="seg" mid="88">Ctrl+Up Arrow</mrk></seg-source><target><mrk mtype="seg" mid="88">Ctrl+šipka nahoru</mrk></target>
+          <source>Ctrl+Up Arrow</source><seg-source><mrk mtype="seg" mid="88">Ctrl+Up Arrow</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="88">(Ctrl+šipka nahoru)</mrk></target>
         </trans-unit>
         <trans-unit id="189" translate="yes" xml:space="preserve">
-          <source>(Ctrl+Cmd+up Arrow )</source><seg-source><mrk mtype="seg" mid="89">(Ctrl+Cmd+up Arrow )</mrk></seg-source><target><mrk mtype="seg" mid="89">(Ctrl+Cmd+šipka nahoru)</mrk></target>
+          <source>(Ctrl+Cmd+up Arrow )</source><seg-source><mrk mtype="seg" mid="89">(Ctrl+Cmd+up Arrow )</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="89">(Ctrl+Cmd+šipka nahoru)</mrk></target>
         </trans-unit>
         <trans-unit id="190" translate="yes" xml:space="preserve">
-          <source>Move focus to the row above and keep the current row selected .</source><seg-source><mrk mtype="seg" mid="90">Move focus to the row above and keep the current row selected .</mrk></seg-source><target><mrk mtype="seg" mid="90">Posune zaměření na řádek výše a ponechá vybraný aktuální řádek.</mrk></target>
+          <source>Move focus to the row above and keep the current row selected .</source><seg-source><mrk mtype="seg" mid="90">Move focus to the row above and keep the current row selected .</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="90">Posune zaměření na řádek výše a ponechá vybraný aktuální řádek.</mrk></target>
         </trans-unit>
         <trans-unit id="191" translate="yes" xml:space="preserve">
-          <source>Not applicable</source><seg-source><mrk mtype="seg" mid="91">Not applicable</mrk></seg-source><target><mrk mtype="seg" mid="91">Neuvedeno</mrk></target>
+          <source>Not applicable</source><seg-source><mrk mtype="seg" mid="91">Not applicable</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="91">Neuvedeno</mrk></target>
         </trans-unit>
         <trans-unit id="192" translate="yes" xml:space="preserve">
-          <source>Ctrl+Down Arrow</source><seg-source><mrk mtype="seg" mid="92">Ctrl+Down Arrow</mrk></seg-source><target><mrk mtype="seg" mid="92">(Ctrl+šipka dolů)</mrk></target>
+          <source>Ctrl+Down Arrow</source><seg-source><mrk mtype="seg" mid="92">Ctrl+Down Arrow</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="92">(Ctrl+šipka dolů)</mrk></target>
         </trans-unit>
         <trans-unit id="193" translate="yes" xml:space="preserve">
-          <source>(Ctrl+Cmd+Down Arrow )</source><seg-source><mrk mtype="seg" mid="93">(Ctrl+Cmd+Down Arrow )</mrk></seg-source><target><mrk mtype="seg" mid="93">(Ctrl+Cmd+šipka dolů)</mrk></target>
+          <source>(Ctrl+Cmd+Down Arrow )</source><seg-source><mrk mtype="seg" mid="93">(Ctrl+Cmd+Down Arrow )</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="93">(Ctrl+Cmd+šipka dolů)</mrk></target>
         </trans-unit>
         <trans-unit id="194" translate="yes" xml:space="preserve">
-          <source>Move focus to the row below and keep the current row selected.</source><seg-source><mrk mtype="seg" mid="94">Move focus to the row below and keep the current row selected.</mrk></seg-source><target><mrk mtype="seg" mid="94">Posune zaměření na řádek níže a ponechá vybraný aktuální řádek.</mrk></target>
+          <source>Move focus to the row below and keep the current row selected.</source><seg-source><mrk mtype="seg" mid="94">Move focus to the row below and keep the current row selected.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="94">Posune zaměření na řádek níže a ponechá vybraný aktuální řádek.</mrk></target>
         </trans-unit>
         <trans-unit id="195" translate="yes" xml:space="preserve">
-          <source>Not applicable</source><seg-source><mrk mtype="seg" mid="95">Not applicable</mrk></seg-source><target><mrk mtype="seg" mid="95">Neuvedeno</mrk></target>
+          <source>Not applicable</source><seg-source><mrk mtype="seg" mid="95">Not applicable</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="95">Neuvedeno</mrk></target>
         </trans-unit>
         <trans-unit id="196" translate="yes" xml:space="preserve">
-          <source>Ctrl+Space Bar</source><seg-source><mrk mtype="seg" mid="96">Ctrl+Space Bar</mrk></seg-source><target><mrk mtype="seg" mid="96">Ctrl+mezerník</mrk></target>
+          <source>Ctrl+Space Bar</source><seg-source><mrk mtype="seg" mid="96">Ctrl+Space Bar</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="96">Ctrl+mezerník</mrk></target>
         </trans-unit>
         <trans-unit id="197" translate="yes" xml:space="preserve">
-          <source>(Ctrl+Cmd+Space )</source><seg-source><mrk mtype="seg" mid="97">(Ctrl+Cmd+Space )</mrk></seg-source><target><mrk mtype="seg" mid="97">(Ctrl+Cmd+mezerník)</mrk></target>
+          <source>(Ctrl+Cmd+Space )</source><seg-source><mrk mtype="seg" mid="97">(Ctrl+Cmd+Space )</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="97">(Ctrl+Cmd+mezerník)</mrk></target>
         </trans-unit>
         <trans-unit id="198" translate="yes" xml:space="preserve">
-          <source>Extend the selection of rows to included the focused row.</source><seg-source><mrk mtype="seg" mid="98">Extend the selection of rows to included the focused row.</mrk></seg-source><target><mrk mtype="seg" mid="98">Rozšíří výběr řádků tak, aby zahrnoval i zaostřený řádek.</mrk></target>
+          <source>Extend the selection of rows to included the focused row.</source><seg-source><mrk mtype="seg" mid="98">Extend the selection of rows to included the focused row.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="98">Rozšíří výběr řádků tak, aby zahrnoval i zaostřený řádek.</mrk></target>
         </trans-unit>
         <trans-unit id="199" translate="yes" xml:space="preserve">
-          <source>Not applicable</source><seg-source><mrk mtype="seg" mid="99">Not applicable</mrk></seg-source><target><mrk mtype="seg" mid="99">Neuvedeno</mrk></target>
+          <source>Not applicable</source><seg-source><mrk mtype="seg" mid="99">Not applicable</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="99">Neuvedeno</mrk></target>
         </trans-unit>
         <trans-unit id="200" translate="yes" xml:space="preserve">
-          <source>You can use this after using Ctrl+Up Arrow or Ctrl+Up Down to expand your selection.</source><seg-source><mrk mtype="seg" mid="100">You can use this after using Ctrl+Up Arrow or Ctrl+Up Down to expand your selection.</mrk></seg-source><target><mrk mtype="seg" mid="100">Toto můžete použít po stisknutí kláves Ctrl + šipka nahoru nebo Ctrl + šipka dolů pro rozšíření vašeho výběru.</mrk></target>
+          <source>You can use this after using Ctrl+Up Arrow or Ctrl+Up Down to expand your selection.</source><seg-source><mrk mtype="seg" mid="100">You can use this after using Ctrl+Up Arrow or Ctrl+Up Down to expand your selection.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="100">Toto můžete použít po stisknutí kláves Ctrl + šipka nahoru nebo Ctrl + šipka dolů pro rozšíření vašeho výběru.</mrk></target>
         </trans-unit>
         <trans-unit id="201" translate="yes" xml:space="preserve">
-          <source>Ctrl+A</source><seg-source><mrk mtype="seg" mid="101">Ctrl+A</mrk></seg-source><target><mrk mtype="seg" mid="101">Ctrl+A</mrk></target>
+          <source>Ctrl+A</source><seg-source><mrk mtype="seg" mid="101">Ctrl+A</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="101">Ctrl+A</mrk></target>
         </trans-unit>
         <trans-unit id="202" translate="yes" xml:space="preserve">
-          <source>Select all rows.</source><seg-source><mrk mtype="seg" mid="102">Select all rows.</mrk></seg-source><target><mrk mtype="seg" mid="102">Vybrat všechny řádky</mrk></target>
+          <source>Select all rows.</source><seg-source><mrk mtype="seg" mid="102">Select all rows.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="102">Vybrat všechny řádky</mrk></target>
         </trans-unit>
         <trans-unit id="203" translate="yes" xml:space="preserve">
-          <source>Not applicable</source><seg-source><mrk mtype="seg" mid="103">Not applicable</mrk></seg-source><target><mrk mtype="seg" mid="103">Neuvedeno</mrk></target>
+          <source>Not applicable</source><seg-source><mrk mtype="seg" mid="103">Not applicable</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="103">Neuvedeno</mrk></target>
         </trans-unit>
         <trans-unit id="204" translate="yes" xml:space="preserve">
-          <source>Shift+Up Arrow</source><seg-source><mrk mtype="seg" mid="104">Shift+Up Arrow</mrk></seg-source><target><mrk mtype="seg" mid="104">(Shift+šipka nahoru)</mrk></target>
+          <source>Shift+Up Arrow</source><seg-source><mrk mtype="seg" mid="104">Shift+Up Arrow</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="104">(Shift+šipka nahoru)</mrk></target>
         </trans-unit>
         <trans-unit id="205" translate="yes" xml:space="preserve">
-          <source>Extend the selection of rows to include the row above.</source><seg-source><mrk mtype="seg" mid="105">Extend the selection of rows to include the row above.</mrk></seg-source><target><mrk mtype="seg" mid="105">Rozšíří výběr řádků tak, aby zahrnoval i řádek nad ním.</mrk></target>
+          <source>Extend the selection of rows to include the row above.</source><seg-source><mrk mtype="seg" mid="105">Extend the selection of rows to include the row above.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="105">Rozšíří výběr řádků tak, aby zahrnoval i řádek nad ním.</mrk></target>
         </trans-unit>
         <trans-unit id="206" translate="yes" xml:space="preserve">
-          <source>Not applicable</source><seg-source><mrk mtype="seg" mid="106">Not applicable</mrk></seg-source><target><mrk mtype="seg" mid="106">Neuvedeno</mrk></target>
+          <source>Not applicable</source><seg-source><mrk mtype="seg" mid="106">Not applicable</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="106">Neuvedeno</mrk></target>
         </trans-unit>
         <trans-unit id="207" translate="yes" xml:space="preserve">
-          <source>Shift+Down Arrow</source><seg-source><mrk mtype="seg" mid="107">Shift+Down Arrow</mrk></seg-source><target><mrk mtype="seg" mid="107">(Shift+šipka dolů)</mrk></target>
+          <source>Shift+Down Arrow</source><seg-source><mrk mtype="seg" mid="107">Shift+Down Arrow</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="107">(Shift+šipka dolů)</mrk></target>
         </trans-unit>
         <trans-unit id="208" translate="yes" xml:space="preserve">
-          <source>Extend the selection of rows to include the row below.</source><seg-source><mrk mtype="seg" mid="108">Extend the selection of rows to include the row below.</mrk></seg-source><target><mrk mtype="seg" mid="108">Rozšíří výběr řádků tak, aby zahrnoval i řádek pod ním.</mrk></target>
+          <source>Extend the selection of rows to include the row below.</source><seg-source><mrk mtype="seg" mid="108">Extend the selection of rows to include the row below.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="108">Rozšíří výběr řádků tak, aby zahrnoval i řádek pod ním.</mrk></target>
         </trans-unit>
         <trans-unit id="209" translate="yes" xml:space="preserve">
-          <source>Not applicable</source><seg-source><mrk mtype="seg" mid="109">Not applicable</mrk></seg-source><target><mrk mtype="seg" mid="109">Neuvedeno</mrk></target>
+          <source>Not applicable</source><seg-source><mrk mtype="seg" mid="109">Not applicable</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="109">Neuvedeno</mrk></target>
         </trans-unit>
         <trans-unit id="210" translate="yes" xml:space="preserve">
-          <source>Shift+Page Up</source><seg-source><mrk mtype="seg" mid="110">Shift+Page Up</mrk></seg-source><target><mrk mtype="seg" mid="110">Shift+Page Up</mrk></target>
+          <source>Shift+Page Up</source><seg-source><mrk mtype="seg" mid="110">Shift+Page Up</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="110">Shift+Page Up</mrk></target>
         </trans-unit>
         <trans-unit id="211" translate="yes" xml:space="preserve">
-          <source>(Shift+Fn+Up Arrow)</source><seg-source><mrk mtype="seg" mid="111">(Shift+Fn+Up Arrow)</mrk></seg-source><target><mrk mtype="seg" mid="111">(Shift+Fn+šipka nahoru)</mrk></target>
+          <source>(Shift+Fn+Up Arrow)</source><seg-source><mrk mtype="seg" mid="111">(Shift+Fn+Up Arrow)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="111">(Shift+Fn+šipka nahoru)</mrk></target>
         </trans-unit>
         <trans-unit id="212" translate="yes" xml:space="preserve">
-          <source>Extend the selection of rows to include all visible rows above the current selection of rows.</source><seg-source><mrk mtype="seg" mid="112">Extend the selection of rows to include all visible rows above the current selection of rows.</mrk></seg-source><target><mrk mtype="seg" mid="112">Rozšíří výběr řádků tak, aby zahrnoval všechny viditelné řádky nad aktuálním výběrem řádků.</mrk></target>
+          <source>Extend the selection of rows to include all visible rows above the current selection of rows.</source><seg-source><mrk mtype="seg" mid="112">Extend the selection of rows to include all visible rows above the current selection of rows.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="112">Rozšíří výběr řádků tak, aby zahrnoval všechny viditelné řádky nad aktuálním výběrem řádků.</mrk></target>
         </trans-unit>
         <trans-unit id="213" translate="yes" xml:space="preserve">
-          <source>Not applicable</source><seg-source><mrk mtype="seg" mid="113">Not applicable</mrk></seg-source><target><mrk mtype="seg" mid="113">Neuvedeno</mrk></target>
+          <source>Not applicable</source><seg-source><mrk mtype="seg" mid="113">Not applicable</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="113">Neuvedeno</mrk></target>
         </trans-unit>
         <trans-unit id="214" translate="yes" xml:space="preserve">
-          <source>Shift+Page Down</source><seg-source><mrk mtype="seg" mid="114">Shift+Page Down</mrk></seg-source><target><mrk mtype="seg" mid="114">Shift+Page Down</mrk></target>
+          <source>Shift+Page Down</source><seg-source><mrk mtype="seg" mid="114">Shift+Page Down</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="114">Shift+Page Down</mrk></target>
         </trans-unit>
         <trans-unit id="215" translate="yes" xml:space="preserve">
-          <source>(Shift+Fn+Down Arrow)</source><seg-source><mrk mtype="seg" mid="115">(Shift+Fn+Down Arrow)</mrk></seg-source><target><mrk mtype="seg" mid="115">(Shift+Fn+šipka dolů)</mrk></target>
+          <source>(Shift+Fn+Down Arrow)</source><seg-source><mrk mtype="seg" mid="115">(Shift+Fn+Down Arrow)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="115">(Shift+Fn+šipka dolů)</mrk></target>
         </trans-unit>
         <trans-unit id="216" translate="yes" xml:space="preserve">
-          <source>Extend the selection of rows to include all all visible rows below the current selection of rows.</source><seg-source><mrk mtype="seg" mid="116">Extend the selection of rows to include all all visible rows below the current selection of rows.</mrk></seg-source><target><mrk mtype="seg" mid="116">Rozšíří výběr řádků tak, aby zahrnoval všechny viditelné řádky pod aktuálním výběrem řádků.</mrk></target>
+          <source>Extend the selection of rows to include all all visible rows below the current selection of rows.</source><seg-source><mrk mtype="seg" mid="116">Extend the selection of rows to include all all visible rows below the current selection of rows.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="116">Rozšíří výběr řádků tak, aby zahrnoval všechny viditelné řádky pod aktuálním výběrem řádků.</mrk></target>
         </trans-unit>
         <trans-unit id="217" translate="yes" xml:space="preserve">
-          <source>Not applicable</source><seg-source><mrk mtype="seg" mid="117">Not applicable</mrk></seg-source><target><mrk mtype="seg" mid="117">Neuvedeno</mrk></target>
+          <source>Not applicable</source><seg-source><mrk mtype="seg" mid="117">Not applicable</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="117">Neuvedeno</mrk></target>
         </trans-unit>
         <trans-unit id="218" translate="yes" xml:space="preserve">
-          <source>Ctrl+Enter</source><seg-source><mrk mtype="seg" mid="118">Ctrl+Enter</mrk></seg-source><target><mrk mtype="seg" mid="118">Ctrl+Enter</mrk></target>
+          <source>Ctrl+Enter</source><seg-source><mrk mtype="seg" mid="118">Ctrl+Enter</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="118">Ctrl+Enter</mrk></target>
         </trans-unit>
         <trans-unit id="219" translate="yes" xml:space="preserve">
-          <source>Move focus to the next element outside the list.</source><seg-source><mrk mtype="seg" mid="119">Move focus to the next element outside the list.</mrk></seg-source><target><mrk mtype="seg" mid="119">Přesune zaměření na další prvek mimo seznam.</mrk></target>
+          <source>Move focus to the next element outside the list.</source><seg-source><mrk mtype="seg" mid="119">Move focus to the next element outside the list.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="119">Přesune zaměření na další prvek mimo seznam.</mrk></target>
         </trans-unit>
         <trans-unit id="220" translate="yes" xml:space="preserve">
-          <source>Move focus to the next element outside the list.</source><seg-source><mrk mtype="seg" mid="120">Move focus to the next element outside the list.</mrk></seg-source><target><mrk mtype="seg" mid="120">Přesune zaměření na další prvek mimo seznam.</mrk></target>
+          <source>Move focus to the next element outside the list.</source><seg-source><mrk mtype="seg" mid="120">Move focus to the next element outside the list.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="120">Přesune zaměření na další prvek mimo seznam.</mrk></target>
         </trans-unit>
         <trans-unit id="221" translate="yes" xml:space="preserve">
-          <source>See also</source><seg-source><mrk mtype="seg" mid="121">See also</mrk></seg-source><target><mrk mtype="seg" mid="121">Viz také</mrk></target>
+          <source>See also</source><seg-source><mrk mtype="seg" mid="121">See also</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="121">Viz také</mrk></target>
         </trans-unit>
         <trans-unit id="222" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Assistive Features<ept id="p1">](ui-accessibility.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="122">Assistive Features</mrk><ept id="p1">](ui-accessibility.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="122">Pomocné funkce</mrk><ept id="p1">](ui-accessibility.md)</ept></target>
+          <source><bpt id="p1">[</bpt>Assistive Features<ept id="p1">](ui-accessibility.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="122">Assistive Features</mrk><ept id="p1">](ui-accessibility.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="122">Pomocné funkce</mrk><ept id="p1">](ui-accessibility.md)</ept></target>
         </trans-unit>
         <trans-unit id="223" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Welcome to <ph id="ph1">[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</ph><ept id="p1">](index.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="123">Welcome to</mrk> <ph id="ph1">[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</ph><ept id="p1">](index.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="123">Vítejte v</mrk> <ph id="ph1">[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</ph><ept id="p1">](index.md)</ept></target>
+          <source><bpt id="p1">[</bpt>Welcome to <ph id="ph1">[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</ph><ept id="p1">](index.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="123">Welcome to</mrk> <ph id="ph1">[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</ph><ept id="p1">](index.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="123">Vítejte v</mrk> <ph id="ph1">[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</ph><ept id="p1">](index.md)</ept></target>
         </trans-unit>
         <trans-unit id="224" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="124">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="124">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="124">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="124">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
         </trans-unit>
         <trans-unit id="225" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Frequently Asked Questions<ept id="p1">](across-faq.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="125">Frequently Asked Questions</mrk><ept id="p1">](across-faq.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="125">Často kladené otázky</mrk><ept id="p1">](across-faq.md)</ept></target>
+          <source><bpt id="p1">[</bpt>Frequently Asked Questions<ept id="p1">](across-faq.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="125">Frequently Asked Questions</mrk><ept id="p1">](across-faq.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="125">Často kladené otázky</mrk><ept id="p1">](across-faq.md)</ept></target>
         </trans-unit>
       </group>
     </body>
