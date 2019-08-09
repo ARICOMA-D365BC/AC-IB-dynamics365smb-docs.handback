@@ -13,301 +13,301 @@
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
-          <source>Using the C5 Data Migration Extension | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Using the C5 Data Migration Extension | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Používání rozšíření C5 Data Migration | Microsoft Docs</mrk></target>
+          <source>Using the C5 Data Migration Extension | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Using the C5 Data Migration Extension | Microsoft Docs</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="1">Používání rozšíření C5 Data Migration | Microsoft Docs</mrk></target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
-          <source>Use this extension to migrate customers, vendors, items, and general ledger accounts from Microsoft Dynamics C5 2012 to Financials.</source><seg-source><mrk mtype="seg" mid="2">Use this extension to migrate customers, vendors, items, and general ledger accounts from Microsoft Dynamics C5 2012 to Financials.</mrk></seg-source><target><mrk mtype="seg" mid="2">Toto rozšíření slouží k migraci zákazníků, dodavatelů, položek a účtů hlavní knihy z Microsoft Dynamics C5 2012 do Financials.</mrk></target>
+          <source>Use this extension to migrate customers, vendors, items, and general ledger accounts from Microsoft Dynamics C5 2012 to Financials.</source><seg-source><mrk mtype="seg" mid="2">Use this extension to migrate customers, vendors, items, and general ledger accounts from Microsoft Dynamics C5 2012 to Financials.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="2">Toto rozšíření slouží k migraci zákazníků, dodavatelů, položek a účtů hlavní knihy z Microsoft Dynamics C5 2012 do Financials.</mrk></target>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
-          <source>The C5 Data Migration Extension for Business Central</source><seg-source><mrk mtype="seg" mid="3">The C5 Data Migration Extension for Business Central</mrk></seg-source><target><mrk mtype="seg" mid="3">Rozšíření Migrace dat C5 pro Business Central</mrk></target>
+          <source>The C5 Data Migration Extension for Business Central</source><seg-source><mrk mtype="seg" mid="3">The C5 Data Migration Extension for Business Central</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="3">Rozšíření Migrace dat C5 pro Business Central</mrk></target>
         </trans-unit>
         <trans-unit id="104" translate="yes" xml:space="preserve">
-          <source>This extension makes it easy to migrate customers, vendors, items, and your general ledger accounts from Microsoft Dynamcis C5 2012 to <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</source><seg-source><mrk mtype="seg" mid="4">This extension makes it easy to migrate customers, vendors, items, and your general ledger accounts from Microsoft Dynamcis C5 2012 to <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</mrk></seg-source><target><mrk mtype="seg" mid="4">Toto rozšíření usnadňuje migraci zákazníků, dodavatelů, položek a účtů hlavní knihy z Microsoft Dynamcis C5 2012 do <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</mrk></target>
+          <source>This extension makes it easy to migrate customers, vendors, items, and your general ledger accounts from Microsoft Dynamcis C5 2012 to <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</source><seg-source><mrk mtype="seg" mid="4">This extension makes it easy to migrate customers, vendors, items, and your general ledger accounts from Microsoft Dynamcis C5 2012 to <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="4">Toto rozšíření usnadňuje migraci zákazníků, dodavatelů, položek a účtů hlavní knihy z Microsoft Dynamcis C5 2012 do <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</mrk></target>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
-          <source>You can also migrate historical entries for general ledger accounts.</source><seg-source><mrk mtype="seg" mid="5">You can also migrate historical entries for general ledger accounts.</mrk></seg-source><target><mrk mtype="seg" mid="5">Lze také migrovat historické položky pro účty hlavní knihy.</mrk></target>
+          <source>You can also migrate historical entries for general ledger accounts.</source><seg-source><mrk mtype="seg" mid="5">You can also migrate historical entries for general ledger accounts.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="5">Lze také migrovat historické položky pro účty hlavní knihy.</mrk></target>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
-          <source>The company in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> must not contain any data.</source><seg-source><mrk mtype="seg" mid="6">The company in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> must not contain any data.</mrk></seg-source><target><mrk mtype="seg" mid="6">Společnost v <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> nesmí obsahovat žádná data.</mrk></target>
+          <source>The company in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> must not contain any data.</source><seg-source><mrk mtype="seg" mid="6">The company in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> must not contain any data.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="6">Společnost v <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> nesmí obsahovat žádná data.</mrk></target>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
-          <source>Additionally, after you start a migration, do not create customers, vendors, items, or accounts until the migration finishes.</source><seg-source><mrk mtype="seg" mid="7">Additionally, after you start a migration, do not create customers, vendors, items, or accounts until the migration finishes.</mrk></seg-source><target><mrk mtype="seg" mid="7">Zároveň po spuštění migrace nevytvářejte zákazníky, dodavatele, položky nebo účty, dokud migrace neskončí.</mrk></target>
+          <source>Additionally, after you start a migration, do not create customers, vendors, items, or accounts until the migration finishes.</source><seg-source><mrk mtype="seg" mid="7">Additionally, after you start a migration, do not create customers, vendors, items, or accounts until the migration finishes.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Zároveň po spuštění migrace nevytvářejte zákazníky, dodavatele, položky nebo účty, dokud migrace neskončí.</mrk></target>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
-          <source>What Data is Migrated?</source><seg-source><mrk mtype="seg" mid="8">What Data is Migrated?</mrk></seg-source><target><mrk mtype="seg" mid="8">Jaká data jsou migrována ?</mrk></target>
+          <source>What Data is Migrated?</source><seg-source><mrk mtype="seg" mid="8">What Data is Migrated?</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="8">Jaká data jsou migrována ?</mrk></target>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source>The following data is migrated for each entity:</source><seg-source><mrk mtype="seg" mid="9">The following data is migrated for each entity:</mrk></seg-source><target><mrk mtype="seg" mid="9">Pro každou entitu se migrují následující data:</mrk></target>
+          <source>The following data is migrated for each entity:</source><seg-source><mrk mtype="seg" mid="9">The following data is migrated for each entity:</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="9">Pro každou entitu se migrují následující data:</mrk></target>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Customers<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="10">Customers</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="10">Zákazníci</mrk><ept id="p1">**</ept></target>
+          <source><bpt id="p1">**</bpt>Customers<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="10">Customers</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="10">Zákazníci</mrk><ept id="p1">**</ept></target>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
-          <source>Location</source><seg-source><mrk mtype="seg" mid="11">Location</mrk></seg-source><target><mrk mtype="seg" mid="11">Umístění</mrk></target>
+          <source>Location</source><seg-source><mrk mtype="seg" mid="11">Location</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">Lokace</mrk></target>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
-          <source>Country</source><seg-source><mrk mtype="seg" mid="12">Country</mrk></seg-source><target><mrk mtype="seg" mid="12">Země</mrk></target>
+          <source>Country</source><seg-source><mrk mtype="seg" mid="12">Country</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="12">Země</mrk></target>
         </trans-unit>
         <trans-unit id="113" translate="yes" xml:space="preserve">
-          <source>Customer dimensions (department, center, purpose)</source><seg-source><mrk mtype="seg" mid="13">Customer dimensions (department, center, purpose)</mrk></seg-source><target><mrk mtype="seg" mid="13">Dimenze zákazníka (oddělení, středisko, účel)</mrk></target>
+          <source>Customer dimensions (department, center, purpose)</source><seg-source><mrk mtype="seg" mid="13">Customer dimensions (department, center, purpose)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="13">Dimenze zákazníka (oddělení, středisko, účel)</mrk></target>
         </trans-unit>
         <trans-unit id="114" translate="yes" xml:space="preserve">
-          <source>Shipment method</source><seg-source><mrk mtype="seg" mid="14">Shipment method</mrk></seg-source><target><mrk mtype="seg" mid="14">Způsob dodávky</mrk></target>
+          <source>Shipment method</source><seg-source><mrk mtype="seg" mid="14">Shipment method</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="14">Způsob dodávky</mrk></target>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
-          <source>Sales Person</source><seg-source><mrk mtype="seg" mid="15">Sales Person</mrk></seg-source><target><mrk mtype="seg" mid="15">Prodejce</mrk></target>
+          <source>Sales Person</source><seg-source><mrk mtype="seg" mid="15">Sales Person</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="15">Prodejce</mrk></target>
         </trans-unit>
         <trans-unit id="116" translate="yes" xml:space="preserve">
-          <source>Payment terms</source><seg-source><mrk mtype="seg" mid="16">Payment terms</mrk></seg-source><target><mrk mtype="seg" mid="16">Platební podmínky</mrk></target>
+          <source>Payment terms</source><seg-source><mrk mtype="seg" mid="16">Payment terms</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="16">Platební podmínky</mrk></target>
         </trans-unit>
         <trans-unit id="117" translate="yes" xml:space="preserve">
-          <source>Payment method</source><seg-source><mrk mtype="seg" mid="17">Payment method</mrk></seg-source><target><mrk mtype="seg" mid="17">Způsob platby</mrk></target>
+          <source>Payment method</source><seg-source><mrk mtype="seg" mid="17">Payment method</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="17">Způsob platby</mrk></target>
         </trans-unit>
         <trans-unit id="118" translate="yes" xml:space="preserve">
-          <source>Customer price group</source><seg-source><mrk mtype="seg" mid="18">Customer price group</mrk></seg-source><target><mrk mtype="seg" mid="18">Cenová skupina zákazníka</mrk></target>
+          <source>Customer price group</source><seg-source><mrk mtype="seg" mid="18">Customer price group</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="18">Cenová skupina zákazníka</mrk></target>
         </trans-unit>
         <trans-unit id="119" translate="yes" xml:space="preserve">
-          <source>Customer invoice discount</source><seg-source><mrk mtype="seg" mid="19">Customer invoice discount</mrk></seg-source><target><mrk mtype="seg" mid="19">Fakturační sleva zákazníka</mrk></target>
+          <source>Customer invoice discount</source><seg-source><mrk mtype="seg" mid="19">Customer invoice discount</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="19">Fakturační sleva zákazníka</mrk></target>
         </trans-unit>
         <trans-unit id="120" translate="yes" xml:space="preserve">
-          <source>If you migrate accounts, the following data is also migrated:</source><seg-source><mrk mtype="seg" mid="20">If you migrate accounts, the following data is also migrated:</mrk></seg-source><target><mrk mtype="seg" mid="20">Pokud migrujete účty, migrují se také následující data:</mrk></target>
+          <source>If you migrate accounts, the following data is also migrated:</source><seg-source><mrk mtype="seg" mid="20">If you migrate accounts, the following data is also migrated:</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="20">Pokud migrujete účty, migrují se také následující data:</mrk></target>
         </trans-unit>
         <trans-unit id="121" translate="yes" xml:space="preserve">
-          <source>Customer posting setup</source><seg-source><mrk mtype="seg" mid="21">Customer posting setup</mrk></seg-source><target><mrk mtype="seg" mid="21">Nastavení účto skupiny zákazníka</mrk></target>
+          <source>Customer posting setup</source><seg-source><mrk mtype="seg" mid="21">Customer posting setup</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="21">Nastavení účto skupiny zákazníka</mrk></target>
         </trans-unit>
         <trans-unit id="122" translate="yes" xml:space="preserve">
-          <source>General journal batch</source><seg-source><mrk mtype="seg" mid="22">General journal batch</mrk></seg-source><target><mrk mtype="seg" mid="22">List finančního deníku</mrk></target>
+          <source>General journal batch</source><seg-source><mrk mtype="seg" mid="22">General journal batch</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="22">List finančního deníku</mrk></target>
         </trans-unit>
         <trans-unit id="123" translate="yes" xml:space="preserve">
-          <source>Open transactions (customer ledger entries)</source><seg-source><mrk mtype="seg" mid="23">Open transactions (customer ledger entries)</mrk></seg-source><target><mrk mtype="seg" mid="23">Otevřené transakce (položky zákazníka)</mrk></target>
+          <source>Open transactions (customer ledger entries)</source><seg-source><mrk mtype="seg" mid="23">Open transactions (customer ledger entries)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="23">Otevřené transakce (položky zákazníka)</mrk></target>
         </trans-unit>
         <trans-unit id="124" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Vendors<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="24">Vendors</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="24">Dodavatelé</mrk><ept id="p1">**</ept></target>
+          <source><bpt id="p1">**</bpt>Vendors<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="24">Vendors</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="24">Dodavatelé</mrk><ept id="p1">**</ept></target>
         </trans-unit>
         <trans-unit id="125" translate="yes" xml:space="preserve">
-          <source>Location</source><seg-source><mrk mtype="seg" mid="25">Location</mrk></seg-source><target><mrk mtype="seg" mid="25">Umístění</mrk></target>
+          <source>Location</source><seg-source><mrk mtype="seg" mid="25">Location</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="25">Lokace</mrk></target>
         </trans-unit>
         <trans-unit id="126" translate="yes" xml:space="preserve">
-          <source>Country</source><seg-source><mrk mtype="seg" mid="26">Country</mrk></seg-source><target><mrk mtype="seg" mid="26">Země</mrk></target>
+          <source>Country</source><seg-source><mrk mtype="seg" mid="26">Country</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="26">Země</mrk></target>
         </trans-unit>
         <trans-unit id="127" translate="yes" xml:space="preserve">
-          <source>Vendor dimensions (department, center, purpose)</source><seg-source><mrk mtype="seg" mid="27">Vendor dimensions (department, center, purpose)</mrk></seg-source><target><mrk mtype="seg" mid="27">Dimenze dodavatele (oddělení, středisko, účel)</mrk></target>
+          <source>Vendor dimensions (department, center, purpose)</source><seg-source><mrk mtype="seg" mid="27">Vendor dimensions (department, center, purpose)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="27">Dimenze dodavatele (oddělení, středisko, účel)</mrk></target>
         </trans-unit>
         <trans-unit id="128" translate="yes" xml:space="preserve">
-          <source>Invoice discount</source><seg-source><mrk mtype="seg" mid="28">Invoice discount</mrk></seg-source><target><mrk mtype="seg" mid="28">Fakturační sleva</mrk></target>
+          <source>Invoice discount</source><seg-source><mrk mtype="seg" mid="28">Invoice discount</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="28">Fakturační sleva</mrk></target>
         </trans-unit>
         <trans-unit id="129" translate="yes" xml:space="preserve">
-          <source>Shipment method</source><seg-source><mrk mtype="seg" mid="29">Shipment method</mrk></seg-source><target><mrk mtype="seg" mid="29">Způsob dodávky</mrk></target>
+          <source>Shipment method</source><seg-source><mrk mtype="seg" mid="29">Shipment method</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="29">Způsob dodávky</mrk></target>
         </trans-unit>
         <trans-unit id="130" translate="yes" xml:space="preserve">
-          <source>Purchaser</source><seg-source><mrk mtype="seg" mid="30">Purchaser</mrk></seg-source><target><mrk mtype="seg" mid="30">Nákupčí</mrk></target>
+          <source>Purchaser</source><seg-source><mrk mtype="seg" mid="30">Purchaser</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="30">Nákupčí</mrk></target>
         </trans-unit>
         <trans-unit id="131" translate="yes" xml:space="preserve">
-          <source>Payment terms</source><seg-source><mrk mtype="seg" mid="31">Payment terms</mrk></seg-source><target><mrk mtype="seg" mid="31">Platební podmínky</mrk></target>
+          <source>Payment terms</source><seg-source><mrk mtype="seg" mid="31">Payment terms</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="31">Platební podmínky</mrk></target>
         </trans-unit>
         <trans-unit id="132" translate="yes" xml:space="preserve">
-          <source>Payment method</source><seg-source><mrk mtype="seg" mid="32">Payment method</mrk></seg-source><target><mrk mtype="seg" mid="32">Způsob platby</mrk></target>
+          <source>Payment method</source><seg-source><mrk mtype="seg" mid="32">Payment method</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="32">Způsob platby</mrk></target>
         </trans-unit>
         <trans-unit id="133" translate="yes" xml:space="preserve">
-          <source>Vendor invoice discount</source><seg-source><mrk mtype="seg" mid="33">Vendor invoice discount</mrk></seg-source><target><mrk mtype="seg" mid="33">Fakturační sleva dodavatele</mrk></target>
+          <source>Vendor invoice discount</source><seg-source><mrk mtype="seg" mid="33">Vendor invoice discount</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="33">Fakturační sleva dodavatele</mrk></target>
         </trans-unit>
         <trans-unit id="134" translate="yes" xml:space="preserve">
-          <source>If you migrate accounts, the following data is also migrated:</source><seg-source><mrk mtype="seg" mid="34">If you migrate accounts, the following data is also migrated:</mrk></seg-source><target><mrk mtype="seg" mid="34">Pokud migrujete účty, migrují se také následující data:</mrk></target>
+          <source>If you migrate accounts, the following data is also migrated:</source><seg-source><mrk mtype="seg" mid="34">If you migrate accounts, the following data is also migrated:</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="34">Pokud migrujete účty, migrují se také následující data:</mrk></target>
         </trans-unit>
         <trans-unit id="135" translate="yes" xml:space="preserve">
-          <source>Vendor posting setup</source><seg-source><mrk mtype="seg" mid="35">Vendor posting setup</mrk></seg-source><target><mrk mtype="seg" mid="35">Nastavení účto skupiny dodavatele</mrk></target>
+          <source>Vendor posting setup</source><seg-source><mrk mtype="seg" mid="35">Vendor posting setup</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="35">Nastavení účto skupiny dodavatele</mrk></target>
         </trans-unit>
         <trans-unit id="136" translate="yes" xml:space="preserve">
-          <source>General journal batch</source><seg-source><mrk mtype="seg" mid="36">General journal batch</mrk></seg-source><target><mrk mtype="seg" mid="36">List finančního deníku</mrk></target>
+          <source>General journal batch</source><seg-source><mrk mtype="seg" mid="36">General journal batch</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="36">List finančního deníku</mrk></target>
         </trans-unit>
         <trans-unit id="137" translate="yes" xml:space="preserve">
-          <source>Open transactions (vendor ledger entries)</source><seg-source><mrk mtype="seg" mid="37">Open transactions (vendor ledger entries)</mrk></seg-source><target><mrk mtype="seg" mid="37">Otevřené transakce (položky dodavatele)</mrk></target>
+          <source>Open transactions (vendor ledger entries)</source><seg-source><mrk mtype="seg" mid="37">Open transactions (vendor ledger entries)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="37">Otevřené transakce (položky dodavatele)</mrk></target>
         </trans-unit>
         <trans-unit id="138" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">**</bpt>Items<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="38">Items</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="38">Položky</mrk><ept id="p1">**</ept></target>
+          <source><bpt id="p1">**</bpt>Items<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="38">Items</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="38">Položky</mrk><ept id="p1">**</ept></target>
         </trans-unit>
         <trans-unit id="139" translate="yes" xml:space="preserve">
-          <source>Location</source><seg-source><mrk mtype="seg" mid="39">Location</mrk></seg-source><target><mrk mtype="seg" mid="39">Umístění</mrk></target>
+          <source>Location</source><seg-source><mrk mtype="seg" mid="39">Location</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="39">Lokace</mrk></target>
         </trans-unit>
         <trans-unit id="140" translate="yes" xml:space="preserve">
-          <source>Country</source><seg-source><mrk mtype="seg" mid="40">Country</mrk></seg-source><target><mrk mtype="seg" mid="40">Země</mrk></target>
+          <source>Country</source><seg-source><mrk mtype="seg" mid="40">Country</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="40">Země</mrk></target>
         </trans-unit>
         <trans-unit id="141" translate="yes" xml:space="preserve">
-          <source>Item dimensions (department, center, purpose)</source><seg-source><mrk mtype="seg" mid="41">Item dimensions (department, center, purpose)</mrk></seg-source><target><mrk mtype="seg" mid="41">Dimenze položky (oddělení, středisko, účel)</mrk></target>
+          <source>Item dimensions (department, center, purpose)</source><seg-source><mrk mtype="seg" mid="41">Item dimensions (department, center, purpose)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="41">Dimenze položky (oddělení, středisko, účel)</mrk></target>
         </trans-unit>
         <trans-unit id="142" translate="yes" xml:space="preserve">
-          <source>Sales line discounts</source><seg-source><mrk mtype="seg" mid="42">Sales line discounts</mrk></seg-source><target><mrk mtype="seg" mid="42">Prodejní řádkové slevy</mrk></target>
+          <source>Sales line discounts</source><seg-source><mrk mtype="seg" mid="42">Sales line discounts</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="42">Prodejní řádkové slevy</mrk></target>
         </trans-unit>
         <trans-unit id="143" translate="yes" xml:space="preserve">
-          <source>Customer discount groups</source><seg-source><mrk mtype="seg" mid="43">Customer discount groups</mrk></seg-source><target><mrk mtype="seg" mid="43">Skupina slev zákazníka</mrk></target>
+          <source>Customer discount groups</source><seg-source><mrk mtype="seg" mid="43">Customer discount groups</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="43">Skupina slev zákazníka</mrk></target>
         </trans-unit>
         <trans-unit id="144" translate="yes" xml:space="preserve">
-          <source>Item discount groups</source><seg-source><mrk mtype="seg" mid="44">Item discount groups</mrk></seg-source><target><mrk mtype="seg" mid="44">Skupina slev položky</mrk></target>
+          <source>Item discount groups</source><seg-source><mrk mtype="seg" mid="44">Item discount groups</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="44">Skupina slev zboží</mrk></target>
         </trans-unit>
         <trans-unit id="145" translate="yes" xml:space="preserve">
-          <source>Sales price</source><seg-source><mrk mtype="seg" mid="45">Sales price</mrk></seg-source><target><mrk mtype="seg" mid="45">Prodejní cena</mrk></target>
+          <source>Sales price</source><seg-source><mrk mtype="seg" mid="45">Sales price</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="45">Prodejní cena</mrk></target>
         </trans-unit>
         <trans-unit id="146" translate="yes" xml:space="preserve">
-          <source>Tariff number</source><seg-source><mrk mtype="seg" mid="46">Tariff number</mrk></seg-source><target><mrk mtype="seg" mid="46">Číslo tarifu</mrk></target>
+          <source>Tariff number</source><seg-source><mrk mtype="seg" mid="46">Tariff number</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="46">Číslo tarifu</mrk></target>
         </trans-unit>
         <trans-unit id="147" translate="yes" xml:space="preserve">
-          <source>Units of measure</source><seg-source><mrk mtype="seg" mid="47">Units of measure</mrk></seg-source><target><mrk mtype="seg" mid="47">Měrné jednotky</mrk></target>
+          <source>Units of measure</source><seg-source><mrk mtype="seg" mid="47">Units of measure</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="47">Měrné jednotkay</mrk></target>
         </trans-unit>
         <trans-unit id="148" translate="yes" xml:space="preserve">
-          <source>Item tracking code</source><seg-source><mrk mtype="seg" mid="48">Item tracking code</mrk></seg-source><target><mrk mtype="seg" mid="48">Kód sledování zboží</mrk></target>
+          <source>Item tracking code</source><seg-source><mrk mtype="seg" mid="48">Item tracking code</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="48">Kód sledování zboží</mrk></target>
         </trans-unit>
         <trans-unit id="149" translate="yes" xml:space="preserve">
-          <source>Customer price group</source><seg-source><mrk mtype="seg" mid="49">Customer price group</mrk></seg-source><target><mrk mtype="seg" mid="49">Cenová skupina zákazníka</mrk></target>
+          <source>Customer price group</source><seg-source><mrk mtype="seg" mid="49">Customer price group</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="49">Cenová skupina zákazníka</mrk></target>
         </trans-unit>
         <trans-unit id="150" translate="yes" xml:space="preserve">
-          <source>If you migrate accounts, the following data is also migrated:</source><seg-source><mrk mtype="seg" mid="50">If you migrate accounts, the following data is also migrated:</mrk></seg-source><target><mrk mtype="seg" mid="50">Pokud migrujete účty, migrují se také následující data:</mrk></target>
+          <source>If you migrate accounts, the following data is also migrated:</source><seg-source><mrk mtype="seg" mid="50">If you migrate accounts, the following data is also migrated:</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="50">Pokud migrujete účty, migrují se také následující data:</mrk></target>
         </trans-unit>
         <trans-unit id="151" translate="yes" xml:space="preserve">
-          <source>Inventory posting setup</source><seg-source><mrk mtype="seg" mid="51">Inventory posting setup</mrk></seg-source><target><mrk mtype="seg" mid="51">Nastavení účtování zásob</mrk></target>
+          <source>Inventory posting setup</source><seg-source><mrk mtype="seg" mid="51">Inventory posting setup</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="51">Nastavení účtování zásob</mrk></target>
         </trans-unit>
         <trans-unit id="152" translate="yes" xml:space="preserve">
-          <source>General posting setup</source><seg-source><mrk mtype="seg" mid="52">General posting setup</mrk></seg-source><target><mrk mtype="seg" mid="52">Nastavení obecného účtování</mrk></target>
+          <source>General posting setup</source><seg-source><mrk mtype="seg" mid="52">General posting setup</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="52">Nastavení obecného účtování</mrk></target>
         </trans-unit>
         <trans-unit id="153" translate="yes" xml:space="preserve">
-          <source>Item journal batch</source><seg-source><mrk mtype="seg" mid="53">Item journal batch</mrk></seg-source><target><mrk mtype="seg" mid="53">List deníku zboží</mrk></target>
+          <source>Item journal batch</source><seg-source><mrk mtype="seg" mid="53">Item journal batch</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="53">List deníku zboží</mrk></target>
         </trans-unit>
         <trans-unit id="154" translate="yes" xml:space="preserve">
-          <source>Open transactions (item ledger entries)</source><seg-source><mrk mtype="seg" mid="54">Open transactions (item ledger entries)</mrk></seg-source><target><mrk mtype="seg" mid="54">Otevřené transakce (položky zboží)</mrk></target>
+          <source>Open transactions (item ledger entries)</source><seg-source><mrk mtype="seg" mid="54">Open transactions (item ledger entries)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="54">Otevřené transakce (položky Položky)</mrk></target>
         </trans-unit>
         <trans-unit id="155" translate="yes" xml:space="preserve">
-          <source>If there are open transactions that use foreign currencies, the exchange rates for those currencies are also migrated.</source><seg-source><mrk mtype="seg" mid="55">If there are open transactions that use foreign currencies, the exchange rates for those currencies are also migrated.</mrk></seg-source><target><mrk mtype="seg" mid="55">Pokud existují otevřené transakce, které používají cizí měny, migrují se také směnné kurzy pro tyto měny.</mrk></target>
+          <source>If there are open transactions that use foreign currencies, the exchange rates for those currencies are also migrated.</source><seg-source><mrk mtype="seg" mid="55">If there are open transactions that use foreign currencies, the exchange rates for those currencies are also migrated.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="55">Pokud existují otevřené transakce, které používají cizí měny, migrují se také směnné kurzy pro tyto měny.</mrk></target>
         </trans-unit>
         <trans-unit id="156" translate="yes" xml:space="preserve">
-          <source>Other exchange rates are not migrated.</source><seg-source><mrk mtype="seg" mid="56">Other exchange rates are not migrated.</mrk></seg-source><target><mrk mtype="seg" mid="56">Ostatní směnné kurzy migrovány nejsou.</mrk></target>
+          <source>Other exchange rates are not migrated.</source><seg-source><mrk mtype="seg" mid="56">Other exchange rates are not migrated.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="56">Ostatní směnné kurzy migrovány nejsou.</mrk></target>
         </trans-unit>
         <trans-unit id="157" translate="yes" xml:space="preserve">
-          <source>To migrate data</source><seg-source><mrk mtype="seg" mid="57">To migrate data</mrk></seg-source><target><mrk mtype="seg" mid="57">Pro migraci dat</mrk></target>
+          <source>To migrate data</source><seg-source><mrk mtype="seg" mid="57">To migrate data</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="57">Migrace dat</mrk></target>
         </trans-unit>
         <trans-unit id="158" translate="yes" xml:space="preserve">
-          <source>There are just a few steps to export data from C5, and import it in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>:</source><seg-source><mrk mtype="seg" mid="58">There are just a few steps to export data from C5, and import it in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>:</mrk></seg-source><target><mrk mtype="seg" mid="58">Je třeba učinit jen několik kroků k exportu dat z C5 a jejich importu do <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>:</mrk></target>
+          <source>There are just a few steps to export data from C5, and import it in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>:</source><seg-source><mrk mtype="seg" mid="58">There are just a few steps to export data from C5, and import it in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>:</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="58">Je třeba učinit jen několik kroků k exportu dat z C5 a jejich importu do <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>:</mrk></target>
         </trans-unit>
         <trans-unit id="159" translate="yes" xml:space="preserve">
-          <source>In C5, use the <bpt id="p1">**</bpt>Export Database<ept id="p1">**</ept> feature to export the data.</source><seg-source><mrk mtype="seg" mid="59">In C5, use the <bpt id="p1">**</bpt>Export Database<ept id="p1">**</ept> feature to export the data.</mrk></seg-source><target><mrk mtype="seg" mid="59">V C5 exportujte data pomocí funkce <bpt id="p1">**</bpt>Export databáze<ept id="p1">**</ept>.</mrk></target>
+          <source>In C5, use the <bpt id="p1">**</bpt>Export Database<ept id="p1">**</ept> feature to export the data.</source><seg-source><mrk mtype="seg" mid="59">In C5, use the <bpt id="p1">**</bpt>Export Database<ept id="p1">**</ept> feature to export the data.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="59">V C5 exportujte data pomocí funkce <bpt id="p1">**</bpt>Export databáze<ept id="p1">**</ept>.</mrk></target>
         </trans-unit>
         <trans-unit id="160" translate="yes" xml:space="preserve">
-          <source>Then send the export folder to a compressed (zipped) folder.</source><seg-source><mrk mtype="seg" mid="60">Then send the export folder to a compressed (zipped) folder.</mrk></seg-source><target><mrk mtype="seg" mid="60">Poté odešlete exportovanou složku do komprimované (zip) složky.</mrk></target>
+          <source>Then send the export folder to a compressed (zipped) folder.</source><seg-source><mrk mtype="seg" mid="60">Then send the export folder to a compressed (zipped) folder.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="60">Poté odešlete exportovanou složku do komprimované (zip) složky.</mrk></target>
         </trans-unit>
         <trans-unit id="161" translate="yes" xml:space="preserve">
-          <source>In <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Data Migration<ept id="p3">**</ept>, and then choose <bpt id="p4">**</bpt>Data Migration<ept id="p4">**</ept>.</source><seg-source><mrk mtype="seg" mid="61">In <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Data Migration<ept id="p3">**</ept>, and then choose <bpt id="p4">**</bpt>Data Migration<ept id="p4">**</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="61">V <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Migrace dat<ept id="p3">**</ept> a pak vyberte <bpt id="p4">**</bpt>Migrace dat<ept id="p4">**</ept>.</mrk></target>
+          <source>In <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Data Migration<ept id="p3">**</ept>, and then choose <bpt id="p4">**</bpt>Data Migration<ept id="p4">**</ept>.</source><seg-source><mrk mtype="seg" mid="61">In <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Data Migration<ept id="p3">**</ept>, and then choose <bpt id="p4">**</bpt>Data Migration<ept id="p4">**</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="61">V <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Migrace dat<ept id="p3">**</ept> a pak vyberte <bpt id="p4">**</bpt>Migrace dat<ept id="p4">**</ept>.</mrk></target>
         </trans-unit>
         <trans-unit id="162" translate="yes" xml:space="preserve">
-          <source>Complete the steps in the assisted setup guide.</source><seg-source><mrk mtype="seg" mid="62">Complete the steps in the assisted setup guide.</mrk></seg-source><target><mrk mtype="seg" mid="62">Proveďte kroky v průvodci asistovanou instalaci.</mrk></target>
+          <source>Complete the steps in the assisted setup guide.</source><seg-source><mrk mtype="seg" mid="62">Complete the steps in the assisted setup guide.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="62">Proveďte kroky v průvodci asistovanou instalaci.</mrk></target>
         </trans-unit>
         <trans-unit id="163" translate="yes" xml:space="preserve">
-          <source>Make sure to choose <bpt id="p1">**</bpt>Import from Microsoft Dynamcis C5 2012<ept id="p1">**</ept> as the data source.</source><seg-source><mrk mtype="seg" mid="63">Make sure to choose <bpt id="p1">**</bpt>Import from Microsoft Dynamcis C5 2012<ept id="p1">**</ept> as the data source.</mrk></seg-source><target><mrk mtype="seg" mid="63">Ujistěte se, že jako zdroj dat jste zvolili <bpt id="p1">**</bpt>Import z Microsoft Dynamcis C5 2012<ept id="p1">**</ept>.</mrk></target>
+          <source>Make sure to choose <bpt id="p1">**</bpt>Import from Microsoft Dynamcis C5 2012<ept id="p1">**</ept> as the data source.</source><seg-source><mrk mtype="seg" mid="63">Make sure to choose <bpt id="p1">**</bpt>Import from Microsoft Dynamcis C5 2012<ept id="p1">**</ept> as the data source.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="63">Ujistěte se, že jako zdroj dat jste zvolili <bpt id="p1">**</bpt>Import z Microsoft Dynamcis C5 2012<ept id="p1">**</ept>.</mrk></target>
         </trans-unit>
         <trans-unit id="164" translate="yes" xml:space="preserve">
-          <source>Companies often add fields to customize C5 for their specific line of business.</source><seg-source><mrk mtype="seg" mid="64">Companies often add fields to customize C5 for their specific line of business.</mrk></seg-source><target><mrk mtype="seg" mid="64">Společnosti často přidávají pole pro přizpůsobení C5 pro jejich konkrétní obor podnikání.</mrk></target>
+          <source>Companies often add fields to customize C5 for their specific line of business.</source><seg-source><mrk mtype="seg" mid="64">Companies often add fields to customize C5 for their specific line of business.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="64">Společnosti často přidávají pole pro přizpůsobení C5 pro jejich konkrétní obor podnikání, které </mrk></target>
         </trans-unit>
         <trans-unit id="165" translate="yes" xml:space="preserve">
-          <source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> does not migrate data from custom fields.</source><seg-source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="65">does not migrate data from custom fields.</mrk></seg-source><target><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="65">nepřenáší data z vlastních polí.</mrk></target>
+          <source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> does not migrate data from custom fields.</source><seg-source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="65">does not migrate data from custom fields.</mrk></seg-source><target state="translated"><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="65">nepřenáší data z vlastních polí.</mrk></target>
         </trans-unit>
         <trans-unit id="166" translate="yes" xml:space="preserve">
-          <source>Also, migration will fail if you have more than 10 custom fields.</source><seg-source><mrk mtype="seg" mid="66">Also, migration will fail if you have more than 10 custom fields.</mrk></seg-source><target><mrk mtype="seg" mid="66">Migrace také selže, pokud máte více než 10 vlastních polí.</mrk></target>
+          <source>Also, migration will fail if you have more than 10 custom fields.</source><seg-source><mrk mtype="seg" mid="66">Also, migration will fail if you have more than 10 custom fields.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="66">Migrace také selže, pokud máte více než 10 vlastních polí.</mrk></target>
         </trans-unit>
         <trans-unit id="167" translate="yes" xml:space="preserve">
-          <source>Viewing the Status of the Migration</source><seg-source><mrk mtype="seg" mid="67">Viewing the Status of the Migration</mrk></seg-source><target><mrk mtype="seg" mid="67">Zobrazení stavu migrace</mrk></target>
+          <source>Viewing the Status of the Migration</source><seg-source><mrk mtype="seg" mid="67">Viewing the Status of the Migration</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="67">Zobrazení stavu migrace</mrk></target>
         </trans-unit>
         <trans-unit id="168" translate="yes" xml:space="preserve">
-          <source>Use the <bpt id="p1">**</bpt>Data Migration Overview<ept id="p1">**</ept> page to monitor the success of the migration.</source><seg-source><mrk mtype="seg" mid="68">Use the <bpt id="p1">**</bpt>Data Migration Overview<ept id="p1">**</ept> page to monitor the success of the migration.</mrk></seg-source><target><mrk mtype="seg" mid="68">Na stránce <bpt id="p1">**</bpt>Přehled migrace dat<ept id="p1">**</ept> můžete sledovat úspěšnost migrace.</mrk></target>
+          <source>Use the <bpt id="p1">**</bpt>Data Migration Overview<ept id="p1">**</ept> page to monitor the success of the migration.</source><seg-source><mrk mtype="seg" mid="68">Use the <bpt id="p1">**</bpt>Data Migration Overview<ept id="p1">**</ept> page to monitor the success of the migration.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="68">Na stránce <bpt id="p1">**</bpt>Přehled migrace dat<ept id="p1">**</ept> můžete sledovat úspěšnost migrace.</mrk></target>
         </trans-unit>
         <trans-unit id="169" translate="yes" xml:space="preserve">
-          <source>The page shows information such as the number of entities that the migration will include, the status of the migration, and the number of items that have been migrated and whether they were successfull.</source><seg-source><mrk mtype="seg" mid="69">The page shows information such as the number of entities that the migration will include, the status of the migration, and the number of items that have been migrated and whether they were successfull.</mrk></seg-source><target><mrk mtype="seg" mid="69">Stránka zobrazuje informace, jako je počet entit, které bude migrace zahrnovat, stav migrace a počet položek, které byly migrovány, a zda byly jejich migrace úspěšné.</mrk></target>
+          <source>The page shows information such as the number of entities that the migration will include, the status of the migration, and the number of items that have been migrated and whether they were successfull.</source><seg-source><mrk mtype="seg" mid="69">The page shows information such as the number of entities that the migration will include, the status of the migration, and the number of items that have been migrated and whether they were successfull.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="69">Stránka zobrazuje informace, jako je počet entit, které bude migrace zahrnovat, stav migrace a počet položek, které byly migrovány, a zda byly jejich migrace úspěšné.</mrk></target>
         </trans-unit>
         <trans-unit id="170" translate="yes" xml:space="preserve">
-          <source>It also shows the number of errors, lets you investigate what went wrong and, when possible, makes it easy to go to the entity to fix the issues.</source><seg-source><mrk mtype="seg" mid="70">It also shows the number of errors, lets you investigate what went wrong and, when possible, makes it easy to go to the entity to fix the issues.</mrk></seg-source><target><mrk mtype="seg" mid="70">Ukazuje také počet chyb, umožňuje vám zjistit, co se pokazilo, a pokud je to možné, usnadňuje přístup k entitě a řešení jejích problémů.</mrk></target>
+          <source>It also shows the number of errors, lets you investigate what went wrong and, when possible, makes it easy to go to the entity to fix the issues.</source><seg-source><mrk mtype="seg" mid="70">It also shows the number of errors, lets you investigate what went wrong and, when possible, makes it easy to go to the entity to fix the issues.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="70">Ukazuje také počet chyb, umožňuje vám zjistit, co se pokazilo, a pokud je to možné, usnadňuje přístup k entitě a řešení jejích problémů.</mrk></target>
         </trans-unit>
         <trans-unit id="171" translate="yes" xml:space="preserve">
-          <source>For more information, see the next section in this topic.</source><seg-source><mrk mtype="seg" mid="71">For more information, see the next section in this topic.</mrk></seg-source><target><mrk mtype="seg" mid="71">Další informace naleznete v další části tohoto tématu.</mrk></target>
+          <source>For more information, see the next section in this topic.</source><seg-source><mrk mtype="seg" mid="71">For more information, see the next section in this topic.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="71">Další informace naleznete v další části tohoto tématu.</mrk></target>
         </trans-unit>
         <trans-unit id="172" translate="yes" xml:space="preserve">
-          <source>While you are waiting for the results of the migration, you must refresh the page to display the results.</source><seg-source><mrk mtype="seg" mid="72">While you are waiting for the results of the migration, you must refresh the page to display the results.</mrk></seg-source><target><mrk mtype="seg" mid="72">Zatímco čekáte na výsledky migrace, musíte stránku aktualizovat, aby se zobrazily výsledky.</mrk></target>
+          <source>While you are waiting for the results of the migration, you must refresh the page to display the results.</source><seg-source><mrk mtype="seg" mid="72">While you are waiting for the results of the migration, you must refresh the page to display the results.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="72">Zatímco čekáte na výsledky migrace, musíte stránku aktualizovat, aby se zobrazily výsledky.</mrk></target>
         </trans-unit>
         <trans-unit id="173" translate="yes" xml:space="preserve">
-          <source>Correcting Errors</source><seg-source><mrk mtype="seg" mid="73">Correcting Errors</mrk></seg-source><target><mrk mtype="seg" mid="73">Opravy chyb</mrk></target>
+          <source>Correcting Errors</source><seg-source><mrk mtype="seg" mid="73">Correcting Errors</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="73">Opravy chyb</mrk></target>
         </trans-unit>
         <trans-unit id="174" translate="yes" xml:space="preserve">
-          <source>If something goes wrong and an error occurs, the <bpt id="p1">**</bpt>Status<ept id="p1">**</ept> field will show <bpt id="p2">**</bpt>Completed with Errors<ept id="p2">**</ept>, and the <bpt id="p3">**</bpt>Error Count<ept id="p3">**</ept> field will show how many.</source><seg-source><mrk mtype="seg" mid="74">If something goes wrong and an error occurs, the <bpt id="p1">**</bpt>Status<ept id="p1">**</ept> field will show <bpt id="p2">**</bpt>Completed with Errors<ept id="p2">**</ept>, and the <bpt id="p3">**</bpt>Error Count<ept id="p3">**</ept> field will show how many.</mrk></seg-source><target><mrk mtype="seg" mid="74">Pokud se něco pokazí a dojde k chybě, v poli <bpt id="p1">**</bpt>Stav<ept id="p1">**</ept> se zobrazí <bpt id="p2">**</bpt>Dokončeno s chybami<ept id="p2">**</ept> a v poli <bpt id="p3">**</bpt>Počet chyb<ept id="p3">**</ept> se zobrazí jejich počet.</mrk></target>
+          <source>If something goes wrong and an error occurs, the <bpt id="p1">**</bpt>Status<ept id="p1">**</ept> field will show <bpt id="p2">**</bpt>Completed with Errors<ept id="p2">**</ept>, and the <bpt id="p3">**</bpt>Error Count<ept id="p3">**</ept> field will show how many.</source><seg-source><mrk mtype="seg" mid="74">If something goes wrong and an error occurs, the <bpt id="p1">**</bpt>Status<ept id="p1">**</ept> field will show <bpt id="p2">**</bpt>Completed with Errors<ept id="p2">**</ept>, and the <bpt id="p3">**</bpt>Error Count<ept id="p3">**</ept> field will show how many.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="74">Pokud se něco pokazí a dojde k chybě, v poli <bpt id="p1">**</bpt>Stav<ept id="p1">**</ept> se zobrazí <bpt id="p2">**</bpt>Dokončeno s chybami<ept id="p2">**</ept> a v poli <bpt id="p3">**</bpt>Počet chyb<ept id="p3">**</ept> se zobrazí jejich počet.</mrk></target>
         </trans-unit>
         <trans-unit id="175" translate="yes" xml:space="preserve">
-          <source>To view a list of the errors, you can open the <bpt id="p1">**</bpt>Data Migration Errors<ept id="p1">**</ept> page by choosing:</source><seg-source><mrk mtype="seg" mid="75">To view a list of the errors, you can open the <bpt id="p1">**</bpt>Data Migration Errors<ept id="p1">**</ept> page by choosing:</mrk></seg-source><target><mrk mtype="seg" mid="75">Chcete-li zobrazit seznam chyb, můžete otevřít stránku <bpt id="p1">**</bpt>Chyby dat migrace<ept id="p1">**</ept> výběrem:</mrk></target>
+          <source>To view a list of the errors, you can open the <bpt id="p1">**</bpt>Data Migration Errors<ept id="p1">**</ept> page by choosing:</source><seg-source><mrk mtype="seg" mid="75">To view a list of the errors, you can open the <bpt id="p1">**</bpt>Data Migration Errors<ept id="p1">**</ept> page by choosing:</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="75">Chcete-li zobrazit seznam chyb, můžete otevřít stránku <bpt id="p1">**</bpt>Chyby dat migrace<ept id="p1">**</ept> výběrem:</mrk></target>
         </trans-unit>
         <trans-unit id="176" translate="yes" xml:space="preserve">
-          <source>The number in the <bpt id="p1">**</bpt>Error Count<ept id="p1">**</ept> field for the entity.</source><seg-source><mrk mtype="seg" mid="76">The number in the <bpt id="p1">**</bpt>Error Count<ept id="p1">**</ept> field for the entity.</mrk></seg-source><target><mrk mtype="seg" mid="76">Číslo v poli <bpt id="p1">**</bpt>Počet chyb<ept id="p1">**</ept> pro entitu.</mrk></target>
+          <source>The number in the <bpt id="p1">**</bpt>Error Count<ept id="p1">**</ept> field for the entity.</source><seg-source><mrk mtype="seg" mid="76">The number in the <bpt id="p1">**</bpt>Error Count<ept id="p1">**</ept> field for the entity.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="76">Číslo v poli <bpt id="p1">**</bpt>Počet chyb<ept id="p1">**</ept> pro entitu.</mrk></target>
         </trans-unit>
         <trans-unit id="177" translate="yes" xml:space="preserve">
-          <source>The entity, and then the <bpt id="p1">**</bpt>Show Errors<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="77">The entity, and then the <bpt id="p1">**</bpt>Show Errors<ept id="p1">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="77">Zvolením entity a potom akce <bpt id="p1">**</bpt>Zobrazit chyby<ept id="p1">**</ept>.</mrk></target>
+          <source>The entity, and then the <bpt id="p1">**</bpt>Show Errors<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="77">The entity, and then the <bpt id="p1">**</bpt>Show Errors<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="77">Zvolením entity a potom akce <bpt id="p1">**</bpt>Zobrazit chyby<ept id="p1">**</ept>.</mrk></target>
         </trans-unit>
         <trans-unit id="178" translate="yes" xml:space="preserve">
-          <source>On the <bpt id="p1">**</bpt>Data Migration Errors<ept id="p1">**</ept> page, to fix an error you can choose an error message, then choose <bpt id="p2">**</bpt>Edit Record<ept id="p2">**</ept> to open a page that shows the migrated data for the entity.</source><seg-source><mrk mtype="seg" mid="78">On the <bpt id="p1">**</bpt>Data Migration Errors<ept id="p1">**</ept> page, to fix an error you can choose an error message, then choose <bpt id="p2">**</bpt>Edit Record<ept id="p2">**</ept> to open a page that shows the migrated data for the entity.</mrk></seg-source><target><mrk mtype="seg" mid="78">Na stránce <bpt id="p1">**</bpt>Chyby dat migrace<ept id="p1">**</ept> můžete opravit chybu tak, že si vyberete chybovou zprávu, poté zvolíte <bpt id="p2">**</bpt>Upravit záznam<ept id="p2">**</ept>, čímž otevřete stránku zobrazující migrovaná data pro entitu.</mrk></target>
+          <source>On the <bpt id="p1">**</bpt>Data Migration Errors<ept id="p1">**</ept> page, to fix an error you can choose an error message, then choose <bpt id="p2">**</bpt>Edit Record<ept id="p2">**</ept> to open a page that shows the migrated data for the entity.</source><seg-source><mrk mtype="seg" mid="78">On the <bpt id="p1">**</bpt>Data Migration Errors<ept id="p1">**</ept> page, to fix an error you can choose an error message, then choose <bpt id="p2">**</bpt>Edit Record<ept id="p2">**</ept> to open a page that shows the migrated data for the entity.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="78">Na stránce <bpt id="p1">**</bpt>Chyby dat migrace<ept id="p1">**</ept> můžete opravit chybu tak, že si vyberete chybovou zprávu, poté zvolíte <bpt id="p2">**</bpt>Upravit záznam<ept id="p2">**</ept>, čímž otevřete stránku zobrazující migrovaná data pro entitu.</mrk></target>
         </trans-unit>
         <trans-unit id="179" translate="yes" xml:space="preserve">
-          <source>After you fix one or more errors, you can choose <bpt id="p1">**</bpt>Migrate<ept id="p1">**</ept> to migrate only the entities you fixed, without having to completely restart the migration.</source><seg-source><mrk mtype="seg" mid="79">After you fix one or more errors, you can choose <bpt id="p1">**</bpt>Migrate<ept id="p1">**</ept> to migrate only the entities you fixed, without having to completely restart the migration.</mrk></seg-source><target><mrk mtype="seg" mid="79">Po opravě jedné nebo více chyb můžete zvolit <bpt id="p1">**</bpt>Migrovat<ept id="p1">**</ept> a migrovat pouze entity, které jste opravili, aniž byste museli migraci úplně restartovat.</mrk></target>
+          <source>After you fix one or more errors, you can choose <bpt id="p1">**</bpt>Migrate<ept id="p1">**</ept> to migrate only the entities you fixed, without having to completely restart the migration.</source><seg-source><mrk mtype="seg" mid="79">After you fix one or more errors, you can choose <bpt id="p1">**</bpt>Migrate<ept id="p1">**</ept> to migrate only the entities you fixed, without having to completely restart the migration.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="79">Po opravě jedné nebo více chyb můžete zvolit <bpt id="p1">**</bpt>Migrovat<ept id="p1">**</ept> a migrovat pouze entity, které jste opravili, aniž byste museli migraci úplně restartovat.</mrk></target>
         </trans-unit>
         <trans-unit id="180" translate="yes" xml:space="preserve">
-          <source>If you have fixed more than one error, you can use the <bpt id="p1">**</bpt>Select More<ept id="p1">**</ept> feature to select multiple lines to migrate.</source><seg-source><mrk mtype="seg" mid="80">If you have fixed more than one error, you can use the <bpt id="p1">**</bpt>Select More<ept id="p1">**</ept> feature to select multiple lines to migrate.</mrk></seg-source><target><mrk mtype="seg" mid="80">Pokud jste opravili více než jednu chybu, můžete pomocí funkce <bpt id="p1">**</bpt>Vybrat více<ept id="p1">**</ept> vybrat více řádků pro migraci.</mrk></target>
+          <source>If you have fixed more than one error, you can use the <bpt id="p1">**</bpt>Select More<ept id="p1">**</ept> feature to select multiple lines to migrate.</source><seg-source><mrk mtype="seg" mid="80">If you have fixed more than one error, you can use the <bpt id="p1">**</bpt>Select More<ept id="p1">**</ept> feature to select multiple lines to migrate.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="80">Pokud jste opravili více než jednu chybu, můžete pomocí funkce <bpt id="p1">**</bpt>Vybrat více<ept id="p1">**</ept> vybrat více řádků pro migraci.</mrk></target>
         </trans-unit>
         <trans-unit id="181" translate="yes" xml:space="preserve">
-          <source>Alternatively, if there are errors that are not important to fix, you can choose them and then choose <bpt id="p1">**</bpt>Skip Selections<ept id="p1">**</ept>.</source><seg-source><mrk mtype="seg" mid="81">Alternatively, if there are errors that are not important to fix, you can choose them and then choose <bpt id="p1">**</bpt>Skip Selections<ept id="p1">**</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="81">Alternativně, pokud existují chyby, u kterých oprava není důležitá, můžete je vybrat a poté zvolit <bpt id="p1">**</bpt>Přeskočit výběr<ept id="p1">**</ept>.</mrk></target>
+          <source>Alternatively, if there are errors that are not important to fix, you can choose them and then choose <bpt id="p1">**</bpt>Skip Selections<ept id="p1">**</ept>.</source><seg-source><mrk mtype="seg" mid="81">Alternatively, if there are errors that are not important to fix, you can choose them and then choose <bpt id="p1">**</bpt>Skip Selections<ept id="p1">**</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="81">Alternativně, pokud existují chyby, u kterých oprava není důležitá, můžete je vybrat a poté zvolit <bpt id="p1">**</bpt>Přeskočit výběr<ept id="p1">**</ept>.</mrk></target>
         </trans-unit>
         <trans-unit id="182" translate="yes" xml:space="preserve">
-          <source>If you have items that are included in a BOM, you might need to migrate more than once if the original item is not created before the variants that reference it.</source><seg-source><mrk mtype="seg" mid="82">If you have items that are included in a BOM, you might need to migrate more than once if the original item is not created before the variants that reference it.</mrk></seg-source><target><mrk mtype="seg" mid="82">Pokud máte položky, které jsou součástí kusovníku, možná je budete muset migrovat více než jednou, pokud původní položka není vytvořena před variantami, které na ni odkazují.</mrk></target>
+          <source>If you have items that are included in a BOM, you might need to migrate more than once if the original item is not created before the variants that reference it.</source><seg-source><mrk mtype="seg" mid="82">If you have items that are included in a BOM, you might need to migrate more than once if the original item is not created before the variants that reference it.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="82">Pokud máte položky, které jsou součástí kusovníku, možná je budete muset migrovat více než jednou, pokud původní položka není vytvořena před variantami, které na ni odkazují.</mrk></target>
         </trans-unit>
         <trans-unit id="183" translate="yes" xml:space="preserve">
-          <source>If an item variant is created first, the reference to the original item can cause an error message.</source><seg-source><mrk mtype="seg" mid="83">If an item variant is created first, the reference to the original item can cause an error message.</mrk></seg-source><target><mrk mtype="seg" mid="83">Pokud je varianta položky vytvořena jako první, může odkaz na původní položku způsobit chybovou zprávu.</mrk></target>
+          <source>If an item variant is created first, the reference to the original item can cause an error message.</source><seg-source><mrk mtype="seg" mid="83">If an item variant is created first, the reference to the original item can cause an error message.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="83">Pokud je varianta položky vytvořena jako první, může odkaz na původní položku způsobit chybovou zprávu.</mrk></target>
         </trans-unit>
         <trans-unit id="184" translate="yes" xml:space="preserve">
-          <source>Verifying Data After Migrating</source><seg-source><mrk mtype="seg" mid="84">Verifying Data After Migrating</mrk></seg-source><target><mrk mtype="seg" mid="84">Ověření dat po migraci</mrk></target>
+          <source>Verifying Data After Migrating</source><seg-source><mrk mtype="seg" mid="84">Verifying Data After Migrating</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="84">Ověření dat po migraci</mrk></target>
         </trans-unit>
         <trans-unit id="185" translate="yes" xml:space="preserve">
-          <source>One way to verify that your data migrated correctly is to look at the following pages in C5 and <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</source><seg-source><mrk mtype="seg" mid="85">One way to verify that your data migrated correctly is to look at the following pages in C5 and <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</mrk></seg-source><target><mrk mtype="seg" mid="85">Jedním ze způsobů, jak ověřit, zda vaše data byla správně migrována, je podívat se na následující stránky v C5 a <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</mrk></target>
+          <source>One way to verify that your data migrated correctly is to look at the following pages in C5 and <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</source><seg-source><mrk mtype="seg" mid="85">One way to verify that your data migrated correctly is to look at the following pages in C5 and <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="85">Jedním ze způsobů, jak ověřit, zda vaše data byla správně migrována, je podívat se na následující stránky v C5 a <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</mrk></target>
         </trans-unit>
         <trans-unit id="186" translate="yes" xml:space="preserve">
-          <source>Microsoft Dynamcis C5 2012</source><seg-source><mrk mtype="seg" mid="86">Microsoft Dynamcis C5 2012</mrk></seg-source><target><mrk mtype="seg" mid="86">Microsoft Dynamcis C5 2012</mrk></target>
+          <source>Microsoft Dynamcis C5 2012</source><seg-source><mrk mtype="seg" mid="86">Microsoft Dynamcis C5 2012</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="86">Microsoft Dynamcis C5 2012</mrk></target>
         </trans-unit>
         <trans-unit id="187" translate="yes" xml:space="preserve">
-          <source>Customer Entries</source><seg-source><mrk mtype="seg" mid="87">Customer Entries</mrk></seg-source><target><mrk mtype="seg" mid="87">Položky zákazníka</mrk></target>
+          <source>Customer Entries</source><seg-source><mrk mtype="seg" mid="87">Customer Entries</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="87">Položky zákazníka</mrk></target>
         </trans-unit>
         <trans-unit id="188" translate="yes" xml:space="preserve">
-          <source>General Journals</source><seg-source><mrk mtype="seg" mid="88">General Journals</mrk></seg-source><target><mrk mtype="seg" mid="88">Finanční deníky</mrk></target>
+          <source>General Journals</source><seg-source><mrk mtype="seg" mid="88">General Journals</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="88">Finanční deníky</mrk></target>
         </trans-unit>
         <trans-unit id="189" translate="yes" xml:space="preserve">
-          <source>Vendor Entries</source><seg-source><mrk mtype="seg" mid="89">Vendor Entries</mrk></seg-source><target><mrk mtype="seg" mid="89">Položky dodavatele</mrk></target>
+          <source>Vendor Entries</source><seg-source><mrk mtype="seg" mid="89">Vendor Entries</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="89">Položky dodavatele</mrk></target>
         </trans-unit>
         <trans-unit id="190" translate="yes" xml:space="preserve">
-          <source>General Journals</source><seg-source><mrk mtype="seg" mid="90">General Journals</mrk></seg-source><target><mrk mtype="seg" mid="90">Finanční deníky</mrk></target>
+          <source>General Journals</source><seg-source><mrk mtype="seg" mid="90">General Journals</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="90">Finanční deníky</mrk></target>
         </trans-unit>
         <trans-unit id="191" translate="yes" xml:space="preserve">
-          <source>Item Entries</source><seg-source><mrk mtype="seg" mid="91">Item Entries</mrk></seg-source><target><mrk mtype="seg" mid="91">Položky zboží</mrk></target>
+          <source>Item Entries</source><seg-source><mrk mtype="seg" mid="91">Item Entries</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="91">Položky zboží</mrk></target>
         </trans-unit>
         <trans-unit id="192" translate="yes" xml:space="preserve">
-          <source>Item Journals</source><seg-source><mrk mtype="seg" mid="92">Item Journals</mrk></seg-source><target><mrk mtype="seg" mid="92">Deníky zboží</mrk></target>
+          <source>Item Journals</source><seg-source><mrk mtype="seg" mid="92">Item Journals</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="92">Deníky zboží</mrk></target>
         </trans-unit>
         <trans-unit id="193" translate="yes" xml:space="preserve">
-          <source>In <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, the batch for the migrated data is named <bpt id="p1">**</bpt>C5MIGRATE<ept id="p1">**</ept>.</source><seg-source><mrk mtype="seg" mid="93">In <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, the batch for the migrated data is named <bpt id="p1">**</bpt>C5MIGRATE<ept id="p1">**</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="93">V <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> je dávka pro migrovaná data pojmenována <bpt id="p1">**</bpt>C5MIGRATE<ept id="p1">**</ept>.</mrk></target>
+          <source>In <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, the batch for the migrated data is named <bpt id="p1">**</bpt>C5MIGRATE<ept id="p1">**</ept>.</source><seg-source><mrk mtype="seg" mid="93">In <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, the batch for the migrated data is named <bpt id="p1">**</bpt>C5MIGRATE<ept id="p1">**</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="93">V <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> je dávka pro migrovaná data pojmenována <bpt id="p1">**</bpt>C5MIGRATE<ept id="p1">**</ept>.</mrk></target>
         </trans-unit>
         <trans-unit id="194" translate="yes" xml:space="preserve">
-          <source>Stopping Data Migration</source><seg-source><mrk mtype="seg" mid="94">Stopping Data Migration</mrk></seg-source><target><mrk mtype="seg" mid="94">Zastavení migrace dat</mrk></target>
+          <source>Stopping Data Migration</source><seg-source><mrk mtype="seg" mid="94">Stopping Data Migration</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="94">Zastavení migrace dat</mrk></target>
         </trans-unit>
         <trans-unit id="195" translate="yes" xml:space="preserve">
-          <source>You can stop migrating data by choosing <bpt id="p1">**</bpt>Stop All Migrations<ept id="p1">**</ept>.</source><seg-source><mrk mtype="seg" mid="95">You can stop migrating data by choosing <bpt id="p1">**</bpt>Stop All Migrations<ept id="p1">**</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="95">Migraci dat můžete zastavit výběrem <bpt id="p1">**</bpt>Zastavit všechny migrace<ept id="p1">**</ept>.</mrk></target>
+          <source>You can stop migrating data by choosing <bpt id="p1">**</bpt>Stop All Migrations<ept id="p1">**</ept>.</source><seg-source><mrk mtype="seg" mid="95">You can stop migrating data by choosing <bpt id="p1">**</bpt>Stop All Migrations<ept id="p1">**</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="95">Migraci dat můžete zastavit výběrem <bpt id="p1">**</bpt>Zastavit všechny migrace<ept id="p1">**</ept>.</mrk></target>
         </trans-unit>
         <trans-unit id="196" translate="yes" xml:space="preserve">
-          <source>If you do, all pending migrations are also stopped.</source><seg-source><mrk mtype="seg" mid="96">If you do, all pending migrations are also stopped.</mrk></seg-source><target><mrk mtype="seg" mid="96">Pokud tak učiníte, zastaví se také všechny čekající migrace.</mrk></target>
+          <source>If you do, all pending migrations are also stopped.</source><seg-source><mrk mtype="seg" mid="96">If you do, all pending migrations are also stopped.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="96">Pokud tak učiníte, zastaví se také všechny čekající migrace.</mrk></target>
         </trans-unit>
         <trans-unit id="197" translate="yes" xml:space="preserve">
-          <source>See Also</source><seg-source><mrk mtype="seg" mid="97">See Also</mrk></seg-source><target><mrk mtype="seg" mid="97">Viz také</mrk></target>
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="97">See Also</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="97">Viz také</mrk></target>
         </trans-unit>
         <trans-unit id="198" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Customizing <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Using Extensions<ept id="p1">](ui-extensions.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="98">Customizing <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Using Extensions</mrk><ept id="p1">](ui-extensions.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="98">Přizpůsobení <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Pomocí rozšíření</mrk><ept id="p1">](ui-extensions.md)</ept></target>
+          <source><bpt id="p1">[</bpt>Customizing <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Using Extensions<ept id="p1">](ui-extensions.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="98">Customizing <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Using Extensions</mrk><ept id="p1">](ui-extensions.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="98">Přizpůsobení <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Pomocí rozšíření</mrk><ept id="p1">](ui-extensions.md)</ept></target>
         </trans-unit>
         <trans-unit id="199" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Welcome to <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](index.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="99">Welcome to</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](index.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="99">Vítejte v</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](index.md)</ept></target>
+          <source><bpt id="p1">[</bpt>Welcome to <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](index.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="99">Welcome to</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](index.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="99">Vítejte v</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](index.md)</ept></target>
         </trans-unit>
       </group>
     </body>
