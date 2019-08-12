@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="finance-payment-methods.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-435fba6" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8cac52a1cdd4e614c6e2ef8c027e5cf499926f9d</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\finance-payment-methods.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">aa212477b32c679d7b9ee31f53774353dcc79df6</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6bf5243c143e7c5411cf17c66707362651f7b4c0</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Set Up Payment Methods| Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Set Up Payment Methods| Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Nastavení způsobu platby| Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>You use payment methods, for example, check, bank transfer, cash, or PayPal, to define how sales and purchase invoices will be paid.</source><seg-source><mrk mtype="seg" mid="2">You use payment methods, for example, check, bank transfer, cash, or PayPal, to define how sales and purchase invoices will be paid.</mrk></seg-source><target><mrk mtype="seg" mid="2">Můžete použít různé metody způsobu platby, například šek, bankovní převod, hotovost nebo PayPal, k určení, jak byly prodejní a nákupní faktury zaplacené.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Defining Payment Methods</source><seg-source><mrk mtype="seg" mid="3">Defining Payment Methods</mrk></seg-source><target><mrk mtype="seg" mid="3">Definování způsobu platby</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Payment methods define the way you prefer for customers to pay you, and how you like to pay your vendors.</source><seg-source><mrk mtype="seg" mid="4">Payment methods define the way you prefer for customers to pay you, and how you like to pay your vendors.</mrk></seg-source><target><mrk mtype="seg" mid="4">Způsoby platby definují, jaký způsob platby od zákazníků preferujete a jak chcete platit svým dodavatelům.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The method can vary for each customer or vendor.</source><seg-source><mrk mtype="seg" mid="5">The method can vary for each customer or vendor.</mrk></seg-source><target><mrk mtype="seg" mid="5">Metody se mohou u každého zákazníka a dodavatele lišit.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Examples of typical payment methods are <bpt id="p1">**</bpt>bank<ept id="p1">**</ept>, <bpt id="p2">**</bpt>cash<ept id="p2">**</ept>, <bpt id="p3">**</bpt>check<ept id="p3">**</ept>, or <bpt id="p4">**</bpt>account<ept id="p4">**</ept>.</source><seg-source><mrk mtype="seg" mid="6">Examples of typical payment methods are <bpt id="p1">**</bpt>bank<ept id="p1">**</ept>, <bpt id="p2">**</bpt>cash<ept id="p2">**</ept>, <bpt id="p3">**</bpt>check<ept id="p3">**</ept>, or <bpt id="p4">**</bpt>account<ept id="p4">**</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="6">Mezi typické způsoby platby patří <bpt id="p1">**</bpt>banka<ept id="p1">**</ept>, <bpt id="p2">**</bpt>hotovost<ept id="p2">**</ept>, <bpt id="p3">**</bpt>šek<ept id="p3">**</ept>, nebo <bpt id="p4">**</bpt>účet<ept id="p4">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>You can assign a payment method to customers and vendors so that the same method is always used on the sales and purchase documents you create for them.</source><seg-source><mrk mtype="seg" mid="7">You can assign a payment method to customers and vendors so that the same method is always used on the sales and purchase documents you create for them.</mrk></seg-source><target><mrk mtype="seg" mid="7">Zákazníkům a dodavatelům můžete přiřadit způsob platby, tak, aby se stejný způsob vždy použil u prodejních a nákupních faktur, které pro ně vytvoříte.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>If needed, you can change the method on the sales or purchase document.</source><seg-source><mrk mtype="seg" mid="8">If needed, you can change the method on the sales or purchase document.</mrk></seg-source><target><mrk mtype="seg" mid="8">V případě potřeby můžete způsob změnit přímo na prodejní nebo nákupní faktuře.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>For example, if you want to pay a particular purchase invoice in cash rather than by check.</source><seg-source><mrk mtype="seg" mid="9">For example, if you want to pay a particular purchase invoice in cash rather than by check.</mrk></seg-source><target><mrk mtype="seg" mid="9">Například pokud chcete platit konkrétní nákupní fakturu v hotovosti, a nikoli šekem.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>This does not change the default payment method assigned to the vendor.</source><seg-source><mrk mtype="seg" mid="10">This does not change the default payment method assigned to the vendor.</mrk></seg-source><target><mrk mtype="seg" mid="10">Tímto se nezmění výchozí způsob platby přiřazený dodavateli.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>The same payment methods are used for sales and purchase documents.</source><seg-source><mrk mtype="seg" mid="11">The same payment methods are used for sales and purchase documents.</mrk></seg-source><target><mrk mtype="seg" mid="11">Stejné způsoby platby se používají pro prodejní a nákupní faktury.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>For example, a <bpt id="p1">_</bpt>cash<ept id="p1">_</ept> payment method is used both when you make payments and when you receive them.</source><seg-source><mrk mtype="seg" mid="12">For example, a <bpt id="p1">_</bpt>cash<ept id="p1">_</ept> payment method is used both when you make payments and when you receive them.</mrk></seg-source><target><mrk mtype="seg" mid="12">Například, způsob platby v <bpt id="p1">_</bpt>hotovosti<ept id="p1">_</ept> se používá jak při provádění plateb, tak při jejich přijímání.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> knows that when you are creating a sales invoice you expect to receive payment, and the opposite for purchase invoices.</source><seg-source><ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="13">knows that when you are creating a sales invoice you expect to receive payment, and the opposite for purchase invoices.</mrk></seg-source><target><ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="13">ví, že když vytváříte prodejní fakturu očekáváte platbu, a opak zase u nákupních faktur.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Credit memos for returns, however, are exceptions because money is flowing in the opposite directions, from you to your customer and from your vendor to you.</source><seg-source><mrk mtype="seg" mid="14">Credit memos for returns, however, are exceptions because money is flowing in the opposite directions, from you to your customer and from your vendor to you.</mrk></seg-source><target><mrk mtype="seg" mid="14">Vratky z dobropisu na vrácení jsou však výjimkami, protože peníze tečou opačným směrem, od vás k vašemu zákazníkovi a od vašeho dodavatele k vám.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Therefore, a default payment method is not assigned to credit memos.</source><seg-source><mrk mtype="seg" mid="15">Therefore, a default payment method is not assigned to credit memos.</mrk></seg-source><target><mrk mtype="seg" mid="15">Výchozí způsob platby proto není k dobropisům přiřazen.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>There is, however, a workaround if you have specified terms of payment for the customer or vendor.</source><seg-source><mrk mtype="seg" mid="16">There is, however, a workaround if you have specified terms of payment for the customer or vendor.</mrk></seg-source><target><mrk mtype="seg" mid="16">Pokud jste však určili platební podmínky pro zákazníka nebo dodavatele, tak zde existuje řešení.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Though the <bpt id="p1">**</bpt>Calc. Pmt. Disc. on Cr. Memos<ept id="p1">**</ept> field is not intended for this, if you choose the check box on the <bpt id="p2">**</bpt>Payment Terms<ept id="p2">**</ept> page a default payment method will be added when you create a credit memo.</source><seg-source><mrk mtype="seg" mid="17">Though the <bpt id="p1">**</bpt>Calc.</mrk> <mrk mtype="seg" mid="18">Pmt.</mrk> <mrk mtype="seg" mid="19">Disc. on Cr.</mrk> <mrk mtype="seg" mid="20">Memos<ept id="p1">**</ept> field is not intended for this, if you choose the check box on the <bpt id="p2">**</bpt>Payment Terms<ept id="p2">**</ept> page a default payment method will be added when you create a credit memo.</mrk></seg-source><target><mrk mtype="seg" mid="17">Přes <bpt id="p1">**</bpt>kalk.</mrk> <mrk mtype="seg" mid="18">LM</mrk> <mrk mtype="seg" mid="19">Skonto na dobropisu</mrk> <mrk mtype="seg" mid="20">Pole Dobropisy<ept id="p1">**</ept> není k tomuto určeno. Pokud na stránce <bpt id="p2">**</bpt>Platební podmínky<ept id="p2">**</ept> zaškrtnete políčko, při vytváření dobropisu se přidá výchozí způsob platby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>To set up a payment method</source><seg-source><mrk mtype="seg" mid="21">To set up a payment method</mrk></seg-source><target><mrk mtype="seg" mid="21">Nastavení způsobu platby</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> provides a few payment methods that businesses often use.</source><seg-source><ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="22">provides a few payment methods that businesses often use.</mrk></seg-source><target><ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="22">poskytuje několik platebních metod, které podniky často používají.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>You can, however, add as many as you need.</source><seg-source><mrk mtype="seg" mid="23">You can, however, add as many as you need.</mrk></seg-source><target><mrk mtype="seg" mid="23">Můžete jich však přidat tolik, kolik potřebujete.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Payment Methods<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="24">Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Payment Methods<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="24">Vyberte ikonu <bpt id="p1">![</bpt>Žárovky, která otevře funkci Řekněte mi<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Řekněte mi, co chcete dělat<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Způsob platby <ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Fill in the fields as necessary.</source><seg-source><mrk mtype="seg" mid="25">Fill in the fields as necessary.</mrk></seg-source><target><mrk mtype="seg" mid="25">Vyplňte pole podle potřeby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>To assign a payment method to a customer or vendor</source><seg-source><mrk mtype="seg" mid="26">To assign a payment method to a customer or vendor</mrk></seg-source><target><mrk mtype="seg" mid="26">K přiřazení platební metody zákazníkovi nebo prodejci</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Customer<ept id="p3">**</ept> or <bpt id="p4">**</bpt>Vendor<ept id="p4">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="27">Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Customer<ept id="p3">**</ept> or <bpt id="p4">**</bpt>Vendor<ept id="p4">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="27">Vyberte ikonu <bpt id="p1">![</bpt>Žárovky, která otevře funkci Řekněte mi<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Řekněte mi, co chcete dělat<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Zákazník<ept id="p3">**</ept>, nebo <bpt id="p4">**</bpt>Dodavatel<ept id="p4">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Payment Method<ept id="p1">**</ept> field, choose the method to use by default for the customer or vendor.</source><seg-source><mrk mtype="seg" mid="28">In the <bpt id="p1">**</bpt>Payment Method<ept id="p1">**</ept> field, choose the method to use by default for the customer or vendor.</mrk></seg-source><target><mrk mtype="seg" mid="28">V poli <bpt id="p1">**</bpt>Způsob platby<ept id="p1">**</ept> vyberte metodu, která se použije jako výchozí pro zákazníka, nebo dodavatele.</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="29">See Also</mrk></seg-source><target><mrk mtype="seg" mid="29">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Finance<ept id="p1">](finance.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="30">Finance</mrk><ept id="p1">](finance.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="30">Finance</mrk><ept id="p1">](finance.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="31">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="31">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
