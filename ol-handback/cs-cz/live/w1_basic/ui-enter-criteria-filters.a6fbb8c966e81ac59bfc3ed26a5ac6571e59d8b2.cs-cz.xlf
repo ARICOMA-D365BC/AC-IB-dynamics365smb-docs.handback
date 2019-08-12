@@ -1,0 +1,642 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="ui-enter-criteria-filters.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8ebcdd5" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c6eb9465d07b702e545347cad5acf0a42f01d1de</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\ui-enter-criteria-filters.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">eb45aa4aab3c3f65ed9d7764014b13ecca2b24b5</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d15631870ae87f0b5e5c3eef24d8ec80424a27ba</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Sorting, Searching, and Filtering Lists | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Sorting, Searching, and Filtering Lists | Microsoft Docs</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="1">Řazení, vyhledávání a filtrování seznamů | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Work efficiently in lists by searching across your data, sorting columns, and refining results using powerful filter symbols and keyboard shortcuts.</source><seg-source><mrk mtype="seg" mid="2">Work efficiently in lists by searching across your data, sorting columns, and refining results using powerful filter symbols and keyboard shortcuts.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="2">Pracujte efektivně v seznamech tím, že prohledáváte data, řadíte sloupce a zpřesňujete výsledky pomocí výkonných symbolů filtru a klávesových zkratek.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Sorting, Searching, and Filtering Lists</source><seg-source><mrk mtype="seg" mid="3">Sorting, Searching, and Filtering Lists</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="3">Řazení, vyhledávání a filtrování seznamů</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>There are a few things that you can do that will help you scan, find, and limit records in a list.</source><seg-source><mrk mtype="seg" mid="4">There are a few things that you can do that will help you scan, find, and limit records in a list.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="4">Existuje několik věcí, které můžete udělat, aby vám pomohly prohlížet, najít a redukovat záznamy v seznamu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>These include sorting, searching and filtering.</source><seg-source><mrk mtype="seg" mid="5">These include sorting, searching and filtering.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="5">Patří sem řazení, vyhledávání a filtrování.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>You can apply some or all of these simultaneously to quickly find or analyze your data.</source><seg-source><mrk mtype="seg" mid="6">You can apply some or all of these simultaneously to quickly find or analyze your data.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="6">Některé nebo všechny z nich můžete použít současně pro rychlé nalezení nebo analýzu vašich dat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>When viewing your data as tiles, you can search and use basic filtering.</source><seg-source><mrk mtype="seg" mid="7">When viewing your data as tiles, you can search and use basic filtering.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Při prohlížení dat jako dlaždic můžete vyhledávat a používat základní filtrování.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>To use the full set of powerful features for sorting, searching and filtering, choose the <bpt id="p1">![</bpt>Show as list<ept id="p1">]</ept><bpt id="p2">(media/ui_show_as_list_icon.png "</bpt>Show as list arrow left<ept id="p2">")</ept> icon to show as a list.</source><seg-source><mrk mtype="seg" mid="8">To use the full set of powerful features for sorting, searching and filtering, choose the <bpt id="p1">![</bpt>Show as list<ept id="p1">]</ept><bpt id="p2">(media/ui_show_as_list_icon.png "</bpt>Show as list arrow left<ept id="p2">")</ept> icon to show as a list.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="8">Chcete-li použít celou řadu výkonných funkcí pro třídění, vyhledávání a filtrování, vyberte ikonu <bpt id="p1">![</bpt>Zobrazit jako seznam<ept id="p1">]</ept><bpt id="p2">(media/ui_show_as_list_icon.png "</bpt>Zobrazit jako seznam šipka doleva<ept id="p2">")</ept> pro zobrazení dat jako seznamu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Sorting</source><seg-source><mrk mtype="seg" mid="9">Sorting</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="9">Řazení</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Sorting makes it easy for you to get a quick overview of your data.</source><seg-source><mrk mtype="seg" mid="10">Sorting makes it easy for you to get a quick overview of your data.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="10">Řazení vám usnadňuje dostat rychlý přehled o vašich datech.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>If you have many customers, for example, you can choose to sort them by <bpt id="p1">**</bpt>Customer No.<ept id="p1">**</ept>, <bpt id="p2">**</bpt>Customer Posting Group<ept id="p2">**</ept>, <bpt id="p3">**</bpt>Currency Code<ept id="p3">**</ept>, <bpt id="p4">**</bpt>Country Region Code<ept id="p4">**</ept>, or <bpt id="p5">**</bpt>Sales Tax Registration No.<ept id="p5">**</ept> to get the overview you need.</source><seg-source><mrk mtype="seg" mid="11">If you have many customers, for example, you can choose to sort them by <bpt id="p1">**</bpt>Customer No.<ept id="p1">**</ept>, <bpt id="p2">**</bpt>Customer Posting Group<ept id="p2">**</ept>, <bpt id="p3">**</bpt>Currency Code<ept id="p3">**</ept>, <bpt id="p4">**</bpt>Country Region Code<ept id="p4">**</ept>, or <bpt id="p5">**</bpt>Sales Tax Registration No.<ept id="p5">**</ept> to get the overview you need.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">Máte-li například mnoho zákazníků, můžete je řadit podle <bpt id="p1">**</bpt>Čísla zákazníka<ept id="p1">**</ept>, <bpt id="p2">**</bpt>Účto skupiny zákazníka<ept id="p2">**</ept>, <bpt id="p3">**</bpt>Kódu měny<ept id="p3">**</ept>, <bpt id="p4">**</bpt>Kódu zěmě/oblasti<ept id="p4">**</ept> nebo <bpt id="p5">**</bpt>Čísla registrace DPH<ept id="p5">**</ept>, abyste dostali přehled, který potřebujete.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>To sort a list, you can either choose a column heading text to toggle between ascending and descending order, or choose the small down arrow in the column heading, and then choose <bpt id="p1">**</bpt>Ascending<ept id="p1">**</ept> or <bpt id="p2">**</bpt>Descending<ept id="p2">**</ept>.</source><seg-source><mrk mtype="seg" mid="12">To sort a list, you can either choose a column heading text to toggle between ascending and descending order, or choose the small down arrow in the column heading, and then choose <bpt id="p1">**</bpt>Ascending<ept id="p1">**</ept> or <bpt id="p2">**</bpt>Descending<ept id="p2">**</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="12">Chcete-li seřadit seznam, můžete buď zvolit text záhlaví sloupce pro přepínání mezi vzestupným a sestupným pořadí, nebo zvolit malou šipku dolů v záhlaví sloupce a poté zvolit <bpt id="p1">**</bpt>Vzestupně<ept id="p1">**</ept> nebo <bpt id="p2">**</bpt>Sestupně<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Sorting is not supported on images, BLOB fields, FlowFilters, and fields that do not belong to a table.</source><seg-source><mrk mtype="seg" mid="13">Sorting is not supported on images, BLOB fields, FlowFilters, and fields that do not belong to a table.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="13">Řazení není podporováno pro obrázky, pole typu BLOB, dynamický filtr a pole, která nepatří do tabulky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Searching</source><seg-source><mrk mtype="seg" mid="14">Searching</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="14">Vyhledávání</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">&lt;!--## Searching by using the Quick Filter --&gt;</ph> At the top of each list page, there is a <bpt id="p1">![</bpt>Search list<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search-list.png "</bpt>Search list icon<ept id="p2">")</ept> <bpt id="p3">**</bpt>Search<ept id="p3">**</ept> icon that provides a quick and easy way to reduce the records in a list and display only those records that contain the data that you are interested in seeing.</source><seg-source><ph id="ph1">&lt;!--## Searching by using the Quick Filter --&gt;</ph> <mrk mtype="seg" mid="15">At the top of each list page, there is a <bpt id="p1">![</bpt>Search list<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search-list.png "</bpt>Search list icon<ept id="p2">")</ept> <bpt id="p3">**</bpt>Search<ept id="p3">**</ept> icon that provides a quick and easy way to reduce the records in a list and display only those records that contain the data that you are interested in seeing.</mrk></seg-source><target state="translated"><ph id="ph1">&lt;!--## Searching by using the Quick Filter --&gt;</ph> <mrk mtype="seg" mid="15">V horní části každé stránky seznamu je ikona <bpt id="p1">![</bpt>Prohledat seznam<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search-list.png "</bpt>ikona Prohledat seznam<ept id="p2">")</ept><bpt id="p3">**</bpt>Hledat<ept id="p3">**</ept>, která poskytuje rychlý a snadný způsob, jak redukovat záznamy v seznamu a zobrazit pouze ty záznamy, které obsahují data, která chcete vidět.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>To search, simply select the search icon, and then in the box, type the text that you are looking for.</source><seg-source><mrk mtype="seg" mid="16">To search, simply select the search icon, and then in the box, type the text that you are looking for.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="16">Chcete-li hledat, jednoduše vyberte ikonu vyhledávání a potom do pole zadejte hledaný text.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>You can enter letters, numbers, and other symbols.</source><seg-source><mrk mtype="seg" mid="17">You can enter letters, numbers, and other symbols.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="17">Můžete zadat písmena, čísla a další symboly.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Fine-tune the search</source><seg-source><mrk mtype="seg" mid="18">Fine-tune the search</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="18">Doladění vyhledávání</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>In general, search will attempt to match text across all fields; it does not distinguish between uppercase and lowercase characters (in other words, case insensitive), and will match text placed anwhere in the field (at the beginning, end, or in the middle).</source><seg-source><mrk mtype="seg" mid="19">In general, search will attempt to match text across all fields; it does not distinguish between uppercase and lowercase characters (in other words, case insensitive), and will match text placed anwhere in the field (at the beginning, end, or in the middle).</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="19">Obecně se vyhledávání pokusí shodovat text ve všech polích; nerozlišuje mezi malými a velkými písmeny a bude odpovídat textu umístěnému kdekoli v poli (na začátku, na konci nebo uprostřed).</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>However, you can make a more exact search by using the following special characters:</source><seg-source><mrk mtype="seg" mid="20">However, you can make a more exact search by using the following special characters:</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="20">Přesnější vyhledávání však můžete provést pomocí následujících speciálních znaků:</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>To find only field values that match the entire text and case exactly, place the search text between single quotes <ph id="ph1">`''`</ph> (for example, <ph id="ph2">`'man'`</ph>).</source><seg-source><mrk mtype="seg" mid="21">To find only field values that match the entire text and case exactly, place the search text between single quotes <ph id="ph1">`''`</ph> (for example, <ph id="ph2">`'man'`</ph>).</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="21">Chcete-li najít pouze hodnoty polí, které přesně odpovídají celému textu a velikosti písmen, umístěte hledaný text mezi jednoduché uvozovky <ph id="ph1">`''`</ph> (například <ph id="ph2">`'man'`</ph>).</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>To find field values that start with a certain text and match the case, place <ph id="ph1">`*`</ph> after the search text (for example <ph id="ph2">`man*`</ph>).</source><seg-source><mrk mtype="seg" mid="22">To find field values that start with a certain text and match the case, place <ph id="ph1">`*`</ph> after the search text (for example <ph id="ph2">`man*`</ph>).</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="22">Chcete-li najít hodnoty polí, které začínají určitým textem a odpovídají případu, umístěte <ph id="ph1">`*`</ph> za hledaný text (například <ph id="ph2">`man*`</ph>).</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>To find field values that end with a certain text and match the case, place <ph id="ph1">`*`</ph> before the search text (for example <ph id="ph2">`*man`</ph>).</source><seg-source><mrk mtype="seg" mid="23">To find field values that end with a certain text and match the case, place <ph id="ph1">`*`</ph> before the search text (for example <ph id="ph2">`*man`</ph>).</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="23">Chcete-li najít hodnoty polí, které končí určitým textem a odpovídají případu, umístěte <ph id="ph1">`*`</ph> za hledaný text (například <ph id="ph2">`*man`</ph>).</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>When using  <ph id="ph1">`''`</ph> or <ph id="ph2">`*`</ph>, the search is case sensitive.</source><seg-source><mrk mtype="seg" mid="24">When using  <ph id="ph1">`''`</ph> or <ph id="ph2">`*`</ph>, the search is case sensitive.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="24">Při použití <ph id="ph1">`''`</ph> nebo <ph id="ph2">`*`</ph> se při vyhledávání rozlišují malá a velká písmena.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>If you want to make the search case insensitive, place <ph id="ph1">`@`</ph> before the search text (for example <ph id="ph2">`@man*`</ph>).</source><seg-source><mrk mtype="seg" mid="25">If you want to make the search case insensitive, place <ph id="ph1">`@`</ph> before the search text (for example <ph id="ph2">`@man*`</ph>).</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="25">Pokud chcete, aby vyhledávání nerozlišovalo malá a velká písmena, umístěte <ph id="ph1">`@`</ph> před hledaný text (například <ph id="ph2">`@man*`</ph>).</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>The following table provides some examples to explain how you can use the search.</source><seg-source><mrk mtype="seg" mid="26">The following table provides some examples to explain how you can use the search.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="26">V následující tabulce jsou uvedeny některé příklady, které vysvětlují, jak můžete vyhledávání použít.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Search Criteria</source><seg-source><mrk mtype="seg" mid="27">Search Criteria</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="27">Kritéria vyhledávání</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Finds...</source><seg-source><mrk mtype="seg" mid="28">Finds...</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="28">Najde...</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>or</source><seg-source><mrk mtype="seg" mid="29">or</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="29">nebo</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>All records with fields that contain the text <bpt id="p1">**</bpt>man<ept id="p1">**</ept>, regardless of the case.</source><seg-source><mrk mtype="seg" mid="30">All records with fields that contain the text <bpt id="p1">**</bpt>man<ept id="p1">**</ept>, regardless of the case.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="30">Všechny záznamy s poli, které obsahují text <bpt id="p1">**</bpt>man<ept id="p1">**</ept> bez ohledu na malá a velká písmena.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>For example, <bpt id="p1">**</bpt>Manchester<ept id="p1">**</ept>, <bpt id="p2">**</bpt>manual<ept id="p2">**</ept>, or <bpt id="p3">**</bpt>Sportsman<ept id="p3">**</ept>.</source><seg-source><mrk mtype="seg" mid="31">For example, <bpt id="p1">**</bpt>Manchester<ept id="p1">**</ept>, <bpt id="p2">**</bpt>manual<ept id="p2">**</ept>, or <bpt id="p3">**</bpt>Sportsman<ept id="p3">**</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="31">Například <bpt id="p1">**</bpt>Manchester<ept id="p1">**</ept>, <bpt id="p2">**</bpt>manual<ept id="p2">**</ept> nebo <bpt id="p3">**</bpt>Sportsman<ept id="p3">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>All records with fields that contain only <bpt id="p1">**</bpt>Man<ept id="p1">**</ept>, matching the case.</source><seg-source><mrk mtype="seg" mid="32">All records with fields that contain only <bpt id="p1">**</bpt>Man<ept id="p1">**</ept>, matching the case.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="32">Všechny záznamy s poli, které obsahují text <bpt id="p1">**</bpt>Man<ept id="p1">**</ept> s ohledem na malá a velká písmena.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>All records with fields that start with the text <bpt id="p1">&lt;b&gt;</bpt>Man<ept id="p1">&lt;/b&gt;</ept>, matching the case.</source><seg-source><mrk mtype="seg" mid="33">All records with fields that start with the text <bpt id="p1">&lt;b&gt;</bpt>Man<ept id="p1">&lt;/b&gt;</ept>, matching the case.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="33">Všechny záznamy s poli, které začínají textem <bpt id="p1">&lt;b&gt;</bpt>Man<ept id="p1">&lt;/b&gt;</ept> s ohledem na malá a velká písmena.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>For example, <bpt id="p1">**</bpt>Manchester<ept id="p1">**</ept> but not <bpt id="p2">**</bpt>manual<ept id="p2">**</ept> or <bpt id="p3">**</bpt>Sportsman<ept id="p3">**</ept>.</source><seg-source><mrk mtype="seg" mid="34">For example, <bpt id="p1">**</bpt>Manchester<ept id="p1">**</ept> but not <bpt id="p2">**</bpt>manual<ept id="p2">**</ept> or <bpt id="p3">**</bpt>Sportsman<ept id="p3">**</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="34">Například <bpt id="p1">**</bpt>Manchester<ept id="p1">**</ept>, ale ne <bpt id="p2">**</bpt>manual<ept id="p2">**</ept> nebo <bpt id="p3">**</bpt>Sportsman<ept id="p3">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>All records with fields that start with <bpt id="p1">**</bpt>man<ept id="p1">**</ept>, regardless of the case.</source><seg-source><mrk mtype="seg" mid="35">All records with fields that start with <bpt id="p1">**</bpt>man<ept id="p1">**</ept>, regardless of the case.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="35">Všechny záznamy s poli, které začínají na <bpt id="p1">**</bpt>man<ept id="p1">**</ept> bez ohledu na malá a velká písmena.</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>For example, <bpt id="p1">**</bpt>Manchester<ept id="p1">**</ept> and <bpt id="p2">**</bpt>manual<ept id="p2">**</ept>, but not <bpt id="p3">**</bpt>Sportsman<ept id="p3">**</ept>.</source><seg-source><mrk mtype="seg" mid="36">For example, <bpt id="p1">**</bpt>Manchester<ept id="p1">**</ept> and <bpt id="p2">**</bpt>manual<ept id="p2">**</ept>, but not <bpt id="p3">**</bpt>Sportsman<ept id="p3">**</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="36">Například <bpt id="p1">**</bpt>Manchester<ept id="p1">**</ept>, <bpt id="p2">**</bpt>manual<ept id="p2">**</ept>, ale ne <bpt id="p3">**</bpt>Sportsman<ept id="p3">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>All records that end with <bpt id="p1">**</bpt>man<ept id="p1">**</ept>, regardless of the case.</source><seg-source><mrk mtype="seg" mid="37">All records that end with <bpt id="p1">**</bpt>man<ept id="p1">**</ept>, regardless of the case.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="37">Všechny záznamy, které končí na <bpt id="p1">**</bpt>man<ept id="p1">**</ept> bez ohledu na malá a velká písmena.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>For example <bpt id="p1">**</bpt>Sportsman<ept id="p1">**</ept>, but not <bpt id="p2">**</bpt>Manchester<ept id="p2">**</ept> or <bpt id="p3">**</bpt>manual<ept id="p3">**</ept>.</source><seg-source><mrk mtype="seg" mid="38">For example <bpt id="p1">**</bpt>Sportsman<ept id="p1">**</ept>, but not <bpt id="p2">**</bpt>Manchester<ept id="p2">**</ept> or <bpt id="p3">**</bpt>manual<ept id="p3">**</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="38">Například  <bpt id="p1">**</bpt>Sportsman<ept id="p1">**</ept>, ale ne <bpt id="p2">**</bpt>Manchester<ept id="p2">**</ept> nebo <bpt id="p3">**</bpt>manual<ept id="p3">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>You can press F3 to activate and deactivate the search box.</source><seg-source><mrk mtype="seg" mid="39">You can press F3 to activate and deactivate the search box.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="39">Stisknutím F3 můžete aktivovat a deaktivovat vyhledávací pole.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>For more information see <bpt id="p1">[</bpt>Keyboard Shortcuts<ept id="p1">](keyboard-shortcuts.md#KeyboardFilter)</ept>.</source><seg-source><mrk mtype="seg" mid="40">For more information see <bpt id="p1">[</bpt>Keyboard Shortcuts<ept id="p1">](keyboard-shortcuts.md#KeyboardFilter)</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="40">Další informace naleznete v <bpt id="p1">[</bpt>Klávesové zkratky<ept id="p1">](keyboard-shortcuts.md#KeyboardFilter)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Filtering</source><seg-source><mrk mtype="seg" mid="41">Filtering</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="41">Filtrování</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Filtering provides a more advanced and versatile way of controlling which records display in a list.</source><seg-source><mrk mtype="seg" mid="42">Filtering provides a more advanced and versatile way of controlling which records display in a list.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="42">Filtrování poskytuje pokročilejší a všestrannější způsob řízení, které záznamy se zobrazují v seznamu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>There are two major differences between searching and filtering, as described in the table below.</source><seg-source><mrk mtype="seg" mid="43">There are two major differences between searching and filtering, as described in the table below.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="43">Mezi vyhledáváním a filtrováním existují dva hlavní rozdíly, jak je popsáno v následující tabulce.</mrk></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Searching<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="44">Searching</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="44">Vyhledávání</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Filtering<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="45">Filtering</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="45">Filtrování</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Applicable fields<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="46">Applicable fields</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="46">Použitelná pole</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Searches across all fields that are visible on the page.</source><seg-source><mrk mtype="seg" mid="47">Searches across all fields that are visible on the page.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="47">Prohledává všechna pole, která jsou viditelná na stránce.</mrk></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Filters one or more fields individually, selecting from any field on the table, including fields that are not visible on the page.</source><seg-source><mrk mtype="seg" mid="48">Filters one or more fields individually, selecting from any field on the table, including fields that are not visible on the page.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="48">Filtruje jedno nebo více polí jednotlivě a vybírá z kteréhokoli pole v tabulce, včetně polí, která nejsou na stránce viditelná.</mrk></target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Matching<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="49">Matching</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="49">Odpovídající</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Displays records with fields that match the search text, irrespective of casing or placement of that text.</source><seg-source><mrk mtype="seg" mid="50">Displays records with fields that match the search text, irrespective of casing or placement of that text.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="50">Zobrazuje záznamy s poli, která odpovídají hledanému textu, bez ohledu na malá a velká písmena nebo umístění tohoto textu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Displays records where the field matches the filter exactly and is case sensitive, unless special filter symbols are entered.</source><seg-source><mrk mtype="seg" mid="51">Displays records where the field matches the filter exactly and is case sensitive, unless special filter symbols are entered.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="51">Zobrazuje záznamy, kde pole přesně odpovídá filtru a rozlišuje velká a malá písmena, pokud nejsou zadány speciální symboly filtru.</mrk></target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Filtering enables you to display records for specific accounts or customers, dates, amounts, and other information by specifying filter criteria.</source><seg-source><mrk mtype="seg" mid="52">Filtering enables you to display records for specific accounts or customers, dates, amounts, and other information by specifying filter criteria.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="52">Filtrování umožňuje zobrazit záznamy pro konkrétní účty nebo zákazníky, data, částky a další informace zadáním kritérií filtru.</mrk></target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>Only records that match the criteria are displayed.</source><seg-source><mrk mtype="seg" mid="53">Only records that match the criteria are displayed.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="53">Zobrazí se pouze záznamy, které odpovídají kritériím.</mrk></target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>If you specify criteria for multiple fields, then only records that match all criteria will be displayed.</source><seg-source><mrk mtype="seg" mid="54">If you specify criteria for multiple fields, then only records that match all criteria will be displayed.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="54">Pokud zadáte kritéria pro více polí, zobrazí se pouze záznamy, které odpovídají všem kritériím.</mrk></target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Working in the filter pane</source><seg-source><mrk mtype="seg" mid="55">Working in the filter pane</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="55">Práce v podokně filtru</mrk></target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>The filter pane displays the current filters for a list, and enables you to set your own custom filters on one or more fields.</source><seg-source><mrk mtype="seg" mid="56">The filter pane displays the current filters for a list, and enables you to set your own custom filters on one or more fields.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="56">Podokno filtru zobrazuje aktuální filtry seznamu a umožňuje vám nastavit vlastní filtry na jedno nebo více polí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>The following figure shows an example filter pane for a Sales Quotes list.</source><seg-source><mrk mtype="seg" mid="57">The following figure shows an example filter pane for a Sales Quotes list.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="57">Následující obrázek ukazuje příklad podokna filtru pro seznam prodejních nabídek.</mrk></target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">![</bpt>Filter pane overview <ept id="p1">]</ept><bpt id="p2">(media/filter-pane-overview.png "</bpt>Filter icon<ept id="p2">")</ept></source><seg-source><mrk mtype="seg" mid="58"><bpt id="p1">![</bpt>Filter pane overview <ept id="p1">]</ept><bpt id="p2">(media/filter-pane-overview.png "</bpt>Filter icon<ept id="p2">")</ept></mrk></seg-source><target state="translated"><mrk mtype="seg" mid="58"><bpt id="p1">![</bpt>Přehled podokna filtru<ept id="p1">]</ept><bpt id="p2">(media/filter-pane-overview.png "</bpt>Ikona filtru<ept id="p2">")</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>To display the filter pane, use the <bpt id="p1">**</bpt>Shift+F3<ept id="p1">**</ept> keyboard shortcut.</source><seg-source><mrk mtype="seg" mid="59">To display the filter pane, use the <bpt id="p1">**</bpt>Shift+F3<ept id="p1">**</ept> keyboard shortcut.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="59">Chcete-li zobrazit podokno filtru, použijte klávesovou zkratku <bpt id="p1">**</bpt>Shift+F3<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>For lists within the Role Center, you can also choose the down arrow near the page title in the navigation bar above the list, and then choose <bpt id="p1">**</bpt>Show filter pane<ept id="p1">**</ept>.</source><seg-source><mrk mtype="seg" mid="60">For lists within the Role Center, you can also choose the down arrow near the page title in the navigation bar above the list, and then choose <bpt id="p1">**</bpt>Show filter pane<ept id="p1">**</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="60">U seznamů v Centru rolí můžete také vybrat šipku dolů vedle nadpisu stránky na navigační liště nad seznamem a poté zvolit <bpt id="p1">**</bpt>Zobrazit podokno filtru<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">![</bpt>Show filter pane<ept id="p1">]</ept><bpt id="p2">(media/open-filter-pane.png "</bpt>Show filter pane<ept id="p2">")</ept></source><seg-source><mrk mtype="seg" mid="61"><bpt id="p1">![</bpt>Show filter pane<ept id="p1">]</ept><bpt id="p2">(media/open-filter-pane.png "</bpt>Show filter pane<ept id="p2">")</ept></mrk></seg-source><target state="translated"><mrk mtype="seg" mid="61"><bpt id="p1">![</bpt>Zobrazit podokno filtru<ept id="p1">]</ept><bpt id="p2">(media/open-filter-pane.png "</bpt>Zobrazit podokno filtru<ept id="p2">")</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>A filter pane is divided in three sections: <bpt id="p1">**</bpt>Views<ept id="p1">**</ept>, <bpt id="p2">**</bpt>Filter list by<ept id="p2">**</ept>, and <bpt id="p3">**</bpt>Filter totals by<ept id="p3">**</ept>:</source><seg-source><mrk mtype="seg" mid="62">A filter pane is divided in three sections:</mrk> <mrk mtype="seg" mid="63"><bpt id="p1">**</bpt>Views<ept id="p1">**</ept>, <bpt id="p2">**</bpt>Filter list by<ept id="p2">**</ept>, and <bpt id="p3">**</bpt>Filter totals by<ept id="p3">**</ept>:</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="62">Podokno filtru je rozděleno do tří sekcí:</mrk> <mrk mtype="seg" mid="63"><bpt id="p1">**</bpt>Zobrazení<ept id="p1">**</ept>, <bpt id="p2">**</bpt>Filtrovat seznam podle<ept id="p2">**</ept> a <bpt id="p3">**</bpt>Filtrovat součty podle<ept id="p3">**</ept>:</mrk></target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Views<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="64">Views</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="64">Zobrazení</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>Some lists will include the <bpt id="p1">**</bpt>Views<ept id="p1">**</ept> section.</source><seg-source><mrk mtype="seg" mid="65">Some lists will include the <bpt id="p1">**</bpt>Views<ept id="p1">**</ept> section.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="65">Některé seznamy budou zahrnovat sekci <bpt id="p1">**</bpt>Zobrazení<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>Views are variations of the list that have been preconfigured with filters.</source><seg-source><mrk mtype="seg" mid="66">Views are variations of the list that have been preconfigured with filters.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="66">Zobrazení jsou variace seznamu, které byly předkonfigurovány pomocí filtrů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>To switch to a different view of your list, simply select another link.</source><seg-source><mrk mtype="seg" mid="67">To switch to a different view of your list, simply select another link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="67">Chcete-li přepnout do jiného zobrazení seznamu, jednoduše vyberte jiný odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>You can temporarily change the filters on a view, but the changes will not be permanently saved.</source><seg-source><mrk mtype="seg" mid="68">You can temporarily change the filters on a view, but the changes will not be permanently saved.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="68">Filtry můžete v zobrazení dočasně změnit, ale změny se neuloží natrvalo.</mrk></target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Filter list by<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="69">Filter list by</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="69">Filtrovat seznam podle</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Filter list by<ept id="p1">**</ept> section is where you add filters on specific fields to reduce the number of displayed records.</source><seg-source><mrk mtype="seg" mid="70">The <bpt id="p1">**</bpt>Filter list by<ept id="p1">**</ept> section is where you add filters on specific fields to reduce the number of displayed records.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="70">V sekci <bpt id="p1">**</bpt>Filtrovat seznam podle<ept id="p1">**</ept> můžete přidat filtry do konkrétních polí, abyste snížili počet zobrazených záznamů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>To add a filter, select <bpt id="p1">**</bpt>+ Filter<ept id="p1">**</ept>, select the field that you want to filter from any field in the table, and then enter filter criteria in the box.</source><seg-source><mrk mtype="seg" mid="71">To add a filter, select <bpt id="p1">**</bpt>+ Filter<ept id="p1">**</ept>, select the field that you want to filter from any field in the table, and then enter filter criteria in the box.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="71">Chcete-li přidat filtr, vyberte <bpt id="p1">**</bpt>+ Filtr<ept id="p1">**</ept>, zvolte pole, které chcete filtrovat z libovolného pole v tabulce, a do pole zadejte kritéria filtru.</mrk></target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Filter totals by<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="72">Filter totals by</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="72">Filtrovat součty podle</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>Some lists that display calculated fields, such as amounts and quantities, will include the <bpt id="p1">**</bpt>Filter totals by<ept id="p1">**</ept> section where you can adjust various dimensions that influence calculations.</source><seg-source><mrk mtype="seg" mid="73">Some lists that display calculated fields, such as amounts and quantities, will include the <bpt id="p1">**</bpt>Filter totals by<ept id="p1">**</ept> section where you can adjust various dimensions that influence calculations.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="73">Některé seznamy, které zobrazují vypočtená pole, například částky a množství, budou zahrnovat sekci <bpt id="p1">**</bpt>Filtrovat součty podle<ept id="p1">**</ept>, kde můžete upravit různé kóty, které ovlivňují výpočty.</mrk></target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>For example, you can quickly analyze your chart of accounts by filtering amounts to a specific period, or you can view the totals for sales orders only from a specific warehouse.</source><seg-source><mrk mtype="seg" mid="74">For example, you can quickly analyze your chart of accounts by filtering amounts to a specific period, or you can view the totals for sales orders only from a specific warehouse.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="74">Můžete například rychle analyzovat svou účetní osnovu filtrováním částek do konkrétního období, nebo si můžete zobrazit součty prodejních objednávek pouze z konkrétního skladu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>To add a filter, select <bpt id="p1">**</bpt>+ Filter<ept id="p1">**</ept>, select one of the predefined dimensions, and then add the filter criteria in the box.</source><seg-source><mrk mtype="seg" mid="75">To add a filter, select <bpt id="p1">**</bpt>+ Filter<ept id="p1">**</ept>, select one of the predefined dimensions, and then add the filter criteria in the box.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="75">Chcete-li přidat filtr, vyberte <bpt id="p1">**</bpt>+ Filtr<ept id="p1">**</ept>, zvolte jednu z předdefinovaných dimenzí a poté do pole přidejte kritéria filtru.</mrk></target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>Filters in the <bpt id="p1">**</bpt>Filter totals by<ept id="p1">**</ept> section are controlled by FlowFilters on the page design.</source><seg-source><mrk mtype="seg" mid="76">Filters in the <bpt id="p1">**</bpt>Filter totals by<ept id="p1">**</ept> section are controlled by FlowFilters on the page design.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="76">Filtry v sekci <bpt id="p1">**</bpt>Filtrovat součty podle<ept id="p1">**</ept> jsou řízeny pomocí dynamických filtrů v návrhu stránky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>For technical information, see <bpt id="p1">[</bpt>FlowFilters<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-flowfilter-overview)</ept>.</source><seg-source><mrk mtype="seg" mid="77">For technical information, see <bpt id="p1">[</bpt>FlowFilters<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-flowfilter-overview)</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="77">Pro další informace navštivte <bpt id="p1">[</bpt>Dynamické filtry<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-flowfilter-overview)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>Entering filter criteria in the filter pane</source><seg-source><mrk mtype="seg" mid="78">Entering filter criteria in the filter pane</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="78">Zadání kritérií filtru v podokně filtru</mrk></target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>To select a field to filter, do one of the following:</source><seg-source><mrk mtype="seg" mid="79">To select a field to filter, do one of the following:</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="79">Chcete-li vybrat pole, které chcete filtrovat, proveďte jednu z následujících akcí:</mrk></target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>In the filter pane, choose <bpt id="p1">**</bpt>+ Field<ept id="p1">**</ept>.</source><seg-source><mrk mtype="seg" mid="80">In the filter pane, choose <bpt id="p1">**</bpt>+ Field<ept id="p1">**</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="80">V podokně filtru vyberte <bpt id="p1">**</bpt>+ Pole<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>Type the name of the field you wish to filter, or pick a field from the menu that displays all fields in the table.</source><seg-source><mrk mtype="seg" mid="81">Type the name of the field you wish to filter, or pick a field from the menu that displays all fields in the table.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="81">Zadejte název pole, které chcete filtrovat, nebo vyberte pole z nabídky, která zobrazuje všechna pole v tabulce.</mrk></target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>In a column heading, choose the down arrow, and then choose <bpt id="p1">**</bpt>Filter...<ept id="p1">**</ept>. This will open the filter pane and add the column to the filter pane.</source><seg-source><mrk mtype="seg" mid="82">In a column heading, choose the down arrow, and then choose <bpt id="p1">**</bpt>Filter...<ept id="p1">**</ept>.</mrk> <mrk mtype="seg" mid="83">This will open the filter pane and add the column to the filter pane.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="82">V záhlaví sloupce vyberte šipku dolů a pak zvolte <bpt id="p1">**</bpt>Filtr...<ept id="p1">**</ept>.</mrk> <mrk mtype="seg" mid="83">Tím se otevře podokno filtru a sloupec se přidá do podokna filtru.</mrk></target>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>You can now type or select your filter criteria in the box.</source><seg-source><mrk mtype="seg" mid="84">You can now type or select your filter criteria in the box.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="84">Nyní můžete do pole zadat nebo vybrat kritéria filtru.</mrk></target>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>The type of field you filter determines which criteria you can enter.</source><seg-source><mrk mtype="seg" mid="85">The type of field you filter determines which criteria you can enter.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="85">Typ pole, které filtrujete, určuje, která kritéria můžete zadat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>For example, filtering a field that has fixed values will only let you choose from those values.</source><seg-source><mrk mtype="seg" mid="86">For example, filtering a field that has fixed values will only let you choose from those values.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="86">Například filtrování pole s pevnými hodnotami vám umožní pouze vybrat z těchto hodnot.</mrk></target>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>For more information about special filter symbols, see <bpt id="p1">[</bpt>Filter criteria<ept id="p1">](#FilterCriteria)</ept> and <bpt id="p2">[</bpt>Filter tokens<ept id="p2">](#FilterTokens)</ept>.</source><seg-source><mrk mtype="seg" mid="87">For more information about special filter symbols, see <bpt id="p1">[</bpt>Filter criteria<ept id="p1">](#FilterCriteria)</ept> and <bpt id="p2">[</bpt>Filter tokens<ept id="p2">](#FilterTokens)</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="87">Pro více informací o speciálních symbolech filtrů navštivte <bpt id="p1">[</bpt>Kritéria filtru<ept id="p1">](#FilterCriteria)</ept> a <bpt id="p2">[</bpt>Tokeny filtru<ept id="p2">](#FilterTokens)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>Columns that already have filters are indicated by the <bpt id="p1">![</bpt>Filter icon<ept id="p1">]</ept><bpt id="p2">(media/ui-search/filter-icon.png "</bpt>Filter icon<ept id="p2">")</ept> in the column heading.</source><seg-source><mrk mtype="seg" mid="88">Columns that already have filters are indicated by the <bpt id="p1">![</bpt>Filter icon<ept id="p1">]</ept><bpt id="p2">(media/ui-search/filter-icon.png "</bpt>Filter icon<ept id="p2">")</ept> in the column heading.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="88">Sloupce, které již mají filtry, jsou označeny <bpt id="p1">![</bpt>ikona filtru<ept id="p1">]</ept><bpt id="p2">(media/ui-search/filter-icon.png "</bpt>ikona filtru<ept id="p2">")</ept> v záhlaví sloupce.</mrk></target>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>To remove a filter, select the column heading, then choose <bpt id="p1">**</bpt>Clear Filter<ept id="p1">**</ept>.</source><seg-source><mrk mtype="seg" mid="89">To remove a filter, select the column heading, then choose <bpt id="p1">**</bpt>Clear Filter<ept id="p1">**</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="89">Chcete-li odebrat filtr, vyberte záhlaví sloupce a poté zvolte <bpt id="p1">**</bpt>Vymazat filtr<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>Entering filter criteria without the filter pane</source><seg-source><mrk mtype="seg" mid="90">Entering filter criteria without the filter pane</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="90">Zadání kritérií filtru bez podokna filtru</mrk></target>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>You can specify simple filters directly within the list without having to use the filter pane.</source><seg-source><mrk mtype="seg" mid="91">You can specify simple filters directly within the list without having to use the filter pane.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="91">Jednoduché filtry můžete určit přímo v seznamu, aniž byste museli používat podokno filtru.</mrk></target>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>With any field selected on a row, use the <bpt id="p1">**</bpt>Alt+F3<ept id="p1">**</ept> keyboard shortcut to display only the records having that same value.</source><seg-source><mrk mtype="seg" mid="92">With any field selected on a row, use the <bpt id="p1">**</bpt>Alt+F3<ept id="p1">**</ept> keyboard shortcut to display only the records having that same value.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="92">S libovolným polem vybraným v řádku použijte klávesovou zkratku <bpt id="p1">**</bpt>Alt+F3<ept id="p1">**</ept> pro zobrazení pouze záznamů se stejnou hodnotou.</mrk></target>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>You can then select another field and use the same shortcut again to continue refining your filters.</source><seg-source><mrk mtype="seg" mid="93">You can then select another field and use the same shortcut again to continue refining your filters.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="93">Poté můžete vybrat další pole a znovu použít stejnou zkratku k dalšímu zdokonalování filtrů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>If the selected field is already filtered, using <bpt id="p1">**</bpt>Alt+F3<ept id="p1">**</ept> will clear that filter.</source><seg-source><mrk mtype="seg" mid="94">If the selected field is already filtered, using <bpt id="p1">**</bpt>Alt+F3<ept id="p1">**</ept> will clear that filter.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="94">Pokud je vybrané pole již filtrováno, pomocí <bpt id="p1">**</bpt>Alt+F3<ept id="p1">**</ept> se tento filtr vymaže.</mrk></target>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>Accelerate finding and analyzing your data by using combinations of keyboard shortcuts.</source><seg-source><mrk mtype="seg" mid="95">Accelerate finding and analyzing your data by using combinations of keyboard shortcuts.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="95">Urychlete vyhledávání a analýzu dat pomocí kombinací klávesových zkratek.</mrk></target>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>For example, select a field, use <bpt id="p1">**</bpt>Shift+Alt+F3<ept id="p1">**</ept> to add that field to the filter pane, type the filter criteria, use <bpt id="p2">**</bpt>Ctrl+Enter<ept id="p2">**</ept> to return to the rows, select another field, and use <bpt id="p3">**</bpt>Alt+F3<ept id="p3">**</ept> to filter to that value.</source><seg-source><mrk mtype="seg" mid="96">For example, select a field, use <bpt id="p1">**</bpt>Shift+Alt+F3<ept id="p1">**</ept> to add that field to the filter pane, type the filter criteria, use <bpt id="p2">**</bpt>Ctrl+Enter<ept id="p2">**</ept> to return to the rows, select another field, and use <bpt id="p3">**</bpt>Alt+F3<ept id="p3">**</ept> to filter to that value.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="96">Například vyberte pole, použijte <bpt id="p1">**</bpt>Shift+Alt+F3<ept id="p1">**</ept> k přidání tohoto pole do podokna filtru, zadejte kritéria filtru, použijte <bpt id="p2">**</bpt>Ctrl+Enter<ept id="p2">**</ept> pro návrat do řádků, vyberte jiné pole a použijte <bpt id="p3">**</bpt>Alt+F3<ept id="p3">**</ept> k filtrování této hodnoty.</mrk></target>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>For more information see <bpt id="p1">[</bpt>Keyboard Shortcuts<ept id="p1">](keyboard-shortcuts.md#KeyboardFilter)</ept>.</source><seg-source><mrk mtype="seg" mid="97">For more information see <bpt id="p1">[</bpt>Keyboard Shortcuts<ept id="p1">](keyboard-shortcuts.md#KeyboardFilter)</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="97">Další informace naleznete v <bpt id="p1">[</bpt>Klávesové zkratky<ept id="p1">](keyboard-shortcuts.md#KeyboardFilter)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a name="FilterCriteria"&gt;</bpt> <ept id="p1">&lt;/a&gt;</ept>Filter criteria and symbols</source><seg-source><bpt id="p1">&lt;a name="FilterCriteria"&gt;</bpt> <ept id="p1">&lt;/a&gt;</ept><mrk mtype="seg" mid="98">Filter criteria and symbols</mrk></seg-source><target state="translated"><bpt id="p1">&lt;a name="FilterCriteria"&gt;</bpt> <ept id="p1">&lt;/a&gt;</ept><mrk mtype="seg" mid="98">Filtrujte kritéria a symboly</mrk></target>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>When you enter criteria, you can use all the numbers and letters that you can normally use in the field.</source><seg-source><mrk mtype="seg" mid="99">When you enter criteria, you can use all the numbers and letters that you can normally use in the field.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="99">Při zadávání kritérií můžete použít všechna čísla a písmena, která můžete v poli normálně použít.</mrk></target>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>In addition, you can use special symbols to further filter the results.</source><seg-source><mrk mtype="seg" mid="100">In addition, you can use special symbols to further filter the results.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="100">Kromě toho můžete použít speciální symboly k dalšímu filtrování výsledků.</mrk></target>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>The following tables show the symbols which can be used in filters.</source><seg-source><mrk mtype="seg" mid="101">The following tables show the symbols which can be used in filters.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="101">Následující tabulky ukazují symboly, které lze použít ve filtrech.</mrk></target>
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>For dates and times, you can also refer to <bpt id="p1">[</bpt>Working with Calendar Dates and Times<ept id="p1">](ui-enter-date-ranges.md)</ept> for more detailed information.</source><seg-source><mrk mtype="seg" mid="102">For dates and times, you can also refer to <bpt id="p1">[</bpt>Working with Calendar Dates and Times<ept id="p1">](ui-enter-date-ranges.md)</ept> for more detailed information.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="102">Další informace o datech a časech naleznete také v <bpt id="p1">[</bpt>Práce s daty a časy kalendáře<ept id="p1">](ui-enter-date-ranges.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>There may be instances where field values contain these symbols and you want to filter on them.</source><seg-source><mrk mtype="seg" mid="103">There may be instances where field values contain these symbols and you want to filter on them.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="103">Mohou se vyskytnout případy, kdy hodnoty polí obsahují tyto symboly a vy je chcete filtrovat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>To do this, you must include the filter expression that contains the symbol in quotation marks ('').</source><seg-source><mrk mtype="seg" mid="104">To do this, you must include the filter expression that contains the symbol in quotation marks ('').</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="104">Chcete-li toto provést, musíte do uvozovek ('') zahrnout výraz filtru, který obsahuje symbol.</mrk></target>
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>For example, if you want to filter on records that start with the text <bpt id="p1">*</bpt>S&amp;R<ept id="p1">*</ept>, the filter expression is <ph id="ph1">`'S&amp;R*'`</ph>.</source><seg-source><mrk mtype="seg" mid="105">For example, if you want to filter on records that start with the text <bpt id="p1">*</bpt>S&amp;R<ept id="p1">*</ept>, the filter expression is <ph id="ph1">`'S&amp;R*'`</ph>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="105">Pokud například chcete filtrovat záznamy, které začínají textem <bpt id="p1">*</bpt>S&amp;R<ept id="p1">*</ept>, výraz je filtru <ph id="ph1">`'S&amp;R*'`</ph>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>(..) Interval</source><seg-source><mrk mtype="seg" mid="106">(..)</mrk> <mrk mtype="seg" mid="107">Interval</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="106">(..)</mrk> <mrk mtype="seg" mid="107">Interval</mrk></target>
+        </trans-unit>
+        <trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>Sample Expression</source><seg-source><mrk mtype="seg" mid="108">Sample Expression</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="108">Ukázkový výraz</mrk></target>
+        </trans-unit>
+        <trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>Records Displayed</source><seg-source><mrk mtype="seg" mid="109">Records Displayed</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="109">Záznamy zobrazeny</mrk></target>
+        </trans-unit>
+        <trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>Numbers 1100 through 2100</source><seg-source><mrk mtype="seg" mid="110">Numbers 1100 through 2100</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="110">Čísla 1100 až 2100</mrk></target>
+        </trans-unit>
+        <trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>Up to and including 2500</source><seg-source><mrk mtype="seg" mid="111">Up to and including 2500</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="111">Až do 2500 včetně</mrk></target>
+        </trans-unit>
+        <trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>Dates up to and including 12 31 00</source><seg-source><mrk mtype="seg" mid="112">Dates up to and including 12 31 00</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="112">Data do 12 31 00 včetně</mrk></target>
+        </trans-unit>
+        <trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>Information for accounting period 8 and thereafter</source><seg-source><mrk mtype="seg" mid="113">Information for accounting period 8 and thereafter</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="113">Informace za účetní období 8 a následující</mrk></target>
+        </trans-unit>
+        <trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>From the beginning date until 23-current month-current year 23:59:59</source><seg-source><mrk mtype="seg" mid="114">From the beginning date until 23-current month-current year 23:59:59</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="114">Od počátečního data do 23-aktuální měsíc-aktuální rok 23:59:59</mrk></target>
+        </trans-unit>
+        <trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>From 23-current month-current year 0:00:00 until the end of time</source><seg-source><mrk mtype="seg" mid="115">From 23-current month-current year 0:00:00 until the end of time</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="115">Od 23-aktuální měsíc-aktuální rok 0:00:00 do konce času</mrk></target>
+        </trans-unit>
+        <trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>From 22-current month-current year 0:00:00 until 23-current month-current year 23:59:59</source><seg-source><mrk mtype="seg" mid="116">From 22-current month-current year 0:00:00 until 23-current month-current year 23:59:59</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="116">Od 22-aktuální měsíc-aktuální rok 0:00:00 do 23-aktuální měsíc-aktuální rok 23:59:59</mrk></target>
+        </trans-unit>
+        <trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>(&amp;#124;) Either/or</source><seg-source><mrk mtype="seg" mid="117">(&amp;#124;) Either/or</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="117">(&amp;#124;) Buď/nebo</mrk></target>
+        </trans-unit>
+        <trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>Sample Expression</source><seg-source><mrk mtype="seg" mid="118">Sample Expression</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="118">Ukázkový výraz</mrk></target>
+        </trans-unit>
+        <trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>Records Displayed</source><seg-source><mrk mtype="seg" mid="119">Records Displayed</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="119">Záznamy zobrazeny</mrk></target>
+        </trans-unit>
+        <trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>`1200</source><seg-source><mrk mtype="seg" mid="120">`1200</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="120">`1200</mrk></target>
+        </trans-unit>
+        <trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>1300`</source><seg-source><mrk mtype="seg" mid="121">1300`</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="121">1300`</mrk></target>
+        </trans-unit>
+        <trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>Numbers with 1200 or 1300</source><seg-source><mrk mtype="seg" mid="122">Numbers with 1200 or 1300</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="122">Čísla s 1200 nebo 1300</mrk></target>
+        </trans-unit>
+        <trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>(&lt;&gt;) Not equal to</source><seg-source><mrk mtype="seg" mid="123">(&lt;&gt;) Not equal to</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="123">(&lt;&gt;) Není rovno</mrk></target>
+        </trans-unit>
+        <trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>Sample Expression</source><seg-source><mrk mtype="seg" mid="124">Sample Expression</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="124">Ukázkový výraz</mrk></target>
+        </trans-unit>
+        <trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>Records Displayed</source><seg-source><mrk mtype="seg" mid="125">Records Displayed</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="125">Záznamy zobrazeny</mrk></target>
+        </trans-unit>
+        <trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>All numbers except 0</source><seg-source><mrk mtype="seg" mid="126">All numbers except 0</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="126">Všechny čísla kromě 0</mrk></target>
+        </trans-unit>
+        <trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>The SQL Server Option allows you to combine this symbol with a wild card expression.</source><seg-source><mrk mtype="seg" mid="127">The SQL Server Option allows you to combine this symbol with a wild card expression.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="127">Možnost SQL Server umožňuje kombinovat tento symbol s výrazem zástupných znaků.</mrk></target>
+        </trans-unit>
+        <trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>For example, &lt;&gt;A* meaning not equal to any text that starts with A.</source><seg-source><mrk mtype="seg" mid="128">For example, &lt;&gt;A* meaning not equal to any text that starts with A.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="128">Například &lt;&gt;A* znamená nerovnost žádnému textu, který začíná na A.</mrk></target>
+        </trans-unit>
+        <trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>(&gt;) Greater than</source><seg-source><mrk mtype="seg" mid="129">(&gt;) Greater than</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="129">(&gt;) Větší než</mrk></target>
+        </trans-unit>
+        <trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>Sample Expression</source><seg-source><mrk mtype="seg" mid="130">Sample Expression</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="130">Ukázkový výraz</mrk></target>
+        </trans-unit>
+        <trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>Records Displayed</source><seg-source><mrk mtype="seg" mid="131">Records Displayed</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="131">Záznamy zobrazeny</mrk></target>
+        </trans-unit>
+        <trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>Numbers greater than 1200</source><seg-source><mrk mtype="seg" mid="132">Numbers greater than 1200</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="132">Čísla větší než 1200</mrk></target>
+        </trans-unit>
+        <trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>(&gt;=) Greater than or equal to</source><seg-source><mrk mtype="seg" mid="133">(&gt;=) Greater than or equal to</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="133">(&gt;=) Větší než nebo rovno</mrk></target>
+        </trans-unit>
+        <trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>Sample Expression</source><seg-source><mrk mtype="seg" mid="134">Sample Expression</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="134">Ukázkový výraz</mrk></target>
+        </trans-unit>
+        <trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>Records Displayed</source><seg-source><mrk mtype="seg" mid="135">Records Displayed</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="135">Záznamy zobrazeny</mrk></target>
+        </trans-unit>
+        <trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>Numbers greater than or equal to 1200</source><seg-source><mrk mtype="seg" mid="136">Numbers greater than or equal to 1200</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="136">Čísla větší než nebo rovno 1200</mrk></target>
+        </trans-unit>
+        <trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>(&lt;) Less than</source><seg-source><mrk mtype="seg" mid="137">(&lt;) Less than</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="137">(&lt;) Menší než</mrk></target>
+        </trans-unit>
+        <trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>Sample Expression</source><seg-source><mrk mtype="seg" mid="138">Sample Expression</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="138">Ukázkový výraz</mrk></target>
+        </trans-unit>
+        <trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>Records Displayed</source><seg-source><mrk mtype="seg" mid="139">Records Displayed</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="139">Záznamy zobrazeny</mrk></target>
+        </trans-unit>
+        <trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>Numbers less than 1200</source><seg-source><mrk mtype="seg" mid="140">Numbers less than 1200</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="140">Čísla menší než 1200</mrk></target>
+        </trans-unit>
+        <trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>(&lt;=) Less than or equal to</source><seg-source><mrk mtype="seg" mid="141">(&lt;=) Less than or equal to</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="141">(?=) Menší než nebo rovno</mrk></target>
+        </trans-unit>
+        <trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>Sample Expression</source><seg-source><mrk mtype="seg" mid="142">Sample Expression</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="142">Ukázkový výraz</mrk></target>
+        </trans-unit>
+        <trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>Records Displayed</source><seg-source><mrk mtype="seg" mid="143">Records Displayed</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="143">Záznamy zobrazeny</mrk></target>
+        </trans-unit>
+        <trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>Numbers less than or equal to 1200</source><seg-source><mrk mtype="seg" mid="144">Numbers less than or equal to 1200</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="144">Čísla menší než nebo rovno 1200</mrk></target>
+        </trans-unit>
+        <trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>(&amp;) And</source><seg-source><mrk mtype="seg" mid="145">(&amp;) And</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="145">(&amp;) A</mrk></target>
+        </trans-unit>
+        <trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>Sample Expression</source><seg-source><mrk mtype="seg" mid="146">Sample Expression</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="146">Ukázkový výraz</mrk></target>
+        </trans-unit>
+        <trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>Records Displayed</source><seg-source><mrk mtype="seg" mid="147">Records Displayed</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="147">Záznamy zobrazeny</mrk></target>
+        </trans-unit>
+        <trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>Numbers greater than 200 and less than 1200</source><seg-source><mrk mtype="seg" mid="148">Numbers greater than 200 and less than 1200</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="148">Čísla větší než 200 a zároveň menší než 1200</mrk></target>
+        </trans-unit>
+        <trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>('') An exact character match</source><seg-source><mrk mtype="seg" mid="149">('') An exact character match</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="149">('') Přesná shoda znaků</mrk></target>
+        </trans-unit>
+        <trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>Sample Expression</source><seg-source><mrk mtype="seg" mid="150">Sample Expression</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="150">Ukázkový výraz</mrk></target>
+        </trans-unit>
+        <trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>Records Displayed</source><seg-source><mrk mtype="seg" mid="151">Records Displayed</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="151">Záznamy zobrazeny</mrk></target>
+        </trans-unit>
+        <trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>Text that matches man exactly and is case sensitive.</source><seg-source><mrk mtype="seg" mid="152">Text that matches man exactly and is case sensitive.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="152">Text, který přesně odpovídá výrazu man a rozlišuje velká a malá písmena.</mrk></target>
+        </trans-unit>
+        <trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>(@) Case insensitive</source><seg-source><mrk mtype="seg" mid="153">(@) Case insensitive</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="153">(@) Nerozlišující malá a velká písmena</mrk></target>
+        </trans-unit>
+        <trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>Sample Expression</source><seg-source><mrk mtype="seg" mid="154">Sample Expression</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="154">Ukázkový výraz</mrk></target>
+        </trans-unit>
+        <trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>Records Displayed</source><seg-source><mrk mtype="seg" mid="155">Records Displayed</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="155">Záznamy zobrazeny</mrk></target>
+        </trans-unit>
+        <trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>Text that starts with man and is case insensitive.</source><seg-source><mrk mtype="seg" mid="156">Text that starts with man and is case insensitive.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="156">Text, který začíná man a nerozlišuje velká a malá písmena.</mrk></target>
+        </trans-unit>
+        <trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>(*) An indefinite number of unknown characters</source><seg-source><mrk mtype="seg" mid="157">(*) An indefinite number of unknown characters</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="157">(*) Neomezený počet neznámých znaků</mrk></target>
+        </trans-unit>
+        <trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>Sample Expression</source><seg-source><mrk mtype="seg" mid="158">Sample Expression</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="158">Ukázkový výraz</mrk></target>
+        </trans-unit>
+        <trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>Records Displayed</source><seg-source><mrk mtype="seg" mid="159">Records Displayed</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="159">Záznamy zobrazeny</mrk></target>
+        </trans-unit>
+        <trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>Text that contains "Co" and is case sensitive.</source><seg-source><mrk mtype="seg" mid="160">Text that contains "Co" and is case sensitive.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="160">Text, který obsahuje “Co“ a rozlišuje malá a velká písmena.</mrk></target>
+        </trans-unit>
+        <trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>Text that ends with "Co" and is case sensitive.</source><seg-source><mrk mtype="seg" mid="161">Text that ends with "Co" and is case sensitive.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="161">Text, který končí na “Co“ a rozlišuje malá a velká písmena.</mrk></target>
+        </trans-unit>
+        <trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>Text that begins with "Co" and is case sensitive.</source><seg-source><mrk mtype="seg" mid="162">Text that begins with "Co" and is case sensitive.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="162">Text, který začíná na “Co“ a rozlišuje malá a velká písmena.</mrk></target>
+        </trans-unit>
+        <trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>You cannot use <ph id="ph1">`*`</ph> when filtering on option (enumeration) fields, such as the <bpt id="p1">**</bpt>Status<ept id="p1">**</ept> field on sales orders.</source><seg-source><mrk mtype="seg" mid="163">You cannot use <ph id="ph1">`*`</ph> when filtering on option (enumeration) fields, such as the <bpt id="p1">**</bpt>Status<ept id="p1">**</ept> field on sales orders.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="163">Nemůžete použít <ph id="ph1">`*`</ph> při filtrování na pole voleb (výčtového typu), například pole <bpt id="p1">**</bpt>Stav<ept id="p1">**</ept> na prodejních objednávkách.</mrk></target>
+        </trans-unit>
+        <trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>To enter a filter for this type of field, you can enter the numeric value as a filtering parameter.</source><seg-source><mrk mtype="seg" mid="164">To enter a filter for this type of field, you can enter the numeric value as a filtering parameter.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="164">Chcete-li zadat filtr pro tento typ pole, můžete zadat číselnou hodnotu jako parametr filtrování.</mrk></target>
+        </trans-unit>
+        <trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>For example, in the <bpt id="p1">**</bpt>Status<ept id="p1">**</ept> field on a sales order that has the values <bpt id="p2">**</bpt>Open<ept id="p2">**</ept>, <bpt id="p3">**</bpt>Released<ept id="p3">**</ept>, <bpt id="p4">**</bpt>Pending Approval<ept id="p4">**</ept>, and <bpt id="p5">**</bpt>Pending Prepayment<ept id="p5">**</ept>, use the values <ph id="ph1">`0`</ph>, <ph id="ph2">`1`</ph>, <ph id="ph3">`2`</ph>, and <ph id="ph4">`3`</ph> to filter for these options.</source><seg-source><mrk mtype="seg" mid="165">For example, in the <bpt id="p1">**</bpt>Status<ept id="p1">**</ept> field on a sales order that has the values <bpt id="p2">**</bpt>Open<ept id="p2">**</ept>, <bpt id="p3">**</bpt>Released<ept id="p3">**</ept>, <bpt id="p4">**</bpt>Pending Approval<ept id="p4">**</ept>, and <bpt id="p5">**</bpt>Pending Prepayment<ept id="p5">**</ept>, use the values <ph id="ph1">`0`</ph>, <ph id="ph2">`1`</ph>, <ph id="ph3">`2`</ph>, and <ph id="ph4">`3`</ph> to filter for these options.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="165">Například v poli <bpt id="p1">**</bpt>Stav<ept id="p1">**</ept> na prodejní objednávce, která má hodnoty <bpt id="p2">**</bpt>Otevřeno<ept id="p2">**</ept>, <bpt id="p3">**</bpt>Vydáno<ept id="p3">**</ept>, <bpt id="p4">**</bpt>Čeká na schválení<ept id="p4">**</ept> a <bpt id="p5">**</bpt>Čeká na zálohu<ept id="p5">**</ept> použijte hodnoty <ph id="ph1">`0`</ph>, <ph id="ph2">`1`</ph>, <ph id="ph3">`2`</ph> a <ph id="ph4">`3`</ph> k filtrování těchto možností.</mrk></target>
+        </trans-unit>
+        <trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>(?) One unknown character</source><seg-source><mrk mtype="seg" mid="166">(?)</mrk> <mrk mtype="seg" mid="167">One unknown character</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="166">(?)</mrk> <mrk mtype="seg" mid="167">Jeden neznámý znak</mrk></target>
+        </trans-unit>
+        <trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>Sample Expression</source><seg-source><mrk mtype="seg" mid="168">Sample Expression</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="168">Ukázkový výraz</mrk></target>
+        </trans-unit>
+        <trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>Records Displayed</source><seg-source><mrk mtype="seg" mid="169">Records Displayed</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="169">Záznamy zobrazeny</mrk></target>
+        </trans-unit>
+        <trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>Text such as Hansen or Hanson</source><seg-source><mrk mtype="seg" mid="170">Text such as Hansen or Hanson</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="170">Text jako Hansen nebo Hanson</mrk></target>
+        </trans-unit>
+        <trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>Combined format expressions</source><seg-source><mrk mtype="seg" mid="171">Combined format expressions</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="171">Výrazy v kombinovaném formátu</mrk></target>
+        </trans-unit>
+        <trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>Sample Expression</source><seg-source><mrk mtype="seg" mid="172">Sample Expression</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="172">Ukázkový výraz</mrk></target>
+        </trans-unit>
+        <trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>Records Displayed</source><seg-source><mrk mtype="seg" mid="173">Records Displayed</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="173">Záznamy zobrazeny</mrk></target>
+        </trans-unit>
+        <trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>`5999</source><seg-source><mrk mtype="seg" mid="174">`5999</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="174">`5999</mrk></target>
+        </trans-unit>
+        <trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>8100..8490`</source><seg-source><mrk mtype="seg" mid="175">8100..8490`</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="175">8100..8490`</mrk></target>
+        </trans-unit>
+        <trans-unit id="272" translate="yes" xml:space="preserve">
+          <source>Include any records with the number 5999 or a number from the interval 8100 through 8490.</source><seg-source><mrk mtype="seg" mid="176">Include any records with the number 5999 or a number from the interval 8100 through 8490.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="176">Obsahuje všechny záznamy s číslem 5999 nebo číslem z intervalu 8100 až 8490.</mrk></target>
+        </trans-unit>
+        <trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>`..1299</source><seg-source><mrk mtype="seg" mid="177">`..1299</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="177">`..1299</mrk></target>
+        </trans-unit>
+        <trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>1400..`</source><seg-source><mrk mtype="seg" mid="178">1400..`</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="178">1400..`</mrk></target>
+        </trans-unit>
+        <trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>Include records with a number less than or equal to 1299 or a number equal to 1400 or greater (all numbers except 1300 through 1399).</source><seg-source><mrk mtype="seg" mid="179">Include records with a number less than or equal to 1299 or a number equal to 1400 or greater (all numbers except 1300 through 1399).</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="179">Obsahuje záznamy s číslem menším nebo rovnajícím se 1299 nebo číslem rovnajícím se 1400 nebo větším (všechna čísla kromě 1300 až 1399).</mrk></target>
+        </trans-unit>
+        <trans-unit id="276" translate="yes" xml:space="preserve">
+          <source>Include records with numbers that are greater than 50 and less than 100 (numbers 51 through 99).</source><seg-source><mrk mtype="seg" mid="180">Include records with numbers that are greater than 50 and less than 100 (numbers 51 through 99).</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="180">Obsahuje záznamy s čísly, které jsou větší než 50 a menší než 100 (čísla 51 až 99).</mrk></target>
+        </trans-unit>
+        <trans-unit id="277" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">&lt;a name="FilterTokens"&gt;</bpt> <ept id="p1">&lt;/a&gt;</ept>Filter tokens</source><seg-source><bpt id="p1">&lt;a name="FilterTokens"&gt;</bpt> <ept id="p1">&lt;/a&gt;</ept><mrk mtype="seg" mid="181">Filter tokens</mrk></seg-source><target state="translated"><bpt id="p1">&lt;a name="FilterTokens"&gt;</bpt> <ept id="p1">&lt;/a&gt;</ept><mrk mtype="seg" mid="181">Tokeny filtru</mrk></target>
+        </trans-unit>
+        <trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>When entering filter criteria, you can also type words that have special meaning, called filter tokens.</source><seg-source><mrk mtype="seg" mid="182">When entering filter criteria, you can also type words that have special meaning, called filter tokens.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="182">Při zadávání kritérií filtru můžete také psát slova se zvláštním významem, která se nazývají tokeny filtru.</mrk></target>
+        </trans-unit>
+        <trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>After entering the token word, the word is replaced by the value or values that it represents.</source><seg-source><mrk mtype="seg" mid="183">After entering the token word, the word is replaced by the value or values that it represents.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="183">Po zadání tokenového slova je slovo nahrazeno hodnotou nebo hodnotami, které představuje.</mrk></target>
+        </trans-unit>
+        <trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>This makes filtering easier by reducing the need to navigate to other pages to look up values you want to add to your filter.</source><seg-source><mrk mtype="seg" mid="184">This makes filtering easier by reducing the need to navigate to other pages to look up values you want to add to your filter.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="184">Usnadňuje se tím filtrování snížením potřeby přejít na jiné stránky a vyhledat hodnoty, které chcete do filtru přidat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>The tables below describe some of the tokens you can type as filter criteria.</source><seg-source><mrk mtype="seg" mid="185">The tables below describe some of the tokens you can type as filter criteria.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="185">Níže uvedené tabulky popisují některé tokeny, které můžete zadat jako kritéria filtru.</mrk></target>
+        </trans-unit>
+        <trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>Your organization may use custom tokens.</source><seg-source><mrk mtype="seg" mid="186">Your organization may use custom tokens.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="186">Vaše organizace může používat vlastní tokeny.</mrk></target>
+        </trans-unit>
+        <trans-unit id="283" translate="yes" xml:space="preserve">
+          <source>To learn about the complete set of tokens available to you or to add more custom tokens, talk to your administrator.</source><seg-source><mrk mtype="seg" mid="187">To learn about the complete set of tokens available to you or to add more custom tokens, talk to your administrator.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="187">Chcete-li se dozvědět více o kompletní sadě tokenů, které máte k dispozici, nebo přidat další vlastní tokeny, obraťte se na svého správce.</mrk></target>
+        </trans-unit>
+        <trans-unit id="284" translate="yes" xml:space="preserve">
+          <source>For technical information see <bpt id="p1">[</bpt>Adding Filter Tokens<ept id="p1">](/dynamics365/business-central/dev-itpro/developer/devenv-adding-filter-tokens)</ept></source><seg-source><mrk mtype="seg" mid="188">For technical information see <bpt id="p1">[</bpt>Adding Filter Tokens<ept id="p1">](/dynamics365/business-central/dev-itpro/developer/devenv-adding-filter-tokens)</ept></mrk></seg-source><target state="translated"><mrk mtype="seg" mid="188">Pro více informací navštivte <bpt id="p1">[</bpt>Přidání tokenů filtru<ept id="p1">](/dynamics365/business-central/dev-itpro/developer/devenv-adding-filter-tokens)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="285" translate="yes" xml:space="preserve">
+          <source>(%me or %userid) Records assigned to you</source><seg-source><mrk mtype="seg" mid="189">(%me or %userid) Records assigned to you</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="189">(%me nebo %userid) Záznamy, které jsou přiřazeny vám</mrk></target>
+        </trans-unit>
+        <trans-unit id="286" translate="yes" xml:space="preserve">
+          <source>Use <ph id="ph1">`%me`</ph> or <ph id="ph2">`%userid`</ph> when filtering fields that contain the user ID, such as <bpt id="p1">**</bpt>Assigned to User ID<ept id="p1">**</ept> field, to display all records that are assigned to you.</source><seg-source><mrk mtype="seg" mid="190">Use <ph id="ph1">`%me`</ph> or <ph id="ph2">`%userid`</ph> when filtering fields that contain the user ID, such as <bpt id="p1">**</bpt>Assigned to User ID<ept id="p1">**</ept> field, to display all records that are assigned to you.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="190">Použijte <ph id="ph1">`%me`</ph> nebo <ph id="ph2">`%userid`</ph> při filtrování polí, která obsahují ID uživatele, například pole <bpt id="p1">**</bpt>Přiřazené ID uživatele<ept id="p1">**</ept>, pro zobrazení všech záznamů, které jsou vám přiřazeny.</mrk></target>
+        </trans-unit>
+        <trans-unit id="287" translate="yes" xml:space="preserve">
+          <source>Sample Expression</source><seg-source><mrk mtype="seg" mid="191">Sample Expression</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="191">Ukázkový výraz</mrk></target>
+        </trans-unit>
+        <trans-unit id="288" translate="yes" xml:space="preserve">
+          <source>Records Displayed</source><seg-source><mrk mtype="seg" mid="192">Records Displayed</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="192">Záznamy zobrazeny</mrk></target>
+        </trans-unit>
+        <trans-unit id="289" translate="yes" xml:space="preserve">
+          <source>or</source><seg-source><mrk mtype="seg" mid="193">or</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="193">nebo</mrk></target>
+        </trans-unit>
+        <trans-unit id="290" translate="yes" xml:space="preserve">
+          <source>Records that are assigned to your user account.</source><seg-source><mrk mtype="seg" mid="194">Records that are assigned to your user account.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="194">Záznamy, které jsou přiřazeny k vašemu uživatelskému účtu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="291" translate="yes" xml:space="preserve">
+          <source>(%mycustomers) Customers in My Customers</source><seg-source><mrk mtype="seg" mid="195">(%mycustomers) Customers in My Customers</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="195">(%mycustomers) Zákazníci v Mí zákazníci</mrk></target>
+        </trans-unit>
+        <trans-unit id="292" translate="yes" xml:space="preserve">
+          <source>Use <ph id="ph1">`%mycustomers`</ph> in the customer <bpt id="p1">**</bpt>No<ept id="p1">**</ept> field to display all records for customers that are included in the <bpt id="p2">**</bpt>My Customers<ept id="p2">**</ept> list on your Role Center.</source><seg-source><mrk mtype="seg" mid="196">Use <ph id="ph1">`%mycustomers`</ph> in the customer <bpt id="p1">**</bpt>No<ept id="p1">**</ept> field to display all records for customers that are included in the <bpt id="p2">**</bpt>My Customers<ept id="p2">**</ept> list on your Role Center.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="196">Pomocí <ph id="ph1">`%mycustomers`</ph> v poli <bpt id="p1">**</bpt>Číslo zákazníka<ept id="p1">**</ept> zobrazíte všechny záznamy pro zákazníky, kteří jsou zahrnuti do seznamu <bpt id="p2">**</bpt>Mí zákazníci<ept id="p2">**</ept> v centru rolí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="293" translate="yes" xml:space="preserve">
+          <source>Sample Expression</source><seg-source><mrk mtype="seg" mid="197">Sample Expression</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="197">Ukázkový výraz</mrk></target>
+        </trans-unit>
+        <trans-unit id="294" translate="yes" xml:space="preserve">
+          <source>Records Displayed</source><seg-source><mrk mtype="seg" mid="198">Records Displayed</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="198">Záznamy zobrazeny</mrk></target>
+        </trans-unit>
+        <trans-unit id="295" translate="yes" xml:space="preserve">
+          <source>Customers in the <bpt id="p1">**</bpt>My Customers<ept id="p1">**</ept> on your Role Center.</source><seg-source><mrk mtype="seg" mid="199">Customers in the <bpt id="p1">**</bpt>My Customers<ept id="p1">**</ept> on your Role Center.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="199">Zákazníci v <bpt id="p1">**</bpt>Mí zákazníci<ept id="p1">**</ept> ve vašem centru rolí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="296" translate="yes" xml:space="preserve">
+          <source>(%myitems) Items in My Items</source><seg-source><mrk mtype="seg" mid="200">(%myitems) Items in My Items</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="200">(%myitems) Zboží v Mé zboží </mrk></target>
+        </trans-unit>
+        <trans-unit id="297" translate="yes" xml:space="preserve">
+          <source>Use <ph id="ph1">`%myitems`</ph> in the item <bpt id="p1">**</bpt>No<ept id="p1">**</ept> field to display all records for items that are included in the <bpt id="p2">**</bpt>My Items<ept id="p2">**</ept> list on your Role Center.</source><seg-source><mrk mtype="seg" mid="201">Use <ph id="ph1">`%myitems`</ph> in the item <bpt id="p1">**</bpt>No<ept id="p1">**</ept> field to display all records for items that are included in the <bpt id="p2">**</bpt>My Items<ept id="p2">**</ept> list on your Role Center.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="201">Pomocí <ph id="ph1">`%myitems`</ph> v poli <bpt id="p1">**</bpt>Číslo zboží<ept id="p1">**</ept> zobrazíte všechny záznamy pro zboží, které jsou zahrnuty do seznamu <bpt id="p2">**</bpt>Mé zboží<ept id="p2">**</ept> v centru rolí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="298" translate="yes" xml:space="preserve">
+          <source>Sample Expression</source><seg-source><mrk mtype="seg" mid="202">Sample Expression</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="202">Ukázkový výraz</mrk></target>
+        </trans-unit>
+        <trans-unit id="299" translate="yes" xml:space="preserve">
+          <source>Records Displayed</source><seg-source><mrk mtype="seg" mid="203">Records Displayed</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="203">Záznamy zobrazeny</mrk></target>
+        </trans-unit>
+        <trans-unit id="300" translate="yes" xml:space="preserve">
+          <source>Items in the <bpt id="p1">**</bpt>My Items<ept id="p1">**</ept> on your Role Center.</source><seg-source><mrk mtype="seg" mid="204">Items in the <bpt id="p1">**</bpt>My Items<ept id="p1">**</ept> on your Role Center.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="204">Zboží v <bpt id="p1">**</bpt>Mé zboží<ept id="p1">**</ept> ve vašem centru rolí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="301" translate="yes" xml:space="preserve">
+          <source>(%myvendors) Vendors in My Vendors</source><seg-source><mrk mtype="seg" mid="205">(%myvendors) Vendors in My Vendors</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="205">(%myvendors) Dodavatelé v Mí dodavatelé</mrk></target>
+        </trans-unit>
+        <trans-unit id="302" translate="yes" xml:space="preserve">
+          <source>Use <ph id="ph1">`%myvendors`</ph> in the vendor <bpt id="p1">**</bpt>No<ept id="p1">**</ept> field to display all records for vendors that are included in the <bpt id="p2">**</bpt>My Vendors<ept id="p2">**</ept> list on your Role Center.</source><seg-source><mrk mtype="seg" mid="206">Use <ph id="ph1">`%myvendors`</ph> in the vendor <bpt id="p1">**</bpt>No<ept id="p1">**</ept> field to display all records for vendors that are included in the <bpt id="p2">**</bpt>My Vendors<ept id="p2">**</ept> list on your Role Center.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="206">Pomocí <ph id="ph1">`%myvendors`</ph> v poli <bpt id="p1">**</bpt>Číslo dodavatele<ept id="p1">**</ept> zobrazíte všechny záznamy pro dodavatele, které jsou zahrnuty do seznamu <bpt id="p2">**</bpt>Mí dodavatelé<ept id="p2">**</ept> v centru rolí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="303" translate="yes" xml:space="preserve">
+          <source>Sample Expression</source><seg-source><mrk mtype="seg" mid="207">Sample Expression</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="207">Ukázkový výraz</mrk></target>
+        </trans-unit>
+        <trans-unit id="304" translate="yes" xml:space="preserve">
+          <source>Records Displayed</source><seg-source><mrk mtype="seg" mid="208">Records Displayed</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="208">Záznamy zobrazeny</mrk></target>
+        </trans-unit>
+        <trans-unit id="305" translate="yes" xml:space="preserve">
+          <source>Vendors in the <bpt id="p1">**</bpt>My Vendors<ept id="p1">**</ept> on your Role Center.</source><seg-source><mrk mtype="seg" mid="209">Vendors in the <bpt id="p1">**</bpt>My Vendors<ept id="p1">**</ept> on your Role Center.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="209">Dodavatelé v <bpt id="p1">**</bpt>Mí dodavatelé<ept id="p1">**</ept> ve vašem centru rolí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="306" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="210">See Also</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="210">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="307" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="211">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="211">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="308" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Common questions about Searching and Filtering<ept id="p1">](ui-search-filter-faq.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="212">Common questions about Searching and Filtering</mrk><ept id="p1">](ui-search-filter-faq.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="212">Časté dotazy týkající se vyhledávání a filtrování</mrk><ept id="p1">](ui-search-filter-faq.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

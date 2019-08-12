@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="inventory-responsibility-centers.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-435fba6" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">643d0b7be64addf3604283dbed58d59a54df2032</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\inventory-responsibility-centers.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">636c8a90071a2f0cca39589124f02d0c0c694a25</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5ab0d0cca1d5b7e6395a66f2fa71b888b707b2f8</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>How to Work with Responsibility Centers | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">How to Work with Responsibility Centers | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Jak pracovat s Centry odpovědnosti | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Responsibility centers providing the ability to handle administrative centers.</source><seg-source><mrk mtype="seg" mid="2">Responsibility centers providing the ability to handle administrative centers.</mrk></seg-source><target><mrk mtype="seg" mid="2">Centra odpovědnosti poskytují schopnost spravovat administrativní střediska.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>A responsibility center can be a cost center, a profit center, an investment center, or other company-defined administrative center.</source><seg-source><mrk mtype="seg" mid="3">A responsibility center can be a cost center, a profit center, an investment center, or other company-defined administrative center.</mrk></seg-source><target><mrk mtype="seg" mid="3">Centrem odpovědnosti může být nákladové centrum, ziskové centrum, investiční centrum nebo jiné administrativní centrum definované společností.</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Work with Responsibility Centers</source><seg-source><mrk mtype="seg" mid="4">Work with Responsibility Centers</mrk></seg-source><target><mrk mtype="seg" mid="4">Práce s Centry odpovědnosti</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Responsibility centers provide the ability to handle administrative centers.</source><seg-source><mrk mtype="seg" mid="5">Responsibility centers provide the ability to handle administrative centers.</mrk></seg-source><target><mrk mtype="seg" mid="5">Centra odpovědnosti poskytují schopnost spravovat administrativní střediska.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>A responsibility center can be a cost center, a profit center, an investment center, or other company-defined administrative center.</source><seg-source><mrk mtype="seg" mid="6">A responsibility center can be a cost center, a profit center, an investment center, or other company-defined administrative center.</mrk></seg-source><target><mrk mtype="seg" mid="6">Centrem odpovědnosti může být nákladové centrum, ziskové centrum, investiční centrum nebo jiné administrativní centrum definované společností.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Examples of responsibility centers are a sales office, a purchasing department for several locations, and a plant planning office.</source><seg-source><mrk mtype="seg" mid="7">Examples of responsibility centers are a sales office, a purchasing department for several locations, and a plant planning office.</mrk></seg-source><target><mrk mtype="seg" mid="7">Příkladem center odpovědnosti je prodejní kancelář, nákupní oddělení pro několik míst a kancelář pro plánování továren.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Using this functionality, for example, companies can set up user-specific views of sales and purchase documents related exclusively to a particular responsibility center.</source><seg-source><mrk mtype="seg" mid="8">Using this functionality, for example, companies can set up user-specific views of sales and purchase documents related exclusively to a particular responsibility center.</mrk></seg-source><target><mrk mtype="seg" mid="8">Například pomocí této funkce mohou společnosti nastavit uživatelsky specifické pohledy na prodejní a nákupní doklady související výhradně s konkrétním centrem odpovědnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Using multiple locations together with responsibility centers provides the ability to manage business operations in the most flexible, yet optimal way.</source><seg-source><mrk mtype="seg" mid="9">Using multiple locations together with responsibility centers provides the ability to manage business operations in the most flexible, yet optimal way.</mrk></seg-source><target><mrk mtype="seg" mid="9">Použití více umístnění společně s odpovědnými centry poskytuje možnost řídit obchodní operace nejflexibilnějším a zároveň optimálním způsobem.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Multiple locations allows companies to manage their inventory in multiple locations using one database.</source><seg-source><mrk mtype="seg" mid="10">Multiple locations allows companies to manage their inventory in multiple locations using one database.</mrk></seg-source><target><mrk mtype="seg" mid="10">Více umístnění umožňuje společnostem spravovat své zásoby na více místech pomocí jedné databáze.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Two concepts, locations and stockkeeping units, are the cornerstones of this granule.</source><seg-source><mrk mtype="seg" mid="11">Two concepts, locations and stockkeeping units, are the cornerstones of this granule.</mrk></seg-source><target><mrk mtype="seg" mid="11">Základními kameny této části jsou dva koncepty, umístění a skladovací jednotky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>A location is defined as a place that handles physical placement and quantities of items.</source><seg-source><mrk mtype="seg" mid="12">A location is defined as a place that handles physical placement and quantities of items.</mrk></seg-source><target><mrk mtype="seg" mid="12">Umístění je definováno jako místo, které zpracovává fyzické umístění a množství položek.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>The concept is broad enough to include locations such as plants or production facilities as well as distribution centers, warehouses, showrooms and service vehicles.</source><seg-source><mrk mtype="seg" mid="13">The concept is broad enough to include locations such as plants or production facilities as well as distribution centers, warehouses, showrooms and service vehicles.</mrk></seg-source><target><mrk mtype="seg" mid="13">Koncept je dostatečně široký, aby zahrnoval místa, jako jsou závody nebo výrobní zařízení, jakož i distribuční centra, sklady, předváděcí místnosti a servisní vozidla.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>A stockkeeping unit is defined as an item at a specific location and/or as a variant.</source><seg-source><mrk mtype="seg" mid="14">A stockkeeping unit is defined as an item at a specific location and/or as a variant.</mrk></seg-source><target><mrk mtype="seg" mid="14">Skladová jednotka je definována jako položka na konkrétním místě a/nebo jako varianta.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Using stockkeeping units, companies with multiple locations are able to add replenishment information, addresses, and some financial posting information at the location level.</source><seg-source><mrk mtype="seg" mid="15">Using stockkeeping units, companies with multiple locations are able to add replenishment information, addresses, and some financial posting information at the location level.</mrk></seg-source><target><mrk mtype="seg" mid="15">Pomocí skladových jednotek mohou společnosti s více pobočkami přidávat informace o doplňování, adresy a některé finanční účetní informace na úrovni umístění.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>As a result, they have the ability to replenish variants of the same item for each location as well as to order items for each location on the basis of location-specific replenishment information.</source><seg-source><mrk mtype="seg" mid="16">As a result, they have the ability to replenish variants of the same item for each location as well as to order items for each location on the basis of location-specific replenishment information.</mrk></seg-source><target><mrk mtype="seg" mid="16">Výsledkem je, že mají schopnost doplňovat varianty téže položky pro každé místo, jakož i objednávat položky pro každé místo na základě informací o doplňování pro konkrétní umístění.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Responsibility centers extends the multiple locations functionality by providing users the ability to handle administrative centers.</source><seg-source><mrk mtype="seg" mid="17">Responsibility centers extends the multiple locations functionality by providing users the ability to handle administrative centers.</mrk></seg-source><target><mrk mtype="seg" mid="17">Centra odpovědnosti rozšiřují funkčnost více umístění tím, že uživatelům umožňují spravovat administrativní centra.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>A responsibility center can be a cost center, a profit center, an investment center, or other company-defined administrative center.</source><seg-source><mrk mtype="seg" mid="18">A responsibility center can be a cost center, a profit center, an investment center, or other company-defined administrative center.</mrk></seg-source><target><mrk mtype="seg" mid="18">Centrem odpovědnosti může být nákladové centrum, ziskové centrum, investiční centrum nebo jiné administrativní centrum definované společností.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Examples of responsibility centers are a sales office, a purchasing department for several locations, and a plant planning office.</source><seg-source><mrk mtype="seg" mid="19">Examples of responsibility centers are a sales office, a purchasing department for several locations, and a plant planning office.</mrk></seg-source><target><mrk mtype="seg" mid="19">Příkladem center zodpovědnosti je prodejní kancelář, nákupní oddělení pro několik míst a kancelář pro plánování továren.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Using this functionality, for example, companies can set up user-specific views of sales and purchase documents related exclusively to a particular responsibility center.</source><seg-source><mrk mtype="seg" mid="20">Using this functionality, for example, companies can set up user-specific views of sales and purchase documents related exclusively to a particular responsibility center.</mrk></seg-source><target><mrk mtype="seg" mid="20">Například pomocí této funkce mohou společnosti nastavit uživatelsky specifické pohledy na prodejní a nákupní doklady související výhradně s konkrétním centrem odpovědnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>To set up a responsibility center</source><seg-source><mrk mtype="seg" mid="21">To set up a responsibility center</mrk></seg-source><target><mrk mtype="seg" mid="21">Zřídit Centrum odpovědností</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Responsibility Centers<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="22">Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Responsibility Centers<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="22">Vyberte ikonu <bpt id="p1">![</bpt>Žárovky, která otevře funkci Řekněte mi<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Řekněte mi, co chcete dělat<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Centra odpovědnosti<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>New<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="23">Choose the <bpt id="p1">**</bpt>New<ept id="p1">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="23">Zvolte akci <bpt id="p1">**</bpt>Nový<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Fill in the fields as necessary.</source><seg-source><mrk mtype="seg" mid="24">Fill in the fields as necessary.</mrk></seg-source><target><mrk mtype="seg" mid="24">Vyplňte pole podle potřeby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>If you are using responsibility centers to administer your company, it can be useful to have a default responsibility center for your company.</source><seg-source><mrk mtype="seg" mid="25">If you are using responsibility centers to administer your company, it can be useful to have a default responsibility center for your company.</mrk></seg-source><target><mrk mtype="seg" mid="25">Pokud pro správu vaší společnosti používáte centra odpovědnosti, může být užitečné mít výchozí středisko odpovědnosti pro vaši společnost.</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Company Information<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="26">Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Company Information<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="26">Vyberte ikonu <bpt id="p1">![</bpt>Žárovky, která otevře funkci Řekněte mi<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Řekněte mi, co chcete dělat<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Informace o společnosti<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Responsibility Center<ept id="p1">**</ept> field, enter a responsibility center code.</source><seg-source><mrk mtype="seg" mid="27">In the <bpt id="p1">**</bpt>Responsibility Center<ept id="p1">**</ept> field, enter a responsibility center code.</mrk></seg-source><target><mrk mtype="seg" mid="27">Do pole <bpt id="p1">**</bpt>Centrum odpovědnosti<ept id="p1">**</ept> zadejte kód střediska odpovědnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>This code will be used on all purchase, sales, or service documents, if the user, customer, or vendor has no default responsibility center.</source><seg-source><mrk mtype="seg" mid="28">This code will be used on all purchase, sales, or service documents, if the user, customer, or vendor has no default responsibility center.</mrk></seg-source><target><mrk mtype="seg" mid="28">Tento kód bude použit ve všech dokumentech o nákupu, prodeji nebo servisu, pokud uživatel, zákazník nebo prodejce nemá žádné výchozí centrum odpovědnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>On any sales, purchase, or service document, you can enter another responsibility center than the default.</source><seg-source><mrk mtype="seg" mid="29">On any sales, purchase, or service document, you can enter another responsibility center than the default.</mrk></seg-source><target><mrk mtype="seg" mid="29">V jakémkoli prodejním, nákupním nebo servisním dokumentu můžete zadat jiné centrum odpovědnosti než výchozí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>When you enter a responsibility center code on a document, it affects the address, dimensions, and prices on the document.</source><seg-source><mrk mtype="seg" mid="30">When you enter a responsibility center code on a document, it affects the address, dimensions, and prices on the document.</mrk></seg-source><target><mrk mtype="seg" mid="30">Když do dokumentu zadáte kód centra odpovědnosti, ovlivní to adresu, dimenze a ceny v dokumentu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>To assign responsibility centers to users</source><seg-source><mrk mtype="seg" mid="31">To assign responsibility centers to users</mrk></seg-source><target><mrk mtype="seg" mid="31">Přiřazení center odpovědnosti uživatelům</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>You can set up users so that in their daily routines the program retrieves only the documents relevant for their particular work areas.</source><seg-source><mrk mtype="seg" mid="32">You can set up users so that in their daily routines the program retrieves only the documents relevant for their particular work areas.</mrk></seg-source><target><mrk mtype="seg" mid="32">Můžete nastavit uživatele tak, aby v jejich každodenních rutinách program načítal pouze dokumenty relevantní pro jejich konkrétní pracovní oblasti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Users are usually associated with one responsibility center and work only with documents related to specific application areas at that particular center.</source><seg-source><mrk mtype="seg" mid="33">Users are usually associated with one responsibility center and work only with documents related to specific application areas at that particular center.</mrk></seg-source><target><mrk mtype="seg" mid="33">Uživatelé jsou obvykle spojeni s jedním centrem odpovědnosti a pracují pouze s dokumenty souvisejícími s konkrétními oblastmi aplikace v tomto konkrétním centru.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>To set this up, you assign responsibility centers to users in three functional areas: Purchases, Sales, and Service Management.</source><seg-source><mrk mtype="seg" mid="34">To set this up, you assign responsibility centers to users in three functional areas:</mrk> <mrk mtype="seg" mid="35">Purchases, Sales, and Service Management.</mrk></seg-source><target><mrk mtype="seg" mid="34">Chcete-li to nastavit, přiřaďte centra odpovědnosti uživatelům ve třech funkčních oblastech:</mrk> <mrk mtype="seg" mid="35">Nákup, prodej a správa služeb.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>User Setup<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="36">Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>User Setup<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="36">Vyberte ikonu <bpt id="p1">![</bpt>Žárovky, která otevře funkci Řekněte mi<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Řekněte mi, co chcete dělat<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Nastavení uživatelů<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">**</bpt>User Setup<ept id="p1">**</ept> page, select the user you want to assign a responsibility center to.</source><seg-source><mrk mtype="seg" mid="37">On the <bpt id="p1">**</bpt>User Setup<ept id="p1">**</ept> page, select the user you want to assign a responsibility center to.</mrk></seg-source><target><mrk mtype="seg" mid="37">Na stránce <bpt id="p1">**</bpt>Nastavení uživatele<ept id="p1">**</ept> vyberte uživatele, kterému chcete přiřadit centrum odpovědnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>If the user not is on the list, you must enter a user ID in the <bpt id="p1">**</bpt>User ID<ept id="p1">**</ept> field.</source><seg-source><mrk mtype="seg" mid="38">If the user not is on the list, you must enter a user ID in the <bpt id="p1">**</bpt>User ID<ept id="p1">**</ept> field.</mrk></seg-source><target><mrk mtype="seg" mid="38">Pokud uživatel není na seznamu, musíte do pole <bpt id="p1">**</bpt>User ID<ept id="p1">**</ept> zadat ID uživatele.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Sales Resp. Ctr. Filter<ept id="p1">**</ept> field, enter the responsibility center where the user will have tasks related to sales.</source><seg-source><mrk mtype="seg" mid="39">In the <bpt id="p1">**</bpt>Sales Resp.</mrk> <mrk mtype="seg" mid="40">Ctr.</mrk> <mrk mtype="seg" mid="41">Filter<ept id="p1">**</ept> field, enter the responsibility center where the user will have tasks related to sales.</mrk></seg-source><target><mrk mtype="seg" mid="39">V poli <bpt id="p1">**</bpt>Filtr prod.</mrk> <mrk mtype="seg" mid="40">centra</mrk> <mrk mtype="seg" mid="41"> odpovědnosti<ept id="p1">**</ept>  zadejte centrum odpovědnosti, kde bude mít uživatel úkoly související s prodejem.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Purchase Resp. Ctr. Filter<ept id="p1">**</ept> field, enter the responsibility center where the user will have tasks related to purchasing.</source><seg-source><mrk mtype="seg" mid="42">In the <bpt id="p1">**</bpt>Purchase Resp.</mrk> <mrk mtype="seg" mid="43">Ctr.</mrk> <mrk mtype="seg" mid="44">Filter<ept id="p1">**</ept> field, enter the responsibility center where the user will have tasks related to purchasing.</mrk></seg-source><target><mrk mtype="seg" mid="42">V poli <bpt id="p1">**</bpt>Nákup prod.</mrk> <mrk mtype="seg" mid="43"><bpt id="p1">**</bpt>centra<ept id="p1">**</ept></mrk> <mrk mtype="seg" mid="44"> odpovědnosti<ept id="p1">**</ept> zadejte centrum odpovědnosti, kde bude mít uživatel úkoly související s Nakupování.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Service Resp. Ctr. Filter<ept id="p1">**</ept> field, enter the responsibility center where the user will have tasks related to service management.</source><seg-source><mrk mtype="seg" mid="45">In the <bpt id="p1">**</bpt>Service Resp.</mrk> <mrk mtype="seg" mid="46">Ctr.</mrk> <mrk mtype="seg" mid="47">Filter<ept id="p1">**</ept> field, enter the responsibility center where the user will have tasks related to service management.</mrk></seg-source><target><mrk mtype="seg" mid="45">V poli <bpt id="p1">**</bpt>Servis prod.</mrk> <mrk mtype="seg" mid="46"><bpt id="p1">**</bpt>centra<ept id="p1">**</ept></mrk> <mrk mtype="seg" mid="47"> odpovědnosti<ept id="p1">**</ept>  zadejte centrum odpovědnosti, kde bude mít uživatel úkoly související se správou služeb.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Users will still be able to view all posted documents and ledger entries, not just those related to their own responsibility center.</source><seg-source><mrk mtype="seg" mid="48">Users will still be able to view all posted documents and ledger entries, not just those related to their own responsibility center.</mrk></seg-source><target><mrk mtype="seg" mid="48">Uživatelé budou stále moci zobrazit všechny zaúčtované dokumenty a položky knihy, nejen ty, které se vztahují k jejich vlastnímu centru zodpovědnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="49">See Also</mrk></seg-source><target><mrk mtype="seg" mid="49">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Inventory<ept id="p1">](inventory-setup-inventory.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="50">Setting Up Inventory</mrk><ept id="p1">](inventory-setup-inventory.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="50">Nastavení zásob</mrk><ept id="p1">](inventory-setup-inventory.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Warehouse Management<ept id="p1">](warehouse-setup-warehouse.md)</ept><ph id="ph1">
+</ph><bpt id="p2">[</bpt>Inventory<ept id="p2">](inventory-manage-inventory.md)</ept><bpt id="p3">[</bpt>Warehouse Management<ept id="p3">](warehouse-manage-warehouse.md)</ept></source><seg-source><mrk mtype="seg" mid="51"><bpt id="p1">[</bpt>Setting Up Warehouse Management<ept id="p1">](warehouse-setup-warehouse.md)</ept><ph id="ph1">
+</ph><bpt id="p2">[</bpt>Inventory<ept id="p2">](inventory-manage-inventory.md)</ept><bpt id="p3">[</bpt>Warehouse Management<ept id="p3">](warehouse-manage-warehouse.md)</ept></mrk></seg-source><target><mrk mtype="seg" mid="51"><bpt id="p1">[</bpt>Nastavení Správce skladu<ept id="p1">](warehouse-setup-warehouse.md)</ept><ph id="ph1">
+</ph><bpt id="p2">[</bpt>Zásoby<ept id="p2">](inventory-manage-inventory.md)</ept><bpt id="p3">[</bpt>Správce skladu<ept id="p3">](warehouse-manage-warehouse.md)</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Warehouse Management<ept id="p1">](warehouse-manage-warehouse.md)</ept><ph id="ph1">  </ph></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="52">Warehouse Management</mrk><ept id="p1">](warehouse-manage-warehouse.md)</ept><ph id="ph1">  </ph></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="52">Správce skladu</mrk><ept id="p1">](warehouse-manage-warehouse.md)</ept><ph id="ph1">  </ph></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Design Details: Warehouse Management<ept id="p1">](design-details-warehouse-management.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="53">Design Details:</mrk> <mrk mtype="seg" mid="54">Warehouse Management</mrk><ept id="p1">](design-details-warehouse-management.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="53">Podrobnosti o designu:</mrk> <mrk mtype="seg" mid="54">Správce skladu</mrk><ept id="p1">](design-details-warehouse-management.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="55">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="55">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
