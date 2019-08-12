@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="inventory-about-item-types.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-435fba6" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2240840e977bcd1186c74972ce0457deb03058a0</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\inventory-about-item-types.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3d5ddf40ec6a041291f8589136f83e0adc848805</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">447701273de59d4b4f8b7168fbc6d3423d64d5f1</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Understanding Item Types| Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Understanding Item Types| Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Pochopení typů zboží | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>You can adjust the inventory valuation of an item using the FIFO or Average costing methods, for example, when item costs change for reasons other than transactions.</source><seg-source><mrk mtype="seg" mid="2">You can adjust the inventory valuation of an item using the FIFO or Average costing methods, for example, when item costs change for reasons other than transactions.</mrk></seg-source><target><mrk mtype="seg" mid="2">Ocenění skladového zboží můžete upravit pomocí metod FIFO nebo průměrné kalkulace, například když se náklady zboží změní z jiných důvodů, než jsou transakce.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>About Item Types</source><seg-source><mrk mtype="seg" mid="3">About Item Types</mrk></seg-source><target><mrk mtype="seg" mid="3">O typech zboží</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Type<ept id="p1">**</ept> field on the <bpt id="p2">**</bpt>Item Card<ept id="p2">**</ept> page, you can select what the item is used for in your business and therefore how it is managed in the system.</source><seg-source><mrk mtype="seg" mid="4">In the <bpt id="p1">**</bpt>Type<ept id="p1">**</ept> field on the <bpt id="p2">**</bpt>Item Card<ept id="p2">**</ept> page, you can select what the item is used for in your business and therefore how it is managed in the system.</mrk></seg-source><target><mrk mtype="seg" mid="4">V poli <bpt id="p1">**</bpt>Typ<ept id="p1">**</ept> na stránce <bpt id="p2">**</bpt>Karta zboží<ept id="p2">**</ept> můžete vybrat, pro co je zboží ve vaší firmě použito a jak je v systému spravováno. </mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Three options exist:</source><seg-source><mrk mtype="seg" mid="5">Three options exist:</mrk></seg-source><target><mrk mtype="seg" mid="5">Existují tři možnosti:</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Option</source><seg-source><mrk mtype="seg" mid="6">Option</mrk></seg-source><target><mrk mtype="seg" mid="6">Možnost</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Typical Purpose</source><seg-source><mrk mtype="seg" mid="7">Typical Purpose</mrk></seg-source><target><mrk mtype="seg" mid="7">Typický účel</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Inventory</source><seg-source><mrk mtype="seg" mid="8">Inventory</mrk></seg-source><target><mrk mtype="seg" mid="8">Zboží</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>A physical unit, such as a bicycle, for full business support.</source><seg-source><mrk mtype="seg" mid="9">A physical unit, such as a bicycle, for full business support.</mrk></seg-source><target><mrk mtype="seg" mid="9">Fyzická jednotka, například kolo, pro plnou podporu podnikání.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Non-Inventory</source><seg-source><mrk mtype="seg" mid="10">Non-Inventory</mrk></seg-source><target><mrk mtype="seg" mid="10">Neskladované</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>A physical unit, such as a bolt, for limited business support, for example, because the item is only used internally and has a low cost.</source><seg-source><mrk mtype="seg" mid="11">A physical unit, such as a bolt, for limited business support, for example, because the item is only used internally and has a low cost.</mrk></seg-source><target><mrk mtype="seg" mid="11">Fyzická jednotka, například šroub, pro omezenou podporu podnikání, například proto, že se položka používá pouze interně a má nízké náklady.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Service</source><seg-source><mrk mtype="seg" mid="12">Service</mrk></seg-source><target><mrk mtype="seg" mid="12">Služba</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>A labor time unit, such as a consultancy hour, for limited business support.</source><seg-source><mrk mtype="seg" mid="13">A labor time unit, such as a consultancy hour, for limited business support.</mrk></seg-source><target><mrk mtype="seg" mid="13">Jednotka pracovní doby, například poradenská hodina, pro omezenou podporu podnikání.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Inventory<ept id="p1">**</ept> type involves full tracking of inventory quantity and value.</source><seg-source><mrk mtype="seg" mid="14">The <bpt id="p1">**</bpt>Inventory<ept id="p1">**</ept> type involves full tracking of inventory quantity and value.</mrk></seg-source><target><mrk mtype="seg" mid="14">Typ <bpt id="p1">**</bpt>Zboží<ept id="p1">**</ept> zahrnuje úplné sledování množství a hodnoty zásob.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Therefore, all item transaction types are supported, and items of type Inventory can be used with all item-handling features.</source><seg-source><mrk mtype="seg" mid="15">Therefore, all item transaction types are supported, and items of type Inventory can be used with all item-handling features.</mrk></seg-source><target><mrk mtype="seg" mid="15">Proto jsou podporovány všechny typy transakcí zboží a zboží typu Zásoby lze použít se všemi funkcemi zpracování zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Service<ept id="p1">**</ept> and <bpt id="p2">**</bpt>Non-Inventory<ept id="p2">**</ept> types do not involve tracking of inventory quantity and value.</source><seg-source><mrk mtype="seg" mid="16">The <bpt id="p1">**</bpt>Service<ept id="p1">**</ept> and <bpt id="p2">**</bpt>Non-Inventory<ept id="p2">**</ept> types do not involve tracking of inventory quantity and value.</mrk></seg-source><target><mrk mtype="seg" mid="16">Typy <bpt id="p1">**</bpt>Servis<ept id="p1">**</ept> a <bpt id="p2">**</bpt>Neskladované<ept id="p2">**</ept> nezahrnují sledování množství a hodnoty zásob.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Therefore, only selected item transaction types and features are supported.</source><seg-source><mrk mtype="seg" mid="17">Therefore, only selected item transaction types and features are supported.</mrk></seg-source><target><mrk mtype="seg" mid="17">Proto jsou podporovány pouze vybrané typy a funkce transakcí zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>The three item types support the following features respectively.</source><seg-source><mrk mtype="seg" mid="18">The three item types support the following features respectively.</mrk></seg-source><target><mrk mtype="seg" mid="18">Tři typy zboží podporují následující funkce.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Item Type</source><seg-source><mrk mtype="seg" mid="19">Item Type</mrk></seg-source><target><mrk mtype="seg" mid="19">Typ zboží</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Sales</source><seg-source><mrk mtype="seg" mid="20">Sales</mrk></seg-source><target><mrk mtype="seg" mid="20">Prodej</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Purchasing</source><seg-source><mrk mtype="seg" mid="21">Purchasing</mrk></seg-source><target><mrk mtype="seg" mid="21">Nákup</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Job Consumption</source><seg-source><mrk mtype="seg" mid="22">Job Consumption</mrk></seg-source><target><mrk mtype="seg" mid="22">Spotřeba práce</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Service Consumption</source><seg-source><mrk mtype="seg" mid="23">Service Consumption</mrk></seg-source><target><mrk mtype="seg" mid="23">Spotřeba servisu</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Assembly Consumption</source><seg-source><mrk mtype="seg" mid="24">Assembly Consumption</mrk></seg-source><target><mrk mtype="seg" mid="24">Spotřeba montáže</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Production Consumption</source><seg-source><mrk mtype="seg" mid="25">Production Consumption</mrk></seg-source><target><mrk mtype="seg" mid="25">Spotřeba produkce</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Assembly Output</source><seg-source><mrk mtype="seg" mid="26">Assembly Output</mrk></seg-source><target><mrk mtype="seg" mid="26">Výstup montáže</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Production Output</source><seg-source><mrk mtype="seg" mid="27">Production Output</mrk></seg-source><target><mrk mtype="seg" mid="27">Výstup výroby</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Location Transfer</source><seg-source><mrk mtype="seg" mid="28">Location Transfer</mrk></seg-source><target><mrk mtype="seg" mid="28">Transferová lokace</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Physical Counting</source><seg-source><mrk mtype="seg" mid="29">Physical Counting</mrk></seg-source><target><mrk mtype="seg" mid="29">Fyzické počítání</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Inventory Revaluation</source><seg-source><mrk mtype="seg" mid="30">Inventory Revaluation</mrk></seg-source><target><mrk mtype="seg" mid="30">Přecenění zásob</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Inventory Costing</source><seg-source><mrk mtype="seg" mid="31">Inventory Costing</mrk></seg-source><target><mrk mtype="seg" mid="31">Zásoby a ocenění</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Item Tracking</source><seg-source><mrk mtype="seg" mid="32">Item Tracking</mrk></seg-source><target><mrk mtype="seg" mid="32">Sledování zboží</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Reservation</source><seg-source><mrk mtype="seg" mid="33">Reservation</mrk></seg-source><target><mrk mtype="seg" mid="33">Rezervace</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Warehousing</source><seg-source><mrk mtype="seg" mid="34">Warehousing</mrk></seg-source><target><mrk mtype="seg" mid="34">Skladování</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Planning</source><seg-source><mrk mtype="seg" mid="35">Planning</mrk></seg-source><target><mrk mtype="seg" mid="35">Plánování</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Inventory</source><seg-source><mrk mtype="seg" mid="36">Inventory</mrk></seg-source><target><mrk mtype="seg" mid="36">Zásoby</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="37">Yes</mrk></seg-source><target><mrk mtype="seg" mid="37">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="38">Yes</mrk></seg-source><target><mrk mtype="seg" mid="38">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="39">Yes</mrk></seg-source><target><mrk mtype="seg" mid="39">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="40">Yes</mrk></seg-source><target><mrk mtype="seg" mid="40">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="41">Yes</mrk></seg-source><target><mrk mtype="seg" mid="41">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="42">Yes</mrk></seg-source><target><mrk mtype="seg" mid="42">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="43">Yes</mrk></seg-source><target><mrk mtype="seg" mid="43">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="44">Yes</mrk></seg-source><target><mrk mtype="seg" mid="44">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="45">Yes</mrk></seg-source><target><mrk mtype="seg" mid="45">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="46">Yes</mrk></seg-source><target><mrk mtype="seg" mid="46">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="47">Yes</mrk></seg-source><target><mrk mtype="seg" mid="47">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="48">Yes</mrk></seg-source><target><mrk mtype="seg" mid="48">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="49">Yes</mrk></seg-source><target><mrk mtype="seg" mid="49">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="50">Yes</mrk></seg-source><target><mrk mtype="seg" mid="50">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="51">Yes</mrk></seg-source><target><mrk mtype="seg" mid="51">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="52">Yes</mrk></seg-source><target><mrk mtype="seg" mid="52">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>Non-Inventory</source><seg-source><mrk mtype="seg" mid="53">Non-Inventory</mrk></seg-source><target><mrk mtype="seg" mid="53">Neskladované</mrk></target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="54">Yes</mrk></seg-source><target><mrk mtype="seg" mid="54">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="55">Yes</mrk></seg-source><target><mrk mtype="seg" mid="55">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="56">Yes</mrk></seg-source><target><mrk mtype="seg" mid="56">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="57">Yes</mrk></seg-source><target><mrk mtype="seg" mid="57">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="58">Yes</mrk></seg-source><target><mrk mtype="seg" mid="58">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="59">Yes</mrk></seg-source><target><mrk mtype="seg" mid="59">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="60">No</mrk></seg-source><target><mrk mtype="seg" mid="60">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="61">No</mrk></seg-source><target><mrk mtype="seg" mid="61">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="62">No</mrk></seg-source><target><mrk mtype="seg" mid="62">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="63">No</mrk></seg-source><target><mrk mtype="seg" mid="63">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="64">No</mrk></seg-source><target><mrk mtype="seg" mid="64">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="65">No</mrk></seg-source><target><mrk mtype="seg" mid="65">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="66">No</mrk></seg-source><target><mrk mtype="seg" mid="66">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="67">No</mrk></seg-source><target><mrk mtype="seg" mid="67">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="68">No</mrk></seg-source><target><mrk mtype="seg" mid="68">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="69">No</mrk></seg-source><target><mrk mtype="seg" mid="69">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>Service</source><seg-source><mrk mtype="seg" mid="70">Service</mrk></seg-source><target><mrk mtype="seg" mid="70">Služba</mrk></target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="71">Yes</mrk></seg-source><target><mrk mtype="seg" mid="71">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="72">Yes</mrk></seg-source><target><mrk mtype="seg" mid="72">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>Yes</source><seg-source><mrk mtype="seg" mid="73">Yes</mrk></seg-source><target><mrk mtype="seg" mid="73">Ano</mrk></target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="74">No</mrk></seg-source><target><mrk mtype="seg" mid="74">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="75">No</mrk></seg-source><target><mrk mtype="seg" mid="75">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="76">No</mrk></seg-source><target><mrk mtype="seg" mid="76">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="77">No</mrk></seg-source><target><mrk mtype="seg" mid="77">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="78">No</mrk></seg-source><target><mrk mtype="seg" mid="78">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="79">No</mrk></seg-source><target><mrk mtype="seg" mid="79">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="80">No</mrk></seg-source><target><mrk mtype="seg" mid="80">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="81">No</mrk></seg-source><target><mrk mtype="seg" mid="81">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="82">No</mrk></seg-source><target><mrk mtype="seg" mid="82">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="83">No</mrk></seg-source><target><mrk mtype="seg" mid="83">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="84">No</mrk></seg-source><target><mrk mtype="seg" mid="84">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="85">No</mrk></seg-source><target><mrk mtype="seg" mid="85">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>No</source><seg-source><mrk mtype="seg" mid="86">No</mrk></seg-source><target><mrk mtype="seg" mid="86">Ne</mrk></target>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>Items that you offer to your customers but you do not want manage in your system until you start selling them can be set up as catalog items.</source><seg-source><mrk mtype="seg" mid="87">Items that you offer to your customers but you do not want manage in your system until you start selling them can be set up as catalog items.</mrk></seg-source><target><mrk mtype="seg" mid="87">Zboží, které nabízíte svým zákazníkům, ale nechcete ve svém systému spravovat, dokud je nezačnete prodávat, lze nastavit jako zboží v katalogu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>Catalog items are not to be mistaken with regular items of type Non-Inventory.</source><seg-source><mrk mtype="seg" mid="88">Catalog items are not to be mistaken with regular items of type Non-Inventory.</mrk></seg-source><target><mrk mtype="seg" mid="88">Zboží v katalogu se nesmí zaměňovat s běžným zbožím typu Neskladované.</mrk></target>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Work with Catalog Items<ept id="p1">](inventory-how-work-nonstock-items.md)</ept>.</source><seg-source><mrk mtype="seg" mid="89">For more information, see <bpt id="p1">[</bpt>Work with Catalog Items<ept id="p1">](inventory-how-work-nonstock-items.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="89">Pro více informací navštivte <bpt id="p1">[</bpt>Práce se Zbožím v katalogu<ept id="p1">](inventory-how-work-nonstock-items.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>Customers' items that you perform service on, such as a printer, are called service items.</source><seg-source><mrk mtype="seg" mid="90">Customers' items that you perform service on, such as a printer, are called service items.</mrk></seg-source><target><mrk mtype="seg" mid="90">Zboží zákazníků, na kterých provádíte servis, například tiskárna, se nazývá předmět servisu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>Service items have nothing to do with regular or catalog items.</source><seg-source><mrk mtype="seg" mid="91">Service items have nothing to do with regular or catalog items.</mrk></seg-source><target><mrk mtype="seg" mid="91">Předmět servisu nemá nic společné s běžným zbožím nebo zbožím v katalogu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>However, service components can be regular items.</source><seg-source><mrk mtype="seg" mid="92">However, service components can be regular items.</mrk></seg-source><target><mrk mtype="seg" mid="92">Komponenty služeb však mohou být běžným zbožím.</mrk></target>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Set Up Service Items and Service Item Components<ept id="p1">](service-how-setup-service-items.md)</ept>.</source><seg-source><mrk mtype="seg" mid="93">For more information, see <bpt id="p1">[</bpt>Set Up Service Items and Service Item Components<ept id="p1">](service-how-setup-service-items.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="93">Pro více informací navštivte <bpt id="p1">[</bpt>Nastavení Předmětů servisu a Komponent předmětu servisu<ept id="p1">](service-how-setup-service-items.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="94">See Also</mrk></seg-source><target><mrk mtype="seg" mid="94">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Register New Items<ept id="p1">](inventory-how-register-new-items.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="95">Register New Items</mrk><ept id="p1">](inventory-how-register-new-items.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="95">Registrace nového zboží</mrk><ept id="p1">](inventory-how-register-new-items.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Inventory<ept id="p1">](inventory-setup-inventory.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="96">Setting Up Inventory</mrk><ept id="p1">](inventory-setup-inventory.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="96">Nastavení zásob</mrk><ept id="p1">](inventory-setup-inventory.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Managing Inventory Costs<ept id="p1">](finance-manage-inventory-costs.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="97">Managing Inventory Costs</mrk><ept id="p1">](finance-manage-inventory-costs.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="97">Správa nákladů</mrk><ept id="p1">](finance-manage-inventory-costs.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Inventory<ept id="p1">](inventory-manage-inventory.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="98">Inventory</mrk><ept id="p1">](inventory-manage-inventory.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="98">Zásoby</mrk><ept id="p1">](inventory-manage-inventory.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="99">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="99">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
