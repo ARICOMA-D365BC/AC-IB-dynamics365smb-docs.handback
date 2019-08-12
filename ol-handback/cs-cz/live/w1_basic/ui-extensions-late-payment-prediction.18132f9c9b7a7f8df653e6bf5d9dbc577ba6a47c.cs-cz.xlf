@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="ui-extensions-late-payment-prediction.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-435fba6" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4e47858bf1f7253f8fb8951fe8ea3cb611138852</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\ui-extensions-late-payment-prediction.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b9229236ce534963dd5c6ce16370d86e2038b145</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">bcbcb262b874ab72147513cd2d8b346a7444d753</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Predict Late Payments for Sales Documents | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Predict Late Payments for Sales Documents | Microsoft Docs</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="1">Předpověď opožděných plateb za prodejní doklady | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Use our predictive model to predict whether an invoice will be paid on time.</source><seg-source><mrk mtype="seg" mid="2">Use our predictive model to predict whether an invoice will be paid on time.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="2">Pomocí našeho prediktivního modelu můžete předpovědět, zda bude faktura uhrazena včas.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>The Late Payment Prediction Extension</source><seg-source><mrk mtype="seg" mid="3">The Late Payment Prediction Extension</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="3">Rozšíření Late Payment Prediction</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Effectively managing receivables is important to the overall financial health of a business.</source><seg-source><mrk mtype="seg" mid="4">Effectively managing receivables is important to the overall financial health of a business.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="4">Efektivní správa pohledávek je důležitá pro celkové finanční zdraví podniku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The Late Payment Prediction extension can help you reduce outstanding receivables and fine-tune your collections strategy by predicting whether sales invoices will be paid on time.</source><seg-source><mrk mtype="seg" mid="5">The Late Payment Prediction extension can help you reduce outstanding receivables and fine-tune your collections strategy by predicting whether sales invoices will be paid on time.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="5">Rozšíření Late Payment Prediction vám může pomoct snížit nesplacené pohledávky a doladit vaši strategii inkasa předpovídáním, zda budou prodejní faktury včas uhrazeny.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>For example, if a payment is predicted to be late, you might decide to adjust the terms of payment or the payment method for the customer.</source><seg-source><mrk mtype="seg" mid="6">For example, if a payment is predicted to be late, you might decide to adjust the terms of payment or the payment method for the customer.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="6">Pokud se například předpokládá, že platba bude opožděná, můžete se rozhodnout upravit platební podmínky nebo způsob platby pro zákazníka.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>What are Predictions Based On?</source><seg-source><mrk mtype="seg" mid="7">What are Predictions Based On?</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Na čem jsou předpovědi zakládány?</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>The Late Payment Prediction extension uses a predictive model that we developed in Azure Machine Learning Studio and trained using data that is representative of a range of small to medium sized businesses.</source><seg-source><mrk mtype="seg" mid="8">The Late Payment Prediction extension uses a predictive model that we developed in Azure Machine Learning Studio and trained using data that is representative of a range of small to medium sized businesses.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="8">Rozšíření Late Payment Prediction používá prediktivní model, který jsme vyvinuli v Azure Machine Learning Studio a nastavili jsme ho pomocí dat, která reprezentují řadu malých a středních podniků.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Though we have already trained and evaluated it, our predictive model will continue to learn from your data.</source><seg-source><mrk mtype="seg" mid="9">Though we have already trained and evaluated it, our predictive model will continue to learn from your data.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="9">Přestože jsme ho již nastavili a vyhodnotili, náš prediktivní model se bude i nadále učit z vašich dat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>The more you use the model and the more data you feed it, the more accurate predictions will become.</source><seg-source><mrk mtype="seg" mid="10">The more you use the model and the more data you feed it, the more accurate predictions will become.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="10">Čím více budete model používat a čím více dat budete do něj vkládat, tím budou předpovědi přesnější.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>By default, the extension evaluates the model and updates the predictions on a weekly basis.</source><seg-source><mrk mtype="seg" mid="11">By default, the extension evaluates the model and updates the predictions on a weekly basis.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">Ve výchozím nastavení rozšíření model vyhodnocuje a aktualizuje předpovědi každý týden.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>However, you can update the predictions whenever you want by choosing the <bpt id="p1">**</bpt>Update Prediction<ept id="p1">**</ept> action on the <bpt id="p2">**</bpt>Customer Ledger Entries<ept id="p2">**</ept> page.</source><seg-source><mrk mtype="seg" mid="12">However, you can update the predictions whenever you want by choosing the <bpt id="p1">**</bpt>Update Prediction<ept id="p1">**</ept> action on the <bpt id="p2">**</bpt>Customer Ledger Entries<ept id="p2">**</ept> page.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="12">Předpovědi však můžete kdykoli aktualizovat výběrem akce <bpt id="p1">**</bpt>Aktualizovat předpověď<ept id="p1">**</ept> na stránce <bpt id="p2">**</bpt>Položky zákazníka<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>We use a bit of your compute time each week when we evaluate the model and update your predictions.</source><seg-source><mrk mtype="seg" mid="13">We use a bit of your compute time each week when we evaluate the model and update your predictions.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="13">Každý týden využíváme trochu vaší výpočetní doby, když model vyhodnocujeme a aktualizujeme vaše předpovědi.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>In addition to manually updating your predictions, other actions that consume compute time are when you train the model (which you might do if you've recently added data) and when you evaluate the model (which looks at the quality of the model).</source><seg-source><mrk mtype="seg" mid="14">In addition to manually updating your predictions, other actions that consume compute time are when you train the model (which you might do if you've recently added data) and when you evaluate the model (which looks at the quality of the model).</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="14">Kromě ruční aktualizace vašich předpovědí jsou tu další akce, které vyžadují výpočetní čas, při vylepšování modelu (což můžete udělat, pokud jste nedávno přidali data) a při vyhodnocování modelu (který se dívá na kvalitu modelu).</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Getting Started</source><seg-source><mrk mtype="seg" mid="15">Getting Started</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="15">Začínáme</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>The extension is free in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>, and we provide a subscription to Azure Machine Learning.</source><seg-source><mrk mtype="seg" mid="16">The extension is free in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>, and we provide a subscription to Azure Machine Learning.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="16">Rozšíření je zdarma v <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> a my poskytujeme předplatné služby Azure Machine Learning.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>The subscription offers 30 minutes of compute time per month.</source><seg-source><mrk mtype="seg" mid="17">The subscription offers 30 minutes of compute time per month.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="17">Předplatné nabízí 30 minut výpočetního času za měsíc.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>If you need more than that you can create your own predictive model and use it instead.</source><seg-source><mrk mtype="seg" mid="18">If you need more than that you can create your own predictive model and use it instead.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="18">Pokud potřebujete více, můžete si vytvořit svůj vlastní prediktivní model a místo toho ho použít.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>For more information, see the section titled <bpt id="p1">_</bpt>Building Your Own Predictive Model<ept id="p1">_</ept> later in this topic.</source><seg-source><mrk mtype="seg" mid="19">For more information, see the section titled <bpt id="p1">_</bpt>Building Your Own Predictive Model<ept id="p1">_</ept> later in this topic.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="19">Pro více informací navštivte část <bpt id="p1">_</bpt>Vytvoření vlastního prediktivního modelu<ept id="p1">_</ept> v tomto tématu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>When you open a posted sales document, a notification will display at the top of the page.</source><seg-source><mrk mtype="seg" mid="20">When you open a posted sales document, a notification will display at the top of the page.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="20">Když otevřete zaúčtovaný prodejní dokument, v horní části stránky se zobrazí oznámení.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>To use the Late Payment Prediction Extension you can opt in by choosing <bpt id="p1">**</bpt>Enable<ept id="p1">**</ept> in the notification.</source><seg-source><mrk mtype="seg" mid="21">To use the Late Payment Prediction Extension you can opt in by choosing <bpt id="p1">**</bpt>Enable<ept id="p1">**</ept> in the notification.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="21">Chcete-li použít prodloužení predikce pozdních plateb, můžete se přihlásit výběrem možnosti <bpt id="p1">**</bpt>Povolit<ept id="p1">**</ept> v oznámení.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Alternatively, you can set up the extension manually.</source><seg-source><mrk mtype="seg" mid="22">Alternatively, you can set up the extension manually.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="22">Případně můžete rozšíření nastavit ručně.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>For example, if you regret dismissing the notification.</source><seg-source><mrk mtype="seg" mid="23">For example, if you regret dismissing the notification.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="23">Pokud například litujete zamítnutí oznámení.</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>To enable the extension manually, follow these steps:</source><seg-source><mrk mtype="seg" mid="24">To enable the extension manually, follow these steps:</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="24">Pro ruční povolení rozšíření, postupujte takto:</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Service Connections<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="25">Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Service Connections<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="25">Vyberte ikonu <bpt id="p1">![</bpt>Žárovka, která otevře funkci Řekněte mi<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Řekněte mi, co chcete dělat<ept id="p2">")</ept>, zvolte <bpt id="p3">**</bpt>Připojení Služby<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>Late Payment Prediction Setup<ept id="p1">**</ept> option, and then fill in the fields as necessary.</source><seg-source><mrk mtype="seg" mid="26">Choose the <bpt id="p1">**</bpt>Late Payment Prediction Setup<ept id="p1">**</ept> option, and then fill in the fields as necessary.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="26">Vyberte možnost <bpt id="p1">**</bpt>Nastavení Late Payment Prediction<ept id="p1">**</ept> a vyplňte pole podle potřeby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Viewing All Payment Predictions</source><seg-source><mrk mtype="seg" mid="27">Viewing All Payment Predictions</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="27">Zobrazení všech platebních předpovědí</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>If you enable the extension a <bpt id="p1">**</bpt>Payments Predicted to be Late<ept id="p1">**</ept> tile is available in the <bpt id="p2">**</bpt>Business Manager<ept id="p2">**</ept> Role Center.</source><seg-source><mrk mtype="seg" mid="28">If you enable the extension a <bpt id="p1">**</bpt>Payments Predicted to be Late<ept id="p1">**</ept> tile is available in the <bpt id="p2">**</bpt>Business Manager<ept id="p2">**</ept> Role Center.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="28">Pokud povolíte rozšíření, bude v Centru rolí <bpt id="p2">**</bpt>Business Manager<ept id="p2">**</ept> k dispozici dlaždice <bpt id="p1">**</bpt>Předpokládané opožděné platby<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>The tile displays the number of payments that are predicted to be late, and let's you open the <bpt id="p1">**</bpt>Customer Ledger Entries<ept id="p1">**</ept> page where you can dig deeper into the posted invoices.</source><seg-source><mrk mtype="seg" mid="29">The tile displays the number of payments that are predicted to be late, and let's you open the <bpt id="p1">**</bpt>Customer Ledger Entries<ept id="p1">**</ept> page where you can dig deeper into the posted invoices.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="29">Dlaždice zobrazuje počet plateb, u nichž se předpokládá, že budou zpožděny, a když otevřete stránku <bpt id="p1">**</bpt>Položky zákazníka<ept id="p1">**</ept>, kde můžete najít více informací o zaúčtovaných fakturách.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>There are three columns to pay attention to:</source><seg-source><mrk mtype="seg" mid="30">There are three columns to pay attention to:</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="30">Jsou zde tři sloupce, kterým věnujte pozornost:</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Late Payment<ept id="p1">**</ept> - Indicates whether the payment for the invoice is predicted to be late.</source><seg-source><mrk mtype="seg" mid="31"><bpt id="p1">**</bpt>Late Payment<ept id="p1">**</ept> - Indicates whether the payment for the invoice is predicted to be late.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="31"><bpt id="p1">**</bpt>Pozdní platba<ept id="p1">**</ept> - Označuje, zda se předpokládá, že platba za fakturu bude zpožděná.</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Prediction Confidence<ept id="p1">**</ept> - Indicates how reliable you should consider the prediction to be.</source><seg-source><mrk mtype="seg" mid="32"><bpt id="p1">**</bpt>Prediction Confidence<ept id="p1">**</ept> - Indicates how reliable you should consider the prediction to be.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="32"><bpt id="p1">**</bpt>Důvěra v predikci<ept id="p1">**</ept> - Označuje, jak spolehlivá by měla být předpověď.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>High<ept id="p1">**</ept> means that the prediction is at least 90% sure, <bpt id="p2">**</bpt>Medium<ept id="p2">**</ept> is between 80 and 90%, and <bpt id="p3">**</bpt>Low<ept id="p3">**</ept> is below 80%.</source><seg-source><mrk mtype="seg" mid="33"><bpt id="p1">**</bpt>High<ept id="p1">**</ept> means that the prediction is at least 90% sure, <bpt id="p2">**</bpt>Medium<ept id="p2">**</ept> is between 80 and 90%, and <bpt id="p3">**</bpt>Low<ept id="p3">**</ept> is below 80%.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="33"><bpt id="p1">**</bpt>Vysoká<ept id="p1">**</ept> znamená, že předpověď predikce je alespoň z 90 % jistá, <bpt id="p2">**</bpt>Střední<ept id="p2">**</ept> je mezi 80 a 90 % a <bpt id="p3">**</bpt>Nízká<ept id="p3">**</ept> je pod 80 %.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Prediction Confidence %<ept id="p1">**</ept> - Shows the actual percentage behind the confidence rating.</source><seg-source><mrk mtype="seg" mid="34"><bpt id="p1">**</bpt>Prediction Confidence %<ept id="p1">**</ept> - Shows the actual percentage behind the confidence rating.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="34"><bpt id="p1">**</bpt>Predikce spolehlivosti %<ept id="p1">**</ept> - Zobrazuje skutečné procentu důvěryhodnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>By default, this column is not displayed, but you can add it if you want.</source><seg-source><mrk mtype="seg" mid="35">By default, this column is not displayed, but you can add it if you want.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="35">Ve výchozím nastavení se tento sloupec nezobrazuje, ale můžete jej přidat, pokud chcete.</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Personalizing Your Workspace<ept id="p1">](ui-personalization-user.md)</ept>.</source><seg-source><mrk mtype="seg" mid="36">For more information, see <bpt id="p1">[</bpt>Personalizing Your Workspace<ept id="p1">](ui-personalization-user.md)</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="36">Pro více informací navštivte <bpt id="p1">[</bpt>Přizpůsobení vašeho pracovního prostoru<ept id="p1">](ui-personalization-user.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>The Customer Ledger Entries page also shows a FactBox on the right.</source><seg-source><mrk mtype="seg" mid="37">The Customer Ledger Entries page also shows a FactBox on the right.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="37">Na stránce Položky zákazníka se vpravo zobrazuje také Okno s fakty.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>While you are reviewing predictions, the information in the <bpt id="p1">**</bpt>Customer Details<ept id="p1">**</ept> section can be helpful.</source><seg-source><mrk mtype="seg" mid="38">While you are reviewing predictions, the information in the <bpt id="p1">**</bpt>Customer Details<ept id="p1">**</ept> section can be helpful.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="38">Při kontrole předpovědí mohou být užitečné informace v sekci <bpt id="p1">**</bpt>Detaily zákazníka<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>When you choose the invoice in the list, the section shows information about the customer.</source><seg-source><mrk mtype="seg" mid="39">When you choose the invoice in the list, the section shows information about the customer.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="39">Pokud v seznamu vyberete fakturu, zobrazí se v této části informace o zákazníkovi.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>It also let's you take immediate action.</source><seg-source><mrk mtype="seg" mid="40">It also let's you take immediate action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="40">Také vám umožní okamžitě jednat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>For example, if a customer frequently misplaces their wallet, you can open the Customer card from the FactBox and block the customer for future sales.</source><seg-source><mrk mtype="seg" mid="41">For example, if a customer frequently misplaces their wallet, you can open the Customer card from the FactBox and block the customer for future sales.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="41">Pokud například zákazník často ztrácí peněženku, můžete otevřít zákaznickou kartu z Okna s fakty a zablokovat tak budoucí prodej.</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Viewing a Payment Prediction for a Specific Sales Document</source><seg-source><mrk mtype="seg" mid="42">Viewing a Payment Prediction for a Specific Sales Document</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="42">Zobrazení predikce platby pro konkrétní prodejní doklad</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>You can also predict late payments up-front.</source><seg-source><mrk mtype="seg" mid="43">You can also predict late payments up-front.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="43">Můžete také předem předpovědět pozdní platby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">**</bpt>Sales Quotes<ept id="p1">**</ept>, <bpt id="p2">**</bpt>Sales Orders<ept id="p2">**</ept>, and <bpt id="p3">**</bpt>Sales Invoices<ept id="p3">**</ept> pages, you can use the <bpt id="p4">**</bpt>Predict Payment<ept id="p4">**</ept> action to generate a prediction for the sales document you're viewing.</source><seg-source><mrk mtype="seg" mid="44">On the <bpt id="p1">**</bpt>Sales Quotes<ept id="p1">**</ept>, <bpt id="p2">**</bpt>Sales Orders<ept id="p2">**</ept>, and <bpt id="p3">**</bpt>Sales Invoices<ept id="p3">**</ept> pages, you can use the <bpt id="p4">**</bpt>Predict Payment<ept id="p4">**</ept> action to generate a prediction for the sales document you're viewing.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="44">Na stránkách <bpt id="p1">**</bpt>Prodejní nabídky<ept id="p1">**</ept>, <bpt id="p2">**</bpt>Prodejní objednávky<ept id="p2">**</ept> a <bpt id="p3">**</bpt>Prodejní faktury<ept id="p3">**</ept> můžete pomocí akce <bpt id="p4">**</bpt>Predikce platby<ept id="p4">**</ept> vygenerovat predikci pro zobrazovaný prodejní dokument.</mrk></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Building Your Own Predictive Model</source><seg-source><mrk mtype="seg" mid="45">Building Your Own Predictive Model</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="45">Vytvoření vašeho vlastního prediktivního modelu</mrk></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Interested in building your own predictive model?</source><seg-source><mrk mtype="seg" mid="46">Interested in building your own predictive model?</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="46">Máte zájem o vytvoření vlastního prediktivního modelu?</mrk></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>You can use Azure Machine Learning Studio to build your own predictive model and use it in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</source><seg-source><mrk mtype="seg" mid="47">You can use Azure Machine Learning Studio to build your own predictive model and use it in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="47">Můžete použít Azure Machine Learning Studio k vytvoření vlastního prediktivního modelu a jeho použití v <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>To use your own model, you must subscribe to Azure Machine Learning.</source><seg-source><mrk mtype="seg" mid="48">To use your own model, you must subscribe to Azure Machine Learning.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="48">Pokud chcete používat svůj vlastní mode, musíte si předplatit službu Azure Machine Learning.</mrk></target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Azure Machine Learning Studio Documentation<ept id="p1">](https://go.microsoft.com/fwlink/?linkid=861765)</ept>.</source><seg-source><mrk mtype="seg" mid="49">For more information, see <bpt id="p1">[</bpt>Azure Machine Learning Studio Documentation<ept id="p1">](https://go.microsoft.com/fwlink/?linkid=861765)</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="49">Pro více informací navštivte <bpt id="p1">[</bpt>Dokumentace Azure Machine Learning Studio<ept id="p1">](https://go.microsoft.com/fwlink/?linkid=861765)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>We do, however, offer an easier way for you to create and use your own predictive model.</source><seg-source><mrk mtype="seg" mid="50">We do, however, offer an easier way for you to create and use your own predictive model.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="50">Nabízíme vám však jednodušší způsob, jak vytvořit a používat svůj vlastní prediktivní model.</mrk></target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>You can share data from your invoices with our predictive experiment in Azure Machine Learning, and let our experiment create and train a predictive model based on your data.</source><seg-source><mrk mtype="seg" mid="51">You can share data from your invoices with our predictive experiment in Azure Machine Learning, and let our experiment create and train a predictive model based on your data.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="51">Můžete sdílet data z vašich faktur s naším prediktivním experimentem v Azure Machine Learning a nechat náš experiment vytvořit a nastavit prediktivní model založený na vašich datech.</mrk></target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>To share your data, on the <bpt id="p1">**</bpt>Late Payment Prediction Setup<ept id="p1">**</ept> page, choose the <bpt id="p2">**</bpt>Create My Model<ept id="p2">**</ept> action.</source><seg-source><mrk mtype="seg" mid="52">To share your data, on the <bpt id="p1">**</bpt>Late Payment Prediction Setup<ept id="p1">**</ept> page, choose the <bpt id="p2">**</bpt>Create My Model<ept id="p2">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="52">Chcete-li data sdílet, na stránce <bpt id="p1">**</bpt>Nastavení predikce pozdních plateb<ept id="p1">**</ept> vyberte akci <bpt id="p2">**</bpt>Vytvořit můj model<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>Afterward, predictions will be based on your model and your data, not ours.</source><seg-source><mrk mtype="seg" mid="53">Afterward, predictions will be based on your model and your data, not ours.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="53">Poté budou předpovědi vycházet z vašeho modelu a vašich dat, nikoli z našich.</mrk></target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>The quality of the model is important.</source><seg-source><mrk mtype="seg" mid="54">The quality of the model is important.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="54">Kvalita modelu je důležitá.</mrk></target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>When our predictive experiment uses your data to train a model it determines a quality value for the model as a percentage.</source><seg-source><mrk mtype="seg" mid="55">When our predictive experiment uses your data to train a model it determines a quality value for the model as a percentage.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="55">Když náš prediktivní experiment použije vaše data k vylepšení modelu, určuje hodnotu kvality pro model jako procento.</mrk></target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>The model quality indicates how accurate the model's predictions are likely to be.</source><seg-source><mrk mtype="seg" mid="56">The model quality indicates how accurate the model's predictions are likely to be.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="56">Kvalita modelu ukazuje, jak přesné budou předpovědi modelu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>Several factors can impact the quality of a model.</source><seg-source><mrk mtype="seg" mid="57">Several factors can impact the quality of a model.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="57">Kvalitu modelu může ovlivnit několik faktorů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>For example, these factors might be that there was not enough data, or the data did not contain enough variation.</source><seg-source><mrk mtype="seg" mid="58">For example, these factors might be that there was not enough data, or the data did not contain enough variation.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="58">Tyto faktory mohou například spočívat v tom, že nebylo k dispozici dostatek údajů nebo data neobsahovala dostatečné variace.</mrk></target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>You can view the quality of the model you are currently using on the <bpt id="p1">**</bpt>Late Payment Prediction Setup<ept id="p1">**</ept> page.</source><seg-source><mrk mtype="seg" mid="59">You can view the quality of the model you are currently using on the <bpt id="p1">**</bpt>Late Payment Prediction Setup<ept id="p1">**</ept> page.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="59">Kvalitu modelu, který právě používáte, si můžete prohlédnout na stránce <bpt id="p1">**</bpt>Nastavení predikce pozdních plateb<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>You can also specify a minimum threshold for the model quality.</source><seg-source><mrk mtype="seg" mid="60">You can also specify a minimum threshold for the model quality.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="60">Můžete také určit minimální hraniční hodnotu pro kvalitu modelu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>Models with a quality value below the threshold will not produce predictions.</source><seg-source><mrk mtype="seg" mid="61">Models with a quality value below the threshold will not produce predictions.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="61">Modely s hodnotou kvality pod touto hranicí nebudou vytvářet předpovědi.</mrk></target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>To use your model instead of ours</source><seg-source><mrk mtype="seg" mid="62">To use your model instead of ours</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="62">Pro použití vašeho modelu místo našeho</mrk></target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>If you create your own model in Azure Machine Learning Studio, without using the tools in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>, you must provide your credentials so that <ph id="ph2">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> can access the model.</source><seg-source><mrk mtype="seg" mid="63">If you create your own model in Azure Machine Learning Studio, without using the tools in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>, you must provide your credentials so that <ph id="ph2">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> can access the model.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="63">Pokud si v Azure Machine Learning Studio vytvoříte svůj vlastní model, aniž byste použili nástroje v <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>, musíte uvést své přihlašovací údaje, aby k němu měl <ph id="ph2">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> přístup.</mrk></target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>There are a couple of steps to do that:</source><seg-source><mrk mtype="seg" mid="64">There are a couple of steps to do that:</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="64">Existuje několik kroků, jak toho dosáhnout:</mrk></target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Late Payment Prediction Setup<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="65">Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Late Payment Prediction Setup<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="65">Vyberte ikonu <bpt id="p1">![</bpt>Žárovka, která otevře funkci Řekněte mi<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Řekněte mi, co chcete dělat<ept id="p2">")</ept>, zvolte <bpt id="p3">**</bpt>Nastavení predikce pozdních plateb<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>Use My Azure Subscription<ept id="p1">**</ept> check box.</source><seg-source><mrk mtype="seg" mid="66">Choose the <bpt id="p1">**</bpt>Use My Azure Subscription<ept id="p1">**</ept> check box.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="66">Zaškrtněte políčko <bpt id="p1">**</bpt>Použít moje předplatné Azure<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Selected Model<ept id="p1">**</ept> field, choose <bpt id="p2">**</bpt>My Model<ept id="p2">**</ept>.</source><seg-source><mrk mtype="seg" mid="67">In the <bpt id="p1">**</bpt>Selected Model<ept id="p1">**</ept> field, choose <bpt id="p2">**</bpt>My Model<ept id="p2">**</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="67">V poli <bpt id="p1">**</bpt>Vybraný model<ept id="p1">**</ept> vyberte možnost <bpt id="p2">**</bpt>Můj model<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">**</bpt>My Model Credentials<ept id="p1">**</ept> FastTab, enter the API URL and API key for your model.</source><seg-source><mrk mtype="seg" mid="68">On the <bpt id="p1">**</bpt>My Model Credentials<ept id="p1">**</ept> FastTab, enter the API URL and API key for your model.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="68">Na pevné záložce <bpt id="p1">**</bpt>Moje pověření modelu<ept id="p1">**</ept> zadejte adresu rozhraní API a kód rozhraní API pro váš model.</mrk></target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="69">See Also</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="69">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Azure Machine Learning Studio Documentation<ept id="p1">](https://go.microsoft.com/fwlink/?linkid=861765)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="70">Azure Machine Learning Studio Documentation</mrk><ept id="p1">](https://go.microsoft.com/fwlink/?linkid=861765)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="70">Dokumentace Azure Machine Learning Studio</mrk><ept id="p1">](https://go.microsoft.com/fwlink/?linkid=861765)</ept></target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Customizing Business Central Using Extensions<ept id="p1">](ui-extensions.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="71">Customizing Business Central Using Extensions</mrk><ept id="p1">](ui-extensions.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="71">Přizpůsobení Business Central pomocí rozšíření</mrk><ept id="p1">](ui-extensions.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Welcome to <ph id="ph1">[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</ph><ept id="p1">](index.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="72">Welcome to</mrk> <ph id="ph1">[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</ph><ept id="p1">](index.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="72">Vítejte v</mrk> <ph id="ph1">[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</ph><ept id="p1">](index.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
