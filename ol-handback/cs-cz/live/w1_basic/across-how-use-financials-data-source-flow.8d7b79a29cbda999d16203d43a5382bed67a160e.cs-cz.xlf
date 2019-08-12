@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="across-how-use-financials-data-source-flow.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-435fba6" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6f79bd9a5e3f79d4366a1a43411fe39942ac4e4f</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\across-how-use-financials-data-source-flow.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">90850c7dfb59f0ffad3161ccf9b5aee5bb2afc95</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4a647470c3a4d1a35ddc0c169867ed70ad950c6c</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Connect Your Data with Flow| Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Connect Your Data with Flow| Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Propojte svá data pomocí Flow | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>You can make your Business Central data available as a data source and specify an OData URL of your web services to build an automated workflow.</source><seg-source><mrk mtype="seg" mid="2">You can make your Business Central data available as a data source and specify an OData URL of your web services to build an automated workflow.</mrk></seg-source><target><mrk mtype="seg" mid="2">Můžete dát své Business Central údaje k dispozici jako zdroj dat a zadat OData URL svých webových služeb a vytvořit tak automatizovaný pracovní postup.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Using <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> in an Automated Workflow</source><seg-source><mrk mtype="seg" mid="3">Using <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> in an Automated Workflow</mrk></seg-source><target><mrk mtype="seg" mid="3">Používání <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> v automatizovaném pracovním postupu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>You can use your <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> data as part of a workflow in Microsoft Flow.</source><seg-source><mrk mtype="seg" mid="4">You can use your <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> data as part of a workflow in Microsoft Flow.</mrk></seg-source><target><mrk mtype="seg" mid="4">Svá data <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> můžete použít jako součást pracovního postupu v aplikaci Microsoft Flow.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>In addition to Microsoft Flow, you can use the Workflow functionality within <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</source><seg-source><mrk mtype="seg" mid="5">In addition to Microsoft Flow, you can use the Workflow functionality within <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</mrk></seg-source><target><mrk mtype="seg" mid="5">Kromě Microsoft Flow můžete funkcionalitu pracovního postupu použít i uvnitř <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Note that although they are two separate workflow systems, any Flow template that you create with Microsoft Flow is added to the list of workflow templates within <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</source><seg-source><mrk mtype="seg" mid="6">Note that although they are two separate workflow systems, any Flow template that you create with Microsoft Flow is added to the list of workflow templates within <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</mrk></seg-source><target><mrk mtype="seg" mid="6">Všimněte si, že ačkoli se jedná o dva samostatné systémy pracovního postupu, jakákoli šablona toku, kterou vytvoříte pomocí aplikace Microsoft Flow, bude přidána do seznamu šablon pracovního postupu v rámci <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Workflow<ept id="p1">](across-workflow.md)</ept>.</source><seg-source><mrk mtype="seg" mid="7">For more information, see <bpt id="p1">[</bpt>Workflow<ept id="p1">](across-workflow.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="7">Pro více informací navštivte sekci <bpt id="p1">[</bpt>Pracovní postup<ept id="p1">](across-workflow.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>You must have a valid account with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> and with Flow.</source><seg-source><mrk mtype="seg" mid="8">You must have a valid account with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> and with Flow.</mrk></seg-source><target><mrk mtype="seg" mid="8">Musíte mít platný účet v <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> a ve službě Flow.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>To add <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> as a data source in Flow</source><seg-source><mrk mtype="seg" mid="9">To add <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> as a data source in Flow</mrk></seg-source><target><mrk mtype="seg" mid="9">Chcete-li přidat <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> jako zdroj dat ve Flow</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>In your browser, navigate to <bpt id="p1">[</bpt>flow.microsoft.com<ept id="p1">](https://flow.microsoft.com/en-us/)</ept>, and then sign in.</source><seg-source><mrk mtype="seg" mid="10">In your browser, navigate to <bpt id="p1">[</bpt>flow.microsoft.com<ept id="p1">](https://flow.microsoft.com/en-us/)</ept>, and then sign in.</mrk></seg-source><target><mrk mtype="seg" mid="10">V prohlížeči přejděte na web <bpt id="p1">[</bpt>flow.microsoft.com<ept id="p1">](https://flow.microsoft.com/en-us/)</ept> a přihlaste se.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Choose <bpt id="p1">**</bpt>My Flows<ept id="p1">**</ept> from the ribbon at the top of the page.</source><seg-source><mrk mtype="seg" mid="11">Choose <bpt id="p1">**</bpt>My Flows<ept id="p1">**</ept> from the ribbon at the top of the page.</mrk></seg-source><target><mrk mtype="seg" mid="11">Z pásu karet v horní části stránky vyberte položku <bpt id="p1">**</bpt>Moje toky<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>There are 2 ways to create a Flow; <bpt id="p1">**</bpt>Create from template<ept id="p1">**</ept> and <bpt id="p2">**</bpt>Create from blank<ept id="p2">**</ept>.</source><seg-source><mrk mtype="seg" mid="12">There are 2 ways to create a Flow; <bpt id="p1">**</bpt>Create from template<ept id="p1">**</ept> and <bpt id="p2">**</bpt>Create from blank<ept id="p2">**</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="12">Existují 2 způsoby, jak vytvořit tok; <bpt id="p1">**</bpt>Vytvořit ze šablony<ept id="p1">**</ept> a <bpt id="p2">**</bpt>Vytvořit od začátku<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>A template is a predefined Flow that has been created for you.</source><seg-source><mrk mtype="seg" mid="13">A template is a predefined Flow that has been created for you.</mrk></seg-source><target><mrk mtype="seg" mid="13">Šablona je předdefinovaný tok, který pro vás byl vytvořen.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>To use a template, simply select it and create a connection for each service the template uses.</source><seg-source><mrk mtype="seg" mid="14">To use a template, simply select it and create a connection for each service the template uses.</mrk></seg-source><target><mrk mtype="seg" mid="14">Chcete-li použít šablonu, jednoduše ji vyberte a vytvořte připojení pro každou službu, kterou šablona používá.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>A blank template enables you to create a new Flow completely from scratch.</source><seg-source><mrk mtype="seg" mid="15">A blank template enables you to create a new Flow completely from scratch.</mrk></seg-source><target><mrk mtype="seg" mid="15">Prázdná šablona vám umožňuje vytvořit nový tok zcela od začátku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>To Create from blank, on the <bpt id="p1">**</bpt>My Flows<ept id="p1">**</ept> page, choose the <bpt id="p2">**</bpt>Create from blank<ept id="p2">**</ept> option.</source><seg-source><mrk mtype="seg" mid="16">To Create from blank, on the <bpt id="p1">**</bpt>My Flows<ept id="p1">**</ept> page, choose the <bpt id="p2">**</bpt>Create from blank<ept id="p2">**</ept> option.</mrk></seg-source><target><mrk mtype="seg" mid="16">Chcete-li vytvořit tok z prázdné šablony, vyberte na stránce <bpt id="p1">**</bpt>Moje toky<ept id="p1">**</ept> možnost <bpt id="p2">**</bpt>Vytvořit od začátku<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Search for <bpt id="p1">**</bpt>Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph><ept id="p1">**</ept> connector.</source><seg-source><mrk mtype="seg" mid="17">Search for <bpt id="p1">**</bpt>Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph><ept id="p1">**</ept> connector.</mrk></seg-source><target><mrk mtype="seg" mid="17">Vyhledejte <bpt id="p1">**</bpt>Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph><ept id="p1">**</ept> konektor.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>From the list of available triggers, select one of the <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> triggers available:</source><seg-source><mrk mtype="seg" mid="18">From the list of available triggers, select one of the <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> triggers available:</mrk></seg-source><target><mrk mtype="seg" mid="18">Ze seznamu dostupných triggerů vyberte jeden z dostupných triggerů <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>:</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>When a customer approval is requested<ept id="p1">*</ept>,</source><seg-source><mrk mtype="seg" mid="19"><bpt id="p1">*</bpt>When a customer approval is requested<ept id="p1">*</ept>,</mrk></seg-source><target><mrk mtype="seg" mid="19"><bpt id="p1">*</bpt>Když je požadováno schválení zákazníka<ept id="p1">*</ept>,</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>When a general journal batch approval is requested<ept id="p1">*</ept>,</source><seg-source><mrk mtype="seg" mid="20"><bpt id="p1">*</bpt>When a general journal batch approval is requested<ept id="p1">*</ept>,</mrk></seg-source><target><mrk mtype="seg" mid="20"><bpt id="p1">*</bpt>Když je požadováno schválení listu finančního deníku <ept id="p1">*</ept>,</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>When a general journal line approval is requested<ept id="p1">*</ept>,</source><seg-source><mrk mtype="seg" mid="21"><bpt id="p1">*</bpt>When a general journal line approval is requested<ept id="p1">*</ept>,</mrk></seg-source><target><mrk mtype="seg" mid="21"><bpt id="p1">*</bpt>Když je požadováno schválení řádku finančního deníku<ept id="p1">*</ept>,</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>When an item approval is requested<ept id="p1">*</ept>,</source><seg-source><mrk mtype="seg" mid="22"><bpt id="p1">*</bpt>When an item approval is requested<ept id="p1">*</ept>,</mrk></seg-source><target><mrk mtype="seg" mid="22"><bpt id="p1">*</bpt>Když je požadováno schválení položky<ept id="p1">*</ept>,</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>When a purchase document approval is requested<ept id="p1">*</ept>,</source><seg-source><mrk mtype="seg" mid="23"><bpt id="p1">*</bpt>When a purchase document approval is requested<ept id="p1">*</ept>,</mrk></seg-source><target><mrk mtype="seg" mid="23"><bpt id="p1">*</bpt>Když je požadováno schválení nákupního dokladu<ept id="p1">*</ept>,</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>When a sales document approval is requested<ept id="p1">*</ept>, or</source><seg-source><mrk mtype="seg" mid="24"><bpt id="p1">*</bpt>When a sales document approval is requested<ept id="p1">*</ept>, or</mrk></seg-source><target><mrk mtype="seg" mid="24"><bpt id="p1">*</bpt>Když je požadováno schválení prodejního dokladu <ept id="p1">*</ept>, nebo</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>When a vendor approval is requested<ept id="p1">*</ept>.</source><seg-source><mrk mtype="seg" mid="25"><bpt id="p1">*</bpt>When a vendor approval is requested<ept id="p1">*</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="25"><bpt id="p1">*</bpt>Když je požadováno schválení dodavatele<ept id="p1">*</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Flow will prompt you to select a company within your <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> tenant, as well as any conditions in your data that you want to listen for.</source><seg-source><mrk mtype="seg" mid="26">Flow will prompt you to select a company within your <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> tenant, as well as any conditions in your data that you want to listen for.</mrk></seg-source><target><mrk mtype="seg" mid="26">Flow vás vyzve k výběru společnosti ve vašem <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> klientovi, stejně tak k výběru stavu ve vašich datech, která chcete poslouchat.
+</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>At this point, you have successfully connected to your Business Central data and are ready to begin building your flow.</source><seg-source><mrk mtype="seg" mid="27">At this point, you have successfully connected to your Business Central data and are ready to begin building your flow.</mrk></seg-source><target><mrk mtype="seg" mid="27">V tomto okamžiku jste se úspěšně připojili k datům Business Central a jste připraveni začít budovat svůj tok.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>To Create from a template, choose the <bpt id="p1">**</bpt>Create from template<ept id="p1">**</ept> option.</source><seg-source><mrk mtype="seg" mid="28">To Create from a template, choose the <bpt id="p1">**</bpt>Create from template<ept id="p1">**</ept> option.</mrk></seg-source><target><mrk mtype="seg" mid="28">Chcete-li vytvořit tok ze šablony, zvolte možnost <bpt id="p1">**</bpt>Vytvořit ze šablony<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Search for <bpt id="p1">**</bpt>Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph><ept id="p1">**</ept> templates.</source><seg-source><mrk mtype="seg" mid="29">Search for <bpt id="p1">**</bpt>Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph><ept id="p1">**</ept> templates.</mrk></seg-source><target><mrk mtype="seg" mid="29">Vyhledejte <bpt id="p1">**</bpt>Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph><ept id="p1">**</ept> šablony.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>From the list of available templates, select one of the templates.</source><seg-source><mrk mtype="seg" mid="30">From the list of available templates, select one of the templates.</mrk></seg-source><target><mrk mtype="seg" mid="30">Ze seznamu dostupných šablon vyberte jednu z dostupných šablon.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> sales order<ept id="p1">*</ept>,</source><seg-source><mrk mtype="seg" mid="31"><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> sales order<ept id="p1">*</ept>,</mrk></seg-source><target><mrk mtype="seg" mid="31"><bpt id="p1">*</bpt>Požadavek na schválení Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> prodejní objednávky<ept id="p1">*</ept>,</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> sales quote<ept id="p1">*</ept>,</source><seg-source><mrk mtype="seg" mid="32"><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> sales quote<ept id="p1">*</ept>,</mrk></seg-source><target><mrk mtype="seg" mid="32"><bpt id="p1">*</bpt>Požadavek na schválení Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> prodejní nabídky<ept id="p1">*</ept>,</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> sales invoice<ept id="p1">*</ept>,</source><seg-source><mrk mtype="seg" mid="33"><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> sales invoice<ept id="p1">*</ept>,</mrk></seg-source><target><mrk mtype="seg" mid="33"><bpt id="p1">*</bpt>Požadavek na schválení Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> prodejní faktury<ept id="p1">*</ept>,</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> sales credit memo<ept id="p1">*</ept>,</source><seg-source><mrk mtype="seg" mid="34"><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> sales credit memo<ept id="p1">*</ept>,</mrk></seg-source><target><mrk mtype="seg" mid="34"><bpt id="p1">*</bpt>Požadavek na schválení Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> prodejního dobropisu<ept id="p1">*</ept>,</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> customer<ept id="p1">*</ept>,</source><seg-source><mrk mtype="seg" mid="35"><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> customer<ept id="p1">*</ept>,</mrk></seg-source><target><mrk mtype="seg" mid="35"><bpt id="p1">*</bpt>Požadavek na schválení Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> zákazníka<ept id="p1">*</ept>,</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> purchase order<ept id="p1">*</ept>,</source><seg-source><mrk mtype="seg" mid="36"><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> purchase order<ept id="p1">*</ept>,</mrk></seg-source><target><mrk mtype="seg" mid="36"><bpt id="p1">*</bpt>Požadavek na schválení Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> nákupní objednávky<ept id="p1">*</ept>,</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> purchase invoice<ept id="p1">*</ept>,</source><seg-source><mrk mtype="seg" mid="37"><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> purchase invoice<ept id="p1">*</ept>,</mrk></seg-source><target><mrk mtype="seg" mid="37"><bpt id="p1">*</bpt>Požadavek na schválení Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> nákupní faktury<ept id="p1">*</ept>,</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> purchase credit memo<ept id="p1">*</ept>,</source><seg-source><mrk mtype="seg" mid="38"><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> purchase credit memo<ept id="p1">*</ept>,</mrk></seg-source><target><mrk mtype="seg" mid="38"><bpt id="p1">*</bpt>Požadavek na schválení Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> nákupního dobropisu<ept id="p1">*</ept>,</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> item<ept id="p1">*</ept>,</source><seg-source><mrk mtype="seg" mid="39"><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> item<ept id="p1">*</ept>,</mrk></seg-source><target><mrk mtype="seg" mid="39"><bpt id="p1">*</bpt>Požadavek na schválení Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> položky<ept id="p1">*</ept>,</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> vendor<ept id="p1">*</ept>,</source><seg-source><mrk mtype="seg" mid="40"><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> vendor<ept id="p1">*</ept>,</mrk></seg-source><target><mrk mtype="seg" mid="40"><bpt id="p1">*</bpt>Požadavek na schválení Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> dodavatele<ept id="p1">*</ept>,</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> general journal batch<ept id="p1">*</ept>,</source><seg-source><mrk mtype="seg" mid="41"><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> general journal batch<ept id="p1">*</ept>,</mrk></seg-source><target><mrk mtype="seg" mid="41"><bpt id="p1">*</bpt>Požadavek na schválení Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> listu finančního deníku<ept id="p1">*</ept>,</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> general journal lines<ept id="p1">*</ept>.</source><seg-source><mrk mtype="seg" mid="42"><bpt id="p1">*</bpt>Request Approval for Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> general journal lines<ept id="p1">*</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="42"><bpt id="p1">*</bpt>Požadavek na schválení Microsoft <ph id="ph1">[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]</ph> řádku finančního deníku<ept id="p1">*</ept>,</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Flow will prompt you to select a company within your <ph id="ph1">[!INCLUDE[d365fin_md](includes/d365fin_md.md)]</ph> tenant.</source><seg-source><mrk mtype="seg" mid="43">Flow will prompt you to select a company within your <ph id="ph1">[!INCLUDE[d365fin_md](includes/d365fin_md.md)]</ph> tenant.</mrk></seg-source><target><mrk mtype="seg" mid="43">Flow vás vyzve k výběru společnosti ve vašem <ph id="ph1">[!INCLUDE[d365fin_md](includes/d365fin_md.md)]</ph> klientovi,</mrk></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Because each step in the flow is independent of the next, you may be required to define the company multiple times when using a <ph id="ph1">[!INCLUDE[d365fin_md](includes/d365fin_md.md)]</ph> Flow template.</source><seg-source><mrk mtype="seg" mid="44">Because each step in the flow is independent of the next, you may be required to define the company multiple times when using a <ph id="ph1">[!INCLUDE[d365fin_md](includes/d365fin_md.md)]</ph> Flow template.</mrk></seg-source><target><mrk mtype="seg" mid="44">Protože každý krok v toku je nezávislý na dalším, budete pravděpodobně muset při použití Flow šablony <ph id="ph1">[!INCLUDE[d365fin_md](includes/d365fin_md.md)]</ph> definovat společnost vícekrát.</mrk></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>For more information, see the <bpt id="p1">[</bpt>Flow Documentation<ept id="p1">](https://docs.microsoft.com/en-us/flow/getting-started)</ept>.</source><seg-source><mrk mtype="seg" mid="45">For more information, see the <bpt id="p1">[</bpt>Flow Documentation<ept id="p1">](https://docs.microsoft.com/en-us/flow/getting-started)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="45">Pro více informací navštivte sekci <bpt id="p1">[</bpt>Dokumentace Flow<ept id="p1">](https://docs.microsoft.com/en-us/flow/getting-started)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>For troubleshooting your Microsoft Flow, see <bpt id="p1">[</bpt>Troubleshooting Integration with Microsoft Flow<ept id="p1">](across-troubleshooting-how-use-financials-data-source-flow.md)</ept>.</source><seg-source><mrk mtype="seg" mid="46">For troubleshooting your Microsoft Flow, see <bpt id="p1">[</bpt>Troubleshooting Integration with Microsoft Flow<ept id="p1">](across-troubleshooting-how-use-financials-data-source-flow.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="46">Pro poradce při potížích v Microsoft Flow navštivte sekci <bpt id="p1">[</bpt>Integrace poradce při potížích v Microsoft Flow<ept id="p1">](across-troubleshooting-how-use-financials-data-source-flow.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="47">See Also</mrk></seg-source><target><mrk mtype="seg" mid="47">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Getting Started<ept id="p1">](product-get-started.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="48">Getting Started</mrk><ept id="p1">](product-get-started.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="48">Začínáme</mrk><ept id="p1">](product-get-started.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Workflow<ept id="p1">](across-workflow.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="49">Workflow</mrk><ept id="p1">](across-workflow.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="49">Pracovní postupy</mrk><ept id="p1">](across-workflow.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Importing Business Data from Other Finance Systems<ept id="p1">](across-import-data-configuration-packages.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="50">Importing Business Data from Other Finance Systems</mrk><ept id="p1">](across-import-data-configuration-packages.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="50">Import obchodních dat z jiných finančních systémů.</mrk><ept id="p1">](across-import-data-configuration-packages.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Managing Users and Permissions<ept id="p1">](ui-how-users-permissions.md)</ept><ph id="ph1"> </ph></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="51">Managing Users and Permissions</mrk><ept id="p1">](ui-how-users-permissions.md)</ept><ph id="ph1"> </ph></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="51">Správa uživatelů a práv</mrk><ept id="p1">](ui-how-users-permissions.md)</ept><ph id="ph1"> </ph></target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Manage <ph id="ph1">[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</ph> Workflows<ept id="p1">](across-use-workflows.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="52">Manage <ph id="ph1">[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</ph> Workflows</mrk><ept id="p1">](across-use-workflows.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="52">Správa pracovních postupů <ph id="ph1">[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</ph>.</mrk><ept id="p1">](across-use-workflows.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Approval User Setup<ept id="p1">](across-how-to-set-up-approval-users.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="53">Approval User Setup</mrk><ept id="p1">](across-how-to-set-up-approval-users.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="53">Nastavení uživatelů schvalování</mrk><ept id="p1">](across-how-to-set-up-approval-users.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](setup.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="54">Setting Up</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](setup.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="54">Nastavení</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](setup.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Finance<ept id="p1">](finance.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="55">Finance</mrk><ept id="p1">](finance.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="55">Finance</mrk><ept id="p1">](finance.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
