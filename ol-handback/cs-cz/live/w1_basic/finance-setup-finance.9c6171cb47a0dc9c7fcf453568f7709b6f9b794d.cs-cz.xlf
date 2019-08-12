@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="finance-setup-finance.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-419b0d8" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">377e7f8eb3cb78adf68e3f4167a215d8f027f972</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\finance-setup-finance.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">29f68df4c39132ab3eaab1e39f287b72ae2dadb2</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ee3ebfcda35644077d81937206c3002899268ccc</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Set Up Financial Processes| Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Set Up Financial Processes| Microsoft Docs</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="1">Nastavení finančních procesů | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Learn about the tasks to set up finance in your business to suit all your accounting, auditing, or bookkeeping needs.</source><seg-source><mrk mtype="seg" mid="2">Learn about the tasks to set up finance in your business to suit all your accounting, auditing, or bookkeeping needs.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="2">Dozvíte se o tom, jak nastavit finance ve své firmě tak, aby vyhovovaly potřebám Vašeho účetnictví, nebo auditu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Setting Up Finance</source><seg-source><mrk mtype="seg" mid="3">Setting Up Finance</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="3">Nastavení financí</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>To help you get going quickly, <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> includes standard configurations for most financial processes.</source><seg-source><mrk mtype="seg" mid="4">To help you get going quickly, <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> includes standard configurations for most financial processes.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="4">Abychom vám pomohli rychle začít, <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> zahrnuje standardní konfigurace pro většinu finančních procesů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>If you need to change the configurations to suit your business, go right ahead.</source><seg-source><mrk mtype="seg" mid="5">If you need to change the configurations to suit your business, go right ahead.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="5">Pokud potřebujete změnit konfiguraci tak, aby vyhovovala vašemu podnikání, dejte se do toho.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>For example, from the Role Center, you can use an assisted setup guide to set up sales tax rate for your location.</source><seg-source><mrk mtype="seg" mid="6">For example, from the Role Center, you can use an assisted setup guide to set up sales tax rate for your location.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="6">Například, z centra rolí můžete pomocí asistované příručky pro instalaci nastavit daňovou sazbu pro Vaši lokaci.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>However, there are some things you need to set up yourself.</source><seg-source><mrk mtype="seg" mid="7">However, there are some things you need to set up yourself.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Některé věci, ale musíte nastavit sami.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>For example, if you want to use dimensions as a basis for business intelligence.</source><seg-source><mrk mtype="seg" mid="8">For example, if you want to use dimensions as a basis for business intelligence.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="8">Například pokud chcete použít dimenze jako základ business intelligence.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>The following table describes a sequence of tasks, with links to the topics that describe them.</source><seg-source><mrk mtype="seg" mid="9">The following table describes a sequence of tasks, with links to the topics that describe them.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="9">Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je popisují.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>To</source><seg-source><mrk mtype="seg" mid="10">To</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="10">Viz</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>See</source><seg-source><mrk mtype="seg" mid="11">See</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">také</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Choose how you pay your vendors.</source><seg-source><mrk mtype="seg" mid="12">Choose how you pay your vendors.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="12">Volba jak platit Vašim dodavatelům.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Defining Payment Methods<ept id="p1">](finance-payment-methods.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="13">Defining Payment Methods</mrk><ept id="p1">](finance-payment-methods.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="13">Definování způsobu platby</mrk><ept id="p1">](finance-payment-methods.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Specify the posting groups that map entities like customers, vendors, items, resources, and sales and purchase documents to general ledger accounts.</source><seg-source><mrk mtype="seg" mid="14">Specify the posting groups that map entities like customers, vendors, items, resources, and sales and purchase documents to general ledger accounts.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="14">Určete účetní skupiny, které mapují položky, jako jsou zákazníci, dodavatelé, zboží, zdroje, nebo prodejní a nákupní doklady, do finančních účtů hlavní knihy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Posting Groups<ept id="p1">](finance-posting-groups.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="15">Setting Up Posting Groups</mrk><ept id="p1">](finance-posting-groups.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="15">Nastavení účto skupin</mrk><ept id="p1">](finance-posting-groups.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Create account schedules and define account categories to define the contents of financial charts and reports, such as the Balance Sheet and Income Statement reports.</source><seg-source><mrk mtype="seg" mid="16">Create account schedules and define account categories to define the contents of financial charts and reports, such as the Balance Sheet and Income Statement reports.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="16">Pro definování kategorií v finančních tabulkách a sestavách, jako jsou výkazy rozvahy, nebo výkazy zisků a ztrát, vytvořte pro účty plány a definujte jejich kategorie.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Prepare Financial Reporting with Account Schedules and Account Categories<ept id="p1">](bi-how-work-account-schedule.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="17">Prepare Financial Reporting with Account Schedules and Account Categories</mrk><ept id="p1">](bi-how-work-account-schedule.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="17">Příprava finančního výkaznictví s účetními schématy a kategoriemi účtů</mrk><ept id="p1">](bi-how-work-account-schedule.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Set up a tolerance by which the system closes an invoice even though the payment, including any discount, does not fully cover the amount on the invoice.</source><seg-source><mrk mtype="seg" mid="18">Set up a tolerance by which the system closes an invoice even though the payment, including any discount, does not fully cover the amount on the invoice.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="18">Nastavte toleranci, podle které systém uzavře fakturu, i když platba, včetně jakékoli slevy, nepokrývá celou částku faktury.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Work with Payment Tolerances and Payment Discount Tolerances<ept id="p1">](finance-payment-tolerance-and-payment-discount-tolerance.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="19">Work with Payment Tolerances and Payment Discount Tolerances</mrk><ept id="p1">](finance-payment-tolerance-and-payment-discount-tolerance.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="19">Práce s odchylkami platby a tolerancemi platebních slev</mrk><ept id="p1">](finance-payment-tolerance-and-payment-discount-tolerance.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Set up fiscal periods.</source><seg-source><mrk mtype="seg" mid="20">Set up fiscal periods.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="20">Nastavit fiskální období.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Open a New Fiscal Year<ept id="p1">](finance-how-open-new-fiscal-year.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="21">Open a New Fiscal Year</mrk><ept id="p1">](finance-how-open-new-fiscal-year.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="21">Otevření nového fiskálního roku</mrk><ept id="p1">](finance-how-open-new-fiscal-year.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Define how you report value-added tax amounts that you have collected for sales to the tax authorities.</source><seg-source><mrk mtype="seg" mid="22">Define how you report value-added tax amounts that you have collected for sales to the tax authorities.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="22">Definujte, jak nahlásíte finančnímu úřadu částky daně z přidané hodnoty, které jste obdrželi za prodej.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Calculations and Posting Methods for Value-Added Tax<ept id="p1">](finance-setup-vat.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="23">Setting Up Calculations and Posting Methods for Value-Added Tax</mrk><ept id="p1">](finance-setup-vat.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="23">Nastavení výpočtů a metod účtování daně z přidané hodnoty</mrk><ept id="p1">](finance-setup-vat.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Prepare to handle unrealized VAT in connection with cash-based accounting methods.</source><seg-source><mrk mtype="seg" mid="24">Prepare to handle unrealized VAT in connection with cash-based accounting methods.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="24">Připravte se na zpracování neuplatněného DPH v souvislosti s účetními metodami založenými na hotovosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Unrealized VAT for Cash-Based Accounting<ept id="p1">](finance-setup-unrealized-vat.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="25">Set Up Unrealized VAT for Cash-Based Accounting</mrk><ept id="p1">](finance-setup-unrealized-vat.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="25">Nastavení neuplatněného DPH pro hotovostní učetnictví</mrk><ept id="p1">](finance-setup-unrealized-vat.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Set your Sales and Purchases features up to handle payments in foreign currencies.</source><seg-source><mrk mtype="seg" mid="26">Set your Sales and Purchases features up to handle payments in foreign currencies.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="26">Nastavte funkce Prodej a Nákup tak, aby zpracovávaly platby v cizích měnách.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Enable Application of Ledger Entries in Different Currencies<ept id="p1">](finance-how-enable-application-ledger-entries-different-currencies.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="27">Enable Application of Ledger Entries in Different Currencies</mrk><ept id="p1">](finance-how-enable-application-ledger-entries-different-currencies.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="27">Umožnit aplikaci položek v různých měnách</mrk><ept id="p1">](finance-how-enable-application-ledger-entries-different-currencies.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Define one or more additional currencies so that amounts are automatically reported in both LCY and an additional reporting currency on each G/L entry and on other entries.</source><seg-source><mrk mtype="seg" mid="28">Define one or more additional currencies so that amounts are automatically reported in both LCY and an additional reporting currency on each G/L entry and on other entries.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="28">Definujte jednu nebo více dalších měn tak, aby částky byly automaticky vykazovány jak v LM, tak v další měně vykazované pro každou položku v hlavní knize, ale i pro další položky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up an Additional Reporting Currency<ept id="p1">](finance-how-setup-additional-currencies.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="29">Set Up an Additional Reporting Currency</mrk><ept id="p1">](finance-how-setup-additional-currencies.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="29">Nastavení Přídavné měny pro hlášení</mrk><ept id="p1">](finance-how-setup-additional-currencies.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Periodically adjust additional currency equivalents to make up for fluctuating exchange rates.</source><seg-source><mrk mtype="seg" mid="30">Periodically adjust additional currency equivalents to make up for fluctuating exchange rates.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="30">Pravidelně upravujte dodatečné ekvivalenty měny, abyste vyrovnali výkyvy směnných kurzů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Update Currency Exchange Rates<ept id="p1">](finance-how-update-currencies.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="31">Update Currency Exchange Rates</mrk><ept id="p1">](finance-how-update-currencies.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="31">Aktualizace směnných kurzů</mrk><ept id="p1">](finance-how-update-currencies.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Define multiple interest rates to be used for different periods for delayed payments in trade transactions.</source><seg-source><mrk mtype="seg" mid="32">Define multiple interest rates to be used for different periods for delayed payments in trade transactions.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="32">Definujte několik úrokových sazeb, které mají být použity pro různá období při zpoždění plateb obchodních transakcí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Multiple Interest Rates<ept id="p1">](finance-how-to-set-up-multiple-interest-rates.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="33">Set Up Multiple Interest Rates</mrk><ept id="p1">](finance-how-to-set-up-multiple-interest-rates.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="33">Nastavení více úrokových sazeb </mrk><ept id="p1">](finance-how-to-set-up-multiple-interest-rates.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Prepare to round invoice amounts automatically when you create invoices.</source><seg-source><mrk mtype="seg" mid="34">Prepare to round invoice amounts automatically when you create invoices.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="34">Při vytváření faktur se připravte na automatické zaokrouhlování fakturních částek.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Invoice Rounding<ept id="p1">](finance-set-up-invoice-rounding.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="35">Set Up Invoice Rounding</mrk><ept id="p1">](finance-set-up-invoice-rounding.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="35">Nastavení zaokrouhlování faktur</mrk><ept id="p1">](finance-set-up-invoice-rounding.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Add new accounts to the existing chart of accounts.</source><seg-source><mrk mtype="seg" mid="36">Add new accounts to the existing chart of accounts.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="36">Přidejte nové účty k existující účetní osnově.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up the Chart of Accounts<ept id="p1">](finance-setup-chart-accounts.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="37">Setting Up the Chart of Accounts</mrk><ept id="p1">](finance-setup-chart-accounts.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="37">Nastavení účetní osnovy</mrk><ept id="p1">](finance-setup-chart-accounts.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Set up business intelligence (BI) charts to analyze cash flow.</source><seg-source><mrk mtype="seg" mid="38">Set up business intelligence (BI) charts to analyze cash flow.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="38">Nastavte grafy business intelligence (BI) pro analýzu cashflow.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Cash Flow Analysis<ept id="p1">](finance-setup-cash-flow-analyses.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="39">Setting Up Cash Flow Analysis</mrk><ept id="p1">](finance-setup-cash-flow-analyses.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="39">Nastavení analýzy cashflow</mrk><ept id="p1">](finance-setup-cash-flow-analyses.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Enable invoicing of a customer who is not set up in the system.</source><seg-source><mrk mtype="seg" mid="40">Enable invoicing of a customer who is not set up in the system.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="40">Povolte fakturaci zákazníka, který není nastaven v systému.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Cash Customers<ept id="p1">](finance-how-to-set-up-cash-customers.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="41">Set Up Cash Customers</mrk><ept id="p1">](finance-how-to-set-up-cash-customers.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="41">Nastavení zákazníků platících hotovostí</mrk><ept id="p1">](finance-how-to-set-up-cash-customers.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Set up Intrastat reporting, and submit the report to an authority</source><seg-source><mrk mtype="seg" mid="42">Set up Intrastat reporting, and submit the report to an authority</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="42">Nastavení sestavy Intrastat a odeslání hlášení úřadům</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up and Report Intrastat<ept id="p1">](finance-how-setup-report-intrastat.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="43">Set Up and Report Intrastat</mrk><ept id="p1">](finance-how-setup-report-intrastat.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="43">Nastavení a sestava Intrastat</mrk><ept id="p1">](finance-how-setup-report-intrastat.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Prepare the Consolidated Trial Balance report on the Accountant Role Center to get a financial overview across multiple companies.</source><seg-source><mrk mtype="seg" mid="44">Prepare the Consolidated Trial Balance report on the Accountant Role Center to get a financial overview across multiple companies.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="44">Připravte si sestavu Konsolidovaná předvaha v Centru rolí Účetní, abyste získali finanční přehled pro více společností.</mrk></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Consolidating Financial Data from Multiple Companies<ept id="p1">](finance-consolidated-company-reporting.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="45">Consolidating Financial Data from Multiple Companies</mrk><ept id="p1">](finance-consolidated-company-reporting.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="45">Konsolidování finančních dat z několika společností</mrk><ept id="p1">](finance-consolidated-company-reporting.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Make sure an entry in a general journal is allocated to several different accounts when you post the journal, either quantity, percentage, or amount.</source><seg-source><mrk mtype="seg" mid="46">Make sure an entry in a general journal is allocated to several different accounts when you post the journal, either quantity, percentage, or amount.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="46">Ujistěte se, že položka ve finančním deníku je při účtování deníku přidělena několika různým účtům, a to buď množství, procento, nebo částka.</mrk></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Use Allocation Keys in General Journals<ept id="p1">](ui-how-use-allocation-keys-general-journals.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="47">Use Allocation Keys in General Journals</mrk><ept id="p1">](ui-how-use-allocation-keys-general-journals.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="47">Použití alokačního klíče ve finančních denících</mrk><ept id="p1">](ui-how-use-allocation-keys-general-journals.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="48">See Also</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="48">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Finance<ept id="p1">](finance.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="49">Finance</mrk><ept id="p1">](finance.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="49">Finance</mrk><ept id="p1">](finance.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Managing Bank Accounts<ept id="p1">](bank-manage-bank-accounts.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="50">Managing Bank Accounts</mrk><ept id="p1">](bank-manage-bank-accounts.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="50">Správa bankovních účtů</mrk><ept id="p1">](bank-manage-bank-accounts.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with Dimensions<ept id="p1">](finance-dimensions.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="51">Working with Dimensions</mrk><ept id="p1">](finance-dimensions.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="51">Práce s dimenzemi</mrk><ept id="p1">](finance-dimensions.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Importing Business Data from Other Finance Systems<ept id="p1">](across-import-data-configuration-packages.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="52">Importing Business Data from Other Finance Systems</mrk><ept id="p1">](across-import-data-configuration-packages.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="52">Import obchodních dat z jiných finančních systémů.</mrk><ept id="p1">](across-import-data-configuration-packages.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Analyzing Cash Flow in Your Company<ept id="p1">](finance-analyze-cash-flow.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="53">Analyzing Cash Flow in Your Company</mrk><ept id="p1">](finance-analyze-cash-flow.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="53">Analýza cashflow ve Vaší firmě</mrk><ept id="p1">](finance-analyze-cash-flow.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="54">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="54">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="across-display-lists-different-views.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-15c36f0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1ad1705121a442195506279d614b12ecc567db42</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\across-display-lists-different-views.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c38836c8a219f75eaff6945f5f010e485b9cf8b4</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ff6fc3263dae9b3c1efb8343593e090f2850e8b4</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Adjust the Amount of Detail You See in Lists | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Adjust the Amount of Detail You See in Lists | Microsoft Docs</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="1">Úprava množství podrobností viditelných v seznamech | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>You can display lists in detailed views that provide more information, or as tiles that are easy to visually scan.</source><seg-source><mrk mtype="seg" mid="2">You can display lists in detailed views that provide more information, or as tiles that are easy to visually scan.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="2">Seznamy můžete zobrazit v detailních náhledech, které poskytují více informací, nebo jako dlaždice, které lze snadno vizuálně kontrolovat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Displaying Lists in Different Ways</source><seg-source><mrk mtype="seg" mid="3">Displaying Lists in Different Ways</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="3">Různé způsoby zobrazení seznamu</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>In the right corner of any list in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> you will find icons that let you switch view on the list.</source><seg-source><mrk mtype="seg" mid="4">In the right corner of any list in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> you will find icons that let you switch view on the list.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="4">V pravém rohu jakéhokoliv seznamu v <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>můžete najít ikony, které vám umožní přepnout zobrazení seznamu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>A list can be viewed as a detailed list, which is the standard view.</source><seg-source><mrk mtype="seg" mid="5">A list can be viewed as a detailed list, which is the standard view.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="5">Seznam může být zobrazen jako podrobný seznam, který je ve standardním zobrazení.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>But you can also switch to view as tiles, which will show less detail on the specific record and stack the entries as tiles.</source><seg-source><mrk mtype="seg" mid="6">But you can also switch to view as tiles, which will show less detail on the specific record and stack the entries as tiles.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="6">Můžete také přepnout do dlaždicového zobrazení, které ukáže méně podrobností o specifickém záznamu a seskupí položky jako dlaždice.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>This view is very useful to gain an overview of several entries and is in particular useful on smaller devices, because it makes each entry easier to tap.</source><seg-source><mrk mtype="seg" mid="7">This view is very useful to gain an overview of several entries and is in particular useful on smaller devices, because it makes each entry easier to tap.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Toto zobrazení je velmi užitečné pro získání přehledu o zisků několika položek najednou a je zvláště užitečné na menších zařízeních, protože klepnutí na položku je pak jednodušší.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Items list</source><seg-source><mrk mtype="seg" mid="8">Items list</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="8">Přehled zboží</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>On the Items list, having pictures helps you get a quick overview of what you sell and switching to the tiles gives you an item catalogue to browse through.</source><seg-source><mrk mtype="seg" mid="9">On the Items list, having pictures helps you get a quick overview of what you sell and switching to the tiles gives you an item catalogue to browse through.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="9">Obrázky ve Vašem seznamu, Vám pomůžou získat rychlý přehled o tom, co prodáváte a po přepnutí do dlaždicového zobrazení se Vám nabídne katalog zboží, kterým můžete procházet.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>If a picture is defined for the specific item, you have a third option besides the detailed list and the tiles; the large tiles view.</source><seg-source><mrk mtype="seg" mid="10">If a picture is defined for the specific item, you have a third option besides the detailed list and the tiles; the large tiles view.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="10">Pokud je pro specifické zboží definován obrázek, tak vedle podrobného seznamu a dlaždicového zobrazení, máte třetí možnost, a to zobrazení velkých dlaždice.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>This view displays large pictures for each entry.</source><seg-source><mrk mtype="seg" mid="11">This view displays large pictures for each entry.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">Toto zobrazení zobrazí velké obrázky pro každou položku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>You can import a picture for a specific item by going to the <bpt id="p1">**</bpt>Item<ept id="p1">**</ept> card and to the right select <bpt id="p2">**</bpt>Picture<ept id="p2">**</ept> and then choose <bpt id="p3">**</bpt>Import<ept id="p3">**</ept>.</source><seg-source><mrk mtype="seg" mid="12">You can import a picture for a specific item by going to the <bpt id="p1">**</bpt>Item<ept id="p1">**</ept> card and to the right select <bpt id="p2">**</bpt>Picture<ept id="p2">**</ept> and then choose <bpt id="p3">**</bpt>Import<ept id="p3">**</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="12">Můžete importovat obrázek pro specifické zboží tím, že jdete na kartu <bpt id="p1">**</bpt>Zboží<ept id="p1">**</ept> a vpravo vyberete <bpt id="p2">**</bpt>Obrázek<ept id="p2">**</ept> a zvolíte <bpt id="p3">**</bpt>Importovat<ept id="p3">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Likewise you can export a picture to a file or delete the picture for the item.</source><seg-source><mrk mtype="seg" mid="13">Likewise you can export a picture to a file or delete the picture for the item.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="13">Podobně můžete exportovat obrázek do souboru nebo odstranit obrázek pro dané zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="14">See Also</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="14">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="15">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="15">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Register New Items<ept id="p1">](inventory-how-register-new-items.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="16">Register New Items</mrk><ept id="p1">](inventory-how-register-new-items.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="16">Zaevidujte nové zboží</mrk><ept id="p1">](inventory-how-register-new-items.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
