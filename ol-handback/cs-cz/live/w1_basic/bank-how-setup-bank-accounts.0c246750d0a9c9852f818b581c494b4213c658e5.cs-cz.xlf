@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="bank-how-setup-bank-accounts.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-15c36f0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f5218601d97a5243c215d8b04f33c8291c32d0b8</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\bank-how-setup-bank-accounts.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">474f717340a3f31c00d0520e5cb135feb5add02c</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dd314d5941c104fe523cf02400f027a2a1098c4e</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Set Up Bank Accounts| Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Set Up Bank Accounts| Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Založení Bankovních účtů | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>You can reconcile bank accounts in Financials with statements from the bank.</source><seg-source><mrk mtype="seg" mid="2">You can reconcile bank accounts in Financials with statements from the bank.</mrk></seg-source><target><mrk mtype="seg" mid="2">Můžete spárovat bankovní účty z výpisy z banky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Set Up Bank Accounts</source><seg-source><mrk mtype="seg" mid="3">Set Up Bank Accounts</mrk></seg-source><target><mrk mtype="seg" mid="3">Nastavení bankovních účtů</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>You use bank accounts in the <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> to keep track of your banking transactions.</source><seg-source><mrk mtype="seg" mid="4">You use bank accounts in the <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> to keep track of your banking transactions.</mrk></seg-source><target><mrk mtype="seg" mid="4">Použití bankovní účtů v <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> slouží ke sledování vašich bankovních transakcí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Accounts can be denominated in your local currency or in a foreign currency.</source><seg-source><mrk mtype="seg" mid="5">Accounts can be denominated in your local currency or in a foreign currency.</mrk></seg-source><target><mrk mtype="seg" mid="5">Účty mohou být denominovány v místní měně nebo v cizí měně.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>After you have set up bank accounts, you can also use the check printing option.</source><seg-source><mrk mtype="seg" mid="6">After you have set up bank accounts, you can also use the check printing option.</mrk></seg-source><target><mrk mtype="seg" mid="6">Po nastavení bankovních účtů můžete použít také možnost kontroly tisku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>To set up bank accounts</source><seg-source><mrk mtype="seg" mid="7">To set up bank accounts</mrk></seg-source><target><mrk mtype="seg" mid="7">Založení Bankovních účtů</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Bank Accounts<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="8">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Bank Accounts<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="8">Zvolte pravém horním rohu zvolte ikonu ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt><ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Bankovní účty<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Bank Accounts<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>New<ept id="p2">**</ept> action.</source><seg-source><mrk mtype="seg" mid="9">In the <bpt id="p1">**</bpt>Bank Accounts<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>New<ept id="p2">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="9">V okně <bpt id="p1">**</bpt>Bankovní účty<ept id="p1">**</ept> zvolte akci <bpt id="p2">**</bpt>Nový<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Fill in the fields as necessary.</source><seg-source><mrk mtype="seg" mid="10">Fill in the fields as necessary.</mrk></seg-source><target><mrk mtype="seg" mid="10">Vyplňte pole podle potřeby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>To fill in the <bpt id="p1">**</bpt>Balance<ept id="p1">**</ept> field with an opening balance, you must post a bank account ledger entry with the amount in question.</source><seg-source><mrk mtype="seg" mid="11">To fill in the <bpt id="p1">**</bpt>Balance<ept id="p1">**</ept> field with an opening balance, you must post a bank account ledger entry with the amount in question.</mrk></seg-source><target><mrk mtype="seg" mid="11">Chcete-li vyplnit pole <bpt id="p1">**</bpt>Saldo<ept id="p1">**</ept> počátečním stavem, musíte zaúčtovat položku účetní knihy s příslušnou částkou.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>You can do this by performing a bank account reconciliation.</source><seg-source><mrk mtype="seg" mid="12">You can do this by performing a bank account reconciliation.</mrk></seg-source><target><mrk mtype="seg" mid="12">Můžete to provést odsouhlasením bankovního účtu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Reconcile Bank Accounts Separately<ept id="p1">](bank-how-reconcile-bank-accounts-separately.md)</ept>.</source><seg-source><mrk mtype="seg" mid="13">For more information, see <bpt id="p1">[</bpt>Reconcile Bank Accounts Separately<ept id="p1">](bank-how-reconcile-bank-accounts-separately.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="13">Pro více informací běžte na <bpt id="p1">[</bpt>Odsouhlasení bankovních účtů separátně<ept id="p1">](bank-how-reconcile-bank-accounts-separately.md)</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Alternatively, you can implement the opening balance as a part of general data creation in new companies by using the <bpt id="p1">**</bpt>Migrate Business Data<ept id="p1">**</ept> assisted setup.</source><seg-source><mrk mtype="seg" mid="14">Alternatively, you can implement the opening balance as a part of general data creation in new companies by using the <bpt id="p1">**</bpt>Migrate Business Data<ept id="p1">**</ept> assisted setup.</mrk></seg-source><target><mrk mtype="seg" mid="14">Případně můžete počáteční stav implementovat jako součást vytváření obecných dat v nových společnostech pomocí nastavení asistovaného <bpt id="p1">**</bpt>Migrace dat<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Welcome to <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](index.md)</ept>.</source><seg-source><mrk mtype="seg" mid="15">For more information, see <bpt id="p1">[</bpt>Welcome to <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](index.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="15">Další informace naleznete v <bpt id="p1">[</bpt>Vítejte v <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](index.md)</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>To set up your bank account for import or export of bank files</source><seg-source><mrk mtype="seg" mid="16">To set up your bank account for import or export of bank files</mrk></seg-source><target><mrk mtype="seg" mid="16">Založení bankovního účtu pro import nebo export bankovních souborů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Fields on the <bpt id="p1">**</bpt>Transfer<ept id="p1">**</ept> FastTab in the <bpt id="p2">**</bpt>Bank Account Card<ept id="p2">**</ept> window are related to import and export of bank feeds and files.</source><seg-source><mrk mtype="seg" mid="17">Fields on the <bpt id="p1">**</bpt>Transfer<ept id="p1">**</ept> FastTab in the <bpt id="p2">**</bpt>Bank Account Card<ept id="p2">**</ept> window are related to import and export of bank feeds and files.</mrk></seg-source><target><mrk mtype="seg" mid="17">Pole v záložce s náhledem <bpt id="p1">**</bpt>Transfer<ept id="p1">**</ept> na kartě <bpt id="p2">**</bpt>Bankovního účtu<ept id="p2">**</ept>se týkají importu/exportu bankovních prostředků a souborů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Set Up the Bank Data Conversion Service<ept id="p1">](bank-how-setup-bank-data-conversion-service.md)</ept> and <bpt id="p2">[</bpt>Set Up the Envestnet Yodlee Bank Feeds Service<ept id="p2">](bank-how-setup-bank-statement-service.md)</ept>.</source><seg-source><mrk mtype="seg" mid="18">For more information, see <bpt id="p1">[</bpt>Set Up the Bank Data Conversion Service<ept id="p1">](bank-how-setup-bank-data-conversion-service.md)</ept> and <bpt id="p2">[</bpt>Set Up the Envestnet Yodlee Bank Feeds Service<ept id="p2">](bank-how-setup-bank-statement-service.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="18">Další informace naleznete v <bpt id="p1">[</bpt>Nastavení služby převodu Bankovních dat<ept id="p1">](bank-how-setup-bank-data-conversion-service.md)</ept> a <bpt id="p2">[</bpt>Nastavení služby Envestnet Yodlee Bank Feeds<ept id="p2">](bank-how-setup-bank-statement-service.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Bank Accounts<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="19">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Bank Accounts<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="19">Zvolte pravém horním rohu zvolte ikonu ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt><ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Bankovní účty<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Open the card for a bank account that you will export or import bank files for.</source><seg-source><mrk mtype="seg" mid="20">Open the card for a bank account that you will export or import bank files for.</mrk></seg-source><target><mrk mtype="seg" mid="20">Otevřete kartu Bankovního účtu, který budete exportovat nebo importovat pomocí služby pro transfer bankovních dat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">**</bpt>Transfer<ept id="p1">**</ept> FastTab, fill in the fields as necessary.</source><seg-source><mrk mtype="seg" mid="21">On the <bpt id="p1">**</bpt>Transfer<ept id="p1">**</ept> FastTab, fill in the fields as necessary.</mrk></seg-source><target><mrk mtype="seg" mid="21">Na záložce s náhledem <bpt id="p1">**</bpt>Transfer<ept id="p1">**</ept>, vyplňte pole podle potřeby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Different file export services and their formats require different setup values in the <bpt id="p1">**</bpt>Bank Account Card<ept id="p1">**</ept> window.</source><seg-source><mrk mtype="seg" mid="22">Different file export services and their formats require different setup values in the <bpt id="p1">**</bpt>Bank Account Card<ept id="p1">**</ept> window.</mrk></seg-source><target><mrk mtype="seg" mid="22">Různé služby pro export souborů a jejich formáty vyžadují různé hodnoty nastavení na <bpt id="p1">**</bpt>kartě bankovního účtu<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>You will be informed about wrong or missing setup values as you try to export the file.</source><seg-source><mrk mtype="seg" mid="23">You will be informed about wrong or missing setup values as you try to export the file.</mrk></seg-source><target><mrk mtype="seg" mid="23">Při pokusu o export souboru budete informováni o chybných nebo chybějících hodnotách nastavení.</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>So read the short descriptions of the fields carefully or refer to the related procedure topics.</source><seg-source><mrk mtype="seg" mid="24">So read the short descriptions of the fields carefully or refer to the related procedure topics.</mrk></seg-source><target><mrk mtype="seg" mid="24">Proto si pozorně přečtěte krátký popis polí nebo se podívejte na související témata postupů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>For example, exporting a payment file for North American electronic funds transfer (EFT) requires that both the <bpt id="p1">**</bpt>Last Remittance Advice No.<ept id="p1">**</ept> field and the <bpt id="p2">**</bpt>Transit No.<ept id="p2">**</ept> field are filled in.</source><seg-source><mrk mtype="seg" mid="25">For example, exporting a payment file for North American electronic funds transfer (EFT) requires that both the <bpt id="p1">**</bpt>Last Remittance Advice No.<ept id="p1">**</ept> field and the <bpt id="p2">**</bpt>Transit No.<ept id="p2">**</ept> field are filled in.</mrk></seg-source><target><mrk mtype="seg" mid="25">Například export platebního souboru pro severoamerický elektronický peněžní převod (EFT) vyžaduje, aby byla vyplněna jak pole <bpt id="p1">**</bpt>Číslo posledního poukazu na úhradu,<ept id="p1">**</ept> tak pole <bpt id="p2">**</bpt>Číslo tranzitu.<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Export Payments to a Bank File<ept id="p1">](payables-how-export-payments-bank-file.md)</ept>.</source><seg-source><mrk mtype="seg" mid="26">For more information, see <bpt id="p1">[</bpt>Export Payments to a Bank File<ept id="p1">](payables-how-export-payments-bank-file.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="26">Další informace naleznete v části <bpt id="p1">[</bpt>Export plateb do Bankovních dokladů<ept id="p1">](payables-how-export-payments-bank-file.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>To set up vendor bank accounts for export of bank files</source><seg-source><mrk mtype="seg" mid="27">To set up vendor bank accounts for export of bank files</mrk></seg-source><target><mrk mtype="seg" mid="27">Založení bankovního účtu pro export bankovních dokladů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Fields on the <bpt id="p1">**</bpt>Transfer<ept id="p1">**</ept> FastTab in the <bpt id="p2">**</bpt>Vendor Bank Account Card<ept id="p2">**</ept> window are related to export of bank feeds and files.</source><seg-source><mrk mtype="seg" mid="28">Fields on the <bpt id="p1">**</bpt>Transfer<ept id="p1">**</ept> FastTab in the <bpt id="p2">**</bpt>Vendor Bank Account Card<ept id="p2">**</ept> window are related to export of bank feeds and files.</mrk></seg-source><target><mrk mtype="seg" mid="28">Pole v záložce s náhledem <bpt id="p1">**</bpt>Transfer<ept id="p1">**</ept> na kartě <bpt id="p2">**</bpt>Bankovní účet dodavatele<ept id="p2">**</ept> se týkají importu/exportu bankovních prostředků a souborů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Set Up the Bank Data Conversion Service<ept id="p1">](bank-how-setup-bank-data-conversion-service.md)</ept> and <bpt id="p2">[</bpt>Export Payments to a Bank File<ept id="p2">](payables-how-export-payments-bank-file.md)</ept>.</source><seg-source><mrk mtype="seg" mid="29">For more information, see <bpt id="p1">[</bpt>Set Up the Bank Data Conversion Service<ept id="p1">](bank-how-setup-bank-data-conversion-service.md)</ept> and <bpt id="p2">[</bpt>Export Payments to a Bank File<ept id="p2">](payables-how-export-payments-bank-file.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="29">Další informace naleznete v <bpt id="p1">[</bpt>Nastavení služby převodu Bankovních dat<ept id="p1">](bank-how-setup-bank-data-conversion-service.md)</ept> a <bpt id="p2">[</bpt>Export plateb do Bankovních dokladů<ept id="p2">](payables-how-export-payments-bank-file.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Vendors<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="30">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Vendors<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="30">Zvolte pravém horním rohu zvolte ikonu ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt><ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Dodavatelé<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Open the card for a vendor whose bank account you will export payment bank files to.</source><seg-source><mrk mtype="seg" mid="31">Open the card for a vendor whose bank account you will export payment bank files to.</mrk></seg-source><target><mrk mtype="seg" mid="31">Otevřete kartu pro dodavatele, na jehož bankovní účet budete exportovat bankovní platební doklady.</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>Bank Accounts<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="32">Choose the <bpt id="p1">**</bpt>Bank Accounts<ept id="p1">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="32">Vyberte tlačítko <bpt id="p1">**</bpt>Bankovní účty<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Vendor Bank Account Card<ept id="p1">**</ept> window, on the <bpt id="p2">**</bpt>Transfer<ept id="p2">**</ept> FastTab, fill in the fields as necessary.</source><seg-source><mrk mtype="seg" mid="33">In the <bpt id="p1">**</bpt>Vendor Bank Account Card<ept id="p1">**</ept> window, on the <bpt id="p2">**</bpt>Transfer<ept id="p2">**</ept> FastTab, fill in the fields as necessary.</mrk></seg-source><target><mrk mtype="seg" mid="33">V okně <bpt id="p1">**</bpt>Karta Bankovního účetu dodavatele<ept id="p1">**</ept> v záložce <bpt id="p2">**</bpt>Transfer<ept id="p2">**</ept> vyplňte pole podle potřeby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="34">See Also</mrk></seg-source><target><mrk mtype="seg" mid="34">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Banking<ept id="p1">](bank-setup-banking.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="35">Setting Up Banking</mrk><ept id="p1">](bank-setup-banking.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="35">Nastavení bankovnictví</mrk><ept id="p1">](bank-setup-banking.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Managing Bank Accounts<ept id="p1">](bank-manage-bank-accounts.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="36">Managing Bank Accounts</mrk><ept id="p1">](bank-manage-bank-accounts.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="36">Správa bankovních účtů</mrk><ept id="p1">](bank-manage-bank-accounts.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="37">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="37">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="finance-posting-groups.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-2e292eb" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">add78070e838dcf8b0eb24dcc8b642d621a400b9</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\finance-posting-groups.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9cdb4576cb189718d636aa2ba2c0699bfc2b384b</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3cd90a6e441dcf8dacbc8d4969dbb6b9b4adb336</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Posting Group Setup| Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Posting Group Setup| Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Nastavení účtovací skupiny | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Overview of the posting groups you can use to save time and avoid mistakes when you post transactions.</source><seg-source><mrk mtype="seg" mid="2">Overview of the posting groups you can use to save time and avoid mistakes when you post transactions.</mrk></seg-source><target><mrk mtype="seg" mid="2">Přehled účtovacích skupin, které můžete použít, abyste ušetřili čas a vyhnuli se chybám při účtování transakcí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Setting Up Posting Groups</source><seg-source><mrk mtype="seg" mid="3">Setting Up Posting Groups</mrk></seg-source><target><mrk mtype="seg" mid="3">Nastavení účto skupin</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Posting groups map entities like customers, vendors, items, resources, and sales and purchase documents to general ledger accounts.</source><seg-source><mrk mtype="seg" mid="4">Posting groups map entities like customers, vendors, items, resources, and sales and purchase documents to general ledger accounts.</mrk></seg-source><target><mrk mtype="seg" mid="4">Účetní skupiny mapují položky, jako jsou zákazníci, dodavatelé, zboží, zdroje, nebo prodejní a nákupní doklady, do finančních účtů hlavní knihy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>They save time and help avoid mistakes when you post transactions.</source><seg-source><mrk mtype="seg" mid="5">They save time and help avoid mistakes when you post transactions.</mrk></seg-source><target><mrk mtype="seg" mid="5">Šetří čas a pomáhají se vyhnout chybám při účtování transakcí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>The transaction values go to the accounts specified in the posting group for that particular entity.</source><seg-source><mrk mtype="seg" mid="6">The transaction values go to the accounts specified in the posting group for that particular entity.</mrk></seg-source><target><mrk mtype="seg" mid="6">Hodnoty transakcí přejdou na účty určené v účtovací skupině pro tento konkrétní subjekt.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>The only requirement is that you have a chart of accounts.</source><seg-source><mrk mtype="seg" mid="7">The only requirement is that you have a chart of accounts.</mrk></seg-source><target><mrk mtype="seg" mid="7">Jediným požadavkem je, že máte účtovou osnovu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Set Up the Chart of Accounts<ept id="p1">](finance-setup-chart-accounts.md)</ept>.</source><seg-source><mrk mtype="seg" mid="8">For more information, see <bpt id="p1">[</bpt>Set Up the Chart of Accounts<ept id="p1">](finance-setup-chart-accounts.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="8">Další informace naleznete v části <bpt id="p1">[</bpt>Nastavení účtové osnovy<ept id="p1">](finance-setup-chart-accounts.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Posting groups are covered under three umbrellas:</source><seg-source><mrk mtype="seg" mid="9">Posting groups are covered under three umbrellas:</mrk></seg-source><target><mrk mtype="seg" mid="9">Účtovací skupiny jsou zastřešeny pod třemi podkategoriemi:</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>General - Define who you sell to and buy from, and what you sell and what you buy.</source><seg-source><mrk mtype="seg" mid="10">General - Define who you sell to and buy from, and what you sell and what you buy.</mrk></seg-source><target><mrk mtype="seg" mid="10">Obecné - Definují, od koho nakupujete a komu prodáváte, nebo co nakupujete a co prodáváte.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>You can also combine groups to specify things like the income statement accounts to post to, or use groups to filter reports.</source><seg-source><mrk mtype="seg" mid="11">You can also combine groups to specify things like the income statement accounts to post to, or use groups to filter reports.</mrk></seg-source><target><mrk mtype="seg" mid="11">Můžete také zkombinovat skupiny a specifikovat věci, jako jsou účty ve výsledovce, do kterých chcete účtovat, nebo použijte skupiny pro filtrování zpráv.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Specific - Use sales documents, for example, instead of posting directly to the general ledger.</source><seg-source><mrk mtype="seg" mid="12">Specific - Use sales documents, for example, instead of posting directly to the general ledger.</mrk></seg-source><target><mrk mtype="seg" mid="12">Specifické - Použijte například prodejní doklady, místo přímého účtování do hlavní knihy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>When you create entries in the customer ledger, corresponding entries are made in the general ledger.</source><seg-source><mrk mtype="seg" mid="13">When you create entries in the customer ledger, corresponding entries are made in the general ledger.</mrk></seg-source><target><mrk mtype="seg" mid="13">Když vytvoříte položky zákazníka, v hlavní knize se provedou odpovídající záznamy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Tax - Define the tax percentages and calculation types that apply to who you sell to and buy from, and what you sell and what you buy.</source><seg-source><mrk mtype="seg" mid="14">Tax - Define the tax percentages and calculation types that apply to who you sell to and buy from, and what you sell and what you buy.</mrk></seg-source><target><mrk mtype="seg" mid="14">Daňové- Definujte procenta daně a typy výpočtu, které se vztahují na to, od koho nakupujete a komu prodáváte, nebo co nakupujete a co prodáváte.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>The following tables describe the posting groups under each umbrella.</source><seg-source><mrk mtype="seg" mid="15">The following tables describe the posting groups under each umbrella.</mrk></seg-source><target><mrk mtype="seg" mid="15">Následující tabulka popistuje účto skupiny pod každou podskupinou.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>General Posting Groups</source><seg-source><mrk mtype="seg" mid="16">General Posting Groups</mrk></seg-source><target><mrk mtype="seg" mid="16">Obecné účetní skupiny</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Description</source><seg-source><mrk mtype="seg" mid="17">Description</mrk></seg-source><target><mrk mtype="seg" mid="17">Popis</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>General Business Posting Groups</source><seg-source><mrk mtype="seg" mid="18">General Business Posting Groups</mrk></seg-source><target><mrk mtype="seg" mid="18">Obecné obchodní účto skupiny</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Assign this group to customers and vendors to specify who you sell to, and who you buy from.</source><seg-source><mrk mtype="seg" mid="19">Assign this group to customers and vendors to specify who you sell to, and who you buy from.</mrk></seg-source><target><mrk mtype="seg" mid="19">Přiřaďte tuto skupinu zákazníkům a dodavatelům a určete, komu prodáváte a od koho nakupujete.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Set these up in the <bpt id="p1">**</bpt>Gen. Business Posting Groups<ept id="p1">**</ept> window.</source><seg-source><mrk mtype="seg" mid="20">Set these up in the <bpt id="p1">**</bpt>Gen.</mrk> <mrk mtype="seg" mid="21">Business Posting Groups<ept id="p1">**</ept> window.</mrk></seg-source><target><mrk mtype="seg" mid="20">Tyto nastavíte v <bpt id="p1">**</bpt>Obec.</mrk> <mrk mtype="seg" mid="21">okně Obchodní účto skupiny<ept id="p1">**</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>When you do, think about how many groups you'll need to break down sales and purchases.</source><seg-source><mrk mtype="seg" mid="22">When you do, think about how many groups you'll need to break down sales and purchases.</mrk></seg-source><target><mrk mtype="seg" mid="22">Když tak učiníte, přemýšlejte, kolik skupin budete potřebovat k rozdělení prodejů a nákupů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>For example, group customers and vendors by geographical area, or by the type of business.</source><seg-source><mrk mtype="seg" mid="23">For example, group customers and vendors by geographical area, or by the type of business.</mrk></seg-source><target><mrk mtype="seg" mid="23">Seskupte například zákazníky a dodavatele podle zeměpisné oblasti nebo podle typu podnikání.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>General Product Posting Groups</source><seg-source><mrk mtype="seg" mid="24">General Product Posting Groups</mrk></seg-source><target><mrk mtype="seg" mid="24">Obecné účtovací skupiny zboží</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Assign this group to items and resources to specify what you sell, and what you buy.</source><seg-source><mrk mtype="seg" mid="25">Assign this group to items and resources to specify what you sell, and what you buy.</mrk></seg-source><target><mrk mtype="seg" mid="25">Přiřaďte tuto skupinu zboží, nebo prostředkům a určete, co prodáváte a co nakupujete.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Set these up in the <bpt id="p1">**</bpt>Gen. Product Posting Groups<ept id="p1">**</ept> window.</source><seg-source><mrk mtype="seg" mid="26">Set these up in the <bpt id="p1">**</bpt>Gen.</mrk> <mrk mtype="seg" mid="27">Product Posting Groups<ept id="p1">**</ept> window.</mrk></seg-source><target><mrk mtype="seg" mid="26">Tyto nastavíte v <bpt id="p1">**</bpt>Obec.</mrk> <mrk mtype="seg" mid="27">okně Účto skupina zboží<ept id="p1">**</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>When you do, consider the number of groups you'll need to break down sales by product (items and resources) and purchases by items.</source><seg-source><mrk mtype="seg" mid="28">When you do, consider the number of groups you'll need to break down sales by product (items and resources) and purchases by items.</mrk></seg-source><target><mrk mtype="seg" mid="28">Když tak učiníte, zvažte počet skupin, které budete potřebovat k rozdělení prodejů podle produktů (zboží a služeb) a nákupů podle položek.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>For example, divide these groups by raw materials, retail, resources, capacity, and so on.</source><seg-source><mrk mtype="seg" mid="29">For example, divide these groups by raw materials, retail, resources, capacity, and so on.</mrk></seg-source><target><mrk mtype="seg" mid="29">Například rozdělte tyto skupiny podle surovin, maloobchodu, zdrojů, kapacity atd.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>General Posting Setups</source><seg-source><mrk mtype="seg" mid="30">General Posting Setups</mrk></seg-source><target><mrk mtype="seg" mid="30">Nastavení obecného účtování</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Combine business and product posting groups and choose the accounts to post to.</source><seg-source><mrk mtype="seg" mid="31">Combine business and product posting groups and choose the accounts to post to.</mrk></seg-source><target><mrk mtype="seg" mid="31">Zkombinujte obchodní účtovací skupiny a účtovací skupiny zboží a vyberte účty, na které chcete účtovat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>For each combination of business and product posting groups, you can assign a set of general ledger accounts.</source><seg-source><mrk mtype="seg" mid="32">For each combination of business and product posting groups, you can assign a set of general ledger accounts.</mrk></seg-source><target><mrk mtype="seg" mid="32">Pro každou kombinaci obchodní účtovací skupiny a účtovací skupiny zboží, můžete přiřadit sadu účtů hlavní knihy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>For example, this means you can post the sale of the same item to different sales accounts in the general ledger because customers are assigned to different business posting groups.</source><seg-source><mrk mtype="seg" mid="33">For example, this means you can post the sale of the same item to different sales accounts in the general ledger because customers are assigned to different business posting groups.</mrk></seg-source><target><mrk mtype="seg" mid="33">To například znamená, že můžete prodej stejné položky zaúčtovat na různé prodejní účty v hlavní knize, protože zákazníci jsou přiřazeni k různým obchodním účtovacím skupinám.</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Set these up in the <bpt id="p1">**</bpt>General Posting Setup<ept id="p1">**</ept> window.</source><seg-source><mrk mtype="seg" mid="34">Set these up in the <bpt id="p1">**</bpt>General Posting Setup<ept id="p1">**</ept> window.</mrk></seg-source><target><mrk mtype="seg" mid="34">Tyto nastavte v okně <bpt id="p1">**</bpt>Nastavení obecného účtování<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Specific Posting Groups</source><seg-source><mrk mtype="seg" mid="35">Specific Posting Groups</mrk></seg-source><target><mrk mtype="seg" mid="35">Specifické účetní skupiny</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Description</source><seg-source><mrk mtype="seg" mid="36">Description</mrk></seg-source><target><mrk mtype="seg" mid="36">Popis</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Customer Posting Groups</source><seg-source><mrk mtype="seg" mid="37">Customer Posting Groups</mrk></seg-source><target><mrk mtype="seg" mid="37">Účtovací skupina zákazníka</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Define the accounts to use when you post accounts receivable transactions.</source><seg-source><mrk mtype="seg" mid="38">Define the accounts to use when you post accounts receivable transactions.</mrk></seg-source><target><mrk mtype="seg" mid="38">Definujte účty, které se mají použít při účtování transakcí s pohledávkami.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>If you use inventory with receivables, the general business posting group assigned to your customer, and the general product posting group assigned to the inventory item determine the accounts the sales order lines post to.</source><seg-source><mrk mtype="seg" mid="39">If you use inventory with receivables, the general business posting group assigned to your customer, and the general product posting group assigned to the inventory item determine the accounts the sales order lines post to.</mrk></seg-source><target><mrk mtype="seg" mid="39">Pokud používáte inventář s pohledávkami, obecná obchodní účtovací skupina přiřazená vašemu zákazníkovi a skupina obecných účtovacích zboží přiřazená k položce inventáře určují účty, na kterých se řádky prodejních objednávek zaúčtují.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Set these up in the <bpt id="p1">**</bpt>Customer Posting Groups<ept id="p1">**</ept> window.</source><seg-source><mrk mtype="seg" mid="40">Set these up in the <bpt id="p1">**</bpt>Customer Posting Groups<ept id="p1">**</ept> window.</mrk></seg-source><target><mrk mtype="seg" mid="40">Tyto nastavte v okně <bpt id="p1">**</bpt>Účetní skupina zákazníka<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Vendor Posting Groups</source><seg-source><mrk mtype="seg" mid="41">Vendor Posting Groups</mrk></seg-source><target><mrk mtype="seg" mid="41">Účetní skupiny dodavatele</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Define where to post transactions for payables accounts, service charge accounts, and payment discount accounts.</source><seg-source><mrk mtype="seg" mid="42">Define where to post transactions for payables accounts, service charge accounts, and payment discount accounts.</mrk></seg-source><target><mrk mtype="seg" mid="42">Definuje, kde se mají účtovat transakce u účtů závazků, účtů poplatků za služby a účtů slev.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>This is similar to customer posting groups.</source><seg-source><mrk mtype="seg" mid="43">This is similar to customer posting groups.</mrk></seg-source><target><mrk mtype="seg" mid="43">Toto je podobné Účtovacím skupinám zákazníků.</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Set these up in the <bpt id="p1">**</bpt>Vendor Posting Groups<ept id="p1">**</ept> window.</source><seg-source><mrk mtype="seg" mid="44">Set these up in the <bpt id="p1">**</bpt>Vendor Posting Groups<ept id="p1">**</ept> window.</mrk></seg-source><target><mrk mtype="seg" mid="44">Tyto nastavte v okně <bpt id="p1">**</bpt>Účetní skupina dodavatele<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Inventory Posting Groups</source><seg-source><mrk mtype="seg" mid="45">Inventory Posting Groups</mrk></seg-source><target><mrk mtype="seg" mid="45">Účetní skupiny zboží</mrk></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Define balance sheet inventory accounts.</source><seg-source><mrk mtype="seg" mid="46">Define balance sheet inventory accounts.</mrk></seg-source><target><mrk mtype="seg" mid="46">Definuje zásobové účty rozvahy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>These also provide a good way to organize your inventory, so you can separate items by their posting group when you generate reports.</source><seg-source><mrk mtype="seg" mid="47">These also provide a good way to organize your inventory, so you can separate items by their posting group when you generate reports.</mrk></seg-source><target><mrk mtype="seg" mid="47">Ty také poskytují dobrý způsob, jak uspořádat váš inventář, takže při generování sestav můžete oddělit položky podle jejich skupiny účtování.</mrk></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Set these up in the <bpt id="p1">**</bpt>Inventory Posting Groups<ept id="p1">**</ept> window.</source><seg-source><mrk mtype="seg" mid="48">Set these up in the <bpt id="p1">**</bpt>Inventory Posting Groups<ept id="p1">**</ept> window.</mrk></seg-source><target><mrk mtype="seg" mid="48">Tyto nastavte v okně <bpt id="p1">**</bpt>Účto skupina zboží<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Bank Account Posting Groups</source><seg-source><mrk mtype="seg" mid="49">Bank Account Posting Groups</mrk></seg-source><target><mrk mtype="seg" mid="49">Účtovací skupina bankovního účtu</mrk></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Define accounts for bank accounts.</source><seg-source><mrk mtype="seg" mid="50">Define accounts for bank accounts.</mrk></seg-source><target><mrk mtype="seg" mid="50">Definuje účty pro bankovní účty.</mrk></target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>For example, this can simplify the processes of tracing transactions and reconciling bank accounts.</source><seg-source><mrk mtype="seg" mid="51">For example, this can simplify the processes of tracing transactions and reconciling bank accounts.</mrk></seg-source><target><mrk mtype="seg" mid="51">To může například zjednodušit procesy trasování transakcí a sladění bankovních účtů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Set these up in the <bpt id="p1">**</bpt>Bank Account Posting Groups<ept id="p1">**</ept> window.</source><seg-source><mrk mtype="seg" mid="52">Set these up in the <bpt id="p1">**</bpt>Bank Account Posting Groups<ept id="p1">**</ept> window.</mrk></seg-source><target><mrk mtype="seg" mid="52">Tyto nastavte v okně <bpt id="p1">**</bpt>Účto skupiny bankovního účtu<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Fixed Assets Posting Groups</source><seg-source><mrk mtype="seg" mid="53">Fixed Assets Posting Groups</mrk></seg-source><target><mrk mtype="seg" mid="53">Účtovací skupiny dlouhodobého majetku</mrk></target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Define accounts for different types of expenses and costs, such as acquisition costs, accumulated depreciation amounts, acquisition costs on disposal, accumulated depreciation on disposal, gains on disposal, losses on disposal, maintenance expenses, and depreciation expenses.</source><seg-source><mrk mtype="seg" mid="54">Define accounts for different types of expenses and costs, such as acquisition costs, accumulated depreciation amounts, acquisition costs on disposal, accumulated depreciation on disposal, gains on disposal, losses on disposal, maintenance expenses, and depreciation expenses.</mrk></seg-source><target><mrk mtype="seg" mid="54">Definuje účty pro různé typy nákladů, jako jsou pořizovací náklady, kumulované odpisy, náklady na vyřazení, akumulované odpisy na vyřazení, zisky z vyřazení, ztráty z vyřazení, náklady na údržbu a odpisy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>Set these up in the <bpt id="p1">**</bpt>FA Posting Groups<ept id="p1">**</ept> window.</source><seg-source><mrk mtype="seg" mid="55">Set these up in the <bpt id="p1">**</bpt>FA Posting Groups<ept id="p1">**</ept> window.</mrk></seg-source><target><mrk mtype="seg" mid="55">Tyto nastavte v okně <bpt id="p1">**</bpt>Účto skupina DM <ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Tax Posting Group</source><seg-source><mrk mtype="seg" mid="56">Tax Posting Group</mrk></seg-source><target><mrk mtype="seg" mid="56">Účetní skupiny daní</mrk></target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Description</source><seg-source><mrk mtype="seg" mid="57">Description</mrk></seg-source><target><mrk mtype="seg" mid="57">Popis</mrk></target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>Tax Business Posting Groups</source><seg-source><mrk mtype="seg" mid="58">Tax Business Posting Groups</mrk></seg-source><target><mrk mtype="seg" mid="58">Obchodní účtovací skupiny daní</mrk></target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>Determine how to calculate and post sales tax for customers and vendors.</source><seg-source><mrk mtype="seg" mid="59">Determine how to calculate and post sales tax for customers and vendors.</mrk></seg-source><target><mrk mtype="seg" mid="59">Určí, jak vypočítat a účtovat daň z obratu pro zákazníky a dodavatele.</mrk></target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>Set these up in the <bpt id="p1">**</bpt>Tax Business Posting Groups<ept id="p1">**</ept> window.</source><seg-source><mrk mtype="seg" mid="60">Set these up in the <bpt id="p1">**</bpt>Tax Business Posting Groups<ept id="p1">**</ept> window.</mrk></seg-source><target><mrk mtype="seg" mid="60">Tyto nastavte na okně <bpt id="p1">**</bpt>Obchodní účto skupiny daní<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>When you do, think about how many groups you need.</source><seg-source><mrk mtype="seg" mid="61">When you do, think about how many groups you need.</mrk></seg-source><target><mrk mtype="seg" mid="61">Když toto uděláme, přemýšlejte, kolik skupin budete potřebovat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>For example, this can depend on factors like local legislation, and whether you trade both domestically and internationally.</source><seg-source><mrk mtype="seg" mid="62">For example, this can depend on factors like local legislation, and whether you trade both domestically and internationally.</mrk></seg-source><target><mrk mtype="seg" mid="62">Toto může například záviset na faktorech jako místní legislitava, anebo jestli obchodujete na domacím i mezinárodním trhu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>Tax Product Posting Groups</source><seg-source><mrk mtype="seg" mid="63">Tax Product Posting Groups</mrk></seg-source><target><mrk mtype="seg" mid="63">Účtovací skupiny daňového produktu</mrk></target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>Indicate the tax calculations needed for the types of items or resources you buy or sell.</source><seg-source><mrk mtype="seg" mid="64">Indicate the tax calculations needed for the types of items or resources you buy or sell.</mrk></seg-source><target><mrk mtype="seg" mid="64">Uvádí daňové výpočty potřebné pro typy položek nebo prostředků, které kupujete nebo prodáváte.</mrk></target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>Tax Posting Setup</source><seg-source><mrk mtype="seg" mid="65">Tax Posting Setup</mrk></seg-source><target><mrk mtype="seg" mid="65">Nastavení účtování daní</mrk></target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>Combine tax business posting groups and tax product posting groups.</source><seg-source><mrk mtype="seg" mid="66">Combine tax business posting groups and tax product posting groups.</mrk></seg-source><target><mrk mtype="seg" mid="66">Kombinuje Obchodní účtovací skupiny daní a Účtovací skupiny daňového produktu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>When you fill in a general journal line, purchase line, or sales line, we'll look at the combination to identify the accounts to use.</source><seg-source><mrk mtype="seg" mid="67">When you fill in a general journal line, purchase line, or sales line, we'll look at the combination to identify the accounts to use.</mrk></seg-source><target><mrk mtype="seg" mid="67">Když vyplníte řádek finančního deníku, nákupní řádek nebo prodejní řádek, podíváme se na kombinaci, abychom identifikovali účty, které se mají použít.</mrk></target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>Example of linking posting groups</source><seg-source><mrk mtype="seg" mid="68">Example of linking posting groups</mrk></seg-source><target><mrk mtype="seg" mid="68">Příklad propojení skupin účtování</mrk></target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>Here's a scenario.</source><seg-source><mrk mtype="seg" mid="69">Here's a scenario.</mrk></seg-source><target><mrk mtype="seg" mid="69">Zde je scénář.</mrk></target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>These posting groups are chosen on the customer card:</source><seg-source><mrk mtype="seg" mid="70">These posting groups are chosen on the customer card:</mrk></seg-source><target><mrk mtype="seg" mid="70">Na kartě zákazníka jsou vybrány tyto skupiny účtování:</mrk></target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>General business posting group</source><seg-source><mrk mtype="seg" mid="71">General business posting group</mrk></seg-source><target><mrk mtype="seg" mid="71">Obecné obchodní účto skupiny</mrk></target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>Customer posting group</source><seg-source><mrk mtype="seg" mid="72">Customer posting group</mrk></seg-source><target><mrk mtype="seg" mid="72">Účto skupina zákazníka</mrk></target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>These posting groups are chosen on the item card:</source><seg-source><mrk mtype="seg" mid="73">These posting groups are chosen on the item card:</mrk></seg-source><target><mrk mtype="seg" mid="73">Na kartě zboží jsou vybrány tyto skupiny účtování:</mrk></target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>General product posting group</source><seg-source><mrk mtype="seg" mid="74">General product posting group</mrk></seg-source><target><mrk mtype="seg" mid="74">Obecné účto skupiny zboží</mrk></target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>Inventory posting group</source><seg-source><mrk mtype="seg" mid="75">Inventory posting group</mrk></seg-source><target><mrk mtype="seg" mid="75">Účto skupiny zboží</mrk></target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>When you create a sales document, the sales header uses the customer card information, and the sales lines use the item card information.</source><seg-source><mrk mtype="seg" mid="76">When you create a sales document, the sales header uses the customer card information, and the sales lines use the item card information.</mrk></seg-source><target><mrk mtype="seg" mid="76">Při vytváření prodejního dokladu, používá záhlaví prodeje informace ze zákaznické karty a prodejní řádky používají informace z karty zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>The revenue posting (income statement) is determined by the combination of the general business posting group and the general product posting group.</source><seg-source><mrk mtype="seg" mid="77">The revenue posting (income statement) is determined by the combination of the general business posting group and the general product posting group.</mrk></seg-source><target><mrk mtype="seg" mid="77">Účtování o výnosech (výsledovka) je určeno kombinací Obecné obchodní účto skupiny a Obecné účto skupiny zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>The accounts receivable posting (balance sheet) is determined by the customer posting group.</source><seg-source><mrk mtype="seg" mid="78">The accounts receivable posting (balance sheet) is determined by the customer posting group.</mrk></seg-source><target><mrk mtype="seg" mid="78">Účtování pohledávek (rozvaha) je určováno Účto skupinou zákazníka.</mrk></target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>The inventory posting (balance sheet) is determined by the inventory posting group.</source><seg-source><mrk mtype="seg" mid="79">The inventory posting (balance sheet) is determined by the inventory posting group.</mrk></seg-source><target><mrk mtype="seg" mid="79">Účtování zboží (rozvaha) je určováno Účto skupinou zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>The cost of goods sold posting (income statement) is determined by the combination of general business posting group and general product posting group.</source><seg-source><mrk mtype="seg" mid="80">The cost of goods sold posting (income statement) is determined by the combination of general business posting group and general product posting group.</mrk></seg-source><target><mrk mtype="seg" mid="80">Náklady na účtování prodaného zboží (výsledovka) je určeno kombinací Obecné obchodní účto skupiny a Obecné účto skupiny zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>Your setup determines when posting happens.</source><seg-source><mrk mtype="seg" mid="81">Your setup determines when posting happens.</mrk></seg-source><target><mrk mtype="seg" mid="81">Vaše nastavení určuje, kdy dojde k účtování.</mrk></target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>For example, the timing is affected by when you do periodic activities, such as posting inventory cost or adjusting cost item entries.</source><seg-source><mrk mtype="seg" mid="82">For example, the timing is affected by when you do periodic activities, such as posting inventory cost or adjusting cost item entries.</mrk></seg-source><target><mrk mtype="seg" mid="82">Načasování je například ovlivněno, kdy vykonáváte pravidelné činnosti, jako je účtování nákladů na zásoby nebo úprava nákladových položek zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>Copying posting setup lines</source><seg-source><mrk mtype="seg" mid="83">Copying posting setup lines</mrk></seg-source><target><mrk mtype="seg" mid="83">Kopírování řádků nastavení účtování</mrk></target>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>The more product and business posting groups you have, the more lines you see in the General Posting Setup window.</source><seg-source><mrk mtype="seg" mid="84">The more product and business posting groups you have, the more lines you see in the General Posting Setup window.</mrk></seg-source><target><mrk mtype="seg" mid="84">Čím více skupin produktů a firemních účtů máte, tím více řádků uvidíte v okně Nastavení obecného účtování.</mrk></target>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>This can mean a lot of data entry to set up the general posting setup for the company.</source><seg-source><mrk mtype="seg" mid="85">This can mean a lot of data entry to set up the general posting setup for the company.</mrk></seg-source><target><mrk mtype="seg" mid="85">To může pro společnost znamenat spoustu zadávání dat, aby nastavila Nastavení obecného účtování.</mrk></target>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>While there may be many different combinations of business and product posting groups, different combinations may still post to the same general ledger accounts.</source><seg-source><mrk mtype="seg" mid="86">While there may be many different combinations of business and product posting groups, different combinations may still post to the same general ledger accounts.</mrk></seg-source><target><mrk mtype="seg" mid="86">I když zde může existovat mnoho různých kombinací účtování skupin pro firmy a zboží, mohou se na stejné účty hlavní knihy stále přidávat různé kombinace.</mrk></target>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>To limit the amount of manual entry, copy the general ledger accounts from an existing line in the <bpt id="p1">**</bpt>General Posting Setup<ept id="p1">**</ept> window.</source><seg-source><mrk mtype="seg" mid="87">To limit the amount of manual entry, copy the general ledger accounts from an existing line in the <bpt id="p1">**</bpt>General Posting Setup<ept id="p1">**</ept> window.</mrk></seg-source><target><mrk mtype="seg" mid="87">Chcete-li omezit množství ručního zadávání, zkopírujte účty hlavní knihy z existujícího řádku v okně <bpt id="p1">**</bpt>Nastavení obecného účtování<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>See also</source><seg-source><mrk mtype="seg" mid="88">See also</mrk></seg-source><target><mrk mtype="seg" mid="88">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>The General Ledger and the Chart of Accounts<ept id="p1">](finance-general-ledger.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="89">The General Ledger and the Chart of Accounts</mrk><ept id="p1">](finance-general-ledger.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="89">Hlavní kniha a Účtová osnova</mrk><ept id="p1">](finance-general-ledger.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Finance<ept id="p1">](finance-setup-finance.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="90">Setting Up Finance</mrk><ept id="p1">](finance-setup-finance.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="90">Nastavení financí</mrk><ept id="p1">](finance-setup-finance.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="91">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="91">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

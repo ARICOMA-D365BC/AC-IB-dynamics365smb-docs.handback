@@ -13,124 +13,124 @@
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
-          <source>Setting date ranges in Business Central  | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Setting date ranges in Business Central  | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Nastavení rozsahu dat v Business Central | Microsoft Docs</mrk></target>
+          <source>Setting date ranges in Business Central  | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Setting date ranges in Business Central  | Microsoft Docs</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="1">Nastavení rozsahu dat v Business Central | Microsoft Docs</mrk></target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
-          <source>Learn about getting a report to show data from specific time periods using date ranges in Business Central .</source><seg-source><mrk mtype="seg" mid="2">Learn about getting a report to show data from specific time periods using date ranges in Business Central .</mrk></seg-source><target><mrk mtype="seg" mid="2">Zjistěte, jak získat přehled pro zobrazení dat z konkrétních časových období použitím rozsahu dat v Business Central.</mrk></target>
+          <source>Learn about getting a report to show data from specific time periods using date ranges in Business Central .</source><seg-source><mrk mtype="seg" mid="2">Learn about getting a report to show data from specific time periods using date ranges in Business Central .</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="2">Zjistěte, jak získat přehled pro zobrazení dat z konkrétních časových období použitím rozsahu dat v Business Central.</mrk></target>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
-          <source>Entering Date Ranges</source><seg-source><mrk mtype="seg" mid="3">Entering Date Ranges</mrk></seg-source><target><mrk mtype="seg" mid="3">Zadávání rozsahu dat</mrk></target>
+          <source>Entering Date Ranges</source><seg-source><mrk mtype="seg" mid="3">Entering Date Ranges</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="3">Zadávání rozsahu dat</mrk></target>
         </trans-unit>
         <trans-unit id="104" translate="yes" xml:space="preserve">
-          <source>You can set filters containing a start date and an end date to display only the data contained in that date range or time interval.</source><seg-source><mrk mtype="seg" mid="4">You can set filters containing a start date and an end date to display only the data contained in that date range or time interval.</mrk></seg-source><target><mrk mtype="seg" mid="4">Můžete nastavit filtry obsahující počáteční a konečné datum tak, aby zobrazovaly pouze data obsažená v daném rozsahu dat nebo časovém intervalu.</mrk></target>
+          <source>You can set filters containing a start date and an end date to display only the data contained in that date range or time interval.</source><seg-source><mrk mtype="seg" mid="4">You can set filters containing a start date and an end date to display only the data contained in that date range or time interval.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="4">Můžete nastavit filtry obsahující počáteční a konečné datum tak, aby zobrazovaly pouze data obsažená v daném rozsahu dat nebo časovém intervalu.</mrk></target>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
-          <source>Special rules apply to the way you set date ranges.</source><seg-source><mrk mtype="seg" mid="5">Special rules apply to the way you set date ranges.</mrk></seg-source><target><mrk mtype="seg" mid="5">Pro nastavení rozsahu dat platí zvláštní pravidla.</mrk></target>
+          <source>Special rules apply to the way you set date ranges.</source><seg-source><mrk mtype="seg" mid="5">Special rules apply to the way you set date ranges.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="5">Pro nastavení rozsahu dat platí zvláštní pravidla.</mrk></target>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
-          <source>Let's take the <bpt id="p1">**</bpt>Customer Top 10<ept id="p1">**</ept> as an example:</source><seg-source><mrk mtype="seg" mid="6">Let's take the <bpt id="p1">**</bpt>Customer Top 10<ept id="p1">**</ept> as an example:</mrk></seg-source><target><mrk mtype="seg" mid="6">Vezměme si příklad <bpt id="p1">**</bpt>Nejlepších 10 zákazníků<ept id="p1">**</ept> :</mrk></target>
+          <source>Let's take the <bpt id="p1">**</bpt>Customer Top 10<ept id="p1">**</ept> as an example:</source><seg-source><mrk mtype="seg" mid="6">Let's take the <bpt id="p1">**</bpt>Customer Top 10<ept id="p1">**</ept> as an example:</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="6">Vezměme si příklad <bpt id="p1">**</bpt>Nejlepších 10 zákazníků<ept id="p1">**</ept> :</mrk></target>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
-          <source>Setting a date range in the request page for the Customer Top 10 list</source><seg-source><mrk mtype="seg" mid="7">Setting a date range in the request page for the Customer Top 10 list</mrk></seg-source><target><mrk mtype="seg" mid="7">Nastavení rozsahu dat na stránce požadavku pro seznam 10 nejlepších zákazníků</mrk></target>
+          <source>Setting a date range in the request page for the Customer Top 10 list</source><seg-source><mrk mtype="seg" mid="7">Setting a date range in the request page for the Customer Top 10 list</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Nastavení rozsahu dat na stránce požadavku pro seznam 10 nejlepších zákazníků</mrk></target>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
-          <source>Here you can limit the report to a date range such as the past 2 weeks, or a total of 6 weeks, or whatever range you want.</source><seg-source><mrk mtype="seg" mid="8">Here you can limit the report to a date range such as the past 2 weeks, or a total of 6 weeks, or whatever range you want.</mrk></seg-source><target><mrk mtype="seg" mid="8">Zde můžete omezit přehled na rozsah dat, jako jsou například poslední 2 týdny nebo celkově 6 týdnů, nebo libovolné časové období.</mrk></target>
+          <source>Here you can limit the report to a date range such as the past 2 weeks, or a total of 6 weeks, or whatever range you want.</source><seg-source><mrk mtype="seg" mid="8">Here you can limit the report to a date range such as the past 2 weeks, or a total of 6 weeks, or whatever range you want.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="8">Zde můžete omezit přehled na rozsah dat, jako jsou například poslední 2 týdny nebo celkově 6 týdnů, nebo libovolné časové období.</mrk></target>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source>To set date ranges, you enter dates and then use either <bpt id="p1">**</bpt>..<ept id="p1">**</ept></source><seg-source><mrk mtype="seg" mid="9">To set date ranges, you enter dates and then use either <bpt id="p1">**</bpt>..<ept id="p1">**</ept></mrk></seg-source><target><mrk mtype="seg" mid="9">Chcete-li nastavit rozsah dat, zadejte data, a poté použijte buď <bpt id="p1">**</bpt>..<ept id="p1">**</ept></mrk></target>
+          <source>To set date ranges, you enter dates and then use either <bpt id="p1">**</bpt>..<ept id="p1">**</ept></source><seg-source><mrk mtype="seg" mid="9">To set date ranges, you enter dates and then use either <bpt id="p1">**</bpt>..<ept id="p1">**</ept></mrk></seg-source><target state="translated"><mrk mtype="seg" mid="9">Chcete-li nastavit rozsah dat, zadejte data, a poté použijte buď <bpt id="p1">**</bpt>..<ept id="p1">**</ept></mrk></target>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
-          <source>or <bpt id="p1">**</bpt><ph id="ph1">|</ph><ept id="p1">**</ept> to set the range.</source><seg-source><mrk mtype="seg" mid="10">or <bpt id="p1">**</bpt><ph id="ph1">|</ph><ept id="p1">**</ept> to set the range.</mrk></seg-source><target><mrk mtype="seg" mid="10">Nebo <bpt id="p1">**</bpt><ph id="ph1">|</ph><ept id="p1">**</ept> pro nastavení rozsahu.</mrk></target>
+          <source>or <bpt id="p1">**</bpt><ph id="ph1">|</ph><ept id="p1">**</ept> to set the range.</source><seg-source><mrk mtype="seg" mid="10">or <bpt id="p1">**</bpt><ph id="ph1">|</ph><ept id="p1">**</ept> to set the range.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="10">Nebo <bpt id="p1">**</bpt><ph id="ph1">|</ph><ept id="p1">**</ept> pro nastavení rozsahu.</mrk></target>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
-          <source>In our example, to show the top 10 customers for the first two weeks of May, you would set the date filter to <bpt id="p1">*</bpt>05 01 17..05 14 17<ept id="p1">*</ept>.</source><seg-source><mrk mtype="seg" mid="11">In our example, to show the top 10 customers for the first two weeks of May, you would set the date filter to <bpt id="p1">*</bpt>05 01 17..05 14 17<ept id="p1">*</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="11">V našem příkladu byste pro zobrazení prvních 10 zákazníků za první dva týdny v květnu nastavili filtr dat na <bpt id="p1">*</bpt>05 01 17..05 14 17<ept id="p1">*</ept>.</mrk></target>
+          <source>In our example, to show the top 10 customers for the first two weeks of May, you would set the date filter to <bpt id="p1">*</bpt>05 01 17..05 14 17<ept id="p1">*</ept>.</source><seg-source><mrk mtype="seg" mid="11">In our example, to show the top 10 customers for the first two weeks of May, you would set the date filter to <bpt id="p1">*</bpt>05 01 17..05 14 17<ept id="p1">*</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">V našem příkladu byste pro zobrazení prvních 10 zákazníků za první dva týdny v květnu nastavili filtr dat na <bpt id="p1">*</bpt>05 01 17..05 14 17<ept id="p1">*</ept>.</mrk></target>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
-          <source>Here are a couple of other examples:</source><seg-source><mrk mtype="seg" mid="12">Here are a couple of other examples:</mrk></seg-source><target><mrk mtype="seg" mid="12">Zde je několik dalších příkladů:</mrk></target>
+          <source>Here are a couple of other examples:</source><seg-source><mrk mtype="seg" mid="12">Here are a couple of other examples:</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="12">Zde je několik dalších příkladů:</mrk></target>
         </trans-unit>
         <trans-unit id="113" translate="yes" xml:space="preserve">
-          <source>Meaning</source><seg-source><mrk mtype="seg" mid="13">Meaning</mrk></seg-source><target><mrk mtype="seg" mid="13">Význam</mrk></target>
+          <source>Meaning</source><seg-source><mrk mtype="seg" mid="13">Meaning</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="13">Význam</mrk></target>
         </trans-unit>
         <trans-unit id="114" translate="yes" xml:space="preserve">
-          <source>Example</source><seg-source><mrk mtype="seg" mid="14">Example</mrk></seg-source><target><mrk mtype="seg" mid="14">Příklad</mrk></target>
+          <source>Example</source><seg-source><mrk mtype="seg" mid="14">Example</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="14">Příklady:</mrk></target>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
-          <source>Entries included</source><seg-source><mrk mtype="seg" mid="15">Entries included</mrk></seg-source><target><mrk mtype="seg" mid="15">Zahrnuté položky</mrk></target>
+          <source>Entries included</source><seg-source><mrk mtype="seg" mid="15">Entries included</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="15">Zahrnuté položky</mrk></target>
         </trans-unit>
         <trans-unit id="116" translate="yes" xml:space="preserve">
-          <source>Equal to</source><seg-source><mrk mtype="seg" mid="16">Equal to</mrk></seg-source><target><mrk mtype="seg" mid="16">Rovná se </mrk></target>
+          <source>Equal to</source><seg-source><mrk mtype="seg" mid="16">Equal to</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="16">Rovná se </mrk></target>
         </trans-unit>
         <trans-unit id="117" translate="yes" xml:space="preserve">
-          <source>12 15 16</source><seg-source><mrk mtype="seg" mid="17">12 15 16</mrk></seg-source><target><mrk mtype="seg" mid="17">12 15 16</mrk></target>
+          <source>12 15 16</source><seg-source><mrk mtype="seg" mid="17">12 15 16</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="17">12 15 16</mrk></target>
         </trans-unit>
         <trans-unit id="118" translate="yes" xml:space="preserve">
-          <source>Only those posted on December 15 2016.</source><seg-source><mrk mtype="seg" mid="18">Only those posted on December 15 2016.</mrk></seg-source><target><mrk mtype="seg" mid="18">Pouze ty zaúčtované 15. prosince 2016.</mrk></target>
+          <source>Only those posted on December 15 2016.</source><seg-source><mrk mtype="seg" mid="18">Only those posted on December 15 2016.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="18">Pouze ty zaúčtované 15. prosince 2016.</mrk></target>
         </trans-unit>
         <trans-unit id="119" translate="yes" xml:space="preserve">
-          <source>Interval</source><seg-source><mrk mtype="seg" mid="19">Interval</mrk></seg-source><target><mrk mtype="seg" mid="19">Interval</mrk></target>
+          <source>Interval</source><seg-source><mrk mtype="seg" mid="19">Interval</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="19">Interval</mrk></target>
         </trans-unit>
         <trans-unit id="120" translate="yes" xml:space="preserve">
-          <source>12 15 16..01 15 17</source><seg-source><mrk mtype="seg" mid="20">12 15 16..01 15 17</mrk></seg-source><target><mrk mtype="seg" mid="20">12 15 16..01 15 17</mrk></target>
+          <source>12 15 16..01 15 17</source><seg-source><mrk mtype="seg" mid="20">12 15 16..01 15 17</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="20">12 15 16..01 15 17</mrk></target>
         </trans-unit>
         <trans-unit id="121" translate="yes" xml:space="preserve">
-          <source>..12 15 16</source><seg-source><mrk mtype="seg" mid="21">..12 15 16</mrk></seg-source><target><mrk mtype="seg" mid="21">..12 15 16</mrk></target>
+          <source>..12 15 16</source><seg-source><mrk mtype="seg" mid="21">..12 15 16</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="21">..12 15 16</mrk></target>
         </trans-unit>
         <trans-unit id="122" translate="yes" xml:space="preserve">
-          <source>Those posted on dates between and including December 15 2016 and January 15 2017.</source><seg-source><mrk mtype="seg" mid="22">Those posted on dates between and including December 15 2016 and January 15 2017.</mrk></seg-source><target><mrk mtype="seg" mid="22">Zaúčtováno v termínech mezi a včetně 15. prosince 2016 a 15. ledna 2017.</mrk></target>
+          <source>Those posted on dates between and including December 15 2016 and January 15 2017.</source><seg-source><mrk mtype="seg" mid="22">Those posted on dates between and including December 15 2016 and January 15 2017.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="22">Zaúčtováno v termínech mezi a včetně 15. prosince 2016 a 15. ledna 2017.</mrk></target>
         </trans-unit>
         <trans-unit id="123" translate="yes" xml:space="preserve">
-          <source>Those posted on December 15 2016 or earlier.</source><seg-source><mrk mtype="seg" mid="23">Those posted on December 15 2016 or earlier.</mrk></seg-source><target><mrk mtype="seg" mid="23">Zaúčtováno 15. prosince 2016 nebo dříve.</mrk></target>
+          <source>Those posted on December 15 2016 or earlier.</source><seg-source><mrk mtype="seg" mid="23">Those posted on December 15 2016 or earlier.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="23">Zaúčtováno 15. prosince 2016 nebo dříve.</mrk></target>
         </trans-unit>
         <trans-unit id="124" translate="yes" xml:space="preserve">
-          <source>Either/or</source><seg-source><mrk mtype="seg" mid="24">Either/or</mrk></seg-source><target><mrk mtype="seg" mid="24">Buď/nebo</mrk></target>
+          <source>Either/or</source><seg-source><mrk mtype="seg" mid="24">Either/or</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="24">Buď/nebo</mrk></target>
         </trans-unit>
         <trans-unit id="125" translate="yes" xml:space="preserve">
-          <source>12 15 16&amp;#124;12 16 16</source><seg-source><mrk mtype="seg" mid="25">12 15 16&amp;#124;12 16 16</mrk></seg-source><target><mrk mtype="seg" mid="25">12 15 16&amp;#124;12 16 16</mrk></target>
+          <source>12 15 16&amp;#124;12 16 16</source><seg-source><mrk mtype="seg" mid="25">12 15 16&amp;#124;12 16 16</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="25">12 15 16&amp;#124;12 16 16</mrk></target>
         </trans-unit>
         <trans-unit id="126" translate="yes" xml:space="preserve">
-          <source>Those posted on either December 15 or December 16 2016.</source><seg-source><mrk mtype="seg" mid="26">Those posted on either December 15 or December 16 2016.</mrk></seg-source><target><mrk mtype="seg" mid="26">Zaúčtováno 15. prosince nebo 16. prosince 2016.</mrk></target>
+          <source>Those posted on either December 15 or December 16 2016.</source><seg-source><mrk mtype="seg" mid="26">Those posted on either December 15 or December 16 2016.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="26">Zaúčtováno 15. prosince nebo 16. prosince 2016.</mrk></target>
         </trans-unit>
         <trans-unit id="127" translate="yes" xml:space="preserve">
-          <source>If there are entries posted on both days, they will all be displayed.</source><seg-source><mrk mtype="seg" mid="27">If there are entries posted on both days, they will all be displayed.</mrk></seg-source><target><mrk mtype="seg" mid="27">Pokud jsou položky zaúčtované v obou dnech, zobrazí se všechny.</mrk></target>
+          <source>If there are entries posted on both days, they will all be displayed.</source><seg-source><mrk mtype="seg" mid="27">If there are entries posted on both days, they will all be displayed.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="27">Pokud jsou položky zaúčtované v obou dnech, zobrazí se všechny.</mrk></target>
         </trans-unit>
         <trans-unit id="128" translate="yes" xml:space="preserve">
-          <source>You can also combine the various format types.</source><seg-source><mrk mtype="seg" mid="28">You can also combine the various format types.</mrk></seg-source><target><mrk mtype="seg" mid="28">Můžete také kombinovat různé typy formátů.</mrk></target>
+          <source>You can also combine the various format types.</source><seg-source><mrk mtype="seg" mid="28">You can also combine the various format types.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="28">Můžete také kombinovat různé typy formátů.</mrk></target>
         </trans-unit>
         <trans-unit id="129" translate="yes" xml:space="preserve">
-          <source>Example</source><seg-source><mrk mtype="seg" mid="29">Example</mrk></seg-source><target><mrk mtype="seg" mid="29">Příklad</mrk></target>
+          <source>Example</source><seg-source><mrk mtype="seg" mid="29">Example</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="29">Příklady:</mrk></target>
         </trans-unit>
         <trans-unit id="130" translate="yes" xml:space="preserve">
-          <source>Entries included</source><seg-source><mrk mtype="seg" mid="30">Entries included</mrk></seg-source><target><mrk mtype="seg" mid="30">Zahrnuté položky</mrk></target>
+          <source>Entries included</source><seg-source><mrk mtype="seg" mid="30">Entries included</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="30">Zahrnuté položky</mrk></target>
         </trans-unit>
         <trans-unit id="131" translate="yes" xml:space="preserve">
-          <source>12 15 16&amp;#124;12 01 16..05 31 17</source><seg-source><mrk mtype="seg" mid="31">12 15 16&amp;#124;12 01 16..05 31 17</mrk></seg-source><target><mrk mtype="seg" mid="31">12 15 16&amp;#124;12 01 16..05 31 17</mrk></target>
+          <source>12 15 16&amp;#124;12 01 16..05 31 17</source><seg-source><mrk mtype="seg" mid="31">12 15 16&amp;#124;12 01 16..05 31 17</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="31">12 15 16&amp;#124;12 01 16..05 31 17</mrk></target>
         </trans-unit>
         <trans-unit id="132" translate="yes" xml:space="preserve">
-          <source>Entries posted either on December 15 2016 or on dates between and including December 01 2016 and May 31 2017.</source><seg-source><mrk mtype="seg" mid="32">Entries posted either on December 15 2016 or on dates between and including December 01 2016 and May 31 2017.</mrk></seg-source><target><mrk mtype="seg" mid="32">Položky zaúčtované buď 15. prosince 2016, nebo v období mezi a včetně 1. prosince 2016 a 31. května 2017.</mrk></target>
+          <source>Entries posted either on December 15 2016 or on dates between and including December 01 2016 and May 31 2017.</source><seg-source><mrk mtype="seg" mid="32">Entries posted either on December 15 2016 or on dates between and including December 01 2016 and May 31 2017.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="32">Položky zaúčtované buď 15. prosince 2016, nebo v období mezi a včetně 1. prosince 2016 a 31. května 2017.</mrk></target>
         </trans-unit>
         <trans-unit id="133" translate="yes" xml:space="preserve">
-          <source>..12 14 16&amp;#124;12 30 16..</source><seg-source><mrk mtype="seg" mid="33">..12 14 16&amp;#124;12 30 16..</mrk></seg-source><target><mrk mtype="seg" mid="33">..12 14 16&amp;#124;12 30 16..</mrk></target>
+          <source>..12 14 16&amp;#124;12 30 16..</source><seg-source><mrk mtype="seg" mid="33">..12 14 16&amp;#124;12 30 16..</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="33">..12 14 16&amp;#124;12 30 16..</mrk></target>
         </trans-unit>
         <trans-unit id="134" translate="yes" xml:space="preserve">
-          <source>Entries posted on December 14 or earlier, or entries posted on December 30 or later - that is, all entries except those posted on dates between and including December 15 and 29.</source><seg-source><mrk mtype="seg" mid="34">Entries posted on December 14 or earlier, or entries posted on December 30 or later - that is, all entries except those posted on dates between and including December 15 and 29.</mrk></seg-source><target><mrk mtype="seg" mid="34">Položky zaúčtované 14. prosince nebo dříve nebo položky zaúčtované 30. prosince nebo později - to značí všechny položky kromě těch, které byly zaúčtovány v termínech mezi a včetně 15. a 29. prosince. </mrk></target>
+          <source>Entries posted on December 14 or earlier, or entries posted on December 30 or later - that is, all entries except those posted on dates between and including December 15 and 29.</source><seg-source><mrk mtype="seg" mid="34">Entries posted on December 14 or earlier, or entries posted on December 30 or later - that is, all entries except those posted on dates between and including December 15 and 29.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="34">Položky zaúčtované 14. prosince nebo dříve nebo položky zaúčtované 30. prosince nebo později - to značí všechny položky kromě těch, které byly zaúčtovány v termínech mezi a včetně 15. a 29. prosince. </mrk></target>
         </trans-unit>
         <trans-unit id="135" translate="yes" xml:space="preserve">
-          <source>Note that we have used the US date format MMDDYY here.</source><seg-source><mrk mtype="seg" mid="35">Note that we have used the US date format MMDDYY here.</mrk></seg-source><target><mrk mtype="seg" mid="35">Upozorňujeme, že jsme zde použili US formát dat MMDDYY.</mrk></target>
+          <source>Note that we have used the US date format MMDDYY here.</source><seg-source><mrk mtype="seg" mid="35">Note that we have used the US date format MMDDYY here.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="35">Upozorňujeme, že jsme zde použili US formát dat MMDDYY.</mrk></target>
         </trans-unit>
         <trans-unit id="136" translate="yes" xml:space="preserve">
-          <source>As <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> becomes available in other markets, you'll be able to use the formats that you are used to.</source><seg-source><mrk mtype="seg" mid="36">As <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> becomes available in other markets, you'll be able to use the formats that you are used to.</mrk></seg-source><target><mrk mtype="seg" mid="36">Jakmile bude <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> k dispozici na jiných trzích, budete moci používat formáty, na které jste zvyklí.</mrk></target>
+          <source>As <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> becomes available in other markets, you'll be able to use the formats that you are used to.</source><seg-source><mrk mtype="seg" mid="36">As <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> becomes available in other markets, you'll be able to use the formats that you are used to.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="36">Jakmile bude <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> k dispozici na jiných trzích, budete moci používat formáty, na které jste zvyklí.</mrk></target>
         </trans-unit>
         <trans-unit id="137" translate="yes" xml:space="preserve">
-          <source>See Also</source><seg-source><mrk mtype="seg" mid="37">See Also</mrk></seg-source><target><mrk mtype="seg" mid="37">Viz také</mrk></target>
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="37">See Also</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="37">Viz také</mrk></target>
         </trans-unit>
         <trans-unit id="138" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_long_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="38">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_long_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="38">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_long_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_long_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="38">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_long_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="38">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_long_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
         </trans-unit>
         <trans-unit id="139" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Entering Criteria in Filters <ept id="p1">](ui-enter-criteria-filters.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="39">Entering Criteria in Filters</mrk> <ept id="p1">](ui-enter-criteria-filters.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="39">Zadávání kritérií ve filtrech</mrk> <ept id="p1">](ui-enter-criteria-filters.md)</ept></target>
+          <source><bpt id="p1">[</bpt>Entering Criteria in Filters <ept id="p1">](ui-enter-criteria-filters.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="39">Entering Criteria in Filters</mrk> <ept id="p1">](ui-enter-criteria-filters.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="39">Zadávání kritérií ve filtrech</mrk> <ept id="p1">](ui-enter-criteria-filters.md)</ept></target>
         </trans-unit>
         <trans-unit id="140" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>General Business Functionality<ept id="p1">](ui-across-business-areas.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="40">General Business Functionality</mrk><ept id="p1">](ui-across-business-areas.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="40">Obecné fungování podniku</mrk><ept id="p1">](ui-across-business-areas.md)</ept></target>
+          <source><bpt id="p1">[</bpt>General Business Functionality<ept id="p1">](ui-across-business-areas.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="40">General Business Functionality</mrk><ept id="p1">](ui-across-business-areas.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="40">Obecné obchodní funkcionality</mrk><ept id="p1">](ui-across-business-areas.md)</ept></target>
         </trans-unit>
       </group>
     </body>

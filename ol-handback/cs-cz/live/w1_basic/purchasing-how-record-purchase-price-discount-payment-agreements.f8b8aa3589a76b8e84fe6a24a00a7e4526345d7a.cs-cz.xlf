@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="purchasing-how-record-purchase-price-discount-payment-agreements.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-15c36f0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ed1b2a894b8263ceac5f1fb212f452ab2a4e9751</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\purchasing-how-record-purchase-price-discount-payment-agreements.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6e6fe89105a60f2b28c6d82311786d0fd20cccc0</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f780abc6e4b8e3698132c73c0e431f49b5e7195b</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Set Up Special and Alternate Pricing and Discounts for Vendors | Microsoft Docs'</source><seg-source><mrk mtype="seg" mid="1">Set Up Special and Alternate Pricing and Discounts for Vendors | Microsoft Docs'</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="1">Nastavení speciálních a alternativních cen a slev pro dodavatele | Microsoft Docs'</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>You can define different or alternate prices and discount agreements and apply them to purchase documents for vendors.</source><seg-source><mrk mtype="seg" mid="2">You can define different or alternate prices and discount agreements and apply them to purchase documents for vendors.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="2">Můžete definovat zvláštní nebo alternativní ceny a dohody o slevách, a aplikovat je na nákupní doklady pro dodavatele.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Record Special Purchase Prices and Discounts</source><seg-source><mrk mtype="seg" mid="3">Record Special Purchase Prices and Discounts</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="3">Zaznamenávání speciálních nákupních cen a slev</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>The different price and discount agreements that apply when you buy from different vendors must be defined so that the agreed rules and values are applied to purchase documents that you create for the vendors.</source><seg-source><mrk mtype="seg" mid="4">The different price and discount agreements that apply when you buy from different vendors must be defined so that the agreed rules and values are applied to purchase documents that you create for the vendors.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="4">Různé smlouvy o cenách a slevách, které platí při nákupu od různých dodavatelů, musí být definovány tak, aby se dohodnutá pravidla a hodnoty vztahovaly na nákupní doklady, které pro dodavatele vytvoříte.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>When you have recorded special prices and line discounts for sales and purchases, <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> ensures that your profit on item trade is always optimal by automatically calculating the best price on sales and purchase documents and on job and item journal lines.</source><seg-source><mrk mtype="seg" mid="5">When you have recorded special prices and line discounts for sales and purchases, <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> ensures that your profit on item trade is always optimal by automatically calculating the best price on sales and purchase documents and on job and item journal lines.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="5">Pokud jste zaznamenali speciální ceny a řádkové slevy za prodej a nákupy, <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> zajistí, že váš zisk z obchodu se zbožím je vždy optimální automatickým výpočtem nejlepší ceny na prodejních a nákupních dokladech a na řádcích deníků zboží a projektů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>For more information, see the "Best Price Calculation" section.</source><seg-source><mrk mtype="seg" mid="6">For more information, see the "Best Price Calculation" section.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="6">Pro více informací navštivte sekci "Výpočet nejlepší ceny".</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Concerning prices, you can have a special purchase price inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</source><seg-source><mrk mtype="seg" mid="7">Concerning prices, you can have a special purchase price inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Pokud jde o ceny, můžete do nákupních řádků vložit speciální nákupní cenu, pokud existuje určitá kombinace dodavatele, zboží, minimálního množství, měrné jednotky nebo počátečního/koncového data.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Concerning discounts, you can set up and use two types of purchase discounts:</source><seg-source><mrk mtype="seg" mid="8">Concerning discounts, you can set up and use two types of purchase discounts:</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="8">Pokud jde o slevy, můžete nastavit a použít dva typy nákupních slev:</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Discount Type</source><seg-source><mrk mtype="seg" mid="9">Discount Type</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="9">Typ slevy</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Description</source><seg-source><mrk mtype="seg" mid="10">Description</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="10">Popis</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Purchase Line Discount<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="11">Purchase Line Discount</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="11">Sleva nákupního řádku</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>An amount discount that is inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</source><seg-source><mrk mtype="seg" mid="12">An amount discount that is inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="12">Množstevní sleva, která je vložena na nákupní řádky, pokud existuje určitá kombinace dodavatele, zboží, minimálního množství, měrné jednotky nebo počátečního/koncového data.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>This works in the same way as for purchase prices.</source><seg-source><mrk mtype="seg" mid="13">This works in the same way as for purchase prices.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="13">Toto funguje stejně jako u nákupních cen.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Invoice Discount<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="14">Invoice Discount</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="14">Fakturační sleva</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>A percentage discount that is subtracted from the document total if the value amount of all lines on a purchase document exceeds a certain minimum.</source><seg-source><mrk mtype="seg" mid="15">A percentage discount that is subtracted from the document total if the value amount of all lines on a purchase document exceeds a certain minimum.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="15">Procentní sleva, která se odečte od celkové částky dokladu, pokud hodnota všech řádků na nákupním dokladu přesáhne určité minimum.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Because purchase line discounts and purchase prices are based on a combination of item and vendor, you can also enter this configuration from the item card, where the rules and values are defined.</source><seg-source><mrk mtype="seg" mid="16">Because purchase line discounts and purchase prices are based on a combination of item and vendor, you can also enter this configuration from the item card, where the rules and values are defined.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="16">Protože slevy na nákupních řádcích a nákupní ceny jsou založeny na kombinaci zboží a dodavatele, můžete tuto konfiguraci zadat také z karty zboží, kde jsou definována pravidla a hodnoty.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Register New Items<ept id="p1">](inventory-how-register-new-items.md)</ept>.</source><seg-source><mrk mtype="seg" mid="17">For more information, see <bpt id="p1">[</bpt>Register New Items<ept id="p1">](inventory-how-register-new-items.md)</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="17">Pro více informací navštivte <bpt id="p1">[</bpt>Evidence nového zboží<ept id="p1">](inventory-how-register-new-items.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>To set up a special purchase price for a vendor</source><seg-source><mrk mtype="seg" mid="18">To set up a special purchase price for a vendor</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="18">Nastavení speciálních nákupních cen pro dodavatele</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Vendors<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="19">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Vendors<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="19">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Dodavatelé<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Open the relevant vendor card, and then choose the <bpt id="p1">**</bpt>Prices<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="20">Open the relevant vendor card, and then choose the <bpt id="p1">**</bpt>Prices<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="20">Vyberte příslušnou kartu dodavatele a pak zvolte akci <bpt id="p1">**</bpt>Ceny<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Purchase Type<ept id="p1">**</ept> field is prefilled with <bpt id="p2">**</bpt>Vendor<ept id="p2">**</ept>, and the <bpt id="p3">**</bpt>Purchase Code<ept id="p3">**</ept> field is prefilled with the vendor number.</source><seg-source><mrk mtype="seg" mid="21">The <bpt id="p1">**</bpt>Purchase Type<ept id="p1">**</ept> field is prefilled with <bpt id="p2">**</bpt>Vendor<ept id="p2">**</ept>, and the <bpt id="p3">**</bpt>Purchase Code<ept id="p3">**</ept> field is prefilled with the vendor number.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="21">Pole<bpt id="p1">**</bpt>Typ nákupu<ept id="p1">**</ept> je předvyplněno <bpt id="p2">**</bpt>Dodavatelem<ept id="p2">**</ept> a pole <bpt id="p3">**</bpt>Kód nákupu<ept id="p3">**</ept> je vyplněno číslem dodavatele.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Fill in the fields on the line as necessary.</source><seg-source><mrk mtype="seg" mid="22">Fill in the fields on the line as necessary.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="22">Vyplňte pole na řádku podle potřeby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Fill a line for each combination for which the vendor grants you a purchase line discount.</source><seg-source><mrk mtype="seg" mid="23">Fill a line for each combination for which the vendor grants you a purchase line discount.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="23">Vyplňte řádek pro každou kombinaci, pro kterou vám dodavatel poskytne nákupní řádkovou slevu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>To set up a line discount for a vendor</source><seg-source><mrk mtype="seg" mid="24">To set up a line discount for a vendor</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="24">Chcete-li nastavit řádkovou slevu pro dodavatele</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Vendors<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="25">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Vendors<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="25">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Dodavatelé<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Open the relevant vendor card, and then choose the <bpt id="p1">**</bpt>Line Discounts<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="26">Open the relevant vendor card, and then choose the <bpt id="p1">**</bpt>Line Discounts<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="26">Vyberte příslušnou kartu dodavatele a pak zvolte akci <bpt id="p1">**</bpt>Řádkové slevy<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Purchase Type<ept id="p1">**</ept> field is prefilled with <bpt id="p2">**</bpt>Vendor<ept id="p2">**</ept>, and the <bpt id="p3">**</bpt>Purchase Code<ept id="p3">**</ept> field is prefilled with the vendor number.</source><seg-source><mrk mtype="seg" mid="27">The <bpt id="p1">**</bpt>Purchase Type<ept id="p1">**</ept> field is prefilled with <bpt id="p2">**</bpt>Vendor<ept id="p2">**</ept>, and the <bpt id="p3">**</bpt>Purchase Code<ept id="p3">**</ept> field is prefilled with the vendor number.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="27">Pole<bpt id="p1">**</bpt>Typ nákupu<ept id="p1">**</ept> je předvyplněno <bpt id="p2">**</bpt>Dodavatelem<ept id="p2">**</ept> a pole <bpt id="p3">**</bpt>Kód nákupu<ept id="p3">**</ept> je vyplněno číslem dodavatele.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Fill in the fields on the line as necessary.</source><seg-source><mrk mtype="seg" mid="28">Fill in the fields on the line as necessary.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="28">Vyplňte pole na řádku podle potřeby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Fill a line for each combination for which the vendor grants you a purchase line discount.</source><seg-source><mrk mtype="seg" mid="29">Fill a line for each combination for which the vendor grants you a purchase line discount.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="29">Vyplňte řádek pro každou kombinaci, pro kterou vám dodavatel poskytne nákupní řádkovou slevu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>To set up an invoice discount for a vendor</source><seg-source><mrk mtype="seg" mid="30">To set up an invoice discount for a vendor</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="30">Nastavení fakturační slevy pro dodavatele</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>When your vendors have informed you which invoice discounts they grant, enter the invoice discount code on the vendor cards and set up the terms for each code.</source><seg-source><mrk mtype="seg" mid="31">When your vendors have informed you which invoice discounts they grant, enter the invoice discount code on the vendor cards and set up the terms for each code.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="31">Jakmile vás vaši dodavatelé informují o tom, které slevy z faktury poskytují, zadejte na kartách dodavatele kód slevy z faktury a nastavte podmínky pro každý kód.</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Vendors<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="32">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Vendors<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="32">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Dodavatelé<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Open the vendor card for a vendor that will be eligible for invoice discounts.</source><seg-source><mrk mtype="seg" mid="33">Open the vendor card for a vendor that will be eligible for invoice discounts.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="33">Otevřete kartu dodavatele pro dodavatele, který bude mít nárok na slevy z faktury.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Invoice Disc. Code<ept id="p1">**</ept> field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the vendor.</source><seg-source><mrk mtype="seg" mid="34">In the <bpt id="p1">**</bpt>Invoice Disc.</mrk> <mrk mtype="seg" mid="35">Code<ept id="p1">**</ept> field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the vendor.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="34">V části <bpt id="p1">**</bpt>Kód fakturační </mrk> <mrk mtype="seg" mid="35">slevy<ept id="p1">**</ept> vyberte kód pro příslušné podmínky slev z faktury, které chcete použít pro výpočet slev z faktury pro dodavatele.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Invoice discount codes are represented by existing vendor cards.</source><seg-source><mrk mtype="seg" mid="36">Invoice discount codes are represented by existing vendor cards.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="36">Kódy slev z faktury jsou představovány existujícími kartami dodavatelů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>This enables you to quickly assign invoice discount terms to vendors by picking the name of another vendors who will have the same terms.</source><seg-source><mrk mtype="seg" mid="37">This enables you to quickly assign invoice discount terms to vendors by picking the name of another vendors who will have the same terms.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="37">To vám umožní rychle přiřadit dodavatelům podmínky slevy z faktury výběrem jmen dalších dodavatelů, kteří budou mít stejné podmínky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Proceed to set up new the purchase invoice discount terms.</source><seg-source><mrk mtype="seg" mid="38">Proceed to set up new the purchase invoice discount terms.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="38">Pokračujte v nastavování nových podmínek slevy z nákupní faktury.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Vendor Card<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>Invoice Discounts<ept id="p2">**</ept> action.</source><seg-source><mrk mtype="seg" mid="39">In the <bpt id="p1">**</bpt>Vendor Card<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>Invoice Discounts<ept id="p2">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="39">V okně <bpt id="p1">**</bpt>Karta dodavatele<ept id="p1">**</ept> vyberte akci <bpt id="p2">**</bpt>Fakturační slevy<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Vend. Invoice Discounts<ept id="p1">**</ept> window opens.</source><seg-source><mrk mtype="seg" mid="40">The <bpt id="p1">**</bpt>Vend.</mrk> <mrk mtype="seg" mid="41">Invoice Discounts<ept id="p1">**</ept> window opens.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="40">Otevře se okno <bpt id="p1">**</bpt>Dod. </mrk> <mrk mtype="seg" mid="41">fakturační slevy<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Currency Code<ept id="p1">**</ept> field, enter the code for a currency that the invoice discount terms on the line applies to.</source><seg-source><mrk mtype="seg" mid="42">In the <bpt id="p1">**</bpt>Currency Code<ept id="p1">**</ept> field, enter the code for a currency that the invoice discount terms on the line applies to.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="42">Do pole <bpt id="p1">**</bpt>Kód měny<ept id="p1">**</ept> zadejte kód měny, na kterou se vztahují podmínky slevy z faktury na řádku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Leave the field blank to set up invoice discount terms in USD.</source><seg-source><mrk mtype="seg" mid="43">Leave the field blank to set up invoice discount terms in USD.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="43">Chcete-li nastavit podmínky slevy z faktury v USD, ponechte pole prázdné.</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Minimum Amount<ept id="p1">**</ept> field, enter the minimum amount that an invoice must have to be eligible for the discount.</source><seg-source><mrk mtype="seg" mid="44">In the <bpt id="p1">**</bpt>Minimum Amount<ept id="p1">**</ept> field, enter the minimum amount that an invoice must have to be eligible for the discount.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="44">Do pole <bpt id="p1">**</bpt>Minimální částka<ept id="p1">**</ept> zadejte minimální částku, kterou musí faktura obsahovat, aby vznikl nárok na slevu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Discount %<ept id="p1">**</ept> field, enter the invoice discount as a percentage of the invoice amount.</source><seg-source><mrk mtype="seg" mid="45">In the <bpt id="p1">**</bpt>Discount %<ept id="p1">**</ept> field, enter the invoice discount as a percentage of the invoice amount.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="45">Do pole <bpt id="p1">**</bpt>Sleva %<ept id="p1">**</ept> zadejte slevu z faktury jako procento z částky faktury.</mrk></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Repeat steps 5 through 7 for each currency that the vendor will receive a different invoice discount for.</source><seg-source><mrk mtype="seg" mid="46">Repeat steps 5 through 7 for each currency that the vendor will receive a different invoice discount for.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="46">Opakujte kroky 5 až 7 pro každou měnu, pro kterou dodavatel obdrží jinou slevu z faktury.</mrk></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>The invoice discount is now set up and assigned to the vendor in question.</source><seg-source><mrk mtype="seg" mid="47">The invoice discount is now set up and assigned to the vendor in question.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="47">Sleva z faktury je nyní nastavena a přiřazena dotyčnému dodavateli.</mrk></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>When you select the vendor code in the <bpt id="p1">**</bpt>Invoice Disc. Code<ept id="p1">**</ept> field on other vendor cards, the same invoice discount is assigned to those vendor.</source><seg-source><mrk mtype="seg" mid="48">When you select the vendor code in the <bpt id="p1">**</bpt>Invoice Disc.</mrk> <mrk mtype="seg" mid="49">Code<ept id="p1">**</ept> field on other vendor cards, the same invoice discount is assigned to those vendor.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="48">Při výběru kódu dodavatele v části <bpt id="p1">**</bpt>Kód fakturační</mrk> <mrk mtype="seg" mid="49"> slevy<ept id="p1">**</ept>, na kartách dalších dodavatelů, je těmto prodejcům přidělena stejná sleva z faktury.</mrk></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>To choose a principle for posting purchase discounts</source><seg-source><mrk mtype="seg" mid="50">To choose a principle for posting purchase discounts</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="50">Pro výběr principu účtování nákupních slev</mrk></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>When you post a purchase invoice that includes one or more discounts, you can choose between two principles for posting discount amounts.</source><seg-source><mrk mtype="seg" mid="51">When you post a purchase invoice that includes one or more discounts, you can choose between two principles for posting discount amounts.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="51">Když zaúčtujete nákupní fakturu, která obsahuje jednu nebo více slev, můžete si vybrat mezi dvěma principy pro účtování částek slev.</mrk></target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>You can post discounts separately or you can subtract discounts from invoice discounts.</source><seg-source><mrk mtype="seg" mid="52">You can post discounts separately or you can subtract discounts from invoice discounts.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="52">Slevy můžete účtovat samostatně nebo můžete odečíst slevy z fakturačních slev.</mrk></target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Before you can do this, you must have already set up the necessary accounts for posting discount amounts in the chart of accounts.</source><seg-source><mrk mtype="seg" mid="53">Before you can do this, you must have already set up the necessary accounts for posting discount amounts in the chart of accounts.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="53">Než to budete moci udělat, budete muset mít již zřízené účty potřebné pro účtování částek slev do účetní osnovy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>You must also check that you have entered the correct account numbers in the general posting setup in the <bpt id="p1">**</bpt>Purch. Line Disc. Account<ept id="p1">**</ept> and <bpt id="p2">**</bpt>Purch. Inv. Disc. Account<ept id="p2">**</ept> fields.</source><seg-source><mrk mtype="seg" mid="54">You must also check that you have entered the correct account numbers in the general posting setup in the <bpt id="p1">**</bpt>Purch.</mrk> <mrk mtype="seg" mid="55">Line Disc.</mrk> <mrk mtype="seg" mid="56">Account<ept id="p1">**</ept> and <bpt id="p2">**</bpt>Purch.</mrk> <mrk mtype="seg" mid="57">Inv.</mrk> <mrk mtype="seg" mid="58">Disc.</mrk> <mrk mtype="seg" mid="59">Account<ept id="p2">**</ept> fields.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="54">Musíte také zkontrolovat, zda jste zadali správná čísla účtů v nastavení obecného účtování v <bpt id="p1">**</bpt>Účet</mrk> <mrk mtype="seg" mid="55">Nákupní řádkové</mrk> <mrk mtype="seg" mid="56">slevy<ept id="p1">**</ept> a <bpt id="p2">**</bpt>Účet </mrk> <mrk mtype="seg" mid="57">Nákupní .</mrk> <mrk mtype="seg" mid="58">Fakturační </mrk> <mrk mtype="seg" mid="59">slevy.<ept id="p2">**</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Purchases &amp; Payables Setup<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="60">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Purchases &amp; Payables Setup<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="60">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Nastavení nákupů a závazků<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Discount Posting<ept id="p1">**</ept> field, choose one of the following principles for posting discounts.</source><seg-source><mrk mtype="seg" mid="61">In the <bpt id="p1">**</bpt>Discount Posting<ept id="p1">**</ept> field, choose one of the following principles for posting discounts.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="61">V poli <bpt id="p1">**</bpt>Účtování slevy<ept id="p1">**</ept> vyberte jeden z následujících principů účtování slev.</mrk></target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Discount Posting Principle<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="62">Discount Posting Principle</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="62">Princip účtování slevy</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Invoice Discount<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="63">Invoice Discount</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="63">Fakturační sleva</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Line Discount<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="64">Line Discount</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="64">Řádková sleva</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>All Discounts<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="65">All Discounts</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="65">Všechny slevy</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>Posted separately</source><seg-source><mrk mtype="seg" mid="66">Posted separately</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="66">Účtováno samostatně</mrk></target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Posted separately</source><seg-source><mrk mtype="seg" mid="67">Posted separately</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="67">Účtováno samostatně</mrk></target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Invoice Discounts<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="68">Invoice Discounts</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="68">Fakturační slevy</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>Posted separately</source><seg-source><mrk mtype="seg" mid="69">Posted separately</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="69">Účtováno samostatně</mrk></target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>Subtracted</source><seg-source><mrk mtype="seg" mid="70">Subtracted</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="70">Odečteno</mrk></target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Line Discounts<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="71">Line Discounts</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="71">Řádkové slevy</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>Subtracted</source><seg-source><mrk mtype="seg" mid="72">Subtracted</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="72">Odečteno</mrk></target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>Posted separately</source><seg-source><mrk mtype="seg" mid="73">Posted separately</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="73">Účtováno samostatně</mrk></target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>No Discounts<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="74">No Discounts</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="74">Žádné slevy</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>Subtracted</source><seg-source><mrk mtype="seg" mid="75">Subtracted</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="75">Odečteno</mrk></target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>Subtracted</source><seg-source><mrk mtype="seg" mid="76">Subtracted</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="76">Odečteno</mrk></target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>Purchase Invoice Discounts and Service Charges</source><seg-source><mrk mtype="seg" mid="77">Purchase Invoice Discounts and Service Charges</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="77">Slevy z nákupních faktur a poplatky za služby</mrk></target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>If you have fixed terms for invoice discounts with any vendors, you can enter them for those vendors.</source><seg-source><mrk mtype="seg" mid="78">If you have fixed terms for invoice discounts with any vendors, you can enter them for those vendors.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="78">Pokud máte u jakýchkoli dodavatelů pevně stanovené podmínky pro slevy z faktury, můžete je pro tyto dodavatele zadat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>Then the discount will be calculated when you fill in a purchase invoice.</source><seg-source><mrk mtype="seg" mid="79">Then the discount will be calculated when you fill in a purchase invoice.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="79">Sleva se poté vypočítá při vyplnění nákupní faktury.</mrk></target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>Before you can use invoice discounts with purchases, you must specify the vendors that offer you the discounts.</source><seg-source><mrk mtype="seg" mid="80">Before you can use invoice discounts with purchases, you must specify the vendors that offer you the discounts.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="80">Než budete moci u nákupů použít fakturační slevy, musíte určit dodavatele, kteří vám slevy nabízejí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>You link discount percentages to specific invoice amounts in <bpt id="p1">**</bpt>Vend. Invoice Discounts<ept id="p1">**</ept> windows.</source><seg-source><mrk mtype="seg" mid="81">You link discount percentages to specific invoice amounts in <bpt id="p1">**</bpt>Vend.</mrk> <mrk mtype="seg" mid="82">Invoice Discounts<ept id="p1">**</ept> windows.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="81">Procenta slev s konkrétními částkami faktury propojíte v sekci <bpt id="p1">**</bpt>Dodav. </mrk> <mrk mtype="seg" mid="82">fakturační slevy<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>You can enter any number of percentages in each window.</source><seg-source><mrk mtype="seg" mid="83">You can enter any number of percentages in each window.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="83">Do každého okna můžete zadat libovolný počet procent.</mrk></target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>Each vendor can have its own window, or you can link several vendors to the same window.</source><seg-source><mrk mtype="seg" mid="84">Each vendor can have its own window, or you can link several vendors to the same window.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="84">Každý dodavatel může mít své vlastní okno, nebo můžete ke stejnému oknu připojit několik dodavatelů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>In addition to a discount percentage, you can link a service charge amount to a specific invoice amount.</source><seg-source><mrk mtype="seg" mid="85">In addition to a discount percentage, you can link a service charge amount to a specific invoice amount.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="85">Kromě procenta slevy můžete také spojit částku poplatku za služby s konkrétní částkou faktury.</mrk></target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>You can define the terms of the invoice discount in LCY for domestic vendors and in foreign currency for foreign vendors.</source><seg-source><mrk mtype="seg" mid="86">You can define the terms of the invoice discount in LCY for domestic vendors and in foreign currency for foreign vendors.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="86">Podmínky slevy z faktury můžete definovat v LM pro domácí dodavatele a v cizí měně pro zahraniční dodavatele.</mrk></target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>You can choose to have <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> automatically calculate the invoice discounts for quotes, blanket orders, orders, invoices, or credit memos.</source><seg-source><mrk mtype="seg" mid="87">You can choose to have <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> automatically calculate the invoice discounts for quotes, blanket orders, orders, invoices, or credit memos.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="87">Můžete si vybrat, zda chcete aby <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> automaticky vypočítal slevy na fakturách pro nabídky, hromadné objednávky, objednávky, faktury nebo dobropisy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>Before you enter this information, it is a good idea to prepare an outline of the discount structure that you want to use.</source><seg-source><mrk mtype="seg" mid="88">Before you enter this information, it is a good idea to prepare an outline of the discount structure that you want to use.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="88">Před zadáním těchto informací je vhodné připravit osnovu struktury slev, kterou chcete použít.</mrk></target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>This makes it easier to see which vendors can be linked to the same invoice discount window.</source><seg-source><mrk mtype="seg" mid="89">This makes it easier to see which vendors can be linked to the same invoice discount window.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="89">Díky tomu je snazší zjistit, kteří dodavatelé mohou být spojeni se stejným oknem slevy z faktury.</mrk></target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>The fewer windows that you have to set up, the faster that you can enter the basic information.</source><seg-source><mrk mtype="seg" mid="90">The fewer windows that you have to set up, the faster that you can enter the basic information.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="90">Čím méně oken musíte nastavit, tím rychleji můžete zadat základní informace.</mrk></target>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>Best Price Calculation</source><seg-source><mrk mtype="seg" mid="91">Best Price Calculation</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="91">Výpočet nejlepší ceny</mrk></target>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>When you have recorded special prices and line discounts for sales and purchases, <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> ensures that your profit on item trade is always optimal by automatically calculating the best price on sales and purchase documents and on job and item journal lines.</source><seg-source><mrk mtype="seg" mid="92">When you have recorded special prices and line discounts for sales and purchases, <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> ensures that your profit on item trade is always optimal by automatically calculating the best price on sales and purchase documents and on job and item journal lines.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="92">Pokud jste zaznamenali speciální ceny a řádkové slevy za prodej a nákupy, <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> zajistí, že váš zisk z obchodu se zbožím je vždy optimální automatickým výpočtem nejlepší ceny na prodejních a nákupních dokladech a na řádcích deníků zboží a projektů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>The best price is the lowest permissible price with the highest permissible line discount on a given date.</source><seg-source><mrk mtype="seg" mid="93">The best price is the lowest permissible price with the highest permissible line discount on a given date.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="93">Nejlepší cena je nejnižší přípustná cena s nejvyšší přípustnou řádkovou slevou k danému datu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> automatically calculates this when it inserts the unit price and the line discount percentage for items on new document and journal lines.</source><seg-source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="94">automatically calculates this when it inserts the unit price and the line discount percentage for items on new document and journal lines.</mrk></seg-source><target state="translated"><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="94">Automaticky je vypočteno, když vloží jednotkovou cenu a procento řádkové slevy pro zboží na nových řádcích dokladu a deníku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>The following describes how the best price is calculated for sales.</source><seg-source><mrk mtype="seg" mid="95">The following describes how the best price is calculated for sales.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="95">Následující text popisuje, jak je pro prodej vypočítána nejlepší cena.</mrk></target>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>The calculation is the same for purchases.</source><seg-source><mrk mtype="seg" mid="96">The calculation is the same for purchases.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="96">Výpočet je stejný pro nákupy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> checks the combination of the bill-to customer and the item and then calculates the applicable unit price and line discount percentage, using the following criteria:</source><seg-source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="97">checks the combination of the bill-to customer and the item and then calculates the applicable unit price and line discount percentage, using the following criteria:</mrk></seg-source><target state="translated"><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="97">zkontroluje kombinaci plátce a zboží a poté vypočítá použitelnou jednotkovou cenu a procentuální řádkovou slevu pomocí následujících kritérií:</mrk></target>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>Does the customer have a price/discount agreement, or does the customer belong to a group that does?</source><seg-source><mrk mtype="seg" mid="98">Does the customer have a price/discount agreement, or does the customer belong to a group that does?</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="98">Má zákazník dohodu o cenách/slevách, nebo patří do skupiny, která slevy má?</mrk></target>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>Is the item or the item discount group on the line included in any of these price/discount agreements?</source><seg-source><mrk mtype="seg" mid="99">Is the item or the item discount group on the line included in any of these price/discount agreements?</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="99">Je zboží nebo skupina slev zboží na řádku zahrnuta v některé z těchto dohod o cenách/slevách?</mrk></target>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>Is the order date (or the posting date for the invoice and credit memo) within the starting and ending date of the price/discount agreement?</source><seg-source><mrk mtype="seg" mid="100">Is the order date (or the posting date for the invoice and credit memo) within the starting and ending date of the price/discount agreement?</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="100">Je datum objednávky (nebo datum zaúčtování faktury a dobropisu) v rozmezí počátečního a koncového data dohody o ceně/slevě?</mrk></target>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>Is a unit of measure code specified?</source><seg-source><mrk mtype="seg" mid="101">Is a unit of measure code specified?</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="101">Je zadán kód měrné jednotky?</mrk></target>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>If so, <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> checks for prices/discounts with the same unit of measure code, and prices/discounts with no unit of measure code.</source><seg-source><mrk mtype="seg" mid="102">If so, <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> checks for prices/discounts with the same unit of measure code, and prices/discounts with no unit of measure code.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="102">Pokud ano, <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> zkontrolujte ceny/slevy se stejným kódem měrné jednotky a ceny/slevy bez kódu měrné jednotky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> checks if any price/discount agreements apply to information on the document or journal line, and then inserts the applicable unit price and line discount percentage, using the following criteria:</source><seg-source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="103">checks if any price/discount agreements apply to information on the document or journal line, and then inserts the applicable unit price and line discount percentage, using the following criteria:</mrk></seg-source><target state="translated"><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="103">zkontroluje, zda se nějaké dohody o ceně/slevě nevztahují na informace v dokladu nebo v řádku deníku a poté vloží příslušné jednotkové ceny a procentuální řádkovou slevu, a to pomocí následujících kritérií:</mrk></target>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>Is there a minimum quantity requirement in the price/discount agreement that is fulfilled?</source><seg-source><mrk mtype="seg" mid="104">Is there a minimum quantity requirement in the price/discount agreement that is fulfilled?</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="104">Existuje v dohodě o ceně/slevě požadavek na minimální množství, který je splněn?</mrk></target>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>Is there a currency requirement in the price/discount agreement that is fulfilled?</source><seg-source><mrk mtype="seg" mid="105">Is there a currency requirement in the price/discount agreement that is fulfilled?</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="105">Existuje v dohodě o ceně/slevě požadavek na měnu, který je splněn?</mrk></target>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>If so, the lowest price and the highest line discount for that currency are inserted, even if LCY would provide a better price.</source><seg-source><mrk mtype="seg" mid="106">If so, the lowest price and the highest line discount for that currency are inserted, even if LCY would provide a better price.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="106">Pokud ano, vloží se nejnižší cena a nejvyšší řádková sleva pro tuto měnu, i když by LM poskytla lepší cenu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>If there is no price/discount agreement for the specified currency code, <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> inserts the lowest price and the highest line discount in LCY.</source><seg-source><mrk mtype="seg" mid="107">If there is no price/discount agreement for the specified currency code, <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> inserts the lowest price and the highest line discount in LCY.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="107">Pokud pro zadaný kód měny neexistuje dohoda o ceně/slevě, <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> vloží nejnižší cenu a nejvyšší řádkovou slevu v LM.</mrk></target>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>If no special price can be calculated for the item on the line, then either the last direct cost or the unit price from the item card is inserted.</source><seg-source><mrk mtype="seg" mid="108">If no special price can be calculated for the item on the line, then either the last direct cost or the unit price from the item card is inserted.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="108">Pokud pro zboží na řádku nelze vypočítat žádnou speciální cenu, je vložen buď poslední přímý náklad, nebo jednotková cena z karty zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="109">See Also</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="109">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Purchasing<ept id="p1">](purchasing-setup-purchasing.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="110">Setting Up Purchasing</mrk><ept id="p1">](purchasing-setup-purchasing.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="110">Nastavení Nákupu</mrk><ept id="p1">](purchasing-setup-purchasing.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Purchasing<ept id="p1">](purchasing-manage-purchasing.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="111">Purchasing</mrk><ept id="p1">](purchasing-manage-purchasing.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="111">Nakupování</mrk><ept id="p1">](purchasing-manage-purchasing.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="112">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="112">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
