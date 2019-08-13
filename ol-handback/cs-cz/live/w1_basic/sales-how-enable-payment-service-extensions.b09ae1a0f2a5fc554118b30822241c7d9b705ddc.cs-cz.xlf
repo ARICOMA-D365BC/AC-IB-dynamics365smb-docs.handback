@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="sales-how-enable-payment-service-extensions.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-15c36f0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c89b5618062608a73bfecf1a758a5587ef7d778f</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\sales-how-enable-payment-service-extensions.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2a5060cb787739083f6725aecde870e2daf591db</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">66d9933cb57b4c5f56574ae24d2b5183548a1ea5</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Enable Customer Payments Through Payment Services| Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Enable Customer Payments Through Payment Services| Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Povolení platby odběratelů prostřednictvím platebních služeb | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Make it easier for customers to pay their invoices by enabling payment services.</source><seg-source><mrk mtype="seg" mid="2">Make it easier for customers to pay their invoices by enabling payment services.</mrk></seg-source><target><mrk mtype="seg" mid="2">Usnadníte zákazníkům zaplacení faktur povolením platebních služeb.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Enable Customer Payments Through Payment Services</source><seg-source><mrk mtype="seg" mid="3">Enable Customer Payments Through Payment Services</mrk></seg-source><target><mrk mtype="seg" mid="3">Povolení platby odběratelů prostřednictvím platebních služeb</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>As an alternative to collecting payments through bank transfer or credit cards, your customers can pay you through their account with payment services, such as Microsoft Pay, PayPal, or WorldPay.</source><seg-source><mrk mtype="seg" mid="4">As an alternative to collecting payments through bank transfer or credit cards, your customers can pay you through their account with payment services, such as Microsoft Pay, PayPal, or WorldPay.</mrk></seg-source><target><mrk mtype="seg" mid="4">Jako alternativu k vybírání plateb prostřednictvím bankovních převodů nebo kreditních karet Vám Vaši zákazníci mohou zaplatit prostřednictvím svého účtu u platebních služeb, jako je například Microsoft Pay, PayPal nebo WorldPay.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>After you enable a payment service in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, a link to the service is available on sales documents that you send by email to your customers.</source><seg-source><mrk mtype="seg" mid="5">After you enable a payment service in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, a link to the service is available on sales documents that you send by email to your customers.</mrk></seg-source><target><mrk mtype="seg" mid="5">Po povolení platebních služeb v <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, je k dispozici odkaz na tuto službu v prodejních dokladech, které odesíláte e-mailem vašim zákazníkům.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Customers can use the link to go to the payment service and pay the bill, directly from the sales document.</source><seg-source><mrk mtype="seg" mid="6">Customers can use the link to go to the payment service and pay the bill, directly from the sales document.</mrk></seg-source><target><mrk mtype="seg" mid="6">Zákazníci mohou pomocí tohoto odkazu přejít na platební službu a zaplatit účet přímo z prodejního dokladu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>If you don't want to include the link, for example, if a customer will pay with cash, you can remove the payment service from the invoice before posting.</source><seg-source><mrk mtype="seg" mid="7">If you don't want to include the link, for example, if a customer will pay with cash, you can remove the payment service from the invoice before posting.</mrk></seg-source><target><mrk mtype="seg" mid="7">Pokud nechcete zahrnout odkaz, například pokud zákazník zaplatí hotovostí, můžete před zaúčtováním odebrat platební službu z faktury.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>The Microsoft Pay, PayPal Payments Standard, and WorldPay Payments Standard extensions are installed in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, and are ready for you to enable.</source><seg-source><mrk mtype="seg" mid="8">The Microsoft Pay, PayPal Payments Standard, and WorldPay Payments Standard extensions are installed in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, and are ready for you to enable.</mrk></seg-source><target><mrk mtype="seg" mid="8">V <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> jsou instalovány standardní rozšíření Microsoft Pay, PayPal Payments Standart a WorldPay Payments a připraveny k povolení.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>To enable a payment service in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph></source><seg-source><mrk mtype="seg" mid="9">To enable a payment service in</mrk> <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph></seg-source><target><mrk mtype="seg" mid="9">K povolení platební služby v</mrk> <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Payment Services<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="10">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Payment Services<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="10">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku, nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona vyhledat stránku, nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Služby pro platby<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Payment Services<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>New<ept id="p2">**</ept> action.</source><seg-source><mrk mtype="seg" mid="11">In the <bpt id="p1">**</bpt>Payment Services<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>New<ept id="p2">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="11">V okně <bpt id="p1">**</bpt>Služby pro platby<ept id="p1">**</ept>, vyberte akci <bpt id="p2">**</bpt>Nové<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Select the payment service, and then close the window.</source><seg-source><mrk mtype="seg" mid="12">Select the payment service, and then close the window.</mrk></seg-source><target><mrk mtype="seg" mid="12">Vyberte platební službu a poté zavřete okno.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Payment Services<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>Setup<ept id="p2">**</ept> action.</source><seg-source><mrk mtype="seg" mid="13">In the <bpt id="p1">**</bpt>Payment Services<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>Setup<ept id="p2">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="13">V okně <bpt id="p1">**</bpt>Služby pro platby<ept id="p1">**</ept>, vyberte akci <bpt id="p2">**</bpt>Instalace<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Fill in the fields as necessary.</source><seg-source><mrk mtype="seg" mid="14">Fill in the fields as necessary.</mrk></seg-source><target><mrk mtype="seg" mid="14">Vyplňte pole podle potřeby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Close the window.</source><seg-source><mrk mtype="seg" mid="15">Close the window.</mrk></seg-source><target><mrk mtype="seg" mid="15">Zavřete okno.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>To select a payment service on a sales invoice</source><seg-source><mrk mtype="seg" mid="16">To select a payment service on a sales invoice</mrk></seg-source><target><mrk mtype="seg" mid="16">Pro výběr platební služby na prodejní faktuře</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Sales Invoices<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="17">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Sales Invoices<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="17">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku, nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona vyhledat stránku, nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Prodejní faktury<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Open the sales invoice that you want to pay by using the payment service.</source><seg-source><mrk mtype="seg" mid="18">Open the sales invoice that you want to pay by using the payment service.</mrk></seg-source><target><mrk mtype="seg" mid="18">Otevřete prodejní fakturu, kterou chcete uhradit pomocí platební služby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Payment Service<ept id="p1">**</ept> field, choose the payment service.</source><seg-source><mrk mtype="seg" mid="19">In the <bpt id="p1">**</bpt>Payment Service<ept id="p1">**</ept> field, choose the payment service.</mrk></seg-source><target><mrk mtype="seg" mid="19">Na poli <bpt id="p1">**</bpt>Služby pro platby<ept id="p1">**</ept>, vyberte platební službu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Payment Service<ept id="p1">**</ept> field is available only if you've enabled the payment service.</source><seg-source><mrk mtype="seg" mid="20">The <bpt id="p1">**</bpt>Payment Service<ept id="p1">**</ept> field is available only if you've enabled the payment service.</mrk></seg-source><target><mrk mtype="seg" mid="20">Pole <bpt id="p1">**</bpt>Služby pro platby<ept id="p1">**</ept> je k dispozici pouze v případě, že jste povolili platební službu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="21">See Also</mrk></seg-source><target><mrk mtype="seg" mid="21">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Sales<ept id="p1">](sales-setup-sales.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="22">Setting Up Sales</mrk><ept id="p1">](sales-setup-sales.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="22">Nastavení prodeje</mrk><ept id="p1">](sales-setup-sales.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Sales<ept id="p1">](sales-manage-sales.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="23">Sales</mrk><ept id="p1">](sales-manage-sales.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="23">Prodej</mrk><ept id="p1">](sales-manage-sales.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Customizing <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Using Extensions<ept id="p1">](ui-extensions.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="24">Customizing <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Using Extensions</mrk><ept id="p1">](ui-extensions.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="24">Přizpůsobení <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Pomocí rozšíření</mrk><ept id="p1">](ui-extensions.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="25">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="25">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
