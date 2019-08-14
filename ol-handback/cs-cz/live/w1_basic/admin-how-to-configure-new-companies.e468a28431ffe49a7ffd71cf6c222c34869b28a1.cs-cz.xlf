@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="admin-how-to-configure-new-companies.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-5ae97a8" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c6340bbc6bc47ec5d0fdd41b8a53d3d8e0524804</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\admin-how-to-configure-new-companies.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fcca9467bfbf84331cbc3f9feccad4968d2ec446</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d243124dc03c9a3bd650e9cdf47c4252a227d396</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>How to Configure New Companies | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">How to Configure New Companies | Microsoft Docs</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="1">Jak nakonfigurovat nové společnosti | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>You can configure and customize a new company that you have created.</source><seg-source><mrk mtype="seg" mid="2">You can configure and customize a new company that you have created.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="2">Můžete nakonfigurovat a přizpůsobit novou společnost, kterou jste vytvořili.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>To fine tune your implementation, you proceed in three phases to complete your configuration.</source><seg-source><mrk mtype="seg" mid="3">To fine tune your implementation, you proceed in three phases to complete your configuration.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="3">Chcete-li doladit implementaci, dokončete konfiguraci ve třech fázích.</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Configure New Companies</source><seg-source><mrk mtype="seg" mid="4">Configure New Companies</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="4">Konfigurace nových společností</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>To configure a new company in your solution implementation, you typically follow three phases.</source><seg-source><mrk mtype="seg" mid="5">To configure a new company in your solution implementation, you typically follow three phases.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="5">Pro konfiguraci nové společnosti při vaší implementaci řešení obvykle postupujete podle tří fází.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>In the first phase, you import the configuration package, a .rapidstart file with the configuration information.</source><seg-source><mrk mtype="seg" mid="6">In the first phase, you import the configuration package, a .rapidstart file with the configuration information.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="6">V první fázi importujete konfigurační balíček, soubor .rapidstart s konfiguračními informacemi.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>In the second phase, you modify the configuration information and then apply it to your new company.</source><seg-source><mrk mtype="seg" mid="7">In the second phase, you modify the configuration information and then apply it to your new company.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Ve druhé fázi změníte konfigurační informace a poté je použijete pro vaši novou společnost.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>In the final phase, you review and fix any errors.</source><seg-source><mrk mtype="seg" mid="8">In the final phase, you review and fix any errors.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="8">V závěrečné fázi zkontrolujete a opravíte chyby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>The following procedures assume that you have created and saved a configuration package.</source><seg-source><mrk mtype="seg" mid="9">The following procedures assume that you have created and saved a configuration package.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="9">Následující postupy předpokládají, že jste vytvořili a uložili konfigurační balíček.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Prepare a Configuration Package<ept id="p1">](admin-how-to-prepare-a-configuration-package.md)</ept>.</source><seg-source><mrk mtype="seg" mid="10">For more information, see <bpt id="p1">[</bpt>Prepare a Configuration Package<ept id="p1">](admin-how-to-prepare-a-configuration-package.md)</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="10">Pro více informací navštivte <bpt id="p1">[</bpt>Připravení konfiguračního balíčku<ept id="p1">](admin-how-to-prepare-a-configuration-package.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>The following procedures assume that you have initialized and opened your new company and that you are using the RapidStart Services Implementer Role Center.</source><seg-source><mrk mtype="seg" mid="11">The following procedures assume that you have initialized and opened your new company and that you are using the RapidStart Services Implementer Role Center.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">Následující postupy předpokládají, že jste inicializovali a otevřeli novou společnost a že používáte roli Implementátor služeb RapidStart v Centru rolí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>To import a configuration package</source><seg-source><mrk mtype="seg" mid="12">To import a configuration package</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="12">Pro import konfiguračního balíčku</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Open the new company in the <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> database.</source><seg-source><mrk mtype="seg" mid="13">Open the new company in the <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> database.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="13">Otevřete novou společnost v databázi <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Packages<ept id="p3">**</ept>, and then select the related link.</source><seg-source><mrk mtype="seg" mid="14">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Packages<ept id="p3">**</ept>, and then select the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="14">Zvolte ikonu <bpt id="p1">![</bpt>Hledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Hledat stránku nebo sestavu<ept id="p2">")</ept>, klikněte na <bpt id="p3">**</bpt>Konfigurační balíčky<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>Import Package<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="15">Choose the <bpt id="p1">**</bpt>Import Package<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="15">Zvolte akci <bpt id="p1">**</bpt>Importovat balíček<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Navigate to the location where you have saved the .rapidstart configuration package file, and then choose the <bpt id="p1">**</bpt>Open<ept id="p1">**</ept> button.</source><seg-source><mrk mtype="seg" mid="16">Navigate to the location where you have saved the .rapidstart configuration package file, and then choose the <bpt id="p1">**</bpt>Open<ept id="p1">**</ept> button.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="16">Přejděte do umístění, kam jste uložili soubor konfiguračního balíčku .rapidstart, a poté zvolte tlačítko <bpt id="p1">**</bpt>Otevřít<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Company Information<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="17">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Company Information<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="17">Zvolte ikonu <bpt id="p1">![</bpt>Hledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Hledat stránku nebo sestavu<ept id="p2">")</ept>, klikněte na <bpt id="p3">**</bpt>Informace o společnosti<ept id="p3">**</ept> a poté zvolte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Enter information about the company in the company information card.</source><seg-source><mrk mtype="seg" mid="18">Enter information about the company in the company information card.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="18">Na kartě firemních údajů zadejte informace o společnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Include information, such as bank details.</source><seg-source><mrk mtype="seg" mid="19">Include information, such as bank details.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="19">Uveďte informace, jako jsou bankovní údaje.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>You can also provide a logo for the company.</source><seg-source><mrk mtype="seg" mid="20">You can also provide a logo for the company.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="20">Můžete také poskytnout logo společnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>All the tables that you have designated for inclusion in the new company are imported.</source><seg-source><mrk mtype="seg" mid="21">All the tables that you have designated for inclusion in the new company are imported.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="21">Importují se všechny tabulky, které jste určili pro zařazení do nové společnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>At this point, you can apply the package data to the database, or adjust and modify the table data to meet your customer specifications.</source><seg-source><mrk mtype="seg" mid="22">At this point, you can apply the package data to the database, or adjust and modify the table data to meet your customer specifications.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="22">V tomto okamžiku můžete aplikovat data balíčku do databáze nebo přizpůsobit a upravit data tabulky tak, aby vyhovovala vašim požadavkům zákazníka.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>To apply package data</source><seg-source><mrk mtype="seg" mid="23">To apply package data</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="23">Pro aplikaci dat balíčku</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Worksheet<ept id="p3">**</ept>, and then select the related link.</source><seg-source><mrk mtype="seg" mid="24">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Worksheet<ept id="p3">**</ept>, and then select the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="24">Zvolte ikonu <bpt id="p1">![</bpt>Hledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Hledat stránku nebo sestavu<ept id="p2">")</ept>, klikněte na <bpt id="p3">**</bpt>Konfigurační list<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Select a table that you want to modify data for, and then choose the <bpt id="p1">**</bpt>Apply Data<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="25">Select a table that you want to modify data for, and then choose the <bpt id="p1">**</bpt>Apply Data<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="25">Vyberte tabulku, pro kterou chcete upravit data, a poté vyberte akci <bpt id="p1">**</bpt>Použít data<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>Yes<ept id="p1">**</ept> button to confirm the application.</source><seg-source><mrk mtype="seg" mid="26">Choose the <bpt id="p1">**</bpt>Yes<ept id="p1">**</ept> button to confirm the application.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="26">Stisknutím tlačítka <bpt id="p1">**</bpt>Ano<ept id="p1">**</ept> potvrďte aplikaci.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>To confirm that the data is now in the database and that the application has succeeded, return to the <bpt id="p1">**</bpt>Config. Worksheet<ept id="p1">**</ept> window and choose the <bpt id="p2">**</bpt>Database Data<ept id="p2">**</ept> action.</source><seg-source><mrk mtype="seg" mid="27">To confirm that the data is now in the database and that the application has succeeded, return to the <bpt id="p1">**</bpt>Config.</mrk> <mrk mtype="seg" mid="28">Worksheet<ept id="p1">**</ept> window and choose the <bpt id="p2">**</bpt>Database Data<ept id="p2">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="27">Pro potvrzení, že data jsou nyní v databázi a že aplikace byla úspěšná, vraťte se na stránku <bpt id="p1">**</bpt>Konfigurační</mrk> <mrk mtype="seg" mid="28">sešit<ept id="p1">**</ept> a zvolte akci <bpt id="p2">**</bpt>Data databáze<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>After you apply data, you can only see it in the database.</source><seg-source><mrk mtype="seg" mid="29">After you apply data, you can only see it in the database.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="29">Po aplikování dat je můžete vidět pouze v databázi.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>It is no longer in the package.</source><seg-source><mrk mtype="seg" mid="30">It is no longer in the package.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="30">Již nadále nejsou v balíčku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>To modify and apply package data</source><seg-source><mrk mtype="seg" mid="31">To modify and apply package data</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="31">Pro upravení a aplikaci dat balíčku</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Worksheet<ept id="p3">**</ept>, and then select the related link.</source><seg-source><mrk mtype="seg" mid="32">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Worksheet<ept id="p3">**</ept>, and then select the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="32">Zvolte ikonu <bpt id="p1">![</bpt>Hledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Hledat stránku nebo sestavu<ept id="p2">")</ept>, klikněte na <bpt id="p3">**</bpt>Konfigurační list<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Select a table that you want to modify data for, and then choose the <bpt id="p1">**</bpt>Package Data<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="33">Select a table that you want to modify data for, and then choose the <bpt id="p1">**</bpt>Package Data<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="33">Vyberte tabulku, pro kterou chcete upravit data, a poté vyberte akci <bpt id="p1">**</bpt>Data balíčku<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Config. Package Records<ept id="p1">**</ept> window, make your modifications.</source><seg-source><mrk mtype="seg" mid="34">In the <bpt id="p1">**</bpt>Config.</mrk> <mrk mtype="seg" mid="35">Package Records<ept id="p1">**</ept> window, make your modifications.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="34">V okně <bpt id="p1">**</bpt>Záznamy</mrk> <mrk mtype="seg" mid="35">konfiguračního balíčku<ept id="p1">**</ept> proveďte úpravy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>For example, you can delete options that do not apply.</source><seg-source><mrk mtype="seg" mid="36">For example, you can delete options that do not apply.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="36">Můžete například odstranit možnosti, které se neaplikují.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>Apply Data<ept id="p1">**</ept> action, and then choose the <bpt id="p2">**</bpt>OK<ept id="p2">**</ept> button.</source><seg-source><mrk mtype="seg" mid="37">Choose the <bpt id="p1">**</bpt>Apply Data<ept id="p1">**</ept> action, and then choose the <bpt id="p2">**</bpt>OK<ept id="p2">**</ept> button.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="37">Zvolte akci <bpt id="p1">**</bpt>Použít data<ept id="p1">**</ept> a poté klepněte na tlačítko <bpt id="p2">**</bpt>OK<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>To confirm that the data is now in the database and that the application has succeeded, return to the <bpt id="p1">**</bpt>Config. Worksheet<ept id="p1">**</ept> window and choose the <bpt id="p2">**</bpt>Database Data<ept id="p2">**</ept> action.</source><seg-source><mrk mtype="seg" mid="38">To confirm that the data is now in the database and that the application has succeeded, return to the <bpt id="p1">**</bpt>Config.</mrk> <mrk mtype="seg" mid="39">Worksheet<ept id="p1">**</ept> window and choose the <bpt id="p2">**</bpt>Database Data<ept id="p2">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="38">Pro potvrzení, že data jsou nyní v databázi a že aplikace byla úspěšná, vraťte se do okna <bpt id="p1">**</bpt>Konfigurační</mrk> <mrk mtype="seg" mid="39">sešit<ept id="p1">**</ept> a zvolte akci <bpt id="p2">**</bpt>Data databáze<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>To locate and identify a configuration error</source><seg-source><mrk mtype="seg" mid="40">To locate and identify a configuration error</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="40">Pro vyhledání a identifikaci chyby konfigurace</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>There are certain types of errors that may occur when you apply data to a database.</source><seg-source><mrk mtype="seg" mid="41">There are certain types of errors that may occur when you apply data to a database.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="41">Při aplikaci dat do databáze se mohou vyskytnout určité typy chyb.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>The most common error is that required related tables were not included.</source><seg-source><mrk mtype="seg" mid="42">The most common error is that required related tables were not included.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="42">Nejčastější chybou je, že požadované související tabulky nebyly zahrnuty.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>You fix such errors in the configuration worksheet.</source><seg-source><mrk mtype="seg" mid="43">You fix such errors in the configuration worksheet.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="43">Tyto chyby opravíte v konfiguračním sešitu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Packages<ept id="p3">**</ept>, and then select the related link.</source><seg-source><mrk mtype="seg" mid="44">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Packages<ept id="p3">**</ept>, and then select the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="44">Zvolte ikonu <bpt id="p1">![</bpt>Hledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Hledat stránku nebo sestavu<ept id="p2">")</ept>, klikněte na <bpt id="p3">**</bpt>Konfigurační balíčky<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Select the package you want to review, and then choose the <bpt id="p1">**</bpt>Edit<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="45">Select the package you want to review, and then choose the <bpt id="p1">**</bpt>Edit<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="45">Vyberte balíček, který chcete zkontrolovat, a poté vyberte akci <bpt id="p1">**</bpt>Upravit<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Any table that has errors is highlighted.</source><seg-source><mrk mtype="seg" mid="46">Any table that has errors is highlighted.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="46">Tabulky, které obsahují chyby, jsou zvýrazněny.</mrk></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>The number of package errors is displayed in the <bpt id="p1">**</bpt>No. of Package Errors<ept id="p1">**</ept> field.</source><seg-source><mrk mtype="seg" mid="47">The number of package errors is displayed in the <bpt id="p1">**</bpt>No. of Package Errors<ept id="p1">**</ept> field.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="47">Počet chyb balíčku je zobrazen v poli <bpt id="p1">**</bpt>Počet chyb balíčku<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>No. of Package Errors<ept id="p1">**</ept> field to open the <bpt id="p2">**</bpt>Config. Package Records<ept id="p2">**</ept> window, which lists the records with errors.</source><seg-source><mrk mtype="seg" mid="48">Choose the <bpt id="p1">**</bpt>No. of Package Errors<ept id="p1">**</ept> field to open the <bpt id="p2">**</bpt>Config.</mrk> <mrk mtype="seg" mid="49">Package Records<ept id="p2">**</ept> window, which lists the records with errors.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="48">Zvolte pole <bpt id="p1">**</bpt>Počet chyb balíčku<ept id="p1">**</ept> a otevřete okno <bpt id="p2">**</bpt>Záznamy</mrk> <mrk mtype="seg" mid="49">konfiguračního balíčku<ept id="p2">**</ept>, kde jsou uvedeny záznamy s chybami.</mrk></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>To fix an error</source><seg-source><mrk mtype="seg" mid="50">To fix an error</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="50">Pro opravení chyby</mrk></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Open the company that is based on your configuration package.</source><seg-source><mrk mtype="seg" mid="51">Open the company that is based on your configuration package.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="51">Otevřete společnost, která je založena na vašem konfiguračním balíčku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Worksheet<ept id="p3">**</ept>, and then select the related link.</source><seg-source><mrk mtype="seg" mid="52">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Worksheet<ept id="p3">**</ept>, and then select the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="52">Zvolte ikonu <bpt id="p1">![</bpt>Hledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Hledat stránku nebo sestavu<ept id="p2">")</ept>, klikněte na <bpt id="p3">**</bpt>Konfigurační list<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Fix errors, such as add missing related tables to the worksheet.</source><seg-source><mrk mtype="seg" mid="53">Fix errors, such as add missing related tables to the worksheet.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="53">Opravte chyby, jako je například přidání chybějících souvisejících tabulek do sešitu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Add the tables to the existing configuration package, or create a new package that only contains the new tables.</source><seg-source><mrk mtype="seg" mid="54">Add the tables to the existing configuration package, or create a new package that only contains the new tables.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="54">Přidejte tabulky do existujícího konfiguračního balíčku nebo vytvořte nový balíček, který obsahuje pouze nové tabulky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Prepare a Configuration Package<ept id="p1">](admin-how-to-prepare-a-configuration-package.md)</ept>.</source><seg-source><mrk mtype="seg" mid="55">For more information, see <bpt id="p1">[</bpt>Prepare a Configuration Package<ept id="p1">](admin-how-to-prepare-a-configuration-package.md)</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="55">Pro více informací navštivte <bpt id="p1">[</bpt>Připravení konfiguračního balíčku<ept id="p1">](admin-how-to-prepare-a-configuration-package.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Reopen the new company that you are implementing the configuration for.</source><seg-source><mrk mtype="seg" mid="56">Reopen the new company that you are implementing the configuration for.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="56">Znovu otevřete novou společnost, pro kterou implementujete konfiguraci.</mrk></target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>Import the configuration package.</source><seg-source><mrk mtype="seg" mid="57">Import the configuration package.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="57">Importujte konfigurační balíček.</mrk></target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>If you import the same package again, you may overwrite any data modifications that you have already made.</source><seg-source><mrk mtype="seg" mid="58">If you import the same package again, you may overwrite any data modifications that you have already made.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="58">Pokud znovu importujete stejný balíček, můžete přepsat všechny již provedené úpravy dat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>For that reason, you may want to add any new tables in a new package and import that instead.</source><seg-source><mrk mtype="seg" mid="59">For that reason, you may want to add any new tables in a new package and import that instead.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="59">Z tohoto důvodu můžete chtít přidat některé nové tabulky do nového balíčku a importovat je.</mrk></target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>Apply the data to the database, as described in <bpt id="p1">[</bpt>To modify and apply package data<ept id="p1">](admin-how-to-configure-new-companies.md#to-modify-and-apply-package-data)</ept>.</source><seg-source><mrk mtype="seg" mid="60">Apply the data to the database, as described in <bpt id="p1">[</bpt>To modify and apply package data<ept id="p1">](admin-how-to-configure-new-companies.md#to-modify-and-apply-package-data)</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="60">Aplikujte data do databáze, jak je popsáno v části <bpt id="p1">[</bpt>Pro upravení a aplikaci dat balíčku<ept id="p1">](admin-how-to-configure-new-companies.md#to-modify-and-apply-package-data)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="61">See Also</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="61">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Apply Configurations to New Companies<ept id="p1">](admin-apply-configuration-to-new-companies.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="62">Apply Configurations to New Companies</mrk><ept id="p1">](admin-apply-configuration-to-new-companies.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="62">Aplikování konfigurace pro nové společnosti</mrk><ept id="p1">](admin-apply-configuration-to-new-companies.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up a Company With RapidStart Services<ept id="p1">](admin-set-up-a-company-with-rapidstart.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="63">Setting Up a Company With RapidStart Services</mrk><ept id="p1">](admin-set-up-a-company-with-rapidstart.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="63">Založení společnosti pomocí služeb RapidStart</mrk><ept id="p1">](admin-set-up-a-company-with-rapidstart.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Administration<ept id="p1">](admin-setup-and-administration.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="64">Administration</mrk><ept id="p1">](admin-setup-and-administration.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="64">Správa</mrk><ept id="p1">](admin-setup-and-administration.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
