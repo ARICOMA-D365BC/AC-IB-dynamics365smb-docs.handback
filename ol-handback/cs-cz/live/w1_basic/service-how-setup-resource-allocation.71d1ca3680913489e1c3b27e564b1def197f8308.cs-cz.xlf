@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="service-how-setup-resource-allocation.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-15c36f0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6ba003ea135035eea95450381f59d04f8fc93d0e</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\service-how-setup-resource-allocation.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b1cbbf94f5e064f362d5a38ac2f5d34008619e93</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">333eac723049fbfa445f9f5a6230374537bec7ce</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Set Up Resource Allocation | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Set Up Resource Allocation | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Nastavení přidělení zdrojů | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Learn how the system can help ensure that you assign someone who has the skills required to provide a service.</source><seg-source><mrk mtype="seg" mid="2">Learn how the system can help ensure that you assign someone who has the skills required to provide a service.</mrk></seg-source><target><mrk mtype="seg" mid="2">Naučte se, jak vám systém může pomoci zajistit přiřazení osoby, která má odbornost potřebnou pro poskytování servisu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Set Up Resource Allocation</source><seg-source><mrk mtype="seg" mid="3">Set Up Resource Allocation</mrk></seg-source><target><mrk mtype="seg" mid="3">Nastavení přidělení zdrojů</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>To ensure that a service task is performed well, it's important to find a resource who is qualified to do the work.</source><seg-source><mrk mtype="seg" mid="4">To ensure that a service task is performed well, it's important to find a resource who is qualified to do the work.</mrk></seg-source><target><mrk mtype="seg" mid="4">Aby bylo zajištěno, že servisní úloha bude vykonána dobře, je důležité najít zdroj, který je kvalifikovaný pro požadovanou práci.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>You can set up <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> so that it's easy to allocate someone who has the right skills for the job.</source><seg-source><mrk mtype="seg" mid="5">You can set up <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> so that it's easy to allocate someone who has the right skills for the job.</mrk></seg-source><target><mrk mtype="seg" mid="5"><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> můžete nastavit tak, aby bylo snadné alokovat někoho, kdo má pro danou práci správnou odbornost.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>In <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, we call this <bpt id="p1">*</bpt>resource allocation<ept id="p1">*</ept>.</source><seg-source><mrk mtype="seg" mid="6">In <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, we call this <bpt id="p1">*</bpt>resource allocation<ept id="p1">*</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="6">V <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> se toto nazývá <bpt id="p1">*</bpt>přidělení zdrojů<ept id="p1">*</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>You can allocate resources based on their skill, availability, or whether they are in the same service zone as the customer.</source><seg-source><mrk mtype="seg" mid="7">You can allocate resources based on their skill, availability, or whether they are in the same service zone as the customer.</mrk></seg-source><target><mrk mtype="seg" mid="7">Zdroje můžete přidělit na základě jejich odbornosti, dostupnosti nebo toho, zda jsou ve stejné zóně servisu jako zákazník.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>To use resource allocation, you must set up:</source><seg-source><mrk mtype="seg" mid="8">To use resource allocation, you must set up:</mrk></seg-source><target><mrk mtype="seg" mid="8">Chcete-li použít přidělení zdrojů, musíte nastavit:</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>The skills required to repair and maintain service items.</source><seg-source><mrk mtype="seg" mid="9">The skills required to repair and maintain service items.</mrk></seg-source><target><mrk mtype="seg" mid="9">Odbornost potřebnou k opravě a údržbě předmětů servisu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>You assign these to service items and resources.</source><seg-source><mrk mtype="seg" mid="10">You assign these to service items and resources.</mrk></seg-source><target><mrk mtype="seg" mid="10">Přiřadíte ji předmětům servisu a prostředkům.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Geographic regions, called zones, that you define for your market.</source><seg-source><mrk mtype="seg" mid="11">Geographic regions, called zones, that you define for your market.</mrk></seg-source><target><mrk mtype="seg" mid="11">Geografické oblasti zvané zóny, které definujete pro svůj trh.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>For example, East, West, Central, and so on.</source><seg-source><mrk mtype="seg" mid="12">For example, East, West, Central, and so on.</mrk></seg-source><target><mrk mtype="seg" mid="12">Například Východní, Západní, Centrální a tak dále.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>You assign these to customers and resources.</source><seg-source><mrk mtype="seg" mid="13">You assign these to customers and resources.</mrk></seg-source><target><mrk mtype="seg" mid="13">Přiřadíte je zákazníkům a prostředkům.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Whether to display resource skills and zones, and whether to display a warning if someone chooses unqualified resource, or a resource that is not in the customer zone.</source><seg-source><mrk mtype="seg" mid="14">Whether to display resource skills and zones, and whether to display a warning if someone chooses unqualified resource, or a resource that is not in the customer zone.</mrk></seg-source><target><mrk mtype="seg" mid="14">Zda se má zobrazovat odbornost a zóny zdrojů a zda se má zobrazit varování, pokud si někdo vybere nekvalifikovaný zdroj nebo zdroj, který není v zákaznické zóně.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>To set up skills</source><seg-source><mrk mtype="seg" mid="15">To set up skills</mrk></seg-source><target><mrk mtype="seg" mid="15">Pro nastavení odbornosti</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Skills<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="16">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Skills<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="16">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Odbornost<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Fill in the fields as necessary.</source><seg-source><mrk mtype="seg" mid="17">Fill in the fields as necessary.</mrk></seg-source><target><mrk mtype="seg" mid="17">Vyplňte pole podle potřeby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>To assign skills to service items and resources</source><seg-source><mrk mtype="seg" mid="18">To assign skills to service items and resources</mrk></seg-source><target><mrk mtype="seg" mid="18">Pro přiřazení odbornosti předmětům servisu a zdrojům</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Service Items<ept id="p3">**</ept> or <bpt id="p4">**</bpt>Resources<ept id="p4">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="19">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Service Items<ept id="p3">**</ept> or <bpt id="p4">**</bpt>Resources<ept id="p4">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="19">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Předměty servisu<ept id="p3">**</ept> nebo <bpt id="p4">**</bpt>Zdroje<ept id="p4">**</ept>, a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Open the card for the service item or resource, and then choose one of the following:</source><seg-source><mrk mtype="seg" mid="20">Open the card for the service item or resource, and then choose one of the following:</mrk></seg-source><target><mrk mtype="seg" mid="20">Otevřete kartu pro předmět servisu nebo zdroj a poté vyberte jednu z následujících možností:</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>For service items, choose <bpt id="p1">**</bpt>Resource Skills<ept id="p1">**</ept>.</source><seg-source><mrk mtype="seg" mid="21">For service items, choose <bpt id="p1">**</bpt>Resource Skills<ept id="p1">**</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="21">U předmětů servisu zvolte <bpt id="p1">**</bpt>Odbornost zdroje<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>For resources, choose <bpt id="p1">**</bpt>Skills<ept id="p1">**</ept>.</source><seg-source><mrk mtype="seg" mid="22">For resources, choose <bpt id="p1">**</bpt>Skills<ept id="p1">**</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="22">U zdroje zvolte <bpt id="p1">**</bpt>Odbornost<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>To set up zones</source><seg-source><mrk mtype="seg" mid="23">To set up zones</mrk></seg-source><target><mrk mtype="seg" mid="23">Pro nastavení zón</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Zones<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="24">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Zones<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="24">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Zóny<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Fill in the fields as necessary.</source><seg-source><mrk mtype="seg" mid="25">Fill in the fields as necessary.</mrk></seg-source><target><mrk mtype="seg" mid="25">Vyplňte pole podle potřeby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>To assign zones to customers and resources</source><seg-source><mrk mtype="seg" mid="26">To assign zones to customers and resources</mrk></seg-source><target><mrk mtype="seg" mid="26">Pro přiřazení zón zákazníkům a zdrojům</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Customers<ept id="p3">**</ept> or <bpt id="p4">**</bpt>Resources<ept id="p4">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="27">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Customers<ept id="p3">**</ept> or <bpt id="p4">**</bpt>Resources<ept id="p4">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="27">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Zákazník<ept id="p3">**</ept> nebo <bpt id="p4">**</bpt>Zdroje<ept id="p4">**</ept>, a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Open the card for the service item or resource, and then choose one of the following:</source><seg-source><mrk mtype="seg" mid="28">Open the card for the service item or resource, and then choose one of the following:</mrk></seg-source><target><mrk mtype="seg" mid="28">Otevřete kartu pro předmět servisu nebo zdroj a poté vyberte jednu z následujících možností:</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>For customers, choose a zone in the <bpt id="p1">**</bpt>Service Zone Code<ept id="p1">**</ept> field.</source><seg-source><mrk mtype="seg" mid="29">For customers, choose a zone in the <bpt id="p1">**</bpt>Service Zone Code<ept id="p1">**</ept> field.</mrk></seg-source><target><mrk mtype="seg" mid="29">Pro zákazníky vyberte zónu v poli <bpt id="p1">**</bpt>Kód zóny servisu<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>For resources, choose the <bpt id="p1">**</bpt>Service Zones<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="30">For resources, choose the <bpt id="p1">**</bpt>Service Zones<ept id="p1">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="30">Pro zdroje vyberte akci <bpt id="p1">**</bpt>Zóny servisu<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>To specify what to show when a resource is chosen</source><seg-source><mrk mtype="seg" mid="31">To specify what to show when a resource is chosen</mrk></seg-source><target><mrk mtype="seg" mid="31">Chcete-li určit, co se má zobrazit, když je vybrán zdroj</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Service Setup<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="32">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Service Setup<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="32">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Nastavení servisu<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Resource Skills Option<ept id="p1">**</ept> field, choose one of the options described in the following table.</source><seg-source><mrk mtype="seg" mid="33">In the <bpt id="p1">**</bpt>Resource Skills Option<ept id="p1">**</ept> field, choose one of the options described in the following table.</mrk></seg-source><target><mrk mtype="seg" mid="33">V poli <bpt id="p1">**</bpt>Volba odbornosti zdroje<ept id="p1">**</ept> vyberte jednu z možností popsaných v následující tabulce.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Option<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="34">Option</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="34">Možnost</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Description<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="35">Description</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="35">Popis</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Code Shown</source><seg-source><mrk mtype="seg" mid="36">Code Shown</mrk></seg-source><target><mrk mtype="seg" mid="36">Zobrazen kód</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Displays the code only.</source><seg-source><mrk mtype="seg" mid="37">Displays the code only.</mrk></seg-source><target><mrk mtype="seg" mid="37">Zobrazí pouze kód.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Warning Displayed</source><seg-source><mrk mtype="seg" mid="38">Warning Displayed</mrk></seg-source><target><mrk mtype="seg" mid="38">Zobrazeno varování</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Shows the information and displays a warning if you choose a resource that is not qualified.</source><seg-source><mrk mtype="seg" mid="39">Shows the information and displays a warning if you choose a resource that is not qualified.</mrk></seg-source><target><mrk mtype="seg" mid="39">Zobrazí informace a zobrazí varování, pokud zvolíte zdroj, který není kvalifikovaný.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Not Used</source><seg-source><mrk mtype="seg" mid="40">Not Used</mrk></seg-source><target><mrk mtype="seg" mid="40">Nepoužito</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Does not show this information.</source><seg-source><mrk mtype="seg" mid="41">Does not show this information.</mrk></seg-source><target><mrk mtype="seg" mid="41">Nezobrazuje tyto informace.</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>To update resource capacity</source><seg-source><mrk mtype="seg" mid="42">To update resource capacity</mrk></seg-source><target><mrk mtype="seg" mid="42">Aktualizace kapacity zdroje</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>You may need to change the capacity of resources.</source><seg-source><mrk mtype="seg" mid="43">You may need to change the capacity of resources.</mrk></seg-source><target><mrk mtype="seg" mid="43">Možná budete muset změnit kapacitu zdrojů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Resource Capacity<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="44">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Resource Capacity<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="44">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Kapacita zdroje<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Choose the resource, and then choose the <bpt id="p1">**</bpt>Set Capacity<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="45">Choose the resource, and then choose the <bpt id="p1">**</bpt>Set Capacity<ept id="p1">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="45">Zvolte zdroj a poté zvolte akci <bpt id="p1">**</bpt>Nastavit kapacitu<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Make the changes, and then choose <bpt id="p1">**</bpt>Update Capacity<ept id="p1">**</ept>.</source><seg-source><mrk mtype="seg" mid="46">Make the changes, and then choose <bpt id="p1">**</bpt>Update Capacity<ept id="p1">**</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="46">Proveďte změny a poté zvolte <bpt id="p1">**</bpt>Aktualizovat kapacitu<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>To update skills for items, service items, or service item groups</source><seg-source><mrk mtype="seg" mid="47">To update skills for items, service items, or service item groups</mrk></seg-source><target><mrk mtype="seg" mid="47">Chcete-li aktualizovat odbornost pro položky, předměty servisu nebo skupiny předmětů servisu</mrk></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>If you want to change the skill codes assigned to items, for example from <bpt id="p1">**</bpt>PC<ept id="p1">**</ept> to <bpt id="p2">**</bpt>PCS<ept id="p2">**</ept>, you can do so either for an item, service item, or for all items in a service item group.</source><seg-source><mrk mtype="seg" mid="48">If you want to change the skill codes assigned to items, for example from <bpt id="p1">**</bpt>PC<ept id="p1">**</ept> to <bpt id="p2">**</bpt>PCS<ept id="p2">**</ept>, you can do so either for an item, service item, or for all items in a service item group.</mrk></seg-source><target><mrk mtype="seg" mid="48">Pokud chcete změnit kódy odbornosti přiřazené k položkám, například z <bpt id="p1">**</bpt>PC<ept id="p1">**</ept> na <bpt id="p2">**</bpt>PCS<ept id="p2">**</ept>, můžete tak učinit buď pro položku, předmět servisu, nebo pro všechny předměty ve skupině předmětů servisu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Items<ept id="p3">**</ept> or <bpt id="p4">**</bpt>Service Item<ept id="p4">**</ept>, or <bpt id="p5">**</bpt>Service Item Group<ept id="p5">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="49">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Items<ept id="p3">**</ept> or <bpt id="p4">**</bpt>Service Item<ept id="p4">**</ept>, or <bpt id="p5">**</bpt>Service Item Group<ept id="p5">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="49">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Položky<ept id="p3">**</ept>, <bpt id="p4">**</bpt>Předmět servisu<ept id="p4">**</ept> nebo <bpt id="p5">**</bpt>Skupina předmětů servisu<ept id="p5">**</ept>, a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Choose the entity to update, and then choose the <bpt id="p1">**</bpt>Resource Skills<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="50">Choose the entity to update, and then choose the <bpt id="p1">**</bpt>Resource Skills<ept id="p1">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="50">Vyberte entitu, kterou chcete aktualizovat, a poté vyberte akci <bpt id="p1">**</bpt>Odbornost zdroje<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>On the line with the code to be changed, in the <bpt id="p1">**</bpt>Skill Code<ept id="p1">**</ept> field, choose the relevant skill code.</source><seg-source><mrk mtype="seg" mid="51">On the line with the code to be changed, in the <bpt id="p1">**</bpt>Skill Code<ept id="p1">**</ept> field, choose the relevant skill code.</mrk></seg-source><target><mrk mtype="seg" mid="51">Na řádku s kódem, který chcete změnit, vyberte v poli <bpt id="p1">**</bpt>Kód odbornosti<ept id="p1">**</ept> příslušný kód odbornosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>If the item has associated service items, a dialog box opens with the following two options:</source><seg-source><mrk mtype="seg" mid="52">If the item has associated service items, a dialog box opens with the following two options:</mrk></seg-source><target><mrk mtype="seg" mid="52">Pokud má položka přidružené předměty servisu, otevře se dialogové okno s následujícími dvěma možnostmi:</mrk></target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>Change the skill codes to the selected value: Select this option if you want to replace the old skill code with the new one on all the related service items.</source><seg-source><mrk mtype="seg" mid="53">Change the skill codes to the selected value:</mrk> <mrk mtype="seg" mid="54">Select this option if you want to replace the old skill code with the new one on all the related service items.</mrk></seg-source><target><mrk mtype="seg" mid="53">Změňte kódy na vybranou hodnotu:</mrk> <mrk mtype="seg" mid="54">Tuto možnost vyberte, pokud chcete nahradit starý kód odbornosti novým kódem u všech souvisejících servisních předmětů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Delete the skill codes or update their relation: Select this option if you want to change the skill code on this item only.</source><seg-source><mrk mtype="seg" mid="55">Delete the skill codes or update their relation:</mrk> <mrk mtype="seg" mid="56">Select this option if you want to change the skill code on this item only.</mrk></seg-source><target><mrk mtype="seg" mid="55">Odstraňte kódy odbornosti nebo aktualizujte jejich vztah:</mrk> <mrk mtype="seg" mid="56">Tuto možnost vyberte, pokud chcete změnit kód odbornosti pouze u této položky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>The skill code on the related service items will be reassigned, that is, the <bpt id="p1">**</bpt>Assigned From<ept id="p1">**</ept> field will be updated.</source><seg-source><mrk mtype="seg" mid="57">The skill code on the related service items will be reassigned, that is, the <bpt id="p1">**</bpt>Assigned From<ept id="p1">**</ept> field will be updated.</mrk></seg-source><target><mrk mtype="seg" mid="57">Kód odbornosti u souvisejících předmětů servisu bude znovu přiřazen, to znamená, že pole <bpt id="p1">**</bpt>Přiděleno od<ept id="p1">**</ept> bude aktualizováno.</mrk></target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="58">See Also</mrk></seg-source><target><mrk mtype="seg" mid="58">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Allocate Resources<ept id="p1">](service-how-to-allocate-resources.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="59">Allocate Resources</mrk><ept id="p1">](service-how-to-allocate-resources.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="59">Přidělení zdrojů</mrk><ept id="p1">](service-how-to-allocate-resources.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Work Hours and Service Hours<ept id="p1">](service-how-setup-work-service-hours.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="60">Set Up Work Hours and Service Hours</mrk><ept id="p1">](service-how-setup-work-service-hours.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="60">Nastavení Pracovní doby a Servisních hodin</mrk><ept id="p1">](service-how-setup-work-service-hours.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Fault Reporting<ept id="p1">](service-how-setup-fault-reporting.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="61">Set Up Fault Reporting</mrk><ept id="p1">](service-how-setup-fault-reporting.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="61">Nastavení hlášení poruch</mrk><ept id="p1">](service-how-setup-fault-reporting.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Codes for Standard Services<ept id="p1">](service-how-setup-service-coding.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="62">Set Up Codes for Standard Services</mrk><ept id="p1">](service-how-setup-service-coding.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="62">Nastavení kódů standardního servisu</mrk><ept id="p1">](service-how-setup-service-coding.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
