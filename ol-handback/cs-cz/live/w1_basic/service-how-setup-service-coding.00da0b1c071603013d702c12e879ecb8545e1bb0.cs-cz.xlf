@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="service-how-setup-service-coding.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-15c36f0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">285bb1378cbaa565c49dd386ca70e9746407438e</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\service-how-setup-service-coding.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">734395139573ac2192b8c83ba220b16240081f50</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0bf9cd641414082af3174bb7e56ac5d2c73b01e5</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Set Up Codes for Standard Services | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Set Up Codes for Standard Services | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Nastavení Kódů standardního servisu | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Learn how to set up codes for service activities that you often perform.</source><seg-source><mrk mtype="seg" mid="2">Learn how to set up codes for service activities that you often perform.</mrk></seg-source><target><mrk mtype="seg" mid="2">Naučte se, jak nastavit kódy pro servisní aktivity, které často provádíte.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Set Up Standard Service Codes</source><seg-source><mrk mtype="seg" mid="3">Set Up Standard Service Codes</mrk></seg-source><target><mrk mtype="seg" mid="3">Nastavení Kódů standardního servisu</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>When you perform typical service, you often have to create service documents that use service lines that contain similar information.</source><seg-source><mrk mtype="seg" mid="4">When you perform typical service, you often have to create service documents that use service lines that contain similar information.</mrk></seg-source><target><mrk mtype="seg" mid="4">Při provádění typického servisu musíte často vytvářet servisní doklady, které používají řádky servisu, které obsahují podobné informace.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>To make it easy to create these lines, you can set up standard service codes that have a predefined set of service lines.</source><seg-source><mrk mtype="seg" mid="5">To make it easy to create these lines, you can set up standard service codes that have a predefined set of service lines.</mrk></seg-source><target><mrk mtype="seg" mid="5">Pro snadnější vytvoření těchto řádků můžete nastavit kódy standardního servisu, které mají předdefinovanou sadu servisních řádků.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>When you choose the code on a service document, the lines are entered automatically.</source><seg-source><mrk mtype="seg" mid="6">When you choose the code on a service document, the lines are entered automatically.</mrk></seg-source><target><mrk mtype="seg" mid="6">Když vyberete kód v servisním dokladu, řádky se zadají automaticky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>You can set up any number of standard service codes, and each code can have an unlimited number of service lines of different types, including item, resource, cost, or standrd text linked to it.</source><seg-source><mrk mtype="seg" mid="7">You can set up any number of standard service codes, and each code can have an unlimited number of service lines of different types, including item, resource, cost, or standrd text linked to it.</mrk></seg-source><target><mrk mtype="seg" mid="7">Můžete nastavit libovolný počet kódů standardního servisu a každý kód může mít neomezený počet servisních řádků různých typů, včetně položky, zdroje, nákladů nebo standardního textu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>You create service lines of each standard serice code on the <bpt id="p1">**</bpt>Standard Service Code<ept id="p1">**</ept> card.</source><seg-source><mrk mtype="seg" mid="8">You create service lines of each standard serice code on the <bpt id="p1">**</bpt>Standard Service Code<ept id="p1">**</ept> card.</mrk></seg-source><target><mrk mtype="seg" mid="8">Servisní řádky každého kódu standardního servisu vytvoříte na kartě <bpt id="p1">**</bpt>Kód Standardního servisu<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>You then assign standard service codes to service item groups on the <bpt id="p1">**</bpt>Standard Serv. Item Gr. Codes<ept id="p1">**</ept> page.</source><seg-source><mrk mtype="seg" mid="9">You then assign standard service codes to service item groups on the <bpt id="p1">**</bpt>Standard Serv.</mrk> <mrk mtype="seg" mid="10">Item Gr.</mrk> <mrk mtype="seg" mid="11">Codes<ept id="p1">**</ept> page.</mrk></seg-source><target><mrk mtype="seg" mid="9">Poté přiřadíte kódy standardního servisu skupinám předmětů servisu na stránce <bpt id="p1">**</bpt>Kódy standardních skupin.</mrk> <mrk mtype="seg" mid="10">předmětů</mrk> <mrk mtype="seg" mid="11">servisu<ept id="p1">**</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Later, when you create a service document, you can use the <bpt id="p1">**</bpt>Get Standard Service Codes<ept id="p1">**</ept> action to add service lines.</source><seg-source><mrk mtype="seg" mid="12">Later, when you create a service document, you can use the <bpt id="p1">**</bpt>Get Standard Service Codes<ept id="p1">**</ept> action to add service lines.</mrk></seg-source><target><mrk mtype="seg" mid="12">Později, když vytvoříte servisní doklad, můžete pomocí akce <bpt id="p1">**</bpt>Získat Kódy standardního servisu<ept id="p1">**</ept> přidat servisní řádky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>You can use the same concept to create lines on sales and purchase documents.</source><seg-source><mrk mtype="seg" mid="13">You can use the same concept to create lines on sales and purchase documents.</mrk></seg-source><target><mrk mtype="seg" mid="13">Stejný koncept můžete použít k vytvoření řádků v prodejních a nákupních dokladech.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Create Recurring Sales and Purchase Lines<ept id="p1">](sales-how-work-standard-lines.md)</ept>.</source><seg-source><mrk mtype="seg" mid="14">For more information, see <bpt id="p1">[</bpt>Create Recurring Sales and Purchase Lines<ept id="p1">](sales-how-work-standard-lines.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="14">Pro více informací navštivte sekci <bpt id="p1">[</bpt>Vytvoření periodických prodejních a nákupních řádků<ept id="p1">](sales-how-work-standard-lines.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>To set up a standard service code</source><seg-source><mrk mtype="seg" mid="15">To set up a standard service code</mrk></seg-source><target><mrk mtype="seg" mid="15">Pro nastavení Kódu standardního servisu</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Standard Service Codes<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="16">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Standard Service Codes<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="16">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Kódy standardního servisu<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Fill in the fields as necessary.</source><seg-source><mrk mtype="seg" mid="17">Fill in the fields as necessary.</mrk></seg-source><target><mrk mtype="seg" mid="17">Vyplňte pole podle potřeby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Fill in the service lines linked to this service code.</source><seg-source><mrk mtype="seg" mid="18">Fill in the service lines linked to this service code.</mrk></seg-source><target><mrk mtype="seg" mid="18">Vyplňte servisní řádky spojené s tímto servisním kódem..</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>To assign a standard service code to a service item group</source><seg-source><mrk mtype="seg" mid="19">To assign a standard service code to a service item group</mrk></seg-source><target><mrk mtype="seg" mid="19">Pro přiřazení kódu standardního servisu skupině předmětů servisu</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Service item Groups<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="20">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Service item Groups<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="20">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Skupiny předmětů servisu<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Fill in the fields as necessary.</source><seg-source><mrk mtype="seg" mid="21">Fill in the fields as necessary.</mrk></seg-source><target><mrk mtype="seg" mid="21">Vyplňte pole podle potřeby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Fill in the service lines linked to this service code.</source><seg-source><mrk mtype="seg" mid="22">Fill in the service lines linked to this service code.</mrk></seg-source><target><mrk mtype="seg" mid="22">Podle potřeby vyplňte pole.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="23">See Also</mrk></seg-source><target><mrk mtype="seg" mid="23">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Service Management<ept id="p1">](service-service.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="24">Service Management</mrk><ept id="p1">](service-service.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="24">Správce servisu</mrk><ept id="p1">](service-service.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
