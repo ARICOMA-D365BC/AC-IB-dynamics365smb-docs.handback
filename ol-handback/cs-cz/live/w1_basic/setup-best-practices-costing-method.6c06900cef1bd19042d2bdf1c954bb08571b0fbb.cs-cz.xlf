@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="setup-best-practices-costing-method.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-2e292eb" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d4f533d42cc813d3ebc0ccbb00228a6c8e188c14</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\setup-best-practices-costing-method.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f4b048fae4d9d19ac688c67748f50839b7f2661e</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7683297ebbff2421e1bc1081db2c5d79c9967087</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Setup Best Practices - Costing Method | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Setup Best Practices - Costing Method | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Nastavení osvědčených postupů - Metoda ocenění | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>The <bpt id="p1">**</bpt>Costing Method<ept id="p1">**</ept> on the item card defines item’s cost flow is recorded and whether an actual or budgeted value is capitalized and used in the cost calculation.</source><seg-source><mrk mtype="seg" mid="2">The <bpt id="p1">**</bpt>Costing Method<ept id="p1">**</ept> on the item card defines item’s cost flow is recorded and whether an actual or budgeted value is capitalized and used in the cost calculation.</mrk></seg-source><target><mrk mtype="seg" mid="2"><bpt id="p1">**</bpt>Metoda ocenění<ept id="p1">**</ept> na kartě zboží určuje, jaký je tok nákladů zboží a jestli je aktuální hodnota nebo hodnota rozpočtu aktivována a použita v kalkulaci nákladů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Setup Best Practices: Costing Method</source><seg-source><mrk mtype="seg" mid="3">Setup Best Practices:</mrk> <mrk mtype="seg" mid="4">Costing Method</mrk></seg-source><target><mrk mtype="seg" mid="3">Nastavení osvědčených postupů:</mrk> <mrk mtype="seg" mid="4">Metoda ocenění</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Costing Method<ept id="p1">**</ept> on the item card defines item’s cost flow is recorded and whether an actual or budgeted value is capitalized and used in the cost calculation.</source><seg-source><mrk mtype="seg" mid="5">The <bpt id="p1">**</bpt>Costing Method<ept id="p1">**</ept> on the item card defines item’s cost flow is recorded and whether an actual or budgeted value is capitalized and used in the cost calculation.</mrk></seg-source><target><mrk mtype="seg" mid="5"><bpt id="p1">**</bpt>Metoda ocenění<ept id="p1">**</ept> na kartě zboží určuje, jaký je tok nákladů zboží a jestli je aktuální hodnota nebo hodnota rozpočtu aktivována a použita v kalkulaci nákladů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Setting the correct costing method according to item type and business environment is important to ensure economical inventories.</source><seg-source><mrk mtype="seg" mid="6">Setting the correct costing method according to item type and business environment is important to ensure economical inventories.</mrk></seg-source><target><mrk mtype="seg" mid="6">Nastavení správné Metody ocenění odpovídající typu zboží a podnikatelského prostředí je důležitým aspektem pro zajištění ekonomických zásob.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>The following table provides best practices on how to set up the <bpt id="p1">**</bpt>Costing Method<ept id="p1">**</ept> field.</source><seg-source><mrk mtype="seg" mid="7">The following table provides best practices on how to set up the <bpt id="p1">**</bpt>Costing Method<ept id="p1">**</ept> field.</mrk></seg-source><target><mrk mtype="seg" mid="7">Následující tabulka obsahuje doporučené postupy, jak nastavit vybraná pole <bpt id="p1">**</bpt>Metod ocenění<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Design Details: Costing Methods<ept id="p1">](design-details-costing-methods.md)</ept>.</source><seg-source><mrk mtype="seg" mid="8">For more information, see <bpt id="p1">[</bpt>Design Details:</mrk> <mrk mtype="seg" mid="9">Costing Methods<ept id="p1">](design-details-costing-methods.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="8">Další informace naleznete v <bpt id="p1">[</bpt>Podrobnosti návrhu:</mrk> <mrk mtype="seg" mid="9">Metoda ocenění<ept id="p1">](design-details-costing-methods.md)</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Setup option</source><seg-source><mrk mtype="seg" mid="10">Setup option</mrk></seg-source><target><mrk mtype="seg" mid="10">Možnosti nastavení</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Best practice</source><seg-source><mrk mtype="seg" mid="11">Best practice</mrk></seg-source><target><mrk mtype="seg" mid="11">Osvědčený postup</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Comment</source><seg-source><mrk mtype="seg" mid="12">Comment</mrk></seg-source><target><mrk mtype="seg" mid="12">Komentář</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>FIFO</source><seg-source><mrk mtype="seg" mid="13">FIFO</mrk></seg-source><target><mrk mtype="seg" mid="13">Metoda FIFO</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Use where the product cost is stable.</source><seg-source><mrk mtype="seg" mid="14">Use where the product cost is stable.</mrk></seg-source><target><mrk mtype="seg" mid="14">Použijte, kde je produkt stabilní.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Use for items with a limited shelf life, because the oldest goods need to be sold before they pass their sell-by date.</source><seg-source><mrk mtype="seg" mid="15">Use for items with a limited shelf life, because the oldest goods need to be sold before they pass their sell-by date.</mrk></seg-source><target><mrk mtype="seg" mid="15">Používejte pro věci s omezenou trvanlivostí, protože nejstarší položky musí být prodáné před uplynutím data prodeje.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>An item’s unit cost is the actual value of any receipt of the item, selected by the FIFO rule.</source><seg-source><mrk mtype="seg" mid="16">An item’s unit cost is the actual value of any receipt of the item, selected by the FIFO rule.</mrk></seg-source><target><mrk mtype="seg" mid="16">Jednotková cena položky je skutečná hodnota jakéhokoli přijetí položky vybraná podle metody FIFO.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>In inventory valuation, it is assumed that the first items placed in inventory are sold first.</source><seg-source><mrk mtype="seg" mid="17">In inventory valuation, it is assumed that the first items placed in inventory are sold first.</mrk></seg-source><target><mrk mtype="seg" mid="17">Při oceňování skladu se předpokládá, že první položky umístěné do skladu se prodávají jako první.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept>  When prices are rising, the balance sheet shows greater value.</source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="18">Note:</mrk><ept id="p1">**</ept>  <mrk mtype="seg" mid="19">When prices are rising, the balance sheet shows greater value.</mrk></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="18">Poznámka:</mrk><ept id="p1">**</ept>  <mrk mtype="seg" mid="19">Když ceny rostou, rozvaha vykazuje vyšší hodnotu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>This means that tax liabilities increase, but credit scores and the ability to borrow cash improve.</source><seg-source><mrk mtype="seg" mid="20">This means that tax liabilities increase, but credit scores and the ability to borrow cash improve.</mrk></seg-source><target><mrk mtype="seg" mid="20">To znamená, že se zvyšuje daňová povinnost, také se ale zlepšují kreditní skóre a schopnost půjčit si hotovost.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>LIFO</source><seg-source><mrk mtype="seg" mid="21">LIFO</mrk></seg-source><target><mrk mtype="seg" mid="21">Metoda LIFO</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Use where levels of inventories are consistently maintained or increased over time.</source><seg-source><mrk mtype="seg" mid="22">Use where levels of inventories are consistently maintained or increased over time.</mrk></seg-source><target><mrk mtype="seg" mid="22">Použijte tam, kde jsou úrovně zásob na skladu v průběhu času trvale udržovány nebo zvyšovány.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>An item’s unit cost is the actual value of any receipt of the item, selected by the LIFO rule.</source><seg-source><mrk mtype="seg" mid="23">An item’s unit cost is the actual value of any receipt of the item, selected by the LIFO rule.</mrk></seg-source><target><mrk mtype="seg" mid="23">Jednotková cena položky je skutečná hodnota jakéhokoli přijetí položky vybraná podle metody FIFO.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>In inventory valuation, it is assumed that the last items placed in inventory are sold first.</source><seg-source><mrk mtype="seg" mid="24">In inventory valuation, it is assumed that the last items placed in inventory are sold first.</mrk></seg-source><target><mrk mtype="seg" mid="24">Při oceňování skladu se předpokládá, že poslední položky umístěné do skladu se prodávají jako první.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept>  When prices are rising, the value on the income statement decreases.</source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="25">Note:</mrk><ept id="p1">**</ept>  <mrk mtype="seg" mid="26">When prices are rising, the value on the income statement decreases.</mrk></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="25">Poznámka:</mrk><ept id="p1">**</ept>  <mrk mtype="seg" mid="26">Když ceny rostou, hodnota ve výsledovce klesá.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>This means that tax liabilities decrease, but the ability to borrow cash deteriorates.</source><seg-source><mrk mtype="seg" mid="27">This means that tax liabilities decrease, but the ability to borrow cash deteriorates.</mrk></seg-source><target><mrk mtype="seg" mid="27">To znamená, že se snižuje daňová povinnost, zhoršuje se tím ale schopnost půjčit si hotovost.</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Important:<ept id="p1">**</ept>  Disallowed in many countries/regions, as it can be used to depress profit.</source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="28">Important:</mrk><ept id="p1">**</ept>  <mrk mtype="seg" mid="29">Disallowed in many countries/regions, as it can be used to depress profit.</mrk></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="28">Důležité:</mrk><ept id="p1">**</ept>  <mrk mtype="seg" mid="29">Zakázáno v mnoha zemích / regionech, protože se může použít ke snížení zisku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Average</source><seg-source><mrk mtype="seg" mid="30">Average</mrk></seg-source><target><mrk mtype="seg" mid="30">Průměr</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Use where the product cost is unstable.</source><seg-source><mrk mtype="seg" mid="31">Use where the product cost is unstable.</mrk></seg-source><target><mrk mtype="seg" mid="31">Použijte, kde je produkt nestabilní.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Use where inventories are piled or mixed together and cannot be differentiated, such as chemicals.</source><seg-source><mrk mtype="seg" mid="32">Use where inventories are piled or mixed together and cannot be differentiated, such as chemicals.</mrk></seg-source><target><mrk mtype="seg" mid="32">Použije se tam, kde se zásoby hromadí nebo mísí dohromady a nelze je rozlišit, jako jsou například chemikálie.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>An item’s unit cost is the exact cost at which the particular unit was received.</source><seg-source><mrk mtype="seg" mid="33">An item’s unit cost is the exact cost at which the particular unit was received.</mrk></seg-source><target><mrk mtype="seg" mid="33">Jednotková cena položky je přesná cena, za kterou byla konkrétní jednotka přijata.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Specific</source><seg-source><mrk mtype="seg" mid="34">Specific</mrk></seg-source><target><mrk mtype="seg" mid="34">Specifikum</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Use in production or trade of easily identifiable items with fairly high unit costs.</source><seg-source><mrk mtype="seg" mid="35">Use in production or trade of easily identifiable items with fairly high unit costs.</mrk></seg-source><target><mrk mtype="seg" mid="35">Použijte při výrobě nebo obchodu snadno identifikovatelných položek s poměrně vysokými jednotkovými náklady.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Use for items that are subject to regulation.</source><seg-source><mrk mtype="seg" mid="36">Use for items that are subject to regulation.</mrk></seg-source><target><mrk mtype="seg" mid="36">Použijte pro položky, na které jsou subjektem regulací.</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Use for items with serial numbers.</source><seg-source><mrk mtype="seg" mid="37">Use for items with serial numbers.</mrk></seg-source><target><mrk mtype="seg" mid="37">Používá se pro položky se sériovými čísly.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>An item’s unit cost is calculated as the average unit cost at each point in time after a purchase.</source><seg-source><mrk mtype="seg" mid="38">An item’s unit cost is calculated as the average unit cost at each point in time after a purchase.</mrk></seg-source><target><mrk mtype="seg" mid="38">Jednotková cena položky je vypočítaná jako průměrná jednotková cena v každém časovém bodě po nákupu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>For inventory valuation, it is assumes that all inventories are sold simultaneously.</source><seg-source><mrk mtype="seg" mid="39">For inventory valuation, it is assumes that all inventories are sold simultaneously.</mrk></seg-source><target><mrk mtype="seg" mid="39">Pro oceňování zásob se předpokládá, že všechny zásoby se prodávají současně.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Standard</source><seg-source><mrk mtype="seg" mid="40">Standard</mrk></seg-source><target><mrk mtype="seg" mid="40">Standardní</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Use where cost control is critical.</source><seg-source><mrk mtype="seg" mid="41">Use where cost control is critical.</mrk></seg-source><target><mrk mtype="seg" mid="41">Použijte tam, kde je klíčová kontrola nákladů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Use in repetitive manufacturing, to value the costs of direct material, direct labor, and manufacturing overhead.</source><seg-source><mrk mtype="seg" mid="42">Use in repetitive manufacturing, to value the costs of direct material, direct labor, and manufacturing overhead.</mrk></seg-source><target><mrk mtype="seg" mid="42">Použijte při opakované výrobě k ocenění nákladů na přímý materiál, přímou práci a výrobní režii.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Use where there is discipline and staff to maintain standards.</source><seg-source><mrk mtype="seg" mid="43">Use where there is discipline and staff to maintain standards.</mrk></seg-source><target><mrk mtype="seg" mid="43">Používejte tam, kde je disciplína a personál pro udržení standardů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>An item’s unit cost is preset based on estimated.</source><seg-source><mrk mtype="seg" mid="44">An item’s unit cost is preset based on estimated.</mrk></seg-source><target><mrk mtype="seg" mid="44">Jednotková cena položky je přednastavena na základě odhadu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>When the actual cost is realized later, the standard cost must be adjusted to the actual cost through variance values.</source><seg-source><mrk mtype="seg" mid="45">When the actual cost is realized later, the standard cost must be adjusted to the actual cost through variance values.</mrk></seg-source><target><mrk mtype="seg" mid="45">Když se skutečné náklady realizují později, musí být standardní náklady upraveny na skutečné náklady prostřednictvím odchylky hodnot.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="46">See Also</mrk></seg-source><target><mrk mtype="seg" mid="46">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Design Details: Costing Methods<ept id="p1">](design-details-costing-methods.md)</ept><ph id="ph1"> </ph></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="47">Design Details:</mrk> <mrk mtype="seg" mid="48">Costing Methods</mrk><ept id="p1">](design-details-costing-methods.md)</ept><ph id="ph1"> </ph></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="47">Podrobnosti návrhu</mrk> <mrk mtype="seg" mid="48">Metody ocenění</mrk><ept id="p1">](design-details-costing-methods.md)</ept><ph id="ph1"> </ph></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Design Details: Inventory Costing<ept id="p1">](design-details-inventory-costing.md)</ept><ph id="ph1"> </ph></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="49">Design Details:</mrk> <mrk mtype="seg" mid="50">Inventory Costing</mrk><ept id="p1">](design-details-inventory-costing.md)</ept><ph id="ph1"> </ph></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="49">Podrobnosti návrhu</mrk> <mrk mtype="seg" mid="50">Zásoby a ocenění</mrk><ept id="p1">](design-details-inventory-costing.md)</ept><ph id="ph1"> </ph></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Complex Application Areas Using Best Practices<ept id="p1">](set-up-complex-application-areas-using-best-practices.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="51">Set Up Complex Application Areas Using Best Practices</mrk><ept id="p1">](set-up-complex-application-areas-using-best-practices.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="51">Osvědčené postupy při nastavení komplexních oblasti aplikace</mrk><ept id="p1">](set-up-complex-application-areas-using-best-practices.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="52">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="52">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
