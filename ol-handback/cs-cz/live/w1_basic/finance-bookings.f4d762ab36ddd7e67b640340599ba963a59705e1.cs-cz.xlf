@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="finance-bookings.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-964a5eb" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7c6c5385c6322bd83ac112f062ef312eeee44539</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\finance-bookings.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">502919ac9e9cb557b6796f7377ea6a49713215c9</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">161dce48022933707be7e4f9b8986ed5386dbfd9</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Invoice your bookings in Business Central | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Invoice your bookings in Business Central | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Fakturace Vašich rezervací Business Central | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Learn how you can do bulk invoicing from Microsoft Bookings in Business Central .</source><seg-source><mrk mtype="seg" mid="2">Learn how you can do bulk invoicing from Microsoft Bookings in Business Central .</mrk></seg-source><target><mrk mtype="seg" mid="2">Naučte se, jak můžete provádět hromadnou fakturaci z Microsoft Bookings v Business Central</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Bulk Invoicing for Microsoft Bookings in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph></source><seg-source><mrk mtype="seg" mid="3">Bulk Invoicing for Microsoft Bookings in</mrk> <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph></seg-source><target><mrk mtype="seg" mid="3">Hromadná fakturace v Microsoft Bookings v</mrk> <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>If your company uses the Bookings app in Office 365, you can do bulk invoicing for appointments.</source><seg-source><mrk mtype="seg" mid="4">If your company uses the Bookings app in Office 365, you can do bulk invoicing for appointments.</mrk></seg-source><target><mrk mtype="seg" mid="4">Pokud vaše společnost používá aplikaci Bookings v Office 365, můžete provést hromadnou fakturaci za události.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Uninvoiced Bookings<ept id="p1">**</ept> page in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> provides a list of the company's completed bookings.</source><seg-source><mrk mtype="seg" mid="5">The <bpt id="p1">**</bpt>Uninvoiced Bookings<ept id="p1">**</ept> page in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> provides a list of the company's completed bookings.</mrk></seg-source><target><mrk mtype="seg" mid="5">Stránka <bpt id="p1">**</bpt>Nefakturované rezervace<ept id="p1">**</ept> v <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> obsahuje seznam dokončených rezervací společnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>In this page you can quickly select the appointments that you want to invoice and create draft invoices for the services provided.</source><seg-source><mrk mtype="seg" mid="6">In this page you can quickly select the appointments that you want to invoice and create draft invoices for the services provided.</mrk></seg-source><target><mrk mtype="seg" mid="6">Na této stránce můžete rychle vybrat události, které chcete fakturovat, a vytvořit návrhy faktury za poskytované služby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Connect to Bookings</source><seg-source><mrk mtype="seg" mid="7">Connect to Bookings</mrk></seg-source><target><mrk mtype="seg" mid="7">Připojení se k rezervaci</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>To connect your <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> with Bookings, you must specify your Bookings company, what to synchronize with Bookings, how often to synchronize, and which templates to use.</source><seg-source><mrk mtype="seg" mid="8">To connect your <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> with Bookings, you must specify your Bookings company, what to synchronize with Bookings, how often to synchronize, and which templates to use.</mrk></seg-source><target><mrk mtype="seg" mid="8">Chcete-li se spojit v <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> s rezervací, musíte určit Účetní společnost, co synchronizovat s Bookings, jak často synchronizovat a jaké šablony použít.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>You set up this information in the <bpt id="p1">**</bpt>Booking Sync. Setup<ept id="p1">**</ept> page, which you can launch from the <bpt id="p2">**</bpt>Exchange Sync. Setup<ept id="p2">**</ept> page, which you can find through <bpt id="p3">[</bpt>Search<ept id="p3">](ui-search.md)</ept>.</source><seg-source><mrk mtype="seg" mid="9">You set up this information in the <bpt id="p1">**</bpt>Booking Sync.</mrk> <mrk mtype="seg" mid="10">Setup<ept id="p1">**</ept> page, which you can launch from the <bpt id="p2">**</bpt>Exchange Sync.</mrk> <mrk mtype="seg" mid="11">Setup<ept id="p2">**</ept> page, which you can find through <bpt id="p3">[</bpt>Search<ept id="p3">](ui-search.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="9">Tyto položky můžete nastavit v <bpt id="p1">**</bpt>Účetní synchronizace</mrk> <mrk mtype="seg" mid="10">Stránka Instalace<ept id="p1">**</ept>, kterou můžete spustit z <bpt id="p2">**</bpt>Synchronizace Exchange</mrk> <mrk mtype="seg" mid="11">Stránka Instalace<ept id="p2">**</ept>, kterou můžete najít skrz <bpt id="p3">[</bpt>Vyhledat<ept id="p3">](ui-search.md)</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>For example, if you want to synchronize customers between Bookings and <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, you must specify the default template to use to add new customers in <ph id="ph2">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> based on the customers in your Bookings company.</source><seg-source><mrk mtype="seg" mid="12">For example, if you want to synchronize customers between Bookings and <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, you must specify the default template to use to add new customers in <ph id="ph2">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> based on the customers in your Bookings company.</mrk></seg-source><target><mrk mtype="seg" mid="12">Pokud například chcete synchronizovat zákazníky mezi Bookings a <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, musíte určit výchozí šablonu, pomocí které se budou přidávat noví zákazníci v <ph id="ph2">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> na základě zákazníků ve vaší Účetní společnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Invoice Appointments</source><seg-source><mrk mtype="seg" mid="13">Invoice Appointments</mrk></seg-source><target><mrk mtype="seg" mid="13">Fakturační události</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>When it is time to send invoices for the completed bookings, you go to the <bpt id="p1">**</bpt>Uninvoiced Bookings<ept id="p1">**</ept> page.</source><seg-source><mrk mtype="seg" mid="14">When it is time to send invoices for the completed bookings, you go to the <bpt id="p1">**</bpt>Uninvoiced Bookings<ept id="p1">**</ept> page.</mrk></seg-source><target><mrk mtype="seg" mid="14">Když je čas poslat faktury za dokončené rezervace, běžte na stránku <bpt id="p1">**</bpt>Nefakturované rezervace<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Depending on how often the information is synchronized, the list is long or short.</source><seg-source><mrk mtype="seg" mid="15">Depending on how often the information is synchronized, the list is long or short.</mrk></seg-source><target><mrk mtype="seg" mid="15">V závislosti na tom, jak často jsou informace synchronizovány, je seznam dlouhý nebo krátký.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>You can create invoices for all bookings in the list or one booking at a time.</source><seg-source><mrk mtype="seg" mid="16">You can create invoices for all bookings in the list or one booking at a time.</mrk></seg-source><target><mrk mtype="seg" mid="16">Můžete vytvářet faktury pro všechny rezervace v seznamu nebo jednu rezervaci najednou.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>You can select one or more entries in the list and invoice those only.</source><seg-source><mrk mtype="seg" mid="17">You can select one or more entries in the list and invoice those only.</mrk></seg-source><target><mrk mtype="seg" mid="17">V seznamu můžete vybrat jednu nebo více položek a fakturovat je pouze je.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>The support for invoicing appointments from Bookings is simpler than the fuller workflow of working with sales quotes, sales orders, and sales invoices.</source><seg-source><mrk mtype="seg" mid="18">The support for invoicing appointments from Bookings is simpler than the fuller workflow of working with sales quotes, sales orders, and sales invoices.</mrk></seg-source><target><mrk mtype="seg" mid="18">Podpora Fakturační události z Bookings je jednodušší než workflow práce s prodejními nabídkami, prodejními objednávkami a prodejními fakturami.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Invoice Sales<ept id="p1">](sales-how-invoice-sales.md)</ept>.</source><seg-source><mrk mtype="seg" mid="19">For more information, see <bpt id="p1">[</bpt>Invoice Sales<ept id="p1">](sales-how-invoice-sales.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="19">Další informace naleznete v <bpt id="p1">[</bpt>Prodejní faktury<ept id="p1">](sales-how-invoice-sales.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>You can choose to sell your services using <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> or choose to use Bookings, depending on your business needs.</source><seg-source><mrk mtype="seg" mid="20">You can choose to sell your services using <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> or choose to use Bookings, depending on your business needs.</mrk></seg-source><target><mrk mtype="seg" mid="20">Můžete si vybrat, zda chcete své služby prodat pomocí <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, nebo si vybrat, zda chcete rezervovat Bookings, v závislosti na vašich obchodních potřebách.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="21">See Also</mrk></seg-source><target><mrk mtype="seg" mid="21">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Finance<ept id="p1">](finance.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="22">Finance</mrk><ept id="p1">](finance.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="22">Finance</mrk><ept id="p1">](finance.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Invoice Sales<ept id="p1">](sales-how-invoice-sales.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="23">Invoice Sales</mrk><ept id="p1">](sales-how-invoice-sales.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="23">Prodejní faktury</mrk><ept id="p1">](sales-how-invoice-sales.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Sales<ept id="p1">](sales-setup-sales.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="24">Setting Up Sales</mrk><ept id="p1">](sales-setup-sales.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="24">Nastavení prodeje</mrk><ept id="p1">](sales-setup-sales.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Microsoft Bookings<ept id="p1">](https://products.office.com/en-us/business/scheduling-and-booking-app)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="25">Microsoft Bookings</mrk><ept id="p1">](https://products.office.com/en-us/business/scheduling-and-booking-app)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="25">Microsoft Bookings</mrk><ept id="p1">](https://products.office.com/en-us/business/scheduling-and-booking-app)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
