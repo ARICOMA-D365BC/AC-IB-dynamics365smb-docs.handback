@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="admin-set-up-a-company-with-rapidstart.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-419b0d8" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d7476674407dd505fafa8e82f3bfecc3aa5a5fee</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\admin-set-up-a-company-with-rapidstart.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">db9bf53886742ba73b99c4600a778cc7d41a59c9</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">78f3bd0b0e6ea953b96aeeced1f4be00daf4873e</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Set Up a Company With RapidStart Services| Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Set Up a Company With RapidStart Services| Microsoft Docs</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="1">Nastavení společnosti pomocí služeb RapidStart | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>You can set up a new company in Business Central with RapidStart services, which is a tool designed to shorten deployment times, improve quality of implementation, introduce a repeatable approach to implementations, and enhance productivity by automating and simplifying recurring tasks.</source><seg-source><mrk mtype="seg" mid="2">You can set up a new company in Business Central with RapidStart services, which is a tool designed to shorten deployment times, improve quality of implementation, introduce a repeatable approach to implementations, and enhance productivity by automating and simplifying recurring tasks.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="2">V Business Central můžete založit novou společnost pomocí služeb RapidStart, což je nástroj určený ke zkrácení doby nasazení, zlepšení kvality implementace, zavedení opakovatelného přístupu k implementacím a zvýšení produktivity automatizací a zjednodušením opakujících se úkolů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Setting Up a Company With RapidStart Services</source><seg-source><mrk mtype="seg" mid="3">Setting Up a Company With RapidStart Services</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="3">Založení společnosti pomocí služeb RapidStart</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>You can set up a new company in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> with RapidStart Services, which is a tool designed to shorten deployment times, improve quality of implementation, introduce a repeatable approach to implementations, and enhance productivity by automating and simplifying recurring tasks.</source><seg-source><mrk mtype="seg" mid="4">You can set up a new company in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> with RapidStart Services, which is a tool designed to shorten deployment times, improve quality of implementation, introduce a repeatable approach to implementations, and enhance productivity by automating and simplifying recurring tasks.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="4">V <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> můžete založit novou společnost pomocí služeb RapidStart, což je nástroj určený ke zkrácení doby nasazení, zlepšení kvality implementace, zavedení opakovatelného přístupu k implementacím a zvýšení produktivity automatizací a zjednodušením opakujících se úkolů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>RapidStart Services helps you gain an overview of the setup process of your new company by providing a worksheet in which you can set up the tables often involved in the configuration process of new companies.</source><seg-source><mrk mtype="seg" mid="5">RapidStart Services helps you gain an overview of the setup process of your new company by providing a worksheet in which you can set up the tables often involved in the configuration process of new companies.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="5">Služby RapidStart vám pomůže získat přehled o procesu nastavení vaší nové společnosti poskytnutím sešitu, ve kterém můžete nastavit tabulky často zapojené do procesu konfigurace nových společností.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>As you do this, you can create a questionnaire to guide your customers through the collection of setup information.</source><seg-source><mrk mtype="seg" mid="6">As you do this, you can create a questionnaire to guide your customers through the collection of setup information.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="6">V takovém případě můžete vytvořit dotazník, pomocí kterého budete svým zákazníkům shromažďovat informace o nastavení.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Your customers have the option of using the questionnaire to set up application areas, or they can open the setup page directly and do the setup there.</source><seg-source><mrk mtype="seg" mid="7">Your customers have the option of using the questionnaire to set up application areas, or they can open the setup page directly and do the setup there.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Vaši zákazníci mají možnost použít dotazník k nastavení oblastí aplikací nebo mohou přímo otevřít stránku nastavení a provést nastavení tam.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Most importantly, RapidStart Services helps you, as a customer, prepare the company with default setup data that you can fine-tune and customize.</source><seg-source><mrk mtype="seg" mid="8">Most importantly, RapidStart Services helps you, as a customer, prepare the company with default setup data that you can fine-tune and customize.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="8">A co je nejdůležitější, služby RapidStart vám, jako zákazníkovi, pomáhá připravit společnost s výchozím nastavením, které můžete vyladit a přizpůsobit.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Lastly, when you use RapidStart Services, you can configure and migrate existing customer data, such as a list of customers or items, into the new company.</source><seg-source><mrk mtype="seg" mid="9">Lastly, when you use RapidStart Services, you can configure and migrate existing customer data, such as a list of customers or items, into the new company.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="9">A nakonec, když používáte služby RapidStart, můžete nakonfigurovat a migrovat stávající zákaznická data, jako je seznam zákazníků nebo zboží, do nové společnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>You can use the following components to speed up your company setup:</source><seg-source><mrk mtype="seg" mid="10">You can use the following components to speed up your company setup:</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="10">K urychlení nastavení vaší společnosti můžete použít následující komponenty:</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Configuration wizard</source><seg-source><mrk mtype="seg" mid="11">Configuration wizard</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">Průvodce konfigurací</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Configuration worksheet</source><seg-source><mrk mtype="seg" mid="12">Configuration worksheet</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="12">Konfigurační sešit</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Configuration packages</source><seg-source><mrk mtype="seg" mid="13">Configuration packages</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="13">Konfigurační balíčky</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Configuration templates</source><seg-source><mrk mtype="seg" mid="14">Configuration templates</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="14">Konfigurační šablony</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Configuration questionnaire</source><seg-source><mrk mtype="seg" mid="15">Configuration questionnaire</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="15">Konfigurační dotazník</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>There are areas of <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> that you must set up manually.</source><seg-source><mrk mtype="seg" mid="16">There are areas of <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> that you must set up manually.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="16">Existují oblasti <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>, které musíte nastavit ručně.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>These include adding users, setting up accounting periods, and setting up dimensions for business intelligence.</source><seg-source><mrk mtype="seg" mid="17">These include adding users, setting up accounting periods, and setting up dimensions for business intelligence.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="17">Patří sem přidání uživatelů, nastavení účetních období a nastavení dimenzí pro business intelligence.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Setting Up <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](setup.md)</ept>.</source><seg-source><mrk mtype="seg" mid="18">For more information, see <bpt id="p1">[</bpt>Setting Up <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](setup.md)</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="18">Pro více informací navštivte <bpt id="p1">[</bpt>Nastavení<ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](setup.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>The following table describes a sequence of tasks with links to topics that describe them.</source><seg-source><mrk mtype="seg" mid="19">The following table describes a sequence of tasks with links to topics that describe them.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="19">Následující tabulka popisuje sekvekci úloh s odkazy na témata, které je popisují.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>To<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="20">To</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="20">Pro</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>See<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="21">See</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="21">Navštivte</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Set up the main user interface of RapidStart Services.</source><seg-source><mrk mtype="seg" mid="22">Set up the main user interface of RapidStart Services.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="22">Nastavení hlavního uživatelského rozhraní služeb RapidStart.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Use the RapidStart Services Implementer Role Center<ept id="p1">](admin-how-to-use-the-rapidstart-services-role-center-to-track-progress.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="23">Use the RapidStart Services Implementer Role Center</mrk><ept id="p1">](admin-how-to-use-the-rapidstart-services-role-center-to-track-progress.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="23">Používání role Implementátor služeb RapidStart</mrk><ept id="p1">](admin-how-to-use-the-rapidstart-services-role-center-to-track-progress.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Create a new company and import basic setup data and templates.</source><seg-source><mrk mtype="seg" mid="24">Create a new company and import basic setup data and templates.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="24">Vytvoření nové společnosti a import základních instalačních dat a šablon.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Company Configuration<ept id="p1">](admin-set-up-company-configuration.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="25">Set Up Company Configuration</mrk><ept id="p1">](admin-set-up-company-configuration.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="25">Nastavení konfigurace společnosti</mrk><ept id="p1">](admin-set-up-company-configuration.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Deploy the configured package to your customer for implementation.</source><seg-source><mrk mtype="seg" mid="26">Deploy the configured package to your customer for implementation.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="26">Nasazení nakonfigurovaného balíčku pro implementaci zákazníkovi.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Apply Configurations to New Companies<ept id="p1">](admin-apply-configuration-to-new-companies.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="27">Apply Configurations to New Companies</mrk><ept id="p1">](admin-apply-configuration-to-new-companies.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="27">Aplikování konfigurace pro nové společnosti</mrk><ept id="p1">](admin-apply-configuration-to-new-companies.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Define and validate your customer’s setup values for all core areas, such as company information, general ledger, inventory, sales, or manufacturing.</source><seg-source><mrk mtype="seg" mid="28">Define and validate your customer’s setup values for all core areas, such as company information, general ledger, inventory, sales, or manufacturing.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="28">Definici a ověření hodnot nastavení zákazníka pro všechny klíčové oblasti, jako jsou informace o společnosti, hlavní kniha, inventář, prodej nebo výroba.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Gather Customer Setup Values<ept id="p1">](admin-gather-customer-setup-values.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="29">Gather Customer Setup Values</mrk><ept id="p1">](admin-gather-customer-setup-values.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="29">Shromáždění hodnot nastavení zákazníka</mrk><ept id="p1">](admin-gather-customer-setup-values.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Configure core master data records using templates to prepare to migrate existing customer data.</source><seg-source><mrk mtype="seg" mid="30">Configure core master data records using templates to prepare to migrate existing customer data.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="30">Konfiguraci záznamů klíčových hlavních dat pomocí šablon k přípravě na migraci stávajících zákaznických dat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Prepare to Migrate Customer Data<ept id="p1">](admin-use-templates-to-prepare-customer-data-for-migration.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="31">Prepare to Migrate Customer Data</mrk><ept id="p1">](admin-use-templates-to-prepare-customer-data-for-migration.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="31">Příprava na migraci zákaznických dat</mrk><ept id="p1">](admin-use-templates-to-prepare-customer-data-for-migration.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Define tables and fields, validate existing customer data, and migrate data into the <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> database.</source><seg-source><mrk mtype="seg" mid="32">Define tables and fields, validate existing customer data, and migrate data into the <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> database.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="32">Definici tabulek a polí, ověření existujících zákaznických dat a migraci dat do databáze <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Migrate Customer Data<ept id="p1">](admin-migrate-customer-data.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="33">Migrate Customer Data</mrk><ept id="p1">](admin-migrate-customer-data.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="33">Migrace zákaznických dat</mrk><ept id="p1">](admin-migrate-customer-data.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Prepare to reuse company configurations in other companies.</source><seg-source><mrk mtype="seg" mid="34">Prepare to reuse company configurations in other companies.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="34">Příprava na opětovné použití konfigurací společnosti v jiných společnostech.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create Custom Company Configuration Packages<ept id="p1">](admin-how-to-create-custom-company-configuration-packages.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="35">Create Custom Company Configuration Packages</mrk><ept id="p1">](admin-how-to-create-custom-company-configuration-packages.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="35">Vytvoření vlastních firemních konfiguračních balíčků</mrk><ept id="p1">](admin-how-to-create-custom-company-configuration-packages.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Find solutions to known issues in the RapidStart Services toolkit.</source><seg-source><mrk mtype="seg" mid="36">Find solutions to known issues in the RapidStart Services toolkit.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="36">Nalezení řešení známých problémů v sadě nástrojů služeb RapidStart.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Tips and Tricks: RapidStart Services<ept id="p1">](admin-tips-and-tricks-rapidstart-services.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="37">Tips and Tricks:</mrk> <mrk mtype="seg" mid="38">RapidStart Services</mrk><ept id="p1">](admin-tips-and-tricks-rapidstart-services.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="37">Tipy a triky:</mrk> <mrk mtype="seg" mid="38">Služby RapidStart</mrk><ept id="p1">](admin-tips-and-tricks-rapidstart-services.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="39">See Also</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="39">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Administration<ept id="p1">](admin-setup-and-administration.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="40">Administration</mrk><ept id="p1">](admin-setup-and-administration.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="40">Správa</mrk><ept id="p1">](admin-setup-and-administration.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](setup.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="41">Setting Up</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](setup.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="41">Nastavení</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](setup.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Complex Application Areas Using Best Practices<ept id="p1">](set-up-complex-application-areas-using-best-practices.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="42">Set Up Complex Application Areas Using Best Practices</mrk><ept id="p1">](set-up-complex-application-areas-using-best-practices.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="42">Nastavení složitých oblastí aplikací pomocí osvědčených postupů</mrk><ept id="p1">](set-up-complex-application-areas-using-best-practices.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
