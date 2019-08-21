@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="fa-how-setup-maintenance.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-15c36f0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0eccdafe78c74de05269af9a8b4132e4bcc9be57</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\fa-how-setup-maintenance.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5e507c0ecb02bcdba3b18d9c383adc4232c39812</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">140b9688586a9b4f04864f639e45d15850e93cdb</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Set Up FA Maintenance| Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Set Up FA Maintenance| Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Nastavení údržby DM| Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>To manage fixed asset repairs and service, you specify general maintenance information, codes for the type of work, and a posting account for costs.</source><seg-source><mrk mtype="seg" mid="2">To manage fixed asset repairs and service, you specify general maintenance information, codes for the type of work, and a posting account for costs.</mrk></seg-source><target><mrk mtype="seg" mid="2">Chcete-li spravovat opravy a servis dlouhodobého majetku, určíte obecné informace o údržbě, kódy pro typ práce a účet pro účtování pro náklady.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Set Up Fixed Asset Maintenance</source><seg-source><mrk mtype="seg" mid="3">Set Up Fixed Asset Maintenance</mrk></seg-source><target><mrk mtype="seg" mid="3">Nastavení údržby dlouhodobého majetku</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>To manage fixed asset maintenance, you must first set up some general maintenance information, a posting account for maintenance costs, and maintenance codes for types of work, such as Routine Service or Repair.</source><seg-source><mrk mtype="seg" mid="4">To manage fixed asset maintenance, you must first set up some general maintenance information, a posting account for maintenance costs, and maintenance codes for types of work, such as Routine Service or Repair.</mrk></seg-source><target><mrk mtype="seg" mid="4">Ke správě údržby dlouhodobého majetku musíte nejprve nastavit nějaké obecné informace o údržbě, účet pro zaúčtování nákladů údržby a kódy údržby pro typy práce, jako je např. služba rutiny nebo oprava.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>To set up general maintenance information</source><seg-source><mrk mtype="seg" mid="5">To set up general maintenance information</mrk></seg-source><target><mrk mtype="seg" mid="5">Pro nastavení obecných informací o údržbě</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>If you set up the fields for maintenance, you can post maintenance expenses from the fixed asset journal.</source><seg-source><mrk mtype="seg" mid="6">If you set up the fields for maintenance, you can post maintenance expenses from the fixed asset journal.</mrk></seg-source><target><mrk mtype="seg" mid="6">Pokud nastavíte pole pro údržbu, můžete účtovat výdaje za údržbu z deníku dlouhodobého majetku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Fixed Assets<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="7">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Fixed Assets<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="7">Vyberte ikonu <bpt id="p1">![</bpt>Hledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Hledat stránku nebo sestavu<ept id="p2">")</ept>, vstupte do <bpt id="p3">**</bpt>Dlouhodobý majetek<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Select the fixed asset that you to define insurance coverage for, and then choose the <bpt id="p1">**</bpt>Edit<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="8">Select the fixed asset that you to define insurance coverage for, and then choose the <bpt id="p1">**</bpt>Edit<ept id="p1">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="8">Vyberte dlouhodobý majetek, pro který chcete definovat pojistné krytí, a pak vyberte akci <bpt id="p1">**</bpt>Upravit<ept id="p1">**</ept> .</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">**</bpt>Maintenance<ept id="p1">**</ept> FastTab, fill in the fields as necessary.</source><seg-source><mrk mtype="seg" mid="9">On the <bpt id="p1">**</bpt>Maintenance<ept id="p1">**</ept> FastTab, fill in the fields as necessary.</mrk></seg-source><target><mrk mtype="seg" mid="9">Na pevné záložce <bpt id="p1">**</bpt>Údržba<ept id="p1">**</ept> vyplňte pole podle potřeby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>To set up maintenance codes</source><seg-source><mrk mtype="seg" mid="10">To set up maintenance codes</mrk></seg-source><target><mrk mtype="seg" mid="10">Pro nastavení kódů údržby</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>When you post maintenance costs from a general journal, you fill in the <bpt id="p1">**</bpt>Maintenance Code<ept id="p1">**</ept> field to record what kind of maintenance has been performed, such as routine service or repair.</source><seg-source><mrk mtype="seg" mid="11">When you post maintenance costs from a general journal, you fill in the <bpt id="p1">**</bpt>Maintenance Code<ept id="p1">**</ept> field to record what kind of maintenance has been performed, such as routine service or repair.</mrk></seg-source><target><mrk mtype="seg" mid="11">Když účtujete náklady na údržbu z obecného deníku, vyplníte pole <bpt id="p1">**</bpt>Kód údržby<ept id="p1">**</ept> k zaznamenání, k jaké údržbě došlo, např. služba rutiny nebo oprava.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Maintenance<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="12">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Maintenance<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="12">Vyberte ikonu <bpt id="p1">![</bpt>Hledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Hledat stránku nebo sestavu<ept id="p2">")</ept>, vstupte do <bpt id="p3">**</bpt>Údržba<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Maintenance<ept id="p1">**</ept> window, set up codes for different types of maintenance work.</source><seg-source><mrk mtype="seg" mid="13">In the <bpt id="p1">**</bpt>Maintenance<ept id="p1">**</ept> window, set up codes for different types of maintenance work.</mrk></seg-source><target><mrk mtype="seg" mid="13">V okně <bpt id="p1">**</bpt>Údržba<ept id="p1">**</ept> nastavte kódy pro různé typy údržbářských prací.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>To set up maintenance expense accounts</source><seg-source><mrk mtype="seg" mid="14">To set up maintenance expense accounts</mrk></seg-source><target><mrk mtype="seg" mid="14">Pro nastavení účtů nákladů údržby</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>To post maintenance costs, you must first enter an account number in the <bpt id="p1">**</bpt>FA Posting Groups<ept id="p1">**</ept> window.</source><seg-source><mrk mtype="seg" mid="15">To post maintenance costs, you must first enter an account number in the <bpt id="p1">**</bpt>FA Posting Groups<ept id="p1">**</ept> window.</mrk></seg-source><target><mrk mtype="seg" mid="15">K účtování nákladů za údržbu musíte nejprve zvolit číslo účtu v okně <bpt id="p1">**</bpt>Účto skupiny DM<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>FA Posting Groups<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="16">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>FA Posting Groups<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="16">Vyberte ikonu <bpt id="p1">![</bpt>Hledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Hledat stránku nebo sestavu<ept id="p2">")</ept>, vstupte do <bpt id="p3">**</bpt>Účto skupiny DM<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Fill in the <bpt id="p1">**</bpt>Maintenance Expense Account<ept id="p1">**</ept> field for each posting group.</source><seg-source><mrk mtype="seg" mid="17">Fill in the <bpt id="p1">**</bpt>Maintenance Expense Account<ept id="p1">**</ept> field for each posting group.</mrk></seg-source><target><mrk mtype="seg" mid="17">Vyplňte pole <bpt id="p1">**</bpt>Účet nákladů údržby<ept id="p1">**</ept> pro každou účto skupinu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>To define that maintenance costs are allocated to departments or projects, set up an allocation keys.</source><seg-source><mrk mtype="seg" mid="18">To define that maintenance costs are allocated to departments or projects, set up an allocation keys.</mrk></seg-source><target><mrk mtype="seg" mid="18">Chcete-li definovat, že náklady na údržbu jsou přidělovány oddělením nebo projektům, nastavte alokační klíče.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Set Up General Fixed Assets Features<ept id="p1">](fa-how-setup-general.md)</ept>.</source><seg-source><mrk mtype="seg" mid="19">For more information, see <bpt id="p1">[</bpt>Set Up General Fixed Assets Features<ept id="p1">](fa-how-setup-general.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="19">Pro více informací navštivte <bpt id="p1">[</bpt>Nastavení obecných funkcí dlouhodobého majetku<ept id="p1">](fa-how-setup-general.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="20">See Also</mrk></seg-source><target><mrk mtype="seg" mid="20">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Fixed Assets<ept id="p1">](fa-setup.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="21">Setting Up Fixed Assets</mrk><ept id="p1">](fa-setup.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="21">Nastavení dlouhodobého majetku</mrk><ept id="p1">](fa-setup.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Fixed Assets<ept id="p1">](fa-manage.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="22">Fixed Assets</mrk><ept id="p1">](fa-manage.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="22">Dlouhodobý majetek</mrk><ept id="p1">](fa-manage.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Finance<ept id="p1">](finance.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="23">Finance</mrk><ept id="p1">](finance.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="23">Finance</mrk><ept id="p1">](finance.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Welcome to <ph id="ph1">[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</ph><ept id="p1">](index.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="24">Welcome to</mrk> <ph id="ph1">[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</ph><ept id="p1">](index.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="24">Vítejte v</mrk> <ph id="ph1">[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</ph><ept id="p1">](index.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="25">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="25">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

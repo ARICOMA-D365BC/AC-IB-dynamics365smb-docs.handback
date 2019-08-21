@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="admin-setup-and-administration.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-964a5eb" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b8c0eef06da8ee9bdaab15f24476bce18f5cb45e</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\admin-setup-and-administration.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6a214146b36fa5e918ffe9d6fd1f9091ed9b54b9</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9081ecc55fd0554798853aabf4aa696ef59c4088</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Administrative tasks in Business Central | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Administrative tasks in Business Central | Microsoft Docs</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="1">Administrativní úkoly v Business Central | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Some tasks in Business Central requires central administration and setup.</source><seg-source><mrk mtype="seg" mid="2">Some tasks in Business Central requires central administration and setup.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="2">Některé úkoly v Business Central vyžadují centrální správu a nastavení.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>See what they are and learn what to do.</source><seg-source><mrk mtype="seg" mid="3">See what they are and learn what to do.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="3">Podívejte se, které to jsou a naučte se co dělat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Administration</source><seg-source><mrk mtype="seg" mid="4">Administration</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="4">Správa</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Central administration tasks are usually performed by one role in the company.</source><seg-source><mrk mtype="seg" mid="5">Central administration tasks are usually performed by one role in the company.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="5">Úkoly centrální správy jsou obvykle prováděny jednou rolí ve společnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>The scope of these tasks can depend on the company's size and the administrator's job responsibilities.</source><seg-source><mrk mtype="seg" mid="6">The scope of these tasks can depend on the company's size and the administrator's job responsibilities.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="6">Rozsah těchto úkolů může záviset na velikosti společnosti a na pracovních povinnostech správce.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>These tasks can include managing database synchronization of job and email queues, setting up users, customizing the user interface, and managing encryption keys.</source><seg-source><mrk mtype="seg" mid="7">These tasks can include managing database synchronization of job and email queues, setting up users, customizing the user interface, and managing encryption keys.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Tyto úkoly mohou zahrnovat správu synchronizace databáze front úloh a e-mailů, nastavení uživatelů, přizpůsobení uživatelského rozhraní a správu šifrovacích klíčů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Entering the correct setup values from the start is important to the success of any new business software.</source><seg-source><mrk mtype="seg" mid="8">Entering the correct setup values from the start is important to the success of any new business software.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="8">Zadání správných hodnot nastavení již od začátku je důležité pro úspěch jakéhokoli nového obchodního softwaru.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> includes a number of setup guides that help you set up core data.</source><seg-source><ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="9">includes a number of setup guides that help you set up core data.</mrk></seg-source><target state="translated"><ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="9">obsahuje řadu průvodců nastavením, které vám pomohou nastavit základní data.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Setting Up Business Central<ept id="p1">](setup.md)</ept>.</source><seg-source><mrk mtype="seg" mid="10">For more information, see <bpt id="p1">[</bpt>Setting Up Business Central<ept id="p1">](setup.md)</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="10">Pro více informací navštivte <bpt id="p1">[</bpt>Nastavení Business Central<ept id="p1">](setup.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Whether you use RapidStart Services to implement setup values or you manually enter them in the new company, you can support your setup decisions with some general recommendations for selected setup fields that are known to potentially cause the solution to be inefficient if defined incorrectly.</source><seg-source><mrk mtype="seg" mid="11">Whether you use RapidStart Services to implement setup values or you manually enter them in the new company, you can support your setup decisions with some general recommendations for selected setup fields that are known to potentially cause the solution to be inefficient if defined incorrectly.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">Ať už používáte služby RapidStart Services k implementaci hodnot nastavení nebo je zadáváte ručně v nové společnosti, můžete svá rozhodnutí o nastavení podpořit některými obecnými doporučeními pro vybraná pole nastavení, o kterých je známo, že pokud budou nesprávně definovány, může být řešení neefektivní.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>A super user or an administrator can set up the Data Exchange Framework to enable users to export and import data in bank and payroll files, for example for various cash management processes.</source><seg-source><mrk mtype="seg" mid="12">A super user or an administrator can set up the Data Exchange Framework to enable users to export and import data in bank and payroll files, for example for various cash management processes.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="12">Super uživatel nebo správce může nastavit Data Exchange Framework tak, aby uživatelům umožňoval exportovat a importovat data v bankových a mzdových souborech, například pro různé procesy správy hotovosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>You can set up a new company in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> with RapidStart Services, which is a tool designed to shorten deployment times, improve quality of implementation, introduce a repeatable approach to implementations, and enhance productivity by automating and simplifying recurring tasks.</source><seg-source><mrk mtype="seg" mid="13">You can set up a new company in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> with RapidStart Services, which is a tool designed to shorten deployment times, improve quality of implementation, introduce a repeatable approach to implementations, and enhance productivity by automating and simplifying recurring tasks.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="13">Můžete založit novou společnost v <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> pomocí RapidStart Services, což je nástroj určený ke zkrácení doby nasazení, zlepšení kvality implementace, zavedení opakovatelného přístupu k implementacím a zvýšení produktivity automatizací a zjednodušením opakujících se úkolů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>For more information, see ## <bpt id="p1">[</bpt>Setting Up a Company With RapidStart Services<ept id="p1">](admin-set-up-a-company-with-rapidstart.md)</ept>.</source><seg-source><mrk mtype="seg" mid="14">For more information, see ## <bpt id="p1">[</bpt>Setting Up a Company With RapidStart Services<ept id="p1">](admin-set-up-a-company-with-rapidstart.md)</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="14">Pro více informací navštivte <bpt id="p1">[</bpt>Nastavení společnosti pomocí RapidStart Services<ept id="p1">](admin-set-up-a-company-with-rapidstart.md)</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>The following table describes a sequence of tasks, with links to the topics that describe them.</source><seg-source><mrk mtype="seg" mid="15">The following table describes a sequence of tasks, with links to the topics that describe them.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="15">Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je popisují.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>To<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="16">To</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="16">Viz</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>See<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="17">See</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="17">Také</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Add users, manage permissions and access to data, assign roles.</source><seg-source><mrk mtype="seg" mid="18">Add users, manage permissions and access to data, assign roles.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="18">Přidávání uživatelů, správa oprávnění a přístupu k datům, přiřazování rolí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Understanding Profiles and Role Centers<ept id="p1">](admin-users-profiles-roles.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="19">Understanding Profiles and Role Centers</mrk><ept id="p1">](admin-users-profiles-roles.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="19">Porozumění profilům a centrům rolí</mrk><ept id="p1">](admin-users-profiles-roles.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Assign permissions to users, modify permission sets, and group users per permissions.</source><seg-source><mrk mtype="seg" mid="20">Assign permissions to users, modify permission sets, and group users per permissions.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="20">Přiřazení oprávnění uživatelům, úprava sad oprávnění a seskupení uživatelů podle oprávnění.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Managing Users and Permissions<ept id="p1">](ui-how-users-permissions.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="21">Managing Users and Permissions</mrk><ept id="p1">](ui-how-users-permissions.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="21">Správa uživatelů a práv</mrk><ept id="p1">](ui-how-users-permissions.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Classify data sensitivities for fields so that you can respond to requests from data subjects related to their personal data.</source><seg-source><mrk mtype="seg" mid="22">Classify data sensitivities for fields so that you can respond to requests from data subjects related to their personal data.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="22">Klasifikace citlivosti údajů pro pole, abyste mohli reagovat na požadavky subjektů, týkající se jejich osobních údajů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Classifying Data Sensitivity<ept id="p1">](admin-classifying-data-sensitivity.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="23">Classifying Data Sensitivity</mrk><ept id="p1">](admin-classifying-data-sensitivity.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="23">Klasifikace citlivosti dat</mrk><ept id="p1">](admin-classifying-data-sensitivity.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Respond to requests from data subjects related to their personal data.</source><seg-source><mrk mtype="seg" mid="24">Respond to requests from data subjects related to their personal data.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="24">Reakce na žádosti subjektů, týkající se jejich osobních údajů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Responding to Requests About Personal Data<ept id="p1">](admin-responding-to-requests-about-personal-data.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="25">Responding to Requests About Personal Data</mrk><ept id="p1">](admin-responding-to-requests-about-personal-data.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="25">Odpověď na žádost o osobní informace</mrk><ept id="p1">](admin-responding-to-requests-about-personal-data.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Set up a new business unit using templates</source><seg-source><mrk mtype="seg" mid="26">Set up a new business unit using templates</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="26">Založení nové obchodní jednotky pomocí šablon</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Creating New Companies<ept id="p1">](about-new-company.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="27">Creating New Companies</mrk><ept id="p1">](about-new-company.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="27">Vytváření nových společností</mrk><ept id="p1">](about-new-company.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Change which fields and actions are shown in the user interface to fit your company's business processes.</source><seg-source><mrk mtype="seg" mid="28">Change which fields and actions are shown in the user interface to fit your company's business processes.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="28">Změna určení polí, které jsou zobrazeny v uživatelském prostředí k přizpůsobení vašich firemních obchodních prcesů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Customizing <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-customizing-overview.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="29">Customizing</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-customizing-overview.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="29">Přizpůsobení</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-customizing-overview.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Track all direct modifications that users make to data in the database to identify the origin of errors and data changes.</source><seg-source><mrk mtype="seg" mid="30">Track all direct modifications that users make to data in the database to identify the origin of errors and data changes.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="30">Sledování všech přímých úprav, které uživatelé provádějí na datech v databázi a určení původu chyb a změny dat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Logging Changes<ept id="p1">](across-log-changes.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="31">Logging Changes</mrk><ept id="p1">](across-log-changes.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="31">Zaznamenávání změn</mrk><ept id="p1">](across-log-changes.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Enter single or recurring requests to run reports or codeunits.</source><seg-source><mrk mtype="seg" mid="32">Enter single or recurring requests to run reports or codeunits.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="32">Zadávejte jednorázové nebo opakující se požadavky na spouštění sestav nebo codeunit.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Using Job Queues to Schedule Tasks<ept id="p1">](admin-job-queues-schedule-tasks.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="33">Using Job Queues to Schedule Tasks</mrk><ept id="p1">](admin-job-queues-schedule-tasks.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="33">Použití front úloh k plánování úkolů</mrk><ept id="p1">](admin-job-queues-schedule-tasks.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Manage, delete, or compress documents</source><seg-source><mrk mtype="seg" mid="34">Manage, delete, or compress documents</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="34">Správa, mazání nebo kompripomování dokumentů</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Deleting Documents<ept id="p1">](admin-manage-documents.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="35">Deleting Documents</mrk><ept id="p1">](admin-manage-documents.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="35">Mazání dokumentů</mrk><ept id="p1">](admin-manage-documents.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Expose pages, codeunits, and queries as web services.</source><seg-source><mrk mtype="seg" mid="36">Expose pages, codeunits, and queries as web services.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="36">Vystavení stránek, codeunit a dotazy jako webové služby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Publishing a Web Service<ept id="p1">](across-how-publish-web-service.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="37">Publishing a Web Service</mrk><ept id="p1">](across-how-publish-web-service.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="37">Publikování Webbových služeb</mrk><ept id="p1">](across-how-publish-web-service.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="38">See Also</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="38">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Business Functionality<ept id="p1">](madeira-business-functionality.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="39">Business Functionality</mrk><ept id="p1">](madeira-business-functionality.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="39">Obchodní funkcionality</mrk><ept id="p1">](madeira-business-functionality.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>General Business Functionality<ept id="p1">](ui-across-business-areas.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="40">General Business Functionality</mrk><ept id="p1">](ui-across-business-areas.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="40">Obecné obchodní funkcionality</mrk><ept id="p1">](ui-across-business-areas.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="41">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="41">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Welcome to <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](index.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="42">Welcome to</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](index.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="42">Vítejte v</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](index.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
