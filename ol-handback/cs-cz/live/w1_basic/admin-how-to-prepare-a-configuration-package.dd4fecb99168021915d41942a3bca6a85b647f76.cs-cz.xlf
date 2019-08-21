@@ -1,0 +1,435 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="admin-how-to-prepare-a-configuration-package.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-15c36f0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c74e2dcf28bafb24eb1b77fdfa1c76328c84e5d9</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\admin-how-to-prepare-a-configuration-package.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2b4a80bf5f12f37bdf2bcfb959fdb967a6ba8cd7</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6f24e69b47bf5665b96c4969f53b625529af232e</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>How to Prepare a Configuration Package | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">How to Prepare a Configuration Package | Microsoft Docs</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="1">Jak si připravit konfigurační balíček | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>When you configure a new company, table relations are recognized and processed.</source><seg-source><mrk mtype="seg" mid="2">When you configure a new company, table relations are recognized and processed.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="2">Při konfiguraci nové společnosti jsou relace tabulky rozpoznány a zpracovány.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Data is imported and applied in the correct order.</source><seg-source><mrk mtype="seg" mid="3">Data is imported and applied in the correct order.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="3">Data jsou importována a použita ve správném pořadí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Dimension tables are also imported if they are included in the configuration package.</source><seg-source><mrk mtype="seg" mid="4">Dimension tables are also imported if they are included in the configuration package.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="4">Tabulky dimenzí se také importují, pokud jsou součástí konfiguračního balíčku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Prepare a Configuration Package</source><seg-source><mrk mtype="seg" mid="5">Prepare a Configuration Package</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="5">Příprava konfiguračního balíčku</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>When you configure a new company, table relations are recognized and processed.</source><seg-source><mrk mtype="seg" mid="6">When you configure a new company, table relations are recognized and processed.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="6">Při konfiguraci nové společnosti jsou relace tabulky rozpoznány a zpracovány.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Data is imported and applied in the correct order.</source><seg-source><mrk mtype="seg" mid="7">Data is imported and applied in the correct order.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Data jsou importována a použita ve správném pořadí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Dimension tables are also imported if they are included in the configuration package.</source><seg-source><mrk mtype="seg" mid="8">Dimension tables are also imported if they are included in the configuration package.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="8">Tabulky dimenzí se také importují, pokud jsou součástí konfiguračního balíčku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>To help your customer use the configuration package, you may want to add a questionnaire or a set of questionnaires to the package.</source><seg-source><mrk mtype="seg" mid="9">To help your customer use the configuration package, you may want to add a questionnaire or a set of questionnaires to the package.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="9">Chcete-li pomoci zákazníkovi používat konfigurační balíček, můžete do balíčku přidat dotazník nebo sadu dotazníků.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>The questionnaire can help the customer in understanding the various setup options.</source><seg-source><mrk mtype="seg" mid="10">The questionnaire can help the customer in understanding the various setup options.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="10">Dotazník může zákazníkovi pomoct při pochopení různých možností nastavení.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Typically, questionnaires are created for the major setup tables where a customer may require additional guidance about how to select an appropriate setting.</source><seg-source><mrk mtype="seg" mid="11">Typically, questionnaires are created for the major setup tables where a customer may require additional guidance about how to select an appropriate setting.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">Obvykle jsou vytvářeny dotazníky pro hlavní tabulky nastavení, kde zákazník může vyžadovat další pokyny, jak vybrat vhodné nastavení.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Gather Customer Setup Values<ept id="p1">](admin-gather-customer-setup-values.md)</ept>.</source><seg-source><mrk mtype="seg" mid="12">For more information, see <bpt id="p1">[</bpt>Gather Customer Setup Values<ept id="p1">](admin-gather-customer-setup-values.md)</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="12">Pro více informací navštivte <bpt id="p1">[</bpt> Shromáždění hodnot nastavení zákazníka <ept id="p1">](admin-gather-customer-setup-values.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Make sure that you are on the RapidStart Services Implementer Role Center.</source><seg-source><mrk mtype="seg" mid="13">Make sure that you are on the RapidStart Services Implementer Role Center.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="13">Ujistěte se, že jste v centru rolí Implementátor služeb RapidStart.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Use the RapidStart Services Implementer Role Center<ept id="p1">](admin-how-to-use-the-rapidstart-services-role-center-to-track-progress.md)</ept>.</source><seg-source><mrk mtype="seg" mid="14">For more information, see <bpt id="p1">[</bpt>Use the RapidStart Services Implementer Role Center<ept id="p1">](admin-how-to-use-the-rapidstart-services-role-center-to-track-progress.md)</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="14">Pro více informací navštivte <bpt id="p1">[</bpt>Používání role Implementátor služeb RapidStart<ept id="p1">](admin-how-to-use-the-rapidstart-services-role-center-to-track-progress.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>When exporting and importing configuration packages between two company databases, the databases should have the same schema to ensure that all data is transferred successfully.</source><seg-source><mrk mtype="seg" mid="15">When exporting and importing configuration packages between two company databases, the databases should have the same schema to ensure that all data is transferred successfully.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="15">Při exportu a importu konfiguračních balíčků mezi dvěma databázemi společnosti by databáze měly mít stejné schéma, aby se zajistilo úspěšné přenesení všech dat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>This means that the databases should have the same table and field structure, in which the tables have the same primary keys and fields have the same IDs and data types.</source><seg-source><mrk mtype="seg" mid="16">This means that the databases should have the same table and field structure, in which the tables have the same primary keys and fields have the same IDs and data types.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="16">To znamená, že databáze by měly mít stejnou tabulku a strukturu polí, ve kterých tabulky mají stejné primární klíče a pole mají stejné ID a datové typy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>You can import a configuration package that has been exported from a database that has a different schema than that target database.</source><seg-source><mrk mtype="seg" mid="17">You can import a configuration package that has been exported from a database that has a different schema than that target database.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="17">Můžete importovat konfigurační balíček, který byl exportován z databáze, která má jiné schéma než tato cílová databáze.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>However, any tables or fields in the configuration package that are missing in the target database will not be imported.</source><seg-source><mrk mtype="seg" mid="18">However, any tables or fields in the configuration package that are missing in the target database will not be imported.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="18">Avšak žádné tabulky nebo pole v konfiguračním balíčku, které chybí v cílové databázi, nebudou importovány.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Tables with different primary keys and fields with different data types will also not successfully import.</source><seg-source><mrk mtype="seg" mid="19">Tables with different primary keys and fields with different data types will also not successfully import.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="19">Tabulky s různými primárními klíči a poli s různými datovými typy se také neimportují úspěšně.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>For example, if the configuration pack includes table <bpt id="p1">**</bpt>50000, Customer<ept id="p1">**</ept> that has primary key <bpt id="p2">**</bpt>Code20<ept id="p2">**</ept> and the database to which you import the pack includes table <bpt id="p3">**</bpt>50000, Customer Bank Account<ept id="p3">**</ept> that has the primary key <bpt id="p4">**</bpt>Code20 + Code 20<ept id="p4">**</ept>, then data will not be imported.</source><seg-source><mrk mtype="seg" mid="20">For example, if the configuration pack includes table <bpt id="p1">**</bpt>50000, Customer<ept id="p1">**</ept> that has primary key <bpt id="p2">**</bpt>Code20<ept id="p2">**</ept> and the database to which you import the pack includes table <bpt id="p3">**</bpt>50000, Customer Bank Account<ept id="p3">**</ept> that has the primary key <bpt id="p4">**</bpt>Code20 + Code 20<ept id="p4">**</ept>, then data will not be imported.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="20">Pokud například konfigurační balíček obsahuje tabulku <bpt id="p1">**</bpt>50000, zákazník<ept id="p1">**</ept>, která má primární klíč <bpt id="p2">**</bpt>Kód20<ept id="p2">**</ept>, a databáze, do které importujete balíček, zahrnuje tabulku <bpt id="p3">**</bpt>50000, bankovní účet zákazníka<ept id="p3">**</ept>, která má primární klíč <bpt id="p4">**</bpt>Kód20 + Kód20<ept id="p4">**</ept>, potom data nebudou importována.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>To create a configuration package</source><seg-source><mrk mtype="seg" mid="21">To create a configuration package</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="21">Pro vytvoření konfiguračního balíčku</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Packages<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="22">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Packages<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="22">Zvolte ikonu <bpt id="p1">![</bpt>Hledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Hledat stránku nebo sestavu<ept id="p2">")</ept>, klikněte na <bpt id="p3">**</bpt>Konfigurační balíčky<ept id="p3">**</ept> a poté zvolte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>New<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="23">Choose the <bpt id="p1">**</bpt>New<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="23">Zvolte akci <bpt id="p1">**</bpt>Nový<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">**</bpt>General<ept id="p1">**</ept> FastTab, fill in the fields as appropriate.</source><seg-source><mrk mtype="seg" mid="24">On the <bpt id="p1">**</bpt>General<ept id="p1">**</ept> FastTab, fill in the fields as appropriate.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="24">V záložce <bpt id="p1">**</bpt>Obecné<ept id="p1">**</ept> vyplňte pole podle potřeby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>To exclude the configuration questionnaires, configuration templates, and configuration worksheet tables from the package, select the <bpt id="p1">**</bpt>Exclude Configuration Tables<ept id="p1">**</ept> check box.</source><seg-source><mrk mtype="seg" mid="25">To exclude the configuration questionnaires, configuration templates, and configuration worksheet tables from the package, select the <bpt id="p1">**</bpt>Exclude Configuration Tables<ept id="p1">**</ept> check box.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="25">Chcete-li z balíčku vyloučit konfigurační dotazníky, konfigurační šablony a tabulky konfiguračních sešitů, zaškrtněte políčko <bpt id="p1">**</bpt>Vyloučit konfigurační tabulky<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Otherwise, these tables will be added to the list of package tables automatically when you export the package.</source><seg-source><mrk mtype="seg" mid="26">Otherwise, these tables will be added to the list of package tables automatically when you export the package.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="26">V opačném případě budou tyto tabulky při exportu balíčku automaticky přidány do seznamu tabulek balíčků.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>Get Tables<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="27">Choose the <bpt id="p1">**</bpt>Get Tables<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="27">Zvolte akci <bpt id="p1">**</bpt>Získat tabulky<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Get Package Tables<ept id="p1">**</ept> batch job window opens.</source><seg-source><mrk mtype="seg" mid="28">The <bpt id="p1">**</bpt>Get Package Tables<ept id="p1">**</ept> batch job window opens.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="28">Otevře se okno dávkové úlohy <bpt id="p1">**</bpt>Získat tabulky balíčků<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>Select Tables<ept id="p1">**</ept> field.</source><seg-source><mrk mtype="seg" mid="29">Choose the <bpt id="p1">**</bpt>Select Tables<ept id="p1">**</ept> field.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="29">Zvolte pole <bpt id="p1">**</bpt>Vybrat tabulky<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Config. Selection<ept id="p1">**</ept> window opens.</source><seg-source><mrk mtype="seg" mid="30">The <bpt id="p1">**</bpt>Config.</mrk> <mrk mtype="seg" mid="31">Selection<ept id="p1">**</ept> window opens.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="30">Otevře se okno <bpt id="p1">**</bpt>Výběr</mrk> <mrk mtype="seg" mid="31">konfigurace<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>Select All<ept id="p1">**</ept> action to add all tables to the package, or select the <bpt id="p2">**</bpt>Selected<ept id="p2">**</ept> check box for each table in the list that you want to add.</source><seg-source><mrk mtype="seg" mid="32">Choose the <bpt id="p1">**</bpt>Select All<ept id="p1">**</ept> action to add all tables to the package, or select the <bpt id="p2">**</bpt>Selected<ept id="p2">**</ept> check box for each table in the list that you want to add.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="32">Vyberte akci <bpt id="p1">**</bpt>Vybrat vše,<ept id="p1">**</ept> chcete-li přidat všechny tabulky do balíčku, nebo zaškrtněte políčko <bpt id="p2">**</bpt>Vybráno<ept id="p2">**</ept> u každé tabulky v seznamu, kterou chcete přidat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> button.</source><seg-source><mrk mtype="seg" mid="33">Choose the <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> button.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="33">Zvolte tlačítko <bpt id="p1">**</bpt>OK<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>The count of tables that you have selected is indicated in the <bpt id="p1">**</bpt>Select Tables<ept id="p1">**</ept> field.</source><seg-source><mrk mtype="seg" mid="34">The count of tables that you have selected is indicated in the <bpt id="p1">**</bpt>Select Tables<ept id="p1">**</ept> field.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="34">Počet tabulek, které jste vybrali, je uveden v poli <bpt id="p1">**</bpt>Vybrat tabulky<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Specify additional options, and then choose the <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> button.</source><seg-source><mrk mtype="seg" mid="35">Specify additional options, and then choose the <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> button.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="35">Zadejte další možnosti a poté klepněte na tlačítko <bpt id="p1">**</bpt>OK<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> tables are added to the lines of the <bpt id="p1">**</bpt>Config. Package<ept id="p1">**</ept> window.</source><seg-source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="36">tables are added to the lines of the <bpt id="p1">**</bpt>Config.</mrk> <mrk mtype="seg" mid="37">Package<ept id="p1">**</ept> window.</mrk></seg-source><target state="translated"><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="36">tabulky jsou přidány do řádků stránky <bpt id="p1">**</bpt>Konfigurační</mrk> <mrk mtype="seg" mid="37">balíček<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>You can also do this in the configuration worksheet.</source><seg-source><mrk mtype="seg" mid="38">You can also do this in the configuration worksheet.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="38">Toto můžete také provést v konfiguračním sešitu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Select the tables you want to include in the package, and then choose the <bpt id="p1">**</bpt>Assign Package<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="39">Select the tables you want to include in the package, and then choose the <bpt id="p1">**</bpt>Assign Package<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="39">Vyberte tabulky, které chcete zahrnout do balíčku, a poté vyberte akci <bpt id="p1">**</bpt>Přiřadit balíček<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>To select the fields that you want to include from a table, select the table, and then, on the <bpt id="p1">**</bpt>Lines<ept id="p1">**</ept> tab, choose the <bpt id="p2">**</bpt>Fields<ept id="p2">**</ept> action.</source><seg-source><mrk mtype="seg" mid="40">To select the fields that you want to include from a table, select the table, and then, on the <bpt id="p1">**</bpt>Lines<ept id="p1">**</ept> tab, choose the <bpt id="p2">**</bpt>Fields<ept id="p2">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="40">Chcete-li vybrat pole, která chcete zahrnout z tabulky, vyberte tabulku a poté na kartě <bpt id="p1">**</bpt>Řádky<ept id="p1">**</ept> vyberte akci <bpt id="p2">**</bpt>Pole<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Specify which fields are included in the package.</source><seg-source><mrk mtype="seg" mid="41">Specify which fields are included in the package.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="41">Určete, která pole jsou součástí balíčku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>By default, all fields are included.</source><seg-source><mrk mtype="seg" mid="42">By default, all fields are included.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="42">Ve výchozím nastavení jsou zahrnuta všechna pole.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>To select just the fields you want to include, choose the <bpt id="p1">**</bpt>Clear Included<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="43">To select just the fields you want to include, choose the <bpt id="p1">**</bpt>Clear Included<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="43">Chcete-li vybrat pouze pole, která chcete zahrnout, vyberte akci <bpt id="p1">**</bpt>Odstranit Zahrnuto<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>To add all fields, choose the <bpt id="p1">**</bpt>Set Included<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="44">To add all fields, choose the <bpt id="p1">**</bpt>Set Included<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="44">Chcete-li přidat všechna pole, vyberte akci <bpt id="p1">**</bpt>Nastavit Zahrnuto<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>To specify that the field data should not be validated, clear the <bpt id="p1">**</bpt>Validate Field<ept id="p1">**</ept> check box for the field.</source><seg-source><mrk mtype="seg" mid="45">To specify that the field data should not be validated, clear the <bpt id="p1">**</bpt>Validate Field<ept id="p1">**</ept> check box for the field.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="45">Chcete-li určit, že data pole by neměla být ověřena, zrušte zaškrtnutí políčka <bpt id="p1">**</bpt>Ověřit pole<ept id="p1">**</ept> pro konkrétní pole.</mrk></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Determine whether you have introduced potential errors, by choosing the <bpt id="p1">**</bpt>Validate Package<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="46">Determine whether you have introduced potential errors, by choosing the <bpt id="p1">**</bpt>Validate Package<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="46">Zjistěte, zda jste zavedli potenciální chyby, výběrem akce <bpt id="p1">**</bpt>Ověřit balíček<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>This can occur when you do not include tables that your configuration relies on.</source><seg-source><mrk mtype="seg" mid="47">This can occur when you do not include tables that your configuration relies on.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="47">K tomu může dojít, pokud nezahrnete tabulky, na které vaše konfigurace spoléhá.</mrk></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> button.</source><seg-source><mrk mtype="seg" mid="48">Choose the <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> button.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="48">Zvolte tlačítko <bpt id="p1">**</bpt>OK<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>After you have refined the list of fields to include from a table, you can check your results in Excel.</source><seg-source><mrk mtype="seg" mid="49">After you have refined the list of fields to include from a table, you can check your results in Excel.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="49">Po upřesnění seznamu polí, která mají být zahrnuta z tabulky, můžete zkontrolovat své výsledky v aplikaci Excel.</mrk></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>To filter and review your dataset</source><seg-source><mrk mtype="seg" mid="50">To filter and review your dataset</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="50">Pro filtrování a kontrolu sady dat</mrk></target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>To filter to a certain set of records to include in the package, on the <bpt id="p1">**</bpt>Lines<ept id="p1">**</ept> tab, choose the <bpt id="p2">**</bpt>Filters<ept id="p2">**</ept> action, and then specify the appropriate filter values.</source><seg-source><mrk mtype="seg" mid="51">To filter to a certain set of records to include in the package, on the <bpt id="p1">**</bpt>Lines<ept id="p1">**</ept> tab, choose the <bpt id="p2">**</bpt>Filters<ept id="p2">**</ept> action, and then specify the appropriate filter values.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="51">Pro filtrování určité sady záznamů, která má být součástí balíčku, vyberte na kartě <bpt id="p1">**</bpt>Řádky<ept id="p1">**</ept> akci <bpt id="p2">**</bpt>Filtry<ept id="p2">**</ept> a zadejte příslušné hodnoty filtru.</mrk></target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>On the package card, on the <bpt id="p1">**</bpt>Lines<ept id="p1">**</ept> tab, choose the <bpt id="p2">**</bpt>Export to Excel<ept id="p2">**</ept> action.</source><seg-source><mrk mtype="seg" mid="52">On the package card, on the <bpt id="p1">**</bpt>Lines<ept id="p1">**</ept> tab, choose the <bpt id="p2">**</bpt>Export to Excel<ept id="p2">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="52">Na kartě balíčku vyberte na kartě <bpt id="p1">**</bpt>Řádky<ept id="p1">**</ept> akci <bpt id="p2">**</bpt>Exportovat do aplikace Excel<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Confirm the messages that enable the export of data to Excel.</source><seg-source><mrk mtype="seg" mid="53">Confirm the messages that enable the export of data to Excel.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="53">Potvrďte zprávy, které umožňují export dat do Excelu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>The named .xlsx file opens.</source><seg-source><mrk mtype="seg" mid="54">The named .xlsx file opens.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="54">Otevře se pojmenovaný soubor .xlsx.</mrk></target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>Review the records that have been exported.</source><seg-source><mrk mtype="seg" mid="55">Review the records that have been exported.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="55">Zkontrolujte záznamy, které byly exportovány.</mrk></target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Close Excel.</source><seg-source><mrk mtype="seg" mid="56">Close Excel.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="56">Zavřete aplikaci Excel.</mrk></target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>To include a template for application to a table</source><seg-source><mrk mtype="seg" mid="57">To include a template for application to a table</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="57">Pro zahrnutí šablony pro aplikaci do tabulky</mrk></target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>For certain tables, such a table that will contain master data, you can specify a template to apply to the data.</source><seg-source><mrk mtype="seg" mid="58">For certain tables, such a table that will contain master data, you can specify a template to apply to the data.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="58">Pro určité tabulky, jako je tabulka, která bude obsahovat hlavní data, můžete určit šablonu, která se použije na data.</mrk></target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>The template can include the required fields that you want to apply to all master data and that you never want to vary.</source><seg-source><mrk mtype="seg" mid="59">The template can include the required fields that you want to apply to all master data and that you never want to vary.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="59">Šablona může obsahovat povinná pole, která chcete použít pro všechna hlavní data a která nikdy nechcete měnit.</mrk></target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>For example, you can create a template that can be used with customer data.</source><seg-source><mrk mtype="seg" mid="60">For example, you can create a template that can be used with customer data.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="60">Můžete například vytvořit šablonu, kterou lze použít na zákaznická data.</mrk></target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>The template can contain all the required fields, which then enables consistent import of standardized information.</source><seg-source><mrk mtype="seg" mid="61">The template can contain all the required fields, which then enables consistent import of standardized information.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="61">Šablona může obsahovat všechna povinná pole, což umožňuje konzistentní import standardizovaných informací.</mrk></target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>Information that cannot be standardized, such as customer name, is then treated when you do an import of customer data.</source><seg-source><mrk mtype="seg" mid="62">Information that cannot be standardized, such as customer name, is then treated when you do an import of customer data.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="62">Informace, které nelze standardizovat, jako například jméno zákazníka, budou zpracovány při importu zákaznických dat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Config. Package Card<ept id="p1">**</ept> window, select a table, and then choose the <bpt id="p2">**</bpt>Data Template<ept id="p2">**</ept> field.</source><seg-source><mrk mtype="seg" mid="63">In the <bpt id="p1">**</bpt>Config.</mrk> <mrk mtype="seg" mid="64">Package Card<ept id="p1">**</ept> window, select a table, and then choose the <bpt id="p2">**</bpt>Data Template<ept id="p2">**</ept> field.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="63">V okně <bpt id="p1">**</bpt>Karta</mrk> <mrk mtype="seg" mid="64">konfiguračního balíčku<ept id="p1">**</ept> zvolte tabulku a poté vyberte pole <bpt id="p2">**</bpt>Šablona dat<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>A list of templates based on the table is displayed.</source><seg-source><mrk mtype="seg" mid="65">A list of templates based on the table is displayed.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="65">Zobrazí se seznam šablon na základě tabulky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>Select a template, and then choose the <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> button.</source><seg-source><mrk mtype="seg" mid="66">Select a template, and then choose the <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> button.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="66">Vybere šablonu a poté klepněte na tlačítko <bpt id="p1">**</bpt>OK<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>After the package is complete, follow the next procedure to save the package to a file.</source><seg-source><mrk mtype="seg" mid="67">After the package is complete, follow the next procedure to save the package to a file.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="67">Po dokončení balíčku ho uložte do souboru podle následujícího postupu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>You can then give the package to a customer or partner to use.</source><seg-source><mrk mtype="seg" mid="68">You can then give the package to a customer or partner to use.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="68">Pak můžete dát balíček zákazníkovi nebo partnerovi k použití.</mrk></target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>To save and export a configuration package</source><seg-source><mrk mtype="seg" mid="69">To save and export a configuration package</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="69">Pro uložení a export konfiguračního balíčku</mrk></target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Config. Package Card<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>Export Package<ept id="p2">**</ept> action.</source><seg-source><mrk mtype="seg" mid="70">In the <bpt id="p1">**</bpt>Config.</mrk> <mrk mtype="seg" mid="71">Package Card<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>Export Package<ept id="p2">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="70">V okně <bpt id="p1">**</bpt>Karta</mrk> <mrk mtype="seg" mid="71">konfiguračního balíčku<ept id="p1">**</ept> zvolte akci <bpt id="p2">**</bpt>Exportovat balíček<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>The package is created in a .rapidstart file, which delivers the package contents in a compressed format.</source><seg-source><mrk mtype="seg" mid="72">The package is created in a .rapidstart file, which delivers the package contents in a compressed format.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="72">Balíček je vytvořen v souboru .rapidstart, který doručuje obsah balíčku v komprimovaném formátu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>Configuration questionnaires, configuration templates, and the configuration worksheet are added to the package automatically unless you specifically decide to exclude them.</source><seg-source><mrk mtype="seg" mid="73">Configuration questionnaires, configuration templates, and the configuration worksheet are added to the package automatically unless you specifically decide to exclude them.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="73">Konfigurační dotazník, konfigurační šablony a konfigurační sešit jsou do balíčku přidávány automaticky, pokud se výslovně nerozhodnete je vyloučit.</mrk></target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>You can save the file with a name that is meaningful to you, but you cannot change the extension of the file.</source><seg-source><mrk mtype="seg" mid="74">You can save the file with a name that is meaningful to you, but you cannot change the extension of the file.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="74">Můžete uložit soubor s názvem, který je pro vás smysluplný, ale nemůžete změnit příponu souboru.</mrk></target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>It must be .rapidstart.</source><seg-source><mrk mtype="seg" mid="75">It must be .rapidstart.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="75">Ta musí být .rapidstart.</mrk></target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>To copy a configuration package</source><seg-source><mrk mtype="seg" mid="76">To copy a configuration package</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="76">Pro zkopírování konfiguračního balíčku</mrk></target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>After you have created a package that meets most of your needs, you can use it as a basis for creating similar packages.</source><seg-source><mrk mtype="seg" mid="77">After you have created a package that meets most of your needs, you can use it as a basis for creating similar packages.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="77">Po vytvoření balíčku, který splňuje většinu vašich potřeb, můžete jej použít jako základ pro vytváření podobných balíčků.</mrk></target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>This can speed up implementation time and enhances the repeatability of RapidStart Services.</source><seg-source><mrk mtype="seg" mid="78">This can speed up implementation time and enhances the repeatability of RapidStart Services.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="78">To může urychlit dobu implementace a zvyšuje opakovatelnost služeb RapidStart.</mrk></target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Packages<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="79">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Packages<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="79">Zvolte ikonu <bpt id="p1">![</bpt>Hledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Hledat stránku nebo sestavu<ept id="p2">")</ept>, klikněte na <bpt id="p3">**</bpt>Konfigurační balíčky<ept id="p3">**</ept> a poté zvolte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>Select a package from the list, and then choose the <bpt id="p1">**</bpt>Copy Package<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="80">Select a package from the list, and then choose the <bpt id="p1">**</bpt>Copy Package<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="80">Vyberte balíček ze seznamu a poté vyberte akci <bpt id="p1">**</bpt>Kopírovat balíček<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>New Package Code<ept id="p1">**</ept> field, enter a code for the new package.</source><seg-source><mrk mtype="seg" mid="81">In the <bpt id="p1">**</bpt>New Package Code<ept id="p1">**</ept> field, enter a code for the new package.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="81">Do pole <bpt id="p1">**</bpt>Kód nového balíčku<ept id="p1">**</ept> zadejte kód nového balíčku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>Select the <bpt id="p1">**</bpt>Copy Data<ept id="p1">**</ept> check box if you also want to copy database data from the existing package.</source><seg-source><mrk mtype="seg" mid="82">Select the <bpt id="p1">**</bpt>Copy Data<ept id="p1">**</ept> check box if you also want to copy database data from the existing package.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="82">Pokud chcete také kopírovat data databáze z existujícího balíčku, zaškrtněte políčko <bpt id="p1">**</bpt>Kopírovat data<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> button.</source><seg-source><mrk mtype="seg" mid="83">Choose the <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> button.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="83">Zvolte tlačítko <bpt id="p1">**</bpt>OK<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>To customize a configuration package</source><seg-source><mrk mtype="seg" mid="84">To customize a configuration package</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="84">Pro přizpůsobení konfiguračního balíčku</mrk></target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>Use the configuration worksheet to gather and categorize the information that you want to use to configure a new company, and arrange tables in a logical way.</source><seg-source><mrk mtype="seg" mid="85">Use the configuration worksheet to gather and categorize the information that you want to use to configure a new company, and arrange tables in a logical way.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="85">Pomocí konfiguračního sešitu můžete shromažďovat a kategorizovat informace, které chcete použít ke konfiguraci nové společnosti, a uspořádat tabulky logickým způsobem.</mrk></target>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>Formatting in the worksheet is based on a simple hierarchy: Areas contain groups, which in turn contain tables.</source><seg-source><mrk mtype="seg" mid="86">Formatting in the worksheet is based on a simple hierarchy:</mrk> <mrk mtype="seg" mid="87">Areas contain groups, which in turn contain tables.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="86">Formátování v sešitu je založeno na jednoduché hierarchii:</mrk> <mrk mtype="seg" mid="87">Oblasti obsahují skupiny, které zase obsahují tabulky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>Areas and groups are optional, but are necessary to enable an overview of the configuration process on the RapidStart Services Role Center.</source><seg-source><mrk mtype="seg" mid="88">Areas and groups are optional, but are necessary to enable an overview of the configuration process on the RapidStart Services Role Center.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="88">Oblasti a skupiny jsou volitelné, ale nezbytné pro umožnění přehledu procesu konfigurace v centru rolí služeb RapidStart.</mrk></target>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Worksheet<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="89">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Worksheet<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="89">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat Stránku nebo Sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, klikněte na <bpt id="p3">**</bpt>Konfigurační sešit<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Line Type<ept id="p1">**</ept> field, choose <bpt id="p2">**</bpt>Area<ept id="p2">**</ept>.</source><seg-source><mrk mtype="seg" mid="90">In the <bpt id="p1">**</bpt>Line Type<ept id="p1">**</ept> field, choose <bpt id="p2">**</bpt>Area<ept id="p2">**</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="90">V poli <bpt id="p1">**</bpt>Typ řádku<ept id="p1">**</ept> vyberte <bpt id="p2">**</bpt>Oblast<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Name<ept id="p1">**</ept> field, enter a descriptive name.</source><seg-source><mrk mtype="seg" mid="91">In the <bpt id="p1">**</bpt>Name<ept id="p1">**</ept> field, enter a descriptive name.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="91">Do pole <bpt id="p1">**</bpt>Název<ept id="p1">**</ept> zadejte popisný název.</mrk></target>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Line Type<ept id="p1">**</ept> field, choose <bpt id="p2">**</bpt>Group<ept id="p2">**</ept>.</source><seg-source><mrk mtype="seg" mid="92">In the <bpt id="p1">**</bpt>Line Type<ept id="p1">**</ept> field, choose <bpt id="p2">**</bpt>Group<ept id="p2">**</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="92">V poli <bpt id="p1">**</bpt>Typ řádku<ept id="p1">**</ept> vyberte <bpt id="p2">**</bpt>Skupina<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Name<ept id="p1">**</ept> field, enter a descriptive name.</source><seg-source><mrk mtype="seg" mid="93">In the <bpt id="p1">**</bpt>Name<ept id="p1">**</ept> field, enter a descriptive name.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="93">Do pole <bpt id="p1">**</bpt>Název<ept id="p1">**</ept> zadejte popisný název.</mrk></target>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Line Type<ept id="p1">**</ept> field, choose <bpt id="p2">**</bpt>Table<ept id="p2">**</ept>.</source><seg-source><mrk mtype="seg" mid="94">In the <bpt id="p1">**</bpt>Line Type<ept id="p1">**</ept> field, choose <bpt id="p2">**</bpt>Table<ept id="p2">**</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="94">V poli <bpt id="p1">**</bpt>Typ řádku<ept id="p1">**</ept> vyberte <bpt id="p2">**</bpt>Tabulka<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Table ID<ept id="p1">**</ept> field, select the table you want to include in the worksheet.</source><seg-source><mrk mtype="seg" mid="95">In the <bpt id="p1">**</bpt>Table ID<ept id="p1">**</ept> field, select the table you want to include in the worksheet.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="95">V poli <bpt id="p1">**</bpt>ID tabulky<ept id="p1">**</ept> vyberte tabulku, kterou chcete do sešitu zahrnout.</mrk></target>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>You can now assign the tables to specific configuration packages that you have created or plan to create.</source><seg-source><mrk mtype="seg" mid="96">You can now assign the tables to specific configuration packages that you have created or plan to create.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="96">Nyní můžete tabulky přiřadit ke konkrétním konfiguračním balíčkům, které jste vytvořili nebo plánujete vytvořit.</mrk></target>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>For more information, see the "To assign a table to a configuration package" section.</source><seg-source><mrk mtype="seg" mid="97">For more information, see the "To assign a table to a configuration package" section.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="97">Pro více informací navštivte sekci “Pro přiřazení tabulky konfiguračnímu balíčku“.</mrk></target>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>To work with promoted tables</source><seg-source><mrk mtype="seg" mid="98">To work with promoted tables</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="98">Pro práci s zvýrazněnými tabulkami</mrk></target>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>Select the <bpt id="p1">**</bpt>Promoted Table<ept id="p1">**</ept> check box to indicate a table that is frequently used during the setup process by a typical customer, for example, the <bpt id="p2">**</bpt>G/L Account<ept id="p2">**</ept> table.</source><seg-source><mrk mtype="seg" mid="99">Select the <bpt id="p1">**</bpt>Promoted Table<ept id="p1">**</ept> check box to indicate a table that is frequently used during the setup process by a typical customer, for example, the <bpt id="p2">**</bpt>G/L Account<ept id="p2">**</ept> table.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="99">Zaškrtněte políčko <bpt id="p1">**</bpt>Zvýrazněná tabulka<ept id="p1">**</ept> a označte tabulku, která se často používá během procesu nastavení typickým zákazníkem, například tabulka <bpt id="p2">**</bpt>Finanční účet<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>When a table has this designation, a customer will be able to easily filter his worksheet to see just the list of promoted tables that require attention.</source><seg-source><mrk mtype="seg" mid="100">When a table has this designation, a customer will be able to easily filter his worksheet to see just the list of promoted tables that require attention.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="100">Pokud má tabulka toto označení, bude zákazník moci snadno filtrovat svůj sešit a zobrazit pouze seznam zvýrazněných tabulek, které vyžadují pozornost.</mrk></target>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>To see the filtered view, choose the <bpt id="p1">**</bpt>Promoted Only<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="101">To see the filtered view, choose the <bpt id="p1">**</bpt>Promoted Only<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="101">Chcete-li zobrazit filtrované zobrazení, vyberte akci <bpt id="p1">**</bpt>Pouze zvýrazněné<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>The list of tables contains only those tables that have the check box selected.</source><seg-source><mrk mtype="seg" mid="102">The list of tables contains only those tables that have the check box selected.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="102">Seznam tabulek obsahuje pouze ty tabulky, které mají zaškrtnuté políčko.</mrk></target>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>To assign a table to a configuration package</source><seg-source><mrk mtype="seg" mid="103">To assign a table to a configuration package</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="103">Pro přiřazení tabulky konfiguračnímu balíčku</mrk></target>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>After you have defined the tables that you want to treat as part of your configuration, you can easily assign the tables to configuration packages.</source><seg-source><mrk mtype="seg" mid="104">After you have defined the tables that you want to treat as part of your configuration, you can easily assign the tables to configuration packages.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="104">Po definování tabulek, které chcete považovat za součást vaší konfigurace, můžete tabulky snadno přiřadit konfiguračním balíčkům.</mrk></target>
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>You can assign a table to one package only.</source><seg-source><mrk mtype="seg" mid="105">You can assign a table to one package only.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="105">Tabulku můžete přiřadit pouze k jednomu balíčku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>In the following procedure, you assign the package from within configuration worksheet.</source><seg-source><mrk mtype="seg" mid="106">In the following procedure, you assign the package from within configuration worksheet.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="106">V následujícím postupu přiřadíte balíček zevnitř konfiguračního sešitu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>You can also create a package directly, and add tables to it.</source><seg-source><mrk mtype="seg" mid="107">You can also create a package directly, and add tables to it.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="107">Balíček můžete také vytvořit přímo a přidat do něj tabulky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>For more information, see the "To create a configuration package" section.</source><seg-source><mrk mtype="seg" mid="108">For more information, see the "To create a configuration package" section.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="108">Pro více informací navštivte sekci “Pro vytvoření konfiguračního balíčku“.</mrk></target>
+        </trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Worksheet<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="109">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Worksheet<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="109">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat Stránku nebo Sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, klikněte na <bpt id="p3">**</bpt>Konfigurační sešit<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>In the configuration worksheet, select a line or group of lines that you want to assign to a configuration package, and then choose the <bpt id="p1">**</bpt>Assign Package<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="110">In the configuration worksheet, select a line or group of lines that you want to assign to a configuration package, and then choose the <bpt id="p1">**</bpt>Assign Package<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="110">V konfiguračním sešitu vyberte řádek nebo skupinu řádků, které chcete přiřadit konfiguračnímu balíčku, a poté vyberte akci <bpt id="p1">**</bpt>Přiřadit balíček<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>Select a package from the list, or choose the <bpt id="p1">**</bpt>New<ept id="p1">**</ept> action to create a new package, and then choose the <bpt id="p2">**</bpt>OK<ept id="p2">**</ept> button.</source><seg-source><mrk mtype="seg" mid="111">Select a package from the list, or choose the <bpt id="p1">**</bpt>New<ept id="p1">**</ept> action to create a new package, and then choose the <bpt id="p2">**</bpt>OK<ept id="p2">**</ept> button.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="111">Vyberte balíček ze seznamu nebo zvolte akci <bpt id="p1">**</bpt>Nový<ept id="p1">**</ept> a vytvořte nový balíček a poté stiskněte tlačítko <bpt id="p2">**</bpt>OK<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>If a table is not already included in the package, it will now be added.</source><seg-source><mrk mtype="seg" mid="112">If a table is not already included in the package, it will now be added.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="112">Pokud tabulka již není součástí balíčku, bude přidána nyní.</mrk></target>
+        </trans-unit>
+        <trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>The package code field on the worksheet line will be filled in with the code of the package that the table is assigned to.</source><seg-source><mrk mtype="seg" mid="113">The package code field on the worksheet line will be filled in with the code of the package that the table is assigned to.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="113">Pole kódu balíčku na řádku sešitu bude vyplněno kódem balíčku, ke kterému je tabulka přiřazena.</mrk></target>
+        </trans-unit>
+        <trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>If you choose an existing package, you can see how many tables are already in the package by reviewing the information in the <bpt id="p1">**</bpt>No. of Tables<ept id="p1">**</ept> field.</source><seg-source><mrk mtype="seg" mid="114">If you choose an existing package, you can see how many tables are already in the package by reviewing the information in the <bpt id="p1">**</bpt>No. of Tables<ept id="p1">**</ept> field.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="114">Pokud vyberete existující balíček, můžete zjistit, kolik tabulek je již v balíčku, a to kontrolou informací v poli <bpt id="p1">**</bpt>Počet tabulek<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>To review or customize existing database data</source><seg-source><mrk mtype="seg" mid="115">To review or customize existing database data</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="115">Pro zkontrolování nebo úpravu existujících dat databáze</mrk></target>
+        </trans-unit>
+        <trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>As you create a configuration package for a solution, you can view and customize the available database data to suit your customer needs.</source><seg-source><mrk mtype="seg" mid="116">As you create a configuration package for a solution, you can view and customize the available database data to suit your customer needs.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="116">Při vytváření konfiguračního balíčku pro řešení si můžete prohlížet a přizpůsobovat dostupná databázová data podle svých potřeb.</mrk></target>
+        </trans-unit>
+        <trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>The database table must have an associated page.</source><seg-source><mrk mtype="seg" mid="117">The database table must have an associated page.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="117">Databázová tabulka musí mít přidruženou stránku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Worksheet<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="118">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Worksheet<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="118">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat Stránku nebo Sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, klikněte na <bpt id="p3">**</bpt>Konfigurační sešit<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>In the configuration worksheet, identify the tables whose data that you want to view or customize.</source><seg-source><mrk mtype="seg" mid="119">In the configuration worksheet, identify the tables whose data that you want to view or customize.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="119">V konfiguračním sešitu určete tabulky, jejichž data chcete zobrazit nebo přizpůsobit.</mrk></target>
+        </trans-unit>
+        <trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>Make sure that each table has a page ID assigned to it.</source><seg-source><mrk mtype="seg" mid="120">Make sure that each table has a page ID assigned to it.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="120">Ujistěte se, že každé tabulce je přiřazeno ID stránky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>For standard <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> tables, this value is automatically filled in.</source><seg-source><mrk mtype="seg" mid="121">For standard <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> tables, this value is automatically filled in.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="121">U standardních tabulek <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> je tato hodnota automaticky vyplněna.</mrk></target>
+        </trans-unit>
+        <trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>For custom tables, you must provide the ID.</source><seg-source><mrk mtype="seg" mid="122">For custom tables, you must provide the ID.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="122">U vlastních tabulek musíte ID uvést.</mrk></target>
+        </trans-unit>
+        <trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>Database Data<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="123">Choose the <bpt id="p1">**</bpt>Database Data<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="123">Vyberte akci <bpt id="p1">**</bpt>Data databáze<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>The window for the related page opens.</source><seg-source><mrk mtype="seg" mid="124">The window for the related page opens.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="124">Otevře se okno pro související stránky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>Review the available information.</source><seg-source><mrk mtype="seg" mid="125">Review the available information.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="125">Zkontrolujte dostupné informace.</mrk></target>
+        </trans-unit>
+        <trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>Modify it as necessary by deleting records that are not relevant or by adding new ones.</source><seg-source><mrk mtype="seg" mid="126">Modify it as necessary by deleting records that are not relevant or by adding new ones.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="126">Upravte ji podle potřeb odstraněním záznamů, které nejsou relevantní, nebo přidáním nových.</mrk></target>
+        </trans-unit>
+        <trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>To copy data from a test environment to a production environment</source><seg-source><mrk mtype="seg" mid="127">To copy data from a test environment to a production environment</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="127">Pro kopírování dat z testovacího prostředí do produkčního prostředí</mrk></target>
+        </trans-unit>
+        <trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>After you have vetted and tested all your setup information, you can proceed to copy data to your production environment.</source><seg-source><mrk mtype="seg" mid="128">After you have vetted and tested all your setup information, you can proceed to copy data to your production environment.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="128">Po prověření a otestování všech vašich informací o nastavení můžete pokračovat v kopírování dat do produkčního prostředí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>You create a new company in the same database.</source><seg-source><mrk mtype="seg" mid="129">You create a new company in the same database.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="129">Ve stejné databázi vytvoříte novou společnost.</mrk></target>
+        </trans-unit>
+        <trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>Open and initialize the new company.</source><seg-source><mrk mtype="seg" mid="130">Open and initialize the new company.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="130">Otevřete a inicializujte novou společnost.</mrk></target>
+        </trans-unit>
+        <trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Worksheet<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="131">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Configuration Worksheet<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="131">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat Stránku nebo Sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, klikněte na <bpt id="p3">**</bpt>Konfigurační sešit<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>Copy Data from the Company<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="132">Choose the <bpt id="p1">**</bpt>Copy Data from the Company<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="132">Zvolte akci <bpt id="p1">**</bpt>Kopírovat data ze společnosti<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Copy Company Data<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>Copy From<ept id="p2">**</ept> field.</source><seg-source><mrk mtype="seg" mid="133">In the <bpt id="p1">**</bpt>Copy Company Data<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>Copy From<ept id="p2">**</ept> field.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="133">V okně <bpt id="p1">**</bpt>Kopírovat data společnosti<ept id="p1">**</ept> vyberte pole <bpt id="p2">**</bpt>Kopie z<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Companies<ept id="p1">**</ept> window opens.</source><seg-source><mrk mtype="seg" mid="134">The <bpt id="p1">**</bpt>Companies<ept id="p1">**</ept> window opens.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="134">Otevře se okno <bpt id="p1">**</bpt>Společnosti<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>Select the company from which you want to copy data, and then choose the <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> button.</source><seg-source><mrk mtype="seg" mid="135">Select the company from which you want to copy data, and then choose the <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> button.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="135">Vyberte společnost, ze které chcete data zkopírovat, a poté stiskněte tlačítko <bpt id="p1">**</bpt>OK<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>A list of tables selected on the configuration worksheet opens.</source><seg-source><mrk mtype="seg" mid="136">A list of tables selected on the configuration worksheet opens.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="136">Otevře se seznam tabulek vybraných v konfiguračním sešitu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>Only tables that contain records are included in this list.</source><seg-source><mrk mtype="seg" mid="137">Only tables that contain records are included in this list.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="137">Tento seznam obsahuje pouze tabulky, které obsahují záznamy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>Select the tables that you want to copy data from, and then choose the <bpt id="p1">**</bpt>Copy Data<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="138">Select the tables that you want to copy data from, and then choose the <bpt id="p1">**</bpt>Copy Data<ept id="p1">**</ept> action.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="138">Vyberte tabulky, ze kterých chcete kopírovat data, a poté vyberte akci <bpt id="p1">**</bpt>Kopírovat data<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Copy Company Data<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>OK<ept id="p2">**</ept> button.</source><seg-source><mrk mtype="seg" mid="139">In the <bpt id="p1">**</bpt>Copy Company Data<ept id="p1">**</ept> window, choose the <bpt id="p2">**</bpt>OK<ept id="p2">**</ept> button.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="139">V okně <bpt id="p1">**</bpt>Kopírovat data společnosti<ept id="p1">**</ept> stiskněte tlačítko <bpt id="p2">**</bpt>OK<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="140">See Also</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="140">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="236" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Gather Customer Setup Values<ept id="p1">](admin-gather-customer-setup-values.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="141">Gather Customer Setup Values</mrk><ept id="p1">](admin-gather-customer-setup-values.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="141">Shromáždění hodnot nastavení zákazníka</mrk><ept id="p1">](admin-gather-customer-setup-values.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="237" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Company Configuration<ept id="p1">](admin-set-up-company-configuration.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="142">Set Up Company Configuration</mrk><ept id="p1">](admin-set-up-company-configuration.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="142">Nastavení konfigurace společnosti</mrk><ept id="p1">](admin-set-up-company-configuration.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="238" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up a Company With RapidStart Services<ept id="p1">](admin-set-up-a-company-with-rapidstart.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="143">Setting Up a Company With RapidStart Services</mrk><ept id="p1">](admin-set-up-a-company-with-rapidstart.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="143">Založení společnosti pomocí služeb RapidStart</mrk><ept id="p1">](admin-set-up-a-company-with-rapidstart.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="239" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Administration<ept id="p1">](admin-setup-and-administration.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="144">Administration</mrk><ept id="p1">](admin-setup-and-administration.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="144">Správa</mrk><ept id="p1">](admin-setup-and-administration.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
