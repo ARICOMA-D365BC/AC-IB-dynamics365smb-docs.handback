@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="setup-best-practices-planning-parameters.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-b1d70e6" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">69344bcc4004ce29a58e8475235a97cf9196605d</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\setup-best-practices-planning-parameters.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">703bb174292fc2c04a1fe2c6faafbc7bf7a67478</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9f617b760bc8a7a3e89e3d77b611702b870dec33</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Setup Best Practices - Planning Parameters | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Setup Best Practices - Planning Parameters | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Nastavení osvědčených postupů - parametry plánování | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>The Planning FastTab on the item card is the center of a company’s supply chain.</source><seg-source><mrk mtype="seg" mid="2">The Planning FastTab on the item card is the center of a company’s supply chain.</mrk></seg-source><target><mrk mtype="seg" mid="2">Plánovací Záložka s náhledem na kartě zboží je středem dodavatelského řetězce společnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Setting the correct planning parameters is very important for cost-effective inventory control and high customer service.</source><seg-source><mrk mtype="seg" mid="3">Setting the correct planning parameters is very important for cost-effective inventory control and high customer service.</mrk></seg-source><target><mrk mtype="seg" mid="3">Nastavení správných parametrů plánování je velmi důležité pro efektivní nákladové řízení zásob a vysoký zákaznický servis.</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Setup Best Practices: Planning Parameters</source><seg-source><mrk mtype="seg" mid="4">Setup Best Practices:</mrk> <mrk mtype="seg" mid="5">Planning Parameters</mrk></seg-source><target><mrk mtype="seg" mid="4">Nastavení osvědčených postupů:</mrk> <mrk mtype="seg" mid="5">Parametry plánování</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Planning<ept id="p1">**</ept> FastTab on the item card is the center of a company’s supply chain.</source><seg-source><mrk mtype="seg" mid="6">The <bpt id="p1">**</bpt>Planning<ept id="p1">**</ept> FastTab on the item card is the center of a company’s supply chain.</mrk></seg-source><target><mrk mtype="seg" mid="6">Záložka s náhledem <bpt id="p1">**</bpt>Plánování<ept id="p1">**</ept> na kartě zboží je středem dodavatelského řetězce společnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Setting the correct planning parameters is very important for cost-effective inventory control and high customer service.</source><seg-source><mrk mtype="seg" mid="7">Setting the correct planning parameters is very important for cost-effective inventory control and high customer service.</mrk></seg-source><target><mrk mtype="seg" mid="7">Nastavení správných parametrů plánování je velmi důležité pro efektivní nákladové řízení zásob a vysoký zákaznický servis.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>The following table provides best practices on how to set up selected planning parameter fields.</source><seg-source><mrk mtype="seg" mid="8">The following table provides best practices on how to set up selected planning parameter fields.</mrk></seg-source><target><mrk mtype="seg" mid="8">Následující tabulka obsahuje doporučené postupy, jak nastavit vybraná pole parametrů plánování.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>For more information about a field, choose the link in the <bpt id="p1">**</bpt>Setup field<ept id="p1">**</ept> column.</source><seg-source><mrk mtype="seg" mid="9">For more information about a field, choose the link in the <bpt id="p1">**</bpt>Setup field<ept id="p1">**</ept> column.</mrk></seg-source><target><mrk mtype="seg" mid="9">Další informace o poli získáte kliknutím na odkaz ve sloupci <bpt id="p1">**</bpt>Nastavení pole<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Setup field</source><seg-source><mrk mtype="seg" mid="10">Setup field</mrk></seg-source><target><mrk mtype="seg" mid="10">Nastavení pole</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Best practice</source><seg-source><mrk mtype="seg" mid="11">Best practice</mrk></seg-source><target><mrk mtype="seg" mid="11">Osvědčené postupy</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Comment</source><seg-source><mrk mtype="seg" mid="12">Comment</mrk></seg-source><target><mrk mtype="seg" mid="12">Komentář</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Reordering Policy</source><seg-source><mrk mtype="seg" mid="13">Reordering Policy</mrk></seg-source><target><mrk mtype="seg" mid="13">Způsob přiobjednání</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Setup Best Practices: Reordering Policies<ept id="p1">](setup-best-practices-reordering-policies.md)</ept>.</source><seg-source><mrk mtype="seg" mid="14">For more information, see <bpt id="p1">[</bpt>Setup Best Practices:</mrk> <mrk mtype="seg" mid="15">Reordering Policies<ept id="p1">](setup-best-practices-reordering-policies.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="14">Pro další informace, viz <bpt id="p1">[</bpt>Nastavení osvědčených postupů</mrk> <mrk mtype="seg" mid="15">Způsob přiobjednání<ept id="p1">](setup-best-practices-reordering-policies.md)</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Reserve</source><seg-source><mrk mtype="seg" mid="16">Reserve</mrk></seg-source><target><mrk mtype="seg" mid="16">Rezervovat</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Select <bpt id="p1">**</bpt>Never<ept id="p1">**</ept> when the item is planned using a reorder point.</source><seg-source><mrk mtype="seg" mid="17">Select <bpt id="p1">**</bpt>Never<ept id="p1">**</ept> when the item is planned using a reorder point.</mrk></seg-source><target><mrk mtype="seg" mid="17">Vyberte <bpt id="p1">**</bpt>Nikdy<ept id="p1">**</ept>, když je zboží naplánováno pomocí přeskupovacího bodu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>In manufacturing, select <bpt id="p1">**</bpt>Never<ept id="p1">**</ept> to allow the planning system to cover all demands.</source><seg-source><mrk mtype="seg" mid="18">In manufacturing, select <bpt id="p1">**</bpt>Never<ept id="p1">**</ept> to allow the planning system to cover all demands.</mrk></seg-source><target><mrk mtype="seg" mid="18">Při výrobě vyberte <bpt id="p1">**</bpt>Nikdy<ept id="p1">**</ept>, aby plánovací systém pokrýval všechny požadavky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Select <bpt id="p1">**</bpt>Optional<ept id="p1">**</ept> for items that you may want to reserve for top-priority customers.</source><seg-source><mrk mtype="seg" mid="19">Select <bpt id="p1">**</bpt>Optional<ept id="p1">**</ept> for items that you may want to reserve for top-priority customers.</mrk></seg-source><target><mrk mtype="seg" mid="19">Vyberte <bpt id="p1">**</bpt>Volitelné<ept id="p1">**</ept> pro zboží, které můžete chtít rezervovat pro zákazníky s nejvyšší prioritou.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Select <bpt id="p1">**</bpt>Always<ept id="p1">**</ept> for non-unique items, such as items of type miscellaneous that are inbound for specific demands.</source><seg-source><mrk mtype="seg" mid="20">Select <bpt id="p1">**</bpt>Always<ept id="p1">**</ept> for non-unique items, such as items of type miscellaneous that are inbound for specific demands.</mrk></seg-source><target><mrk mtype="seg" mid="20">Vyberte <bpt id="p1">**</bpt>Vždy<ept id="p1">**</ept> pro nejedinečné položky, například položky typu různé, které jsou příchozí pro konkrétní požadavky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Reservations generally counteract the purpose of planning, which is to balance demand and supply.</source><seg-source><mrk mtype="seg" mid="21">Reservations generally counteract the purpose of planning, which is to balance demand and supply.</mrk></seg-source><target><mrk mtype="seg" mid="21">Rezervy obecně působí proti účelu plánování, kterým je vyvážit poptávku a nabídku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Therefore, items that are set up for planning should generally not be reserved.</source><seg-source><mrk mtype="seg" mid="22">Therefore, items that are set up for planning should generally not be reserved.</mrk></seg-source><target><mrk mtype="seg" mid="22">Proto by položky, které jsou nastaveny pro plánování, by neměly být rezervovány.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>If the user reserves an inventory quantity for future demand, then the planning foundation will be disturbed, and the reorder point may not work correctly.</source><seg-source><mrk mtype="seg" mid="23">If the user reserves an inventory quantity for future demand, then the planning foundation will be disturbed, and the reorder point may not work correctly.</mrk></seg-source><target><mrk mtype="seg" mid="23">Pokud si uživatel rezervuje množství zásob pro budoucí poptávku, bude plánovací základna narušena a bod přiobjednání nemusí fungovat správně.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Even if the projected inventory level is acceptable with regard to the reorder point, the quantities may not be available because of the reservation.</source><seg-source><mrk mtype="seg" mid="24">Even if the projected inventory level is acceptable with regard to the reorder point, the quantities may not be available because of the reservation.</mrk></seg-source><target><mrk mtype="seg" mid="24">I když je plánovaná úroveň zásob přijatelná s ohledem na pořadí, množství nemusí být kvůli rezervaci k dispozici.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Dampener Period</source><seg-source><mrk mtype="seg" mid="25">Dampener Period</mrk></seg-source><target><mrk mtype="seg" mid="25">Doba tlumení</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Set with regard to the supplier’s flexibility.</source><seg-source><mrk mtype="seg" mid="26">Set with regard to the supplier’s flexibility.</mrk></seg-source><target><mrk mtype="seg" mid="26">Nastavení s ohledem na flexibilitu dodavatele.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>A longer period enables you to provide better customer service, but will also cause more rescheduling actions.</source><seg-source><mrk mtype="seg" mid="27">A longer period enables you to provide better customer service, but will also cause more rescheduling actions.</mrk></seg-source><target><mrk mtype="seg" mid="27">Delší období vám umožní poskytovat lepší služby zákazníkům, ale také způsobí další změny plánu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>If the supplier accepts last-minute changes to orders, then use a longer period, but be prepared for more rescheduling actions.</source><seg-source><mrk mtype="seg" mid="28">If the supplier accepts last-minute changes to orders, then use a longer period, but be prepared for more rescheduling actions.</mrk></seg-source><target><mrk mtype="seg" mid="28">Pokud dodavatel přijme změny objednávek na poslední chvíli, použijte delší období, ale buďte připraveni na další změny plánu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>If the supplier requires firm planning, then shorten the period as much as possible.</source><seg-source><mrk mtype="seg" mid="29">If the supplier requires firm planning, then shorten the period as much as possible.</mrk></seg-source><target><mrk mtype="seg" mid="29">Pokud dodavatel vyžaduje pevné plánování, zkraťte toto období co nejvíce.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>For information about the <bpt id="p1">**</bpt>Dampener Period<ept id="p1">**</ept> field , see <bpt id="p2">[</bpt>Design Details: Planning Parameters<ept id="p2">](design-details-planning-parameters.md)</ept>.</source><seg-source><mrk mtype="seg" mid="30">For information about the <bpt id="p1">**</bpt>Dampener Period<ept id="p1">**</ept> field , see <bpt id="p2">[</bpt>Design Details:</mrk> <mrk mtype="seg" mid="31">Planning Parameters<ept id="p2">](design-details-planning-parameters.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="30">Informace o poli <bpt id="p1">**</bpt>Období prodlevy<ept id="p1">**</ept> naleznete v <bpt id="p2">[</bpt>Podrobnosti návrhu:</mrk> <mrk mtype="seg" mid="31">Parametry plánování<ept id="p2">](design-details-planning-parameters.md)</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Include Inventory</source><seg-source><mrk mtype="seg" mid="32">Include Inventory</mrk></seg-source><target><mrk mtype="seg" mid="32">Zahrnutí zásob</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Always select when you are using the Lot-for-Lot reordering policy.</source><seg-source><mrk mtype="seg" mid="33">Always select when you are using the Lot-for-Lot reordering policy.</mrk></seg-source><target><mrk mtype="seg" mid="33">Vyberte vždy, když používáte přiobjednání Dávka pro dávku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Do not select only in special situations, such as when inventory items are not sellable.</source><seg-source><mrk mtype="seg" mid="34">Do not select only in special situations, such as when inventory items are not sellable.</mrk></seg-source><target><mrk mtype="seg" mid="34">Nevybírejte pouze ve zvláštních situacích, například když skladové položky nelze prodat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Safety Lead Time</source><seg-source><mrk mtype="seg" mid="35">Safety Lead Time</mrk></seg-source><target><mrk mtype="seg" mid="35">Bezpečná průběžná doba</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Set between 1D and 6D.</source><seg-source><mrk mtype="seg" mid="36">Set between 1D and 6D.</mrk></seg-source><target><mrk mtype="seg" mid="36">Nastavte mezi 1D a 6D.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Set a safety lead time of at least one day to make sure that supplies are available on the day before they are needed.</source><seg-source><mrk mtype="seg" mid="37">Set a safety lead time of at least one day to make sure that supplies are available on the day before they are needed.</mrk></seg-source><target><mrk mtype="seg" mid="37">Nastavte bezpečnou průběžnou dobu alespoň jednoho dne, abyste se ujistili, že spotřební materiál je k dispozici den před tím, než jsou potřeba.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>If using a new supplier, define a longer time until their delivery performance is known.</source><seg-source><mrk mtype="seg" mid="38">If using a new supplier, define a longer time until their delivery performance is known.</mrk></seg-source><target><mrk mtype="seg" mid="38">Pokud používáte nového dodavatele, definujte delší dobu, než bude znám jejich výkon při dodání.</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>In manufacturing, define longer safety lead times for critical components.</source><seg-source><mrk mtype="seg" mid="39">In manufacturing, define longer safety lead times for critical components.</mrk></seg-source><target><mrk mtype="seg" mid="39">Při výrobě definujte delší bezpečnostní průběžné doby pro kritické komponenty.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Supply that is planned by the system to avoid a stock-out will arrive on the same day that the stock-out occurs.</source><seg-source><mrk mtype="seg" mid="40">Supply that is planned by the system to avoid a stock-out will arrive on the same day that the stock-out occurs.</mrk></seg-source><target><mrk mtype="seg" mid="40">Dodávka, která je plánována systémem, aby se zabránilo výdeji, dorazí ve stejný den, kdy dojde k výdeji.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>This may be several hours too late if, for example, the demand is needed in the morning and the supply arrives in the afternoon.</source><seg-source><mrk mtype="seg" mid="41">This may be several hours too late if, for example, the demand is needed in the morning and the supply arrives in the afternoon.</mrk></seg-source><target><mrk mtype="seg" mid="41">Může to být i několik hodin příliš pozdě, pokud je například poptávka ráno a nabídka dorazí až odpoledne.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept>  The <bpt id="p2">**</bpt>Safety Lead Time<ept id="p2">**</ept> field uses the base calendar.</source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="42">Note:</mrk><ept id="p1">**</ept>  <mrk mtype="seg" mid="43">The <bpt id="p2">**</bpt>Safety Lead Time<ept id="p2">**</ept> field uses the base calendar.</mrk></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="42">Poznámka:</mrk><ept id="p1">**</ept>  <mrk mtype="seg" mid="43">Pole <bpt id="p2">**</bpt>bezpečná průběžná doba<ept id="p2">**</ept> používá základní kalendář.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Therefore, 14D is not necessarily two weeks.</source><seg-source><mrk mtype="seg" mid="44">Therefore, 14D is not necessarily two weeks.</mrk></seg-source><target><mrk mtype="seg" mid="44">14D tedy nemusí být nutně dva týdny</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Safety Stock Quantity</source><seg-source><mrk mtype="seg" mid="45">Safety Stock Quantity</mrk></seg-source><target><mrk mtype="seg" mid="45">Minimální zásoby</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Use for items with large demand fluctuations.</source><seg-source><mrk mtype="seg" mid="46">Use for items with large demand fluctuations.</mrk></seg-source><target><mrk mtype="seg" mid="46">Použijte pro položky s velkými výkyvy poptávky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>In manufacturing, use for critical components.</source><seg-source><mrk mtype="seg" mid="47">In manufacturing, use for critical components.</mrk></seg-source><target><mrk mtype="seg" mid="47">Při výrobě použijte pro kritické komponenty.</mrk></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Use for items that are subject to service agreements.</source><seg-source><mrk mtype="seg" mid="48">Use for items that are subject to service agreements.</mrk></seg-source><target><mrk mtype="seg" mid="48">Použijte pro položky, na které se vztahují servisní smlouvy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>If the <bpt id="p1">**</bpt>Reorder Point<ept id="p1">**</ept> field is not filled, then the safety stock quantity also functions as a reorder point.</source><seg-source><mrk mtype="seg" mid="49">If the <bpt id="p1">**</bpt>Reorder Point<ept id="p1">**</ept> field is not filled, then the safety stock quantity also functions as a reorder point.</mrk></seg-source><target><mrk mtype="seg" mid="49">Pokud pole <bpt id="p1">**</bpt>Bod přiobjednání<ept id="p1">**</ept> není vyplněno, pak množství minimálních zásob funguje také jako bod přiobjednání.</mrk></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Lot Accumulation Period</source><seg-source><mrk mtype="seg" mid="50">Lot Accumulation Period</mrk></seg-source><target><mrk mtype="seg" mid="50">Období shromáždění šarží</mrk></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>If you want only few big orders and you accept to carry inventory, then set a long lot accumulation period.</source><seg-source><mrk mtype="seg" mid="51">If you want only few big orders and you accept to carry inventory, then set a long lot accumulation period.</mrk></seg-source><target><mrk mtype="seg" mid="51">Pokud chcete jen několik velkých objednávek a souhlasíte s tím, že budete mít zásoby, stanovte dlouhé období shromáždění šarží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>If you want multiple small orders and minimal inventory, then set a short lot accumulation period.</source><seg-source><mrk mtype="seg" mid="52">If you want multiple small orders and minimal inventory, then set a short lot accumulation period.</mrk></seg-source><target><mrk mtype="seg" mid="52">Pokud chcete více velkých objednávek a minimální zásoby, stanovte krátké období shromáždění šarží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>The lot accumulation period is generally the longest period that you will carry inventory.</source><seg-source><mrk mtype="seg" mid="53">The lot accumulation period is generally the longest period that you will carry inventory.</mrk></seg-source><target><mrk mtype="seg" mid="53">Období shromáždění šarží je obecně nejdelší období, po které budete mít zásoby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Reorder Point</source><seg-source><mrk mtype="seg" mid="54">Reorder Point</mrk></seg-source><target><mrk mtype="seg" mid="54">Bod přiobjednání</mrk></target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Base the reorder point on the item’s demand profile.</source><seg-source><mrk mtype="seg" mid="55">Base the reorder point on the item’s demand profile.</mrk></seg-source><target><mrk mtype="seg" mid="55">Založte základní bod přiobjednání na profilu zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>If historical data shows that the item’s average demand is 100 units during a lead time of seven days, then the reorder point can be set to 100 as a minimum.</source><seg-source><mrk mtype="seg" mid="56">If historical data shows that the item’s average demand is 100 units during a lead time of seven days, then the reorder point can be set to 100 as a minimum.</mrk></seg-source><target><mrk mtype="seg" mid="56">Pokud historické údaje ukazují, že průměrná poptávka po zboží je 100 jednotek během dodací lhůty sedmi dnů, lze bod pro objednání nastavit minimálně na 100.</mrk></target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>This means that when the inventory level falls below 100 units, then the planning system will suggest to replenish because it takes seven days to supply the item, and there must be enough to cover the demand within those seven days.</source><seg-source><mrk mtype="seg" mid="57">This means that when the inventory level falls below 100 units, then the planning system will suggest to replenish because it takes seven days to supply the item, and there must be enough to cover the demand within those seven days.</mrk></seg-source><target><mrk mtype="seg" mid="57">To znamená, že když úroveň zásob klesne pod 100 jednotek, pak plánovací systém navrhne doplnění, protože dodání této položky trvá sedm dní a během těchto sedmi dnů musí být dostatek na pokrytí poptávky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Time Bucket</source><seg-source><mrk mtype="seg" mid="58">Time Bucket</mrk></seg-source><target><mrk mtype="seg" mid="58">Časový interval</mrk></target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Leave blank, meaning that the inventory level is checked every day.</source><seg-source><mrk mtype="seg" mid="59">Leave blank, meaning that the inventory level is checked every day.</mrk></seg-source><target><mrk mtype="seg" mid="59">Ponechte prázdné, což znamená, že úroveň zásob se kontroluje každý den.</mrk></target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>Checking the inventory level every day ensures optimal reorder point planning.</source><seg-source><mrk mtype="seg" mid="60">Checking the inventory level every day ensures optimal reorder point planning.</mrk></seg-source><target><mrk mtype="seg" mid="60">Každodenní kontrola úrovně zásob zajišťuje optimální plánování bodů přiobjednání.</mrk></target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept>  A time bucket of 1W means that the inventory level may be below the reorder point for one week before a supply order is suggested.</source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="61">Note:</mrk><ept id="p1">**</ept>  <mrk mtype="seg" mid="62">A time bucket of 1W means that the inventory level may be below the reorder point for one week before a supply order is suggested.</mrk></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="61">Poznámka:</mrk><ept id="p1">**</ept>  <mrk mtype="seg" mid="62">Časový interval 1W znamená, že úroveň zásob může být pod bodem uspořádání po dobu jednoho týdne před navržením objednávky dodávky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>Rounding Precision</source><seg-source><mrk mtype="seg" mid="63">Rounding Precision</mrk></seg-source><target><mrk mtype="seg" mid="63">Přesnost zaokrouhlování</mrk></target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>In expensive manufacturing, set to 0.00001.</source><seg-source><mrk mtype="seg" mid="64">In expensive manufacturing, set to 0.00001.</mrk></seg-source><target><mrk mtype="seg" mid="64">Ve výdajově náročné výrobě nastavte na 0,00001.</mrk></target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>Large rounding quantities of scrap or material consumption can amount to very large inventory costs.</source><seg-source><mrk mtype="seg" mid="65">Large rounding quantities of scrap or material consumption can amount to very large inventory costs.</mrk></seg-source><target><mrk mtype="seg" mid="65">Velké množství zaokrouhleného odpadu nebo spotřeby materiálu může představovat velmi vysoké náklady na zásoby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>It may therefore be relevant to set the smallest rounding precision to minimize this potential cost.</source><seg-source><mrk mtype="seg" mid="66">It may therefore be relevant to set the smallest rounding precision to minimize this potential cost.</mrk></seg-source><target><mrk mtype="seg" mid="66">Proto může být důležité stanovit nejmenší přesnost zaokrouhlování, aby se minimalizovaly tyto potenciální náklady.</mrk></target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>The best practices for planning parameters on item cards also apply to the same fields on SKU cards.</source><seg-source><mrk mtype="seg" mid="67">The best practices for planning parameters on item cards also apply to the same fields on SKU cards.</mrk></seg-source><target><mrk mtype="seg" mid="67">Nejlepší osvědčené postupy pro parametry plánování na kartách zboží se vztahují na stejná pole na kartách SKJ.</mrk></target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>If companies plan for demand at different locations, then it is strongly advised to define SKUs for each location and that all demand is created by using a value in the <bpt id="p1">**</bpt>Location Code<ept id="p1">**</ept> field.</source><seg-source><mrk mtype="seg" mid="68">If companies plan for demand at different locations, then it is strongly advised to define SKUs for each location and that all demand is created by using a value in the <bpt id="p1">**</bpt>Location Code<ept id="p1">**</ept> field.</mrk></seg-source><target><mrk mtype="seg" mid="68">Pokud společnosti plánují poptávku na různá místa, důrazně se doporučuje definovat kartu SKJ pro každé místo a že veškerá poptávka je vytvořena pomocí hodnoty v poli <bpt id="p1">**</bpt>Kód místa<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Design Details: Demand at Blank Location<ept id="p1">](design-details-demand-at-blank-location.md)</ept>.</source><seg-source><mrk mtype="seg" mid="69">For more information, see <bpt id="p1">[</bpt>Design Details:</mrk> <mrk mtype="seg" mid="70">Demand at Blank Location<ept id="p1">](design-details-demand-at-blank-location.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="69">Další informace naleznete v <bpt id="p1">[</bpt>Podrobnosti návrhu:</mrk> <mrk mtype="seg" mid="70">Poptávka na prázdném místě<ept id="p1">](design-details-demand-at-blank-location.md)</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="71">See Also</mrk></seg-source><target><mrk mtype="seg" mid="71">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setup Best Practices: Supply Planning<ept id="p1">](setup-best-practices-supply-planning.md)</ept><ph id="ph1"> </ph></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="72">Setup Best Practices:</mrk> <mrk mtype="seg" mid="73">Supply Planning</mrk><ept id="p1">](setup-best-practices-supply-planning.md)</ept><ph id="ph1"> </ph></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="72">Nastavení osvědčených postupů:</mrk> <mrk mtype="seg" mid="73">Plánovač dodávek</mrk><ept id="p1">](setup-best-practices-supply-planning.md)</ept><ph id="ph1"> </ph></target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Design Details: Supply Planning<ept id="p1">](design-details-supply-planning.md)</ept><ph id="ph1"> </ph></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="74">Design Details:</mrk> <mrk mtype="seg" mid="75">Supply Planning</mrk><ept id="p1">](design-details-supply-planning.md)</ept><ph id="ph1"> </ph></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="74">Podrobnosti návrhu</mrk> <mrk mtype="seg" mid="75">Plánovač dodávek</mrk><ept id="p1">](design-details-supply-planning.md)</ept><ph id="ph1"> </ph></target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Complex Application Areas Using Best Practices<ept id="p1">](set-up-complex-application-areas-using-best-practices.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="76">Set Up Complex Application Areas Using Best Practices</mrk><ept id="p1">](set-up-complex-application-areas-using-best-practices.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="76">Osvědčené postupy při nastavení komplexních oblasti aplikace</mrk><ept id="p1">](set-up-complex-application-areas-using-best-practices.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="77">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="77">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

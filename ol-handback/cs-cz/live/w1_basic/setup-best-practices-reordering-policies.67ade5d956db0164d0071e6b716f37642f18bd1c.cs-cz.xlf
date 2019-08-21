@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="setup-best-practices-reordering-policies.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-b1d70e6" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">cc333a1a17173abeff36ba556f2ff0d235af225f</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\setup-best-practices-reordering-policies.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">10a02b8a19ab7a12e2a63fdc39e9858f7323134d</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">be61661c5ce4b1e5bf43646899a73c33f68dd4d8</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Setup Best Practices - Reordering Policies | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Setup Best Practices - Reordering Policies | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Nastavení osvědčených postupů - Způsob přiobjednání | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>The Reordering Policy field on item cards offers four different planning methods that determine how the individual planning parameters interact.</source><seg-source><mrk mtype="seg" mid="2">The Reordering Policy field on item cards offers four different planning methods that determine how the individual planning parameters interact.</mrk></seg-source><target><mrk mtype="seg" mid="2">Pole Způsob přiobjednání na kartě zboží nabízí čtyři různé plánovací metody, které určují jak bude každý individuální plánovací parametr reagovat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Setup Best Practices: Reordering Policies</source><seg-source><mrk mtype="seg" mid="3">Setup Best Practices:</mrk> <mrk mtype="seg" mid="4">Reordering Policies</mrk></seg-source><target><mrk mtype="seg" mid="3">Nastavení osvědčených postupů:</mrk> <mrk mtype="seg" mid="4">Způsob přiobjednání</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Reordering Policy<ept id="p1">**</ept> field on item cards offers four different planning methods that determine how the individual planning parameters interact.</source><seg-source><mrk mtype="seg" mid="5">The <bpt id="p1">**</bpt>Reordering Policy<ept id="p1">**</ept> field on item cards offers four different planning methods that determine how the individual planning parameters interact.</mrk></seg-source><target><mrk mtype="seg" mid="5">Pole <bpt id="p1">**</bpt>Způsob přiobjednání<ept id="p1">**</ept> na kartě zboží nabízí čtyři různé plánovací metody, které určují jak bude každý individuální plánovací parametr reagovat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>One best-practice foundation for selecting a reordering policy is the item’s ABC classification.</source><seg-source><mrk mtype="seg" mid="6">One best-practice foundation for selecting a reordering policy is the item’s ABC classification.</mrk></seg-source><target><mrk mtype="seg" mid="6">Jedním z nejlépe osvědčených postupů pro výběr způsobu přiobjednání zboží, je podle klasifikace ABC.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>When you use ABC classification for inventory control and supply planning, items are managed according to three different classes depending on their value and volume relative to the total stock.</source><seg-source><mrk mtype="seg" mid="7">When you use ABC classification for inventory control and supply planning, items are managed according to three different classes depending on their value and volume relative to the total stock.</mrk></seg-source><target><mrk mtype="seg" mid="7">Když používáte klasifikaci ABC pro řízení zásob a plánování zásob, je zboží spravováno podle tří různých tříd v závislosti na jejich hodnotě a objemu vzhledem k celkové zásobě.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>The value-volume distribution of the three classes is shown in the following table.</source><seg-source><mrk mtype="seg" mid="8">The value-volume distribution of the three classes is shown in the following table.</mrk></seg-source><target><mrk mtype="seg" mid="8">V následující tabulce je uvedeno rozdělení hodnot a objemu tří tříd.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Class</source><seg-source><mrk mtype="seg" mid="9">Class</mrk></seg-source><target><mrk mtype="seg" mid="9">Třída</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Percent of total stock volume</source><seg-source><mrk mtype="seg" mid="10">Percent of total stock volume</mrk></seg-source><target><mrk mtype="seg" mid="10">Procento z celkového objemu zásob</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Percent of total stock value</source><seg-source><mrk mtype="seg" mid="11">Percent of total stock value</mrk></seg-source><target><mrk mtype="seg" mid="11">Procento z celkové hodnoty zásob</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>A</source><seg-source><mrk mtype="seg" mid="12">A</mrk></seg-source><target><mrk mtype="seg" mid="12">A</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>10-20</source><seg-source><mrk mtype="seg" mid="13">10-20</mrk></seg-source><target><mrk mtype="seg" mid="13">10-20</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>50-70</source><seg-source><mrk mtype="seg" mid="14">50-70</mrk></seg-source><target><mrk mtype="seg" mid="14">50-70</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>B</source><seg-source><mrk mtype="seg" mid="15">B</mrk></seg-source><target><mrk mtype="seg" mid="15">B</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>20</source><seg-source><mrk mtype="seg" mid="16">20</mrk></seg-source><target><mrk mtype="seg" mid="16">20</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>20</source><seg-source><mrk mtype="seg" mid="17">20</mrk></seg-source><target><mrk mtype="seg" mid="17">20</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>C</source><seg-source><mrk mtype="seg" mid="18">C</mrk></seg-source><target><mrk mtype="seg" mid="18">C</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>60-70</source><seg-source><mrk mtype="seg" mid="19">60-70</mrk></seg-source><target><mrk mtype="seg" mid="19">60-70</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>10-30</source><seg-source><mrk mtype="seg" mid="20">10-30</mrk></seg-source><target><mrk mtype="seg" mid="20">10-30</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>The ABC classification states that effort and money can be saved by applying looser control to items of low value-volume than to items of high value-volume.</source><seg-source><mrk mtype="seg" mid="21">The ABC classification states that effort and money can be saved by applying looser control to items of low value-volume than to items of high value-volume.</mrk></seg-source><target><mrk mtype="seg" mid="21">Klasifikace ABC uvádí, že úsilí a peníze lze ušetřit použitím volnějšího řízení zboží s nízkou hodnotou a nízkým objemem než na položky s vysokou hodnotou a vysokým objemem.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>The following illustration shows which reordering policy in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> is best suited for A, B, and C items respectively.</source><seg-source><mrk mtype="seg" mid="22">The following illustration shows which reordering policy in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> is best suited for A, B, and C items respectively.</mrk></seg-source><target><mrk mtype="seg" mid="22">Následující ilustrace nastiňuje, jaký způsob přiobjednání se v <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> nejlépe hodí pro položky A, B, nebo C.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">![</bpt>ABC Classification<ept id="p1">]</ept><bpt id="p2">(media/abc_classification.png "</bpt>abc_classification<ept id="p2">")</ept></source><seg-source><mrk mtype="seg" mid="23"><bpt id="p1">![</bpt>ABC Classification<ept id="p1">]</ept><bpt id="p2">(media/abc_classification.png "</bpt>abc_classification<ept id="p2">")</ept></mrk></seg-source><target><mrk mtype="seg" mid="23"><bpt id="p1">![</bpt>Klasifikace ABC<ept id="p1">]</ept><bpt id="p2">(media/abc_classification.png "</bpt>abc_classification<ept id="p2">")</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>The following table provides best practices for selecting between the four policies.</source><seg-source><mrk mtype="seg" mid="24">The following table provides best practices for selecting between the four policies.</mrk></seg-source><target><mrk mtype="seg" mid="24">Následující tabulka obsahuje osvědčené postupy pro výběr mezi čtyřmi zásadami.</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Setup option</source><seg-source><mrk mtype="seg" mid="25">Setup option</mrk></seg-source><target><mrk mtype="seg" mid="25">Možnosti nastavení</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Best practice</source><seg-source><mrk mtype="seg" mid="26">Best practice</mrk></seg-source><target><mrk mtype="seg" mid="26">Osvědčený postup</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Comment</source><seg-source><mrk mtype="seg" mid="27">Comment</mrk></seg-source><target><mrk mtype="seg" mid="27">Komentář</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Order<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="28">Order</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="28">Pořadí</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Use for A items.</source><seg-source><mrk mtype="seg" mid="29">Use for A items.</mrk></seg-source><target><mrk mtype="seg" mid="29">Použítí pro položky A.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Use for make-to-order items.</source><seg-source><mrk mtype="seg" mid="30">Use for make-to-order items.</mrk></seg-source><target><mrk mtype="seg" mid="30">Použití pro položky vyrobené na zakázku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>In manufacturing, use for top-level items and for expensive components and subassemblies.</source><seg-source><mrk mtype="seg" mid="31">In manufacturing, use for top-level items and for expensive components and subassemblies.</mrk></seg-source><target><mrk mtype="seg" mid="31">Při výrobě, kde je použito zboží nejvyšší úrovně, drahé komponenty a podsestavy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Use for items that are purchased as drop shipments and special orders.</source><seg-source><mrk mtype="seg" mid="32">Use for items that are purchased as drop shipments and special orders.</mrk></seg-source><target><mrk mtype="seg" mid="32">Použití pro zboží, které je zakoupeno jako přímá dodávka zboží a speciální objednávky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Do not use if you do not accept automatic reservation.</source><seg-source><mrk mtype="seg" mid="33">Do not use if you do not accept automatic reservation.</mrk></seg-source><target><mrk mtype="seg" mid="33">Nepoužívejte, pokud neakceptujete automatickou rezervaci.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>A items, such as leather couches in a furniture store, are high-value items with low and irregular order velocity where inventory is unacceptable, or the required attributes vary.</source><seg-source><mrk mtype="seg" mid="34">A items, such as leather couches in a furniture store, are high-value items with low and irregular order velocity where inventory is unacceptable, or the required attributes vary.</mrk></seg-source><target><mrk mtype="seg" mid="34">Zboží skupiny A, jako jsou například kožené pohovky v obchodě s nábytkem, jsou to předměty vysoké hodnoty s nízkou a nepravidelnou rychlostí objednávky, kde není možné je mít na skladě, nebo se požadované atributy liší.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>The best reordering policy is therefore one that plans specifically for each demand.</source><seg-source><mrk mtype="seg" mid="35">The best reordering policy is therefore one that plans specifically for each demand.</mrk></seg-source><target><mrk mtype="seg" mid="35">Nejlepší způsob přiobjednání je tedy ten, který je plánován na každou poptávku zvlášť.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Lot-for-Lot<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="36">Lot-for-Lot</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="36">Dávka-pro-dávku</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Use for B items.</source><seg-source><mrk mtype="seg" mid="37">Use for B items.</mrk></seg-source><target><mrk mtype="seg" mid="37">Použítí pro položky B.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>In manufacturing, use for components that occur in multiple BOMs.</source><seg-source><mrk mtype="seg" mid="38">In manufacturing, use for components that occur in multiple BOMs.</mrk></seg-source><target><mrk mtype="seg" mid="38">Při výrobě, použijte pro komponenty, které se vyskytují ve více kusovnících.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>This ensures that purchase orders are combined for the same vendor, so better prices can be negotiated.</source><seg-source><mrk mtype="seg" mid="39">This ensures that purchase orders are combined for the same vendor, so better prices can be negotiated.</mrk></seg-source><target><mrk mtype="seg" mid="39">Tím je zajištěno, že nákupní objednávky jsou kombinovány u stejného dodavatele, takže lze vyjednat lepší ceny.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Use if you are not sure about which reordering policy to select.</source><seg-source><mrk mtype="seg" mid="40">Use if you are not sure about which reordering policy to select.</mrk></seg-source><target><mrk mtype="seg" mid="40">Použijte, pokud si nejste jisti, kterou politiku pro přeskupování vybrat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>B items, such as dining chairs, have a regular and fairly high order velocity, but also high carrying costs.</source><seg-source><mrk mtype="seg" mid="41">B items, such as dining chairs, have a regular and fairly high order velocity, but also high carrying costs.</mrk></seg-source><target><mrk mtype="seg" mid="41">Položky B, jako jsou jídelní židle, mají pravidelnou a poměrně vysokou rychlost objednávky, ale také vysoké přepravní náklady.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>The best reordering policy for B items is therefore one that is economical by bundling demand in the reorder cycle.</source><seg-source><mrk mtype="seg" mid="42">The best reordering policy for B items is therefore one that is economical by bundling demand in the reorder cycle.</mrk></seg-source><target><mrk mtype="seg" mid="42">Nejlepší politika pro přeskupování zboží B je proto taková, která je ekonomickým spojením poptávky v cyklu změny pořadí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>80 percent of items can use this policy.</source><seg-source><mrk mtype="seg" mid="43">80 percent of items can use this policy.</mrk></seg-source><target><mrk mtype="seg" mid="43">80 procent zboží může použít tuto zásadu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Can be used successfully without planning parameters.</source><seg-source><mrk mtype="seg" mid="44">Can be used successfully without planning parameters.</mrk></seg-source><target><mrk mtype="seg" mid="44">Lze úspěšně použít bez parametrů plánování.</mrk></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Fixed Reorder Qty.<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="45">Fixed Reorder Qty.</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="45">Opraveno Množství.</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Use for C items.</source><seg-source><mrk mtype="seg" mid="46">Use for C items.</mrk></seg-source><target><mrk mtype="seg" mid="46">Použítí pro položky C.</mrk></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Combine with reorder-point parameters.</source><seg-source><mrk mtype="seg" mid="47">Combine with reorder-point parameters.</mrk></seg-source><target><mrk mtype="seg" mid="47">Kombinujte s parametry pro změnu pořadí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>In manufacturing, use for lowest-level components.</source><seg-source><mrk mtype="seg" mid="48">In manufacturing, use for lowest-level components.</mrk></seg-source><target><mrk mtype="seg" mid="48">Při výrobě použijte kritické komponenty.</mrk></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Do not use if the item is often reserved.</source><seg-source><mrk mtype="seg" mid="49">Do not use if the item is often reserved.</mrk></seg-source><target><mrk mtype="seg" mid="49">Nepoužívejte, pokud je zboží často rezervováno.</mrk></target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>C items, such as tea cups, are low-value items with high and regular order velocity.</source><seg-source><mrk mtype="seg" mid="50">C items, such as tea cups, are low-value items with high and regular order velocity.</mrk></seg-source><target><mrk mtype="seg" mid="50">Zboží skupiny C, jako například čajové šálky, jsou položky nízké hodnoty s vysokou a pravidelnou rychlostí objednávky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>The best reordering policy for C items is therefore one that guarantees constant availability by always staying above a reorder point.</source><seg-source><mrk mtype="seg" mid="51">The best reordering policy for C items is therefore one that guarantees constant availability by always staying above a reorder point.</mrk></seg-source><target><mrk mtype="seg" mid="51">Nejlepší politika pro přeskupování zboží C je proto taková, která garantuje nepřetržitou dostupnost a zůstáním nad bodem přiobjednání.</mrk></target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>If the user reserves a quantity for some distant demand, then the planning foundation will be disturbed.</source><seg-source><mrk mtype="seg" mid="52">If the user reserves a quantity for some distant demand, then the planning foundation will be disturbed.</mrk></seg-source><target><mrk mtype="seg" mid="52">Pokud si uživatel rezervuje množství pro určitou vzdálenou poptávku, bude plánovací základna narušena.</mrk></target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Even if the projected inventory level is acceptable with regard to the reorder point, the quantities may not be available because of the reservation.</source><seg-source><mrk mtype="seg" mid="53">Even if the projected inventory level is acceptable with regard to the reorder point, the quantities may not be available because of the reservation.</mrk></seg-source><target><mrk mtype="seg" mid="53">I když je plánovaná úroveň zásob přijatelná s ohledem na pořadí, množství nemusí být kvůli rezervaci k dispozici.</mrk></target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Maximum Qty.<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="54">Maximum Qty.</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="54">Maximální množství</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Use for C items with high carrying costs or storing limitations.</source><seg-source><mrk mtype="seg" mid="55">Use for C items with high carrying costs or storing limitations.</mrk></seg-source><target><mrk mtype="seg" mid="55">Používejte pro položky C s vysokými skladovými náklady, nebo s omezením skladování.</mrk></target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Combine with one or more order modifiers (Minimum/Maximum Order Quantity or Order Multiple).</source><seg-source><mrk mtype="seg" mid="56">Combine with one or more order modifiers (Minimum/Maximum Order Quantity or Order Multiple).</mrk></seg-source><target><mrk mtype="seg" mid="56">Kombinujte s jedním nebo více modifikátory objednávek (minimální / maximální množství objednávky nebo více objednávek najednou).</mrk></target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>C items, such as tea cups, are low-value items with high and regular order velocity.</source><seg-source><mrk mtype="seg" mid="57">C items, such as tea cups, are low-value items with high and regular order velocity.</mrk></seg-source><target><mrk mtype="seg" mid="57">Zboží skupiny C, jako například čajové šálky, jsou položky nízké hodnoty s vysokou a pravidelnou rychlostí objednávky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>The best reordering policy for C items is therefore one that guarantees constant availability by always staying above a reorder point, but below a maximum inventory quantity.</source><seg-source><mrk mtype="seg" mid="58">The best reordering policy for C items is therefore one that guarantees constant availability by always staying above a reorder point, but below a maximum inventory quantity.</mrk></seg-source><target><mrk mtype="seg" mid="58">Nejlepší politika pro přeskupování zboží C je proto taková, která garantuje nepřetržitou dostupnost a zůstáním nad bodem přiobjednání, ale pod maximálním množstvím zásob</mrk></target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>To modify the suggested order, you may want the order quantity to be decreased to a specified maximum order quantity, increased to a specified minimum order quantity, or rounded up to meet a specified order multiple.</source><seg-source><mrk mtype="seg" mid="59">To modify the suggested order, you may want the order quantity to be decreased to a specified maximum order quantity, increased to a specified minimum order quantity, or rounded up to meet a specified order multiple.</mrk></seg-source><target><mrk mtype="seg" mid="59">Chcete-li změnit navrhovanou objednávku, můžete chtít snížit množství objednávky na stanovené maximální množství objednávky, zvýšit na určité minimální množství objednávky nebo zaokrouhlit nahoru, aby bylo možné splnit určený násobek objednávky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept>  If used with a reorder point, then inventory stays between the reorder point and the maximum quantity.</source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="60">Note:</mrk><ept id="p1">**</ept>  <mrk mtype="seg" mid="61">If used with a reorder point, then inventory stays between the reorder point and the maximum quantity.</mrk></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="60">Poznámka:</mrk><ept id="p1">**</ept>  <mrk mtype="seg" mid="61">Pokud je použit s bodem přiobjednání, zůstává inventář mezi bodem přiobjednání a maximálním množstvím.</mrk></target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="62">See Also</mrk></seg-source><target><mrk mtype="seg" mid="62">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setup Best Practices: Supply Planning<ept id="p1">](setup-best-practices-supply-planning.md)</ept><ph id="ph1"> </ph></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="63">Setup Best Practices:</mrk> <mrk mtype="seg" mid="64">Supply Planning</mrk><ept id="p1">](setup-best-practices-supply-planning.md)</ept><ph id="ph1"> </ph></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="63">Nastavení osvědčených postupů:</mrk> <mrk mtype="seg" mid="64">Plánovač dodávek</mrk><ept id="p1">](setup-best-practices-supply-planning.md)</ept><ph id="ph1"> </ph></target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Design Details: Reordering Policies<ept id="p1">](design-details-reordering-policies.md)</ept><ph id="ph1"> </ph></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="65">Design Details:</mrk> <mrk mtype="seg" mid="66">Reordering Policies</mrk><ept id="p1">](design-details-reordering-policies.md)</ept><ph id="ph1"> </ph></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="65">Podrobnosti návrhu</mrk> <mrk mtype="seg" mid="66">Způsoby přiobjednání</mrk><ept id="p1">](design-details-reordering-policies.md)</ept><ph id="ph1"> </ph></target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Design Details: Order<ept id="p1">](design-details-order.md)</ept><ph id="ph1"> </ph></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="67">Design Details:</mrk> <mrk mtype="seg" mid="68">Order</mrk><ept id="p1">](design-details-order.md)</ept><ph id="ph1"> </ph></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="67">Podrobnosti návrhu</mrk> <mrk mtype="seg" mid="68">Pořadí</mrk><ept id="p1">](design-details-order.md)</ept><ph id="ph1"> </ph></target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Design Details: Lot-for-Lot<ept id="p1">](design-details-lot-for-lot.md)</ept><ph id="ph1"> </ph></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="69">Design Details:</mrk> <mrk mtype="seg" mid="70">Lot-for-Lot</mrk><ept id="p1">](design-details-lot-for-lot.md)</ept><ph id="ph1"> </ph></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="69">Podrobnosti návrhu</mrk> <mrk mtype="seg" mid="70">Dávka-pro-dávku</mrk><ept id="p1">](design-details-lot-for-lot.md)</ept><ph id="ph1"> </ph></target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Design Details: Fixed Reorder Qty.<ept id="p1">](design-details-fixed-reorder-qty.md)</ept><ph id="ph1"> </ph></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="71">Design Details:</mrk> <mrk mtype="seg" mid="72">Fixed Reorder Qty.</mrk><ept id="p1">](design-details-fixed-reorder-qty.md)</ept><ph id="ph1"> </ph></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="71">Podrobnosti návrhu</mrk> <mrk mtype="seg" mid="72">Opravené Množství</mrk><ept id="p1">](design-details-fixed-reorder-qty.md)</ept><ph id="ph1"> </ph></target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Design Details: Maximum Qty.<ept id="p1">](design-details-maximum-qty.md)</ept><ph id="ph1"> </ph></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="73">Design Details:</mrk> <mrk mtype="seg" mid="74">Maximum Qty.</mrk><ept id="p1">](design-details-maximum-qty.md)</ept><ph id="ph1"> </ph></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="73">Podrobnosti návrhu</mrk> <mrk mtype="seg" mid="74">Maximální množství</mrk><ept id="p1">](design-details-maximum-qty.md)</ept><ph id="ph1"> </ph></target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Complex Application Areas Using Best Practices<ept id="p1">](set-up-complex-application-areas-using-best-practices.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="75">Set Up Complex Application Areas Using Best Practices</mrk><ept id="p1">](set-up-complex-application-areas-using-best-practices.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="75">Osvědčené postupy při nastavení komplexních oblasti aplikace</mrk><ept id="p1">](set-up-complex-application-areas-using-best-practices.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="76">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="76">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
