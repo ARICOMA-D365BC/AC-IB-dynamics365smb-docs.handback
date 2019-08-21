@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="warehouse-setup-warehouse.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-2e292eb" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e39f84abe2fe1a4e49c615de10dc36599cc9ecc4</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\warehouse-setup-warehouse.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5b8609c33439b703778462e76f9563a3f4be4567</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">26ae1eaacca532efdca09212c3da5cfcf0422c64</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Configure Warehouse Processes | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Configure Warehouse Processes | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Konfigurace skladových procesů | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>A company's distribution strategy is reflected in the configuration of its warehouse processes.</source><seg-source><mrk mtype="seg" mid="2">A company's distribution strategy is reflected in the configuration of its warehouse processes.</mrk></seg-source><target><mrk mtype="seg" mid="2">Distribuční strategie společnosti se odráží v konfiguraci jejích skladových procesů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>This includes defining how different items are handled in different warehouse locations, such as the degree of bin control and the extend of workflow required between warehouse activities.</source><seg-source><mrk mtype="seg" mid="3">This includes defining how different items are handled in different warehouse locations, such as the degree of bin control and the extend of workflow required between warehouse activities.</mrk></seg-source><target><mrk mtype="seg" mid="3">To zahrnuje definování způsobu nakládání s různými položkami na různých místech skladu, jako je například stupeň kontroly přihrádek a rozsah workflow vyžadovaného mezi operacemi skladu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Setting Up Warehouse Management</source><seg-source><mrk mtype="seg" mid="4">Setting Up Warehouse Management</mrk></seg-source><target><mrk mtype="seg" mid="4">Nastavení správy skladu</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>A company's distribution strategy is reflected in the configuration of its warehouse processes.</source><seg-source><mrk mtype="seg" mid="5">A company's distribution strategy is reflected in the configuration of its warehouse processes.</mrk></seg-source><target><mrk mtype="seg" mid="5">Distribuční strategie společnosti se odráží v konfiguraci jejích skladových procesů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This includes defining how different items are handled in different warehouse locations, such as the degree of bin control and the extend of workflow required between warehouse activities.</source><seg-source><mrk mtype="seg" mid="6">This includes defining how different items are handled in different warehouse locations, such as the degree of bin control and the extend of workflow required between warehouse activities.</mrk></seg-source><target><mrk mtype="seg" mid="6">To zahrnuje definování způsobu nakládání s různými položkami na různých místech skladu, jako je například stupeň kontroly přihrádek a rozsah workflow vyžadovaného mezi operacemi skladu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>The following table describes a sequence of tasks, with links to the topics that describe them.</source><seg-source><mrk mtype="seg" mid="7">The following table describes a sequence of tasks, with links to the topics that describe them.</mrk></seg-source><target><mrk mtype="seg" mid="7">Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je popisují.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>To<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="8">To</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="8">Viz</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>See<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="9">See</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="9">také</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Get an overview of the capabilities of basic versus advanced warehouse functionality.</source><seg-source><mrk mtype="seg" mid="10">Get an overview of the capabilities of basic versus advanced warehouse functionality.</mrk></seg-source><target><mrk mtype="seg" mid="10">Získejte přehled o možnostech základních a pokročilých funkcí skladu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Design Details: Warehouse Overview<ept id="p1">](design-details-warehouse-overview.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="11">Design Details:</mrk> <mrk mtype="seg" mid="12">Warehouse Overview</mrk><ept id="p1">](design-details-warehouse-overview.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="11">Podrobnosti návrhu:</mrk> <mrk mtype="seg" mid="12">Přehled skladů</mrk><ept id="p1">](design-details-warehouse-overview.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Set up eight different bin types, such as Picking Bin, to define the flow activities that relate to each bin type.</source><seg-source><mrk mtype="seg" mid="13">Set up eight different bin types, such as Picking Bin, to define the flow activities that relate to each bin type.</mrk></seg-source><target><mrk mtype="seg" mid="13">Nastavte osm různých typů přihrádek, například Vyskladňovací přihrádka, pro definování činností, které se vztahují ke každému typu přihrádky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Bin Types<ept id="p1">](warehouse-how-to-set-up-bin-types.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="14">Set Up Bin Types</mrk><ept id="p1">](warehouse-how-to-set-up-bin-types.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="14">Nastavení typu přihrádky</mrk><ept id="p1">](warehouse-how-to-set-up-bin-types.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Create bins, either manually or automatically, with information, such as name, number series, and category, according to a bin template.</source><seg-source><mrk mtype="seg" mid="15">Create bins, either manually or automatically, with information, such as name, number series, and category, according to a bin template.</mrk></seg-source><target><mrk mtype="seg" mid="15">Vytvářejte přihrádky, buď ručně nebo automaticky s informacemi, jako je název, číselná řada a kategorie podle šablony přihrádky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create Bins<ept id="p1">](warehouse-how-to-create-individual-bins.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="16">Create Bins</mrk><ept id="p1">](warehouse-how-to-create-individual-bins.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="16">Vytváření přihrádky</mrk><ept id="p1">](warehouse-how-to-create-individual-bins.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Define which items you want to store in any given bin and set the rules that decide when to fill the bin with a particular item.</source><seg-source><mrk mtype="seg" mid="17">Define which items you want to store in any given bin and set the rules that decide when to fill the bin with a particular item.</mrk></seg-source><target><mrk mtype="seg" mid="17">Definujte, které zboží chcete uložit do libovolnépřihrádky a nastavte pravidla, která rozhodují, kdy se přihrádka naplní konkrétním zbožím.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create Bin Contents<ept id="p1">](warehouse-how-to-set-up-bin-contents.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="18">Create Bin Contents</mrk><ept id="p1">](warehouse-how-to-set-up-bin-contents.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="18">Vytvoření obsahu přihrádky</mrk><ept id="p1">](warehouse-how-to-set-up-bin-contents.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Set an item up to always be placed in a specific bin.</source><seg-source><mrk mtype="seg" mid="19">Set an item up to always be placed in a specific bin.</mrk></seg-source><target><mrk mtype="seg" mid="19">Nastavte zboží tak, aby byla vždy umístěna do určité přihrádky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Assign Default Bins to Items<ept id="p1">](warehouse-how-to-assign-default-bins-to-items.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="20">Assign Default Bins to Items</mrk><ept id="p1">](warehouse-how-to-assign-default-bins-to-items.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="20">Přiřazení výchozí přihrádky ke zboží</mrk><ept id="p1">](warehouse-how-to-assign-default-bins-to-items.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Create templates to govern where and how items are put away during directed put-away.</source><seg-source><mrk mtype="seg" mid="21">Create templates to govern where and how items are put away during directed put-away.</mrk></seg-source><target><mrk mtype="seg" mid="21">Vytvořte šablony, které určují, kde a jak je zboží umístěno během řízeného zaskladnění.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Put-away Templates<ept id="p1">](warehouse-how-to-set-up-put-away-templates.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="22">Set Up Put-away Templates</mrk><ept id="p1">](warehouse-how-to-set-up-put-away-templates.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="22">Nastavení šablon zaskladnění</mrk><ept id="p1">](warehouse-how-to-set-up-put-away-templates.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Set users up as warehouse employees at specific locations.</source><seg-source><mrk mtype="seg" mid="23">Set users up as warehouse employees at specific locations.</mrk></seg-source><target><mrk mtype="seg" mid="23">Nastavte uživatele jako zaměstnance skladu na konkrétních lokacích.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Warehouse Employees<ept id="p1">](warehouse-how-to-set-up-warehouse-employees.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="24">Set Up Warehouse Employees</mrk><ept id="p1">](warehouse-how-to-set-up-warehouse-employees.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="24">Nastavení zaměstnanců skladu</mrk><ept id="p1">](warehouse-how-to-set-up-warehouse-employees.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Define different types of bins across the warehouse to control where items are placed according to their type, rank, or handling level.</source><seg-source><mrk mtype="seg" mid="25">Define different types of bins across the warehouse to control where items are placed according to their type, rank, or handling level.</mrk></seg-source><target><mrk mtype="seg" mid="25">Definujte různé typy přihrádek ve skladu a určete, kde je zboží umístěno podle jeho typu, pořadí nebo úrovně manipulace.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Locations to Use Bins<ept id="p1">](warehouse-how-to-set-up-locations-to-use-bins.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="26">Set Up Locations to Use Bins</mrk><ept id="p1">](warehouse-how-to-set-up-locations-to-use-bins.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="26">Nastavení lokací pro použití přihrádek</mrk><ept id="p1">](warehouse-how-to-set-up-locations-to-use-bins.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Make additional settings to an existing location to enable it for warehouse activities.</source><seg-source><mrk mtype="seg" mid="27">Make additional settings to an existing location to enable it for warehouse activities.</mrk></seg-source><target><mrk mtype="seg" mid="27">U stávajícího umístění proveďte další nastavení, abyste je mohli povolit pro činnosti skladu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Convert Existing Locations to Warehouse Locations<ept id="p1">](warehouse-how-to-convert-existing-locations-to-warehouse-locations.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="28">Convert Existing Locations to Warehouse Locations</mrk><ept id="p1">](warehouse-how-to-convert-existing-locations-to-warehouse-locations.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="28">Převod existující lokace do lokací skladu</mrk><ept id="p1">](warehouse-how-to-convert-existing-locations-to-warehouse-locations.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Enable picking, moving, and putting away for assembly or production orders in basic warehouse configurations.</source><seg-source><mrk mtype="seg" mid="29">Enable picking, moving, and putting away for assembly or production orders in basic warehouse configurations.</mrk></seg-source><target><mrk mtype="seg" mid="29">Umožňe vyskladnění, přesun a zaskladnění montážních nebo výrobních objednávek v základních konfiguracích skladu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Basic Warehouses with Operations Areas<ept id="p1">](warehouse-how-to-set-up-basic-warehouses-with-operations-areas.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="30">Set Up Basic Warehouses with Operations Areas</mrk><ept id="p1">](warehouse-how-to-set-up-basic-warehouses-with-operations-areas.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="30">Nastavení základních lokací s provozními oblastmi</mrk><ept id="p1">](warehouse-how-to-set-up-basic-warehouses-with-operations-areas.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Set items and locations up for the most advanced scope of warehouse management where all activities must follow a strict workflow.</source><seg-source><mrk mtype="seg" mid="31">Set items and locations up for the most advanced scope of warehouse management where all activities must follow a strict workflow.</mrk></seg-source><target><mrk mtype="seg" mid="31">Nastavuje zboží a umístění pro nejpokročilejší rozsah správy skladu, kde všechny činnosti musí následovat přesný pracovní postup.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Items and Locations for Directed Put-away and Pick<ept id="p1">](warehouse-how-to-set-up-items-for-directed-put-away-and-pick.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="32">Set Up Items and Locations for Directed Put-away and Pick</mrk><ept id="p1">](warehouse-how-to-set-up-items-for-directed-put-away-and-pick.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="32">Nastavení zboží a lokace pro přímé zaskladnění a vyskladnění</mrk><ept id="p1">](warehouse-how-to-set-up-items-for-directed-put-away-and-pick.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Define when and how items in warehouse locations are counted for maintenance or financial reporting purposes.</source><seg-source><mrk mtype="seg" mid="33">Define when and how items in warehouse locations are counted for maintenance or financial reporting purposes.</mrk></seg-source><target><mrk mtype="seg" mid="33">Definuje kdy a jak je zboží ve skladu počítáno pro účely údržby nebo finančního výkaznictví.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Count, Adjust, or Reclassify Inventory<ept id="p1">](inventory-how-count-adjust-reclassify.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="34">Count, Adjust, or Reclassify Inventory</mrk><ept id="p1">](inventory-how-count-adjust-reclassify.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="34">Výpočet, adjustace a reklasifikace skladu</mrk><ept id="p1">](inventory-how-count-adjust-reclassify.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Enable warehouse workers to break a larger unit of measure into smaller units of measure to fulfill the needs of source documents.</source><seg-source><mrk mtype="seg" mid="35">Enable warehouse workers to break a larger unit of measure into smaller units of measure to fulfill the needs of source documents.</mrk></seg-source><target><mrk mtype="seg" mid="35">Umožněte pracovníkům skladu rozdělit větší měrnou jednotku na menší měrné jednotky, aby splnili potřeby zdrojových dokumentů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Enable Automatic Breaking Bulk with Directed Put-away and Pick<ept id="p1">](warehouse-enable-automatic-breaking-bulk-with-directed-put-away-and-pick.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="36">Enable Automatic Breaking Bulk with Directed Put-away and Pick</mrk><ept id="p1">](warehouse-enable-automatic-breaking-bulk-with-directed-put-away-and-pick.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="36">Povolení automatického rozedělení zboží s řízeným zaskladněním a vyskladněním</mrk><ept id="p1">](warehouse-enable-automatic-breaking-bulk-with-directed-put-away-and-pick.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Set up the warehouse to automatically suggest items to be picked that expire first.</source><seg-source><mrk mtype="seg" mid="37">Set up the warehouse to automatically suggest items to be picked that expire first.</mrk></seg-source><target><mrk mtype="seg" mid="37">Nastavte sklad tak, aby automaticky navrhoval zboží, které má být vybráno a jejichž trvanlivost vyprší jako první.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Enable Picking by FEFO<ept id="p1">](warehouse-picking-by-fefo.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="38">Enable Picking by FEFO</mrk><ept id="p1">](warehouse-picking-by-fefo.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="38">Povolení vyskladnění pomocí FEFO</mrk><ept id="p1">](warehouse-picking-by-fefo.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Integrate bar code readers to your warehouse management solution.</source><seg-source><mrk mtype="seg" mid="39">Integrate bar code readers to your warehouse management solution.</mrk></seg-source><target><mrk mtype="seg" mid="39">Integrace čtečky čárových kódů do řešení správy skladu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Use Automated Data Capture Systems (ADCS)<ept id="p1">](warehouse-use-automated-data-capture-systems-adcs.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="40">Use Automated Data Capture Systems (ADCS)</mrk><ept id="p1">](warehouse-use-automated-data-capture-systems-adcs.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="40">Používejte automatizované systémy pro sběr dat (ADCS)</mrk><ept id="p1">](warehouse-use-automated-data-capture-systems-adcs.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Get tips on how to reorganize locations, bins, or zones to obtain more efficient warehouse activities.</source><seg-source><mrk mtype="seg" mid="41">Get tips on how to reorganize locations, bins, or zones to obtain more efficient warehouse activities.</mrk></seg-source><target><mrk mtype="seg" mid="41">Získejte tipy, jak reorganizovat lokace, přihrádky nebo zóny, abyste získali efektivnější skladové činnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Restructure Warehouses<ept id="p1">](warehouse-how-to-restructure-warehouses.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="42">Restructure Warehouses</mrk><ept id="p1">](warehouse-how-to-restructure-warehouses.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="42">Restrukturalizace skladů</mrk><ept id="p1">](warehouse-how-to-restructure-warehouses.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="43">See Also</mrk></seg-source><target><mrk mtype="seg" mid="43">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Warehouse Management<ept id="p1">](warehouse-manage-warehouse.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="44">Warehouse Management</mrk><ept id="p1">](warehouse-manage-warehouse.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="44">Správa skladů</mrk><ept id="p1">](warehouse-manage-warehouse.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Inventory<ept id="p1">](inventory-manage-inventory.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="45">Inventory</mrk><ept id="p1">](inventory-manage-inventory.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="45">Zásoby</mrk><ept id="p1">](inventory-manage-inventory.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Assembly Management<ept id="p1">](assembly-assemble-items.md)</ept><ph id="ph1">  </ph></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="46">Assembly Management</mrk><ept id="p1">](assembly-assemble-items.md)</ept><ph id="ph1">  </ph></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="46">Správa montáže</mrk><ept id="p1">](assembly-assemble-items.md)</ept><ph id="ph1">  </ph></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Design Details: Warehouse Management<ept id="p1">](design-details-warehouse-management.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="47">Design Details:</mrk> <mrk mtype="seg" mid="48">Warehouse Management</mrk><ept id="p1">](design-details-warehouse-management.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="47">Podrobnosti návrhu:</mrk> <mrk mtype="seg" mid="48">Správa skladů</mrk><ept id="p1">](design-details-warehouse-management.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="49">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="49">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

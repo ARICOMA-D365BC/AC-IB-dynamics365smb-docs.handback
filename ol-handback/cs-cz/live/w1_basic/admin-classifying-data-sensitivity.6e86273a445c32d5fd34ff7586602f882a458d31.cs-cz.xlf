@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="admin-classifying-data-sensitivity.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-5ae97a8" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2f6a33f89a3ecde7da80993caebc907dfc3ed3b5</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\admin-classifying-data-sensitivity.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0be8a45e6b845a3fa14320e3f7d4a36d7f681580</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e6ed049a1eb4569e6374ce8551ee700667a3fda6</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Classifying Data Sensitivity</source><seg-source><mrk mtype="seg" mid="1">Classifying Data Sensitivity</mrk></seg-source><target><mrk mtype="seg" mid="1">Klasifikace citlivosti dat</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Classifying Data Sensitivity</source><seg-source><mrk mtype="seg" mid="2">Classifying Data Sensitivity</mrk></seg-source><target><mrk mtype="seg" mid="2">Klasifikace citlivosti dat</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>To classify the fields that hold sensitive or personal data, a Microsoft partner can set the <ph id="ph1">```DataClassification```</ph> property on fields.</source><seg-source><mrk mtype="seg" mid="3">To classify the fields that hold sensitive or personal data, a Microsoft partner can set the <ph id="ph1">```DataClassification```</ph> property on fields.</mrk></seg-source><target><mrk mtype="seg" mid="3">Pro klasifikaci polí, která obsahují citlivá nebo osobní data, může partner společnosti Microsoft nastavit <ph id="ph1">```DataClassification```</ph> vlastnost na polích.</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This requires access to the database tables, either through the development environment or by running a Windows PowerShell script.</source><seg-source><mrk mtype="seg" mid="4">This requires access to the database tables, either through the development environment or by running a Windows PowerShell script.</mrk></seg-source><target><mrk mtype="seg" mid="4">To vyžaduje přístup k databázovým tabulkám, buď prostřednictvím vývojového prostředí nebo spuštěním skriptu Windows PowerShell.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Classifying Data<ept id="p1">](https://docs.microsoft.com/en-us/dynamics-nav/classifying-data)</ept>.</source><seg-source><mrk mtype="seg" mid="5">For more information, see <bpt id="p1">[</bpt>Classifying Data<ept id="p1">](https://docs.microsoft.com/en-us/dynamics-nav/classifying-data)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="5">Pro více informací navštivte <bpt id="p1">[</bpt>Klasifikace dat<ept id="p1">](https://docs.microsoft.com/en-us/dynamics-nav/classifying-data)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>As a customer, you can add a second level of classification by specifying sensitivity levels for the data you store in standard and custom fields.</source><seg-source><mrk mtype="seg" mid="6">As a customer, you can add a second level of classification by specifying sensitivity levels for the data you store in standard and custom fields.</mrk></seg-source><target><mrk mtype="seg" mid="6">Jako zákazník můžete přidat druhou úroveň klasifikace zadáním úrovní citlivosti pro data, která ukládáte ve standardních a vlastních polích.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Classifying data sensitivity helps ensure that you know where you keep personal data in your system, and makes it easier to respond to requests from data subjects.</source><seg-source><mrk mtype="seg" mid="7">Classifying data sensitivity helps ensure that you know where you keep personal data in your system, and makes it easier to respond to requests from data subjects.</mrk></seg-source><target><mrk mtype="seg" mid="7">Klasifikace citlivosti údajů pomáhá zajistit, abyste věděli, kde ve svém systému uchováváte osobní údaje, a usnadňuje to reagovat na požadavky na údaje subjektů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>For example, if a contact or customer asks you to export their personal data.</source><seg-source><mrk mtype="seg" mid="8">For example, if a contact or customer asks you to export their personal data.</mrk></seg-source><target><mrk mtype="seg" mid="8">Například, pokud vás kontakt nebo zákazník požádá o export svých osobních údajů.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Responding to Requests About Personal Data<ept id="p1">](admin-responding-to-requests-about-personal-data.md)</ept>.</source><seg-source><mrk mtype="seg" mid="9">For more information, see <bpt id="p1">[</bpt>Responding to Requests About Personal Data<ept id="p1">](admin-responding-to-requests-about-personal-data.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="9">Pro více informací navštivte <bpt id="p1">[</bpt>Odpovědi na žádosti o osobní údaje<ept id="p1">](admin-responding-to-requests-about-personal-data.md)</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Microsoft is providing this Data Sensitivity Classification feature as a matter of convenience only.</source><seg-source><mrk mtype="seg" mid="10">Microsoft is providing this Data Sensitivity Classification feature as a matter of convenience only.</mrk></seg-source><target><mrk mtype="seg" mid="10">Společnost Microsoft poskytuje funkci Klasifikace citlivosti dat pouze pro větší pohodlí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>It's your responsibility to classify the data appropriately and comply with any laws and regulations that are applicable to you.</source><seg-source><mrk mtype="seg" mid="11">It's your responsibility to classify the data appropriately and comply with any laws and regulations that are applicable to you.</mrk></seg-source><target><mrk mtype="seg" mid="11">Je vaší odpovědností za patřičnou klasifikaci dat a dodržování všech zákonů a předpisů, které se na vás vztahují.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Microsoft disclaims all responsibility towards any claims related to your classification of the data.</source><seg-source><mrk mtype="seg" mid="12">Microsoft disclaims all responsibility towards any claims related to your classification of the data.</mrk></seg-source><target><mrk mtype="seg" mid="12">Společnost Microsoft se zříká veškeré odpovědnosti za jakékoli nároky související s vaší klasifikací dat</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>The following table describes data sensitivity levels you can assign.</source><seg-source><mrk mtype="seg" mid="13">The following table describes data sensitivity levels you can assign.</mrk></seg-source><target><mrk mtype="seg" mid="13">Následující tabulka popisuje úrovně citlivosti dat, které můžete přiřadit.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Sensitivity</source><seg-source><mrk mtype="seg" mid="14">Sensitivity</mrk></seg-source><target><mrk mtype="seg" mid="14">Citlivost</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Description</source><seg-source><mrk mtype="seg" mid="15">Description</mrk></seg-source><target><mrk mtype="seg" mid="15">Popis</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Sensitive</source><seg-source><mrk mtype="seg" mid="16">Sensitive</mrk></seg-source><target><mrk mtype="seg" mid="16">Citlivá</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Information about a data subject's racial or ethnic origin, political opinions, religious beliefs, involvement with trade unions, physical or mental health, sexuality, or details about criminal offenses.</source><seg-source><mrk mtype="seg" mid="17">Information about a data subject's racial or ethnic origin, political opinions, religious beliefs, involvement with trade unions, physical or mental health, sexuality, or details about criminal offenses.</mrk></seg-source><target><mrk mtype="seg" mid="17">Informace o rasovém nebo etnickém původu subjektu údajů, politických názorech, náboženských vyznáních, zapojení do odborů, fyzickém nebo duševním zdraví, sexualitě nebo podrobnosti o trestných činech.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Personal</source><seg-source><mrk mtype="seg" mid="18">Personal</mrk></seg-source><target><mrk mtype="seg" mid="18">Osobní</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Information that can be used to identify a data subject, either directly or in combination with other data or information.</source><seg-source><mrk mtype="seg" mid="19">Information that can be used to identify a data subject, either directly or in combination with other data or information.</mrk></seg-source><target><mrk mtype="seg" mid="19">Informace, které lze použít k identifikaci subjektu, buď přímo, nebo v kombinaci s jinými údaji nebo informacemi.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Confidential</source><seg-source><mrk mtype="seg" mid="20">Confidential</mrk></seg-source><target><mrk mtype="seg" mid="20">Důvěrná pro společnost</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Business data that you use for accounting or other business purposes, and do not want to expose to other entities.</source><seg-source><mrk mtype="seg" mid="21">Business data that you use for accounting or other business purposes, and do not want to expose to other entities.</mrk></seg-source><target><mrk mtype="seg" mid="21">Obchodní data, která používáte pro účetní nebo jiné obchodní účely a nechcete je vystavovat jiným subjektům.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>For example, this might include ledger entries.</source><seg-source><mrk mtype="seg" mid="22">For example, this might include ledger entries.</mrk></seg-source><target><mrk mtype="seg" mid="22">Může to například zahrnovat položky účetní knihy.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Normal</source><seg-source><mrk mtype="seg" mid="23">Normal</mrk></seg-source><target><mrk mtype="seg" mid="23">Normální</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>General data that does not belong to any other categories.</source><seg-source><mrk mtype="seg" mid="24">General data that does not belong to any other categories.</mrk></seg-source><target><mrk mtype="seg" mid="24">Obecná data, která nepatří do žádné jiné kategorie.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Typically, Confidential and Normal do not apply to any data that is related to a person.</source><seg-source><mrk mtype="seg" mid="25">Typically, Confidential and Normal do not apply to any data that is related to a person.</mrk></seg-source><target><mrk mtype="seg" mid="25">Důvěrné a normální se obvykle nevztahují na žádná data, která souvisí s osobou.</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>For personal data, consider using the Sensitive or Personal classifications.</source><seg-source><mrk mtype="seg" mid="26">For personal data, consider using the Sensitive or Personal classifications.</mrk></seg-source><target><mrk mtype="seg" mid="26">Pokud jde o osobní údaje, zvažte použití Citlivých nebo Osobních klasifikací.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>For example, this can also make it easier to respond when a data subject requests an action on their personal data because you can filter on the Sensitive or Personal classifications.</source><seg-source><mrk mtype="seg" mid="27">For example, this can also make it easier to respond when a data subject requests an action on their personal data because you can filter on the Sensitive or Personal classifications.</mrk></seg-source><target><mrk mtype="seg" mid="27">Může to například usnadnit odpověď, když subjekt, požaduje akci týkající se jejo osobních údajů, protože můžete filtrovat podle klasifikace Citlivé nebo Osobní.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>How Do I Classify My Data?</source><seg-source><mrk mtype="seg" mid="28">How Do I Classify My Data?</mrk></seg-source><target><mrk mtype="seg" mid="28">Jak mohu klasifikovat svá data?</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Classifying the sensitivity of a large number of fields one-by-one would take a long time.</source><seg-source><mrk mtype="seg" mid="29">Classifying the sensitivity of a large number of fields one-by-one would take a long time.</mrk></seg-source><target><mrk mtype="seg" mid="29">Klasifikace citlivosti velkého počtu polí po jednom by vyžadovala dlouhou dobu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>To help speed up the process, we provide tools that you can use to bulk classify the sensitivity of fields, and then fine-tune classifications for specific fields.</source><seg-source><mrk mtype="seg" mid="30">To help speed up the process, we provide tools that you can use to bulk classify the sensitivity of fields, and then fine-tune classifications for specific fields.</mrk></seg-source><target><mrk mtype="seg" mid="30">Abychom urychlili proces klasifikace, poskytujeme nástroje, které můžete použít k hromadné klasifikaci citlivosti polí, a poté můžete doladit detaily klasifikace pro konkrétní pole.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>You can find tools on the Data Classification worksheet, which is available on the Administration of users, user groups, and permissions Role Center.</source><seg-source><mrk mtype="seg" mid="31">You can find tools on the Data Classification worksheet, which is available on the Administration of users, user groups, and permissions Role Center.</mrk></seg-source><target><mrk mtype="seg" mid="31">Nástroje najít nástroj Klasifikace dat, který je k dispozici v centru rolí Administrace uživatelů, uživatelských skupin a oprávnění .</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>You must be a system administrator to use the worksheet.</source><seg-source><mrk mtype="seg" mid="32">You must be a system administrator to use the worksheet.</mrk></seg-source><target><mrk mtype="seg" mid="32">Abyste mohli seznam používat, musíte být správce systému.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>When you open the Data Classification worksheet for the first time, it will be empty.</source><seg-source><mrk mtype="seg" mid="33">When you open the Data Classification worksheet for the first time, it will be empty.</mrk></seg-source><target><mrk mtype="seg" mid="33">Při prvním otevření seznamu Klasifikace dat bude prázdný.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>You must run the Data Classification guide to generate the list of fields.</source><seg-source><mrk mtype="seg" mid="34">You must run the Data Classification guide to generate the list of fields.</mrk></seg-source><target><mrk mtype="seg" mid="34">Chcete-li vygenerovat seznam polí, musíte spustit Průvodce klasifikací dat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>To start the guide, choose the <bpt id="p1">**</bpt>Set Up Data Classifications<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="35">To start the guide, choose the <bpt id="p1">**</bpt>Set Up Data Classifications<ept id="p1">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="35">Chcete-li spustit průvodce, vyberte akci <bpt id="p1">**</bpt>Nastavit klasifikaci dat<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>For example, the Data Classification worksheet lets you do things like:</source><seg-source><mrk mtype="seg" mid="36">For example, the Data Classification worksheet lets you do things like:</mrk></seg-source><target><mrk mtype="seg" mid="36">Například pracovního seznamu Klasifikace dat umožňuje provádět následující činnosti:</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Use the Data Classification guide to export your fields to an Excel worksheet where you can bulk classify them.</source><seg-source><mrk mtype="seg" mid="37">Use the Data Classification guide to export your fields to an Excel worksheet where you can bulk classify them.</mrk></seg-source><target><mrk mtype="seg" mid="37">Pomocí Průvodce klasifikací dat exportujte svá pole do listu aplikace Excel, kde je můžete hromadně klasifikovat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Using the Excel worksheet is particularly useful if you are collaborating with a Microsoft partner.</source><seg-source><mrk mtype="seg" mid="38">Using the Excel worksheet is particularly useful if you are collaborating with a Microsoft partner.</mrk></seg-source><target><mrk mtype="seg" mid="38">Použití listu Excel je zvláště užitečné, pokud spolupracujete s partnerem společnosti Microsoft.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>After you update the worksheet, you can use the guide to import and apply the classifications.</source><seg-source><mrk mtype="seg" mid="39">After you update the worksheet, you can use the guide to import and apply the classifications.</mrk></seg-source><target><mrk mtype="seg" mid="39">Po aktualizaci listu můžete pomocí průvodce importovat a použít klasifikace.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>You can also use the guide to classify fields manually.</source><seg-source><mrk mtype="seg" mid="40">You can also use the guide to classify fields manually.</mrk></seg-source><target><mrk mtype="seg" mid="40">Průvodce můžete také použít k ruční klasifikaci polí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Choose a field and then filter the list to find similar fields that are likely to belong to the same classification as the field you based the search on.</source><seg-source><mrk mtype="seg" mid="41">Choose a field and then filter the list to find similar fields that are likely to belong to the same classification as the field you based the search on.</mrk></seg-source><target><mrk mtype="seg" mid="41">Vyberte pole a poté filtrujte seznam a vyhledejte podobná pole, která pravděpodobně patří do stejné klasifikace jako pole, na kterém jste založili vyhledávání.</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Investigate a field by viewing its contents.</source><seg-source><mrk mtype="seg" mid="42">Investigate a field by viewing its contents.</mrk></seg-source><target><mrk mtype="seg" mid="42">Prohlédněte si pole zobrazením jeho obsahu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>We have defined sample sensitivity classifications for the tables and fields in the Cronus demonstration company.</source><seg-source><mrk mtype="seg" mid="43">We have defined sample sensitivity classifications for the tables and fields in the Cronus demonstration company.</mrk></seg-source><target><mrk mtype="seg" mid="43">Definovali jsme klasifikace vzorků citlivosti pro tabulky a pole v demonstrační společnosti Cronus.</mrk></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>The data and classifications are provided for demonstration purposes only.</source><seg-source><mrk mtype="seg" mid="44">The data and classifications are provided for demonstration purposes only.</mrk></seg-source><target><mrk mtype="seg" mid="44">Údaje a klasifikace jsou poskytovány pouze pro demonstrační účely.</mrk></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Please do not use them in a live production environment.</source><seg-source><mrk mtype="seg" mid="45">Please do not use them in a live production environment.</mrk></seg-source><target><mrk mtype="seg" mid="45">Nepoužívejte je v reálném produkčním prostředí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>However, you can use the classifications as inspiration when you classify your own tables and fields.</source><seg-source><mrk mtype="seg" mid="46">However, you can use the classifications as inspiration when you classify your own tables and fields.</mrk></seg-source><target><mrk mtype="seg" mid="46">Klasifikaci však můžete použít jako inspiraci při klasifikaci vlastních tabulek a polí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="47">See Also</mrk></seg-source><target><mrk mtype="seg" mid="47">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Classifying Data<ept id="p1">](https://docs.microsoft.com/en-us/dynamics-nav/classifying-data)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="48">Classifying Data</mrk><ept id="p1">](https://docs.microsoft.com/en-us/dynamics-nav/classifying-data)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="48">Klasifikace dat</mrk><ept id="p1">](https://docs.microsoft.com/en-us/dynamics-nav/classifying-data)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="warehouse-how-to-set-up-bin-types.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-2e292eb" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e31565aa9934054cc9e2461fee23e1e0cd21a330</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\warehouse-how-to-set-up-bin-types.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5f5de7e46d3889af904bb992515db7737e92921f</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">22876c89a78334610b60b3ae25d49a76ab7f5957</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>How to Set Up Bin Types | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">How to Set Up Bin Types | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Jak nastavit typ přihrádek | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>You can direct the flow of items through bins that you have defined for particular warehouse activities.</source><seg-source><mrk mtype="seg" mid="2">You can direct the flow of items through bins that you have defined for particular warehouse activities.</mrk></seg-source><target><mrk mtype="seg" mid="2">Tok zboží můžete řídit prostřednictvím přihrádek, které jste definovali pro konkrétní skladové činnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>You give each bin its basic flow activities, and thereby define the way the way a bin is used, by assigning it a bin type.</source><seg-source><mrk mtype="seg" mid="3">You give each bin its basic flow activities, and thereby define the way the way a bin is used, by assigning it a bin type.</mrk></seg-source><target><mrk mtype="seg" mid="3">Každé přihrádce přiřadíte její základní tokové aktivity, tím nadefinujete způsob a druh jakým způsobem se přihrádka používá.</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Set Up Bin Types</source><seg-source><mrk mtype="seg" mid="4">Set Up Bin Types</mrk></seg-source><target><mrk mtype="seg" mid="4">Nastavení typu přihrádky</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>You can direct the flow of items through bins that you have defined for particular warehouse activities.</source><seg-source><mrk mtype="seg" mid="5">You can direct the flow of items through bins that you have defined for particular warehouse activities.</mrk></seg-source><target><mrk mtype="seg" mid="5">Tok zboží můžete řídit prostřednictvím přihrádek, které jste definovali pro konkrétní skladové činnosti.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>You give each bin its basic flow activities, and thereby define the way the way a bin is used, by assigning it a bin type.</source><seg-source><mrk mtype="seg" mid="6">You give each bin its basic flow activities, and thereby define the way the way a bin is used, by assigning it a bin type.</mrk></seg-source><target><mrk mtype="seg" mid="6">Každé přihrádce přiřadíte její základní tokové aktivity, tím nadefinujete způsob a druh jakým způsobem se přihrádka používá.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>There are eight bin types.</source><seg-source><mrk mtype="seg" mid="7">There are eight bin types.</mrk></seg-source><target><mrk mtype="seg" mid="7">Existuje osm typů přihrádek.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>You can operate your warehouse with all of the eight possible bin types, or you can choose to operate with just the RECEIVE, PUTPICK, SHIP and QC bin types.</source><seg-source><mrk mtype="seg" mid="8">You can operate your warehouse with all of the eight possible bin types, or you can choose to operate with just the RECEIVE, PUTPICK, SHIP and QC bin types.</mrk></seg-source><target><mrk mtype="seg" mid="8">Můžete provozovat svůj sklad se všemi osmi možnými typy přihrádek, nebo si můžete vybrat, zda chcete pracovat pouze s typy zásobníků PŘÍJEM, VYSKLZASKL, DODAVKA a KVAL.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>These four bin types enable suggestions to be made that support the flow of items and allow you to record inventory discrepancies.</source><seg-source><mrk mtype="seg" mid="9">These four bin types enable suggestions to be made that support the flow of items and allow you to record inventory discrepancies.</mrk></seg-source><target><mrk mtype="seg" mid="9">Tyto čtyři typy PŘIHRÁDEK umožňují provádět návrhy, které podporují tok zboží a umožňují zaznamenávat nesrovnalosti v zásobách.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>To set up the bin types you want to use</source><seg-source><mrk mtype="seg" mid="10">To set up the bin types you want to use</mrk></seg-source><target><mrk mtype="seg" mid="10">Nastavení typu přihrádky, které chcete použít</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Bin Types<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="11">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Bin Types<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="11">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Ikona Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Typy přihrádek<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Bin Types<ept id="p1">**</ept> window, create a 10-character code for a bin type.</source><seg-source><mrk mtype="seg" mid="12">In the <bpt id="p1">**</bpt>Bin Types<ept id="p1">**</ept> window, create a 10-character code for a bin type.</mrk></seg-source><target><mrk mtype="seg" mid="12">V okně <bpt id="p1">**</bpt>Typy přihrádek<ept id="p1">**</ept> vytvořte 10 místný kód pro typ přihrádky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Select the activities that can be performed with each bin type.</source><seg-source><mrk mtype="seg" mid="13">Select the activities that can be performed with each bin type.</mrk></seg-source><target><mrk mtype="seg" mid="13">Vyberte činnosti, které lze provádět s každým typem přihrádky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Bin types are only applicable if you are using directed put-away and pick for your location.</source><seg-source><mrk mtype="seg" mid="14">Bin types are only applicable if you are using directed put-away and pick for your location.</mrk></seg-source><target><mrk mtype="seg" mid="14">Typy přihrádek jsou použitelné pouze v případě, že používáte ve vašem skladu řízené vyskladnění a zaskladnění.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>The bin type determines only how a bin is used when processing the flow of items through the warehouse.</source><seg-source><mrk mtype="seg" mid="15">The bin type determines only how a bin is used when processing the flow of items through the warehouse.</mrk></seg-source><target><mrk mtype="seg" mid="15">Typ přihrádky určuje pouze způsob, jakým se přihrádka používá při zpracování toku zboží ve skladu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>You can always override the suggestions for any warehouse document, and you can move items in or out of any bin by performing a warehouse movement.</source><seg-source><mrk mtype="seg" mid="16">You can always override the suggestions for any warehouse document, and you can move items in or out of any bin by performing a warehouse movement.</mrk></seg-source><target><mrk mtype="seg" mid="16">Návrhy pro jakýkoli doklad skladu můžete vždy přepsat a zboží můžete přesouvat do nebo z libovolné přihrádky provedením pohybu skladu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>The bin types that you can create are listed below.</source><seg-source><mrk mtype="seg" mid="17">The bin types that you can create are listed below.</mrk></seg-source><target><mrk mtype="seg" mid="17">Níže jsou uvedeny typy přihrádek, které můžete vytvořit.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Bin Type</source><seg-source><mrk mtype="seg" mid="18">Bin Type</mrk></seg-source><target><mrk mtype="seg" mid="18">Typ přihrádky</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Description</source><seg-source><mrk mtype="seg" mid="19">Description</mrk></seg-source><target><mrk mtype="seg" mid="19">Popis</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>RECEIVE</source><seg-source><mrk mtype="seg" mid="20">RECEIVE</mrk></seg-source><target><mrk mtype="seg" mid="20">PŘÍJEM</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Items registered as posted receipts but not yet put away.</source><seg-source><mrk mtype="seg" mid="21">Items registered as posted receipts but not yet put away.</mrk></seg-source><target><mrk mtype="seg" mid="21">Zboží evidované jako zaúčtované příjmy, ale dosud nezaskladněné.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>SHIP</source><seg-source><mrk mtype="seg" mid="22">SHIP</mrk></seg-source><target><mrk mtype="seg" mid="22">DODAVKA</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Items picked for warehouse shipment lines but not yet posted as shipped.</source><seg-source><mrk mtype="seg" mid="23">Items picked for warehouse shipment lines but not yet posted as shipped.</mrk></seg-source><target><mrk mtype="seg" mid="23">Zboží vybrané pro skladové řádky, ale dosud nebyly zaúčtovány jako dodávané.</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>PUT AWAY</source><seg-source><mrk mtype="seg" mid="24">PUT AWAY</mrk></seg-source><target><mrk mtype="seg" mid="24">VYSKL</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Typically, items to be stored in large units of measure but that you do not want to access for picking purposes.</source><seg-source><mrk mtype="seg" mid="25">Typically, items to be stored in large units of measure but that you do not want to access for picking purposes.</mrk></seg-source><target><mrk mtype="seg" mid="25">Typicky zboží, které má být uloženo ve velkých měrných jednotkách, ale které nechcete zpřístupňovat pro vyskladnění.</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Because these bins are not used for picking, either for production orders or shipments, your use of a Put Away type bin might be limited, but this bin type could be useful if you have purchased a large quantity of items.</source><seg-source><mrk mtype="seg" mid="26">Because these bins are not used for picking, either for production orders or shipments, your use of a Put Away type bin might be limited, but this bin type could be useful if you have purchased a large quantity of items.</mrk></seg-source><target><mrk mtype="seg" mid="26">Protože se tyto přihrádky nepoužívají k vyskladnění, a to ani u výrobních objednávek a ani u zásilek, může být používání přihrádky typu Zaskladnění omezené, ale tento typ přihrádky může být užitečný, pokud jste zakoupili velké množství zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Bins of this type should always have a low bin-ranking, so that when received items are put away, other higher-ranking PUTPICK bins fixed to the item are put away first.</source><seg-source><mrk mtype="seg" mid="27">Bins of this type should always have a low bin-ranking, so that when received items are put away, other higher-ranking PUTPICK bins fixed to the item are put away first.</mrk></seg-source><target><mrk mtype="seg" mid="27">Přihrádky tohoto typu by měly mít vždy nižší pořadí přihrádek, takže když jsou přijaté položky zaskladněny, jsou nejprve vyřazeny další přihrádky ZASKLVYSKL s vyšším pořadím.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>If you are using this type of bin, you must regularly perform bin replenishment so that the items stored in these bins are also available in PUTPICK or PICK type bins.</source><seg-source><mrk mtype="seg" mid="28">If you are using this type of bin, you must regularly perform bin replenishment so that the items stored in these bins are also available in PUTPICK or PICK type bins.</mrk></seg-source><target><mrk mtype="seg" mid="28">Pokud používáte tento typ přihrádky, musíte pravidelně provádět doplňování přihrádky tak, aby položky uložené v těchto přihrádkách byly také k dispozici v přihrádkách typu ZASKLVYSKL nebo VYSKL.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>PICK</source><seg-source><mrk mtype="seg" mid="29">PICK</mrk></seg-source><target><mrk mtype="seg" mid="29">ZASKL</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Items to be used only for picking, for example, for items with an approaching expiration date that you have moved into this type of bin.</source><seg-source><mrk mtype="seg" mid="30">Items to be used only for picking, for example, for items with an approaching expiration date that you have moved into this type of bin.</mrk></seg-source><target><mrk mtype="seg" mid="30">Zboží, které mají být použity pouze pro vyskladnění, například pro zboží s blížícím se datem vypršení platnosti, které jste přesunuli do tohoto typu přihrádky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>You would place a high bin ranking on these bins so they are suggested for picking first.</source><seg-source><mrk mtype="seg" mid="31">You would place a high bin ranking on these bins so they are suggested for picking first.</mrk></seg-source><target><mrk mtype="seg" mid="31">Do těchto přihrádek uloženy s vyšší pořadím, takže jsou navrženy tak, aby se vyskladnili jako první.</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>PUTPICK</source><seg-source><mrk mtype="seg" mid="32">PUTPICK</mrk></seg-source><target><mrk mtype="seg" mid="32">VYSKLZASKL</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Items in bins that are suggested for both the put-away and pick functions.</source><seg-source><mrk mtype="seg" mid="33">Items in bins that are suggested for both the put-away and pick functions.</mrk></seg-source><target><mrk mtype="seg" mid="33">Zboží v přihrádkách, které jsou navrženy pro funkce vyskladněni a zaskladnění.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Bins of this type probably have different bin rankings.</source><seg-source><mrk mtype="seg" mid="34">Bins of this type probably have different bin rankings.</mrk></seg-source><target><mrk mtype="seg" mid="34">Přihrádky tohoto typu pravděpodobně mají rozdílné pořadí přihrádek.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>You can set up your bulk storage bins as this type of bin with low bin rankings compared to your ordinary pick bins or forward picking area bins.</source><seg-source><mrk mtype="seg" mid="35">You can set up your bulk storage bins as this type of bin with low bin rankings compared to your ordinary pick bins or forward picking area bins.</mrk></seg-source><target><mrk mtype="seg" mid="35">Můžete nastavit své přihrádky jako objemné s nížším pořadím přihrádek ve srovnání s běžnými přihrádkami nebo přihrádkami pro vyskladnění.</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>QC</source><seg-source><mrk mtype="seg" mid="36">QC</mrk></seg-source><target><mrk mtype="seg" mid="36">KVAL</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>This bin is used for inventory adjustments if you specify this bin on the location card in the <bpt id="p1">**</bpt>Adjustment Bin Code<ept id="p1">**</ept> field.</source><seg-source><mrk mtype="seg" mid="37">This bin is used for inventory adjustments if you specify this bin on the location card in the <bpt id="p1">**</bpt>Adjustment Bin Code<ept id="p1">**</ept> field.</mrk></seg-source><target><mrk mtype="seg" mid="37">Tato přihrádka se používá pro skladovou ajdustaci. Pokud nastavíte tuto přihrádku na kartě lokace v poli <bpt id="p1">**</bpt>Kód adjustační přihrádky<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>You can also set up bins of this type for defective items and items being inspected.</source><seg-source><mrk mtype="seg" mid="38">You can also set up bins of this type for defective items and items being inspected.</mrk></seg-source><target><mrk mtype="seg" mid="38">Můžete také nastavit přihrádky tohoto typu pro vadné předměty a kontrolované položky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>You can move items to this type of bin if you want to make them inaccessible to the usual item flow.</source><seg-source><mrk mtype="seg" mid="39">You can move items to this type of bin if you want to make them inaccessible to the usual item flow.</mrk></seg-source><target><mrk mtype="seg" mid="39">Položky můžete přesunout do tohoto typu přihrádky, pokud chcete, aby byly nepřístupné pro obvyklý tok položek.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>NOTE:<ept id="p1">**</ept> Unlike all other bin types, the <bpt id="p2">**</bpt>QC<ept id="p2">**</ept> bin type has none of the item handling check boxes selected by default.</source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="40">NOTE:</mrk><ept id="p1">**</ept> <mrk mtype="seg" mid="41">Unlike all other bin types, the <bpt id="p2">**</bpt>QC<ept id="p2">**</ept> bin type has none of the item handling check boxes selected by default.</mrk></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="40">POZNÁMKA:</mrk><ept id="p1">**</ept> <mrk mtype="seg" mid="41">Na rozdíl od všech ostatních typů přihrádek nemá typ přihrádky <bpt id="p2">**</bpt>KVAL<ept id="p2">**</ept> ve výchozím nastavení zaškrtávací políčka pro manipulaci se zbožím.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>This indicates that any content you place in a QC bin is excluded from item flows.</source><seg-source><mrk mtype="seg" mid="42">This indicates that any content you place in a QC bin is excluded from item flows.</mrk></seg-source><target><mrk mtype="seg" mid="42">To znamená, že veškerý obsah, který umístíte do přihrádky KVAL, je z toků zboží vyloučen.</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="43">See Also</mrk></seg-source><target><mrk mtype="seg" mid="43">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Warehouse Management<ept id="p1">](warehouse-manage-warehouse.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="44">Warehouse Management</mrk><ept id="p1">](warehouse-manage-warehouse.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="44">Správa skladů</mrk><ept id="p1">](warehouse-manage-warehouse.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Inventory<ept id="p1">](inventory-manage-inventory.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="45">Inventory</mrk><ept id="p1">](inventory-manage-inventory.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="45">Zásoby</mrk><ept id="p1">](inventory-manage-inventory.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Warehouse Management<ept id="p1">](warehouse-setup-warehouse.md)</ept><ph id="ph1">   </ph></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="46">Setting Up Warehouse Management</mrk><ept id="p1">](warehouse-setup-warehouse.md)</ept><ph id="ph1">   </ph></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="46">Nastavení správy skladu</mrk><ept id="p1">](warehouse-setup-warehouse.md)</ept><ph id="ph1">   </ph></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Assembly Management<ept id="p1">](assembly-assemble-items.md)</ept><ph id="ph1">  </ph></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="47">Assembly Management</mrk><ept id="p1">](assembly-assemble-items.md)</ept><ph id="ph1">  </ph></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="47">Správa montáže</mrk><ept id="p1">](assembly-assemble-items.md)</ept><ph id="ph1">  </ph></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Design Details: Warehouse Management<ept id="p1">](design-details-warehouse-management.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="48">Design Details:</mrk> <mrk mtype="seg" mid="49">Warehouse Management</mrk><ept id="p1">](design-details-warehouse-management.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="48">Podrobnosti návrhu:</mrk> <mrk mtype="seg" mid="49">Správa skladů</mrk><ept id="p1">](design-details-warehouse-management.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="50">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="50">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
