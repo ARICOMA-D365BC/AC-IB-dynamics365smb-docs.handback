@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="service-how-setup-service-offerings.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-b1d70e6" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">93afb98600552e58640d5aa12fa91efd15afebfb</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\service-how-setup-service-offerings.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4f9f8e1eee24bc982b03107d42fedf847a82f251</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">47985ba37aef641c2b631fc309bf59b26fdbfb4f</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Set Up Service Offerings | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Set Up Service Offerings | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Nastavení Nabídky servisu | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Learn how to set up the services that you offer to your customers.</source><seg-source><mrk mtype="seg" mid="2">Learn how to set up the services that you offer to your customers.</mrk></seg-source><target><mrk mtype="seg" mid="2">Naučte se, jak nastavit servis, který nabízíte svým zákazníkům.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Set Up Service Offerings</source><seg-source><mrk mtype="seg" mid="3">Set Up Service Offerings</mrk></seg-source><target><mrk mtype="seg" mid="3">Nastavení Nabídky servisu</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>When you set up service management, you must decide what services to offer customers and the schedule for those services.</source><seg-source><mrk mtype="seg" mid="4">When you set up service management, you must decide what services to offer customers and the schedule for those services.</mrk></seg-source><target><mrk mtype="seg" mid="4">Při nastavování správy servisu se musíte rozhodnout, jaký servis nabídnout zákazníkům a plán tohoto servisu</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>A service is a type of work performed by one or more resources and provided to a customer.</source><seg-source><mrk mtype="seg" mid="5">A service is a type of work performed by one or more resources and provided to a customer.</mrk></seg-source><target><mrk mtype="seg" mid="5">Servis je druh práce prováděné jedním nebo více zdroji a poskytované zákazníkovi.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>For example, a service could be a type of computer repair.</source><seg-source><mrk mtype="seg" mid="6">For example, a service could be a type of computer repair.</mrk></seg-source><target><mrk mtype="seg" mid="6">Například servisem může být typ opravy počítače.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>A service item is the equipment or item that needs servicing, for example, the computer that needs repair, installed at a specific customer.</source><seg-source><mrk mtype="seg" mid="7">A service item is the equipment or item that needs servicing, for example, the computer that needs repair, installed at a specific customer.</mrk></seg-source><target><mrk mtype="seg" mid="7">Předmět servisu je zařízení nebo zboží, které potřebuje servis, například počítač, který potřebuje opravu, nainstalován u konkrétního zákazníka.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>You can set up services as part of a group of related repair or maineenance items.</source><seg-source><mrk mtype="seg" mid="8">You can set up services as part of a group of related repair or maineenance items.</mrk></seg-source><target><mrk mtype="seg" mid="8">Servis můžete nastavit jako součást skupiny souvisejícího zboží opravy nebo údržby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>The following table describes a sequence of tasks, with links to the topics that describe them.</source><seg-source><mrk mtype="seg" mid="9">The following table describes a sequence of tasks, with links to the topics that describe them.</mrk></seg-source><target><mrk mtype="seg" mid="9">Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je popisují.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>To<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="10">To</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="10">K</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>See<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="11">See</mrk><ept id="p1">**</ept></seg-source><target><bpt id="p1">**</bpt><mrk mtype="seg" mid="11">Viz</mrk><ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Enter information about the service items that your service organization is tracking.</source><seg-source><mrk mtype="seg" mid="12">Enter information about the service items that your service organization is tracking.</mrk></seg-source><target><mrk mtype="seg" mid="12">Zadejte informace o předmětech servisu, které vaše servisní organizace sleduje.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create Service Items<ept id="p1">](service-how-to-create-service-items.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="13">Create Service Items</mrk><ept id="p1">](service-how-to-create-service-items.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="13">Vytvořte předměty servisu</mrk><ept id="p1">](service-how-to-create-service-items.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Establish a workflow for service when the service items consists of several components.</source><seg-source><mrk mtype="seg" mid="14">Establish a workflow for service when the service items consists of several components.</mrk></seg-source><target><mrk mtype="seg" mid="14">Vytvořte pracovní postup pro servis, když předměty servisu sestávají z několika součástí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>The component list is always connected to a service item, but these components can also be based on bill of materials (BOMs).</source><seg-source><mrk mtype="seg" mid="15">The component list is always connected to a service item, but these components can also be based on bill of materials (BOMs).</mrk></seg-source><target><mrk mtype="seg" mid="15">Seznam komponent je vždy spojen s předmětem servisu, ale tyto komponenty mohou být také založeny na kusovníku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Service Items and Service Item Components<ept id="p1">](service-how-setup-service-items.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="16">Set Up Service Items and Service Item Components</mrk><ept id="p1">](service-how-setup-service-items.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="16">Nastavení Předmětů servisu a Komponent předmětu servisu</mrk><ept id="p1">](service-how-setup-service-items.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="17">See Also</mrk></seg-source><target><mrk mtype="seg" mid="17">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Service Management<ept id="p1">](service-setup-service.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="18">Setting Up Service Management</mrk><ept id="p1">](service-setup-service.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="18">Nastavení Správce servisu</mrk><ept id="p1">](service-setup-service.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
