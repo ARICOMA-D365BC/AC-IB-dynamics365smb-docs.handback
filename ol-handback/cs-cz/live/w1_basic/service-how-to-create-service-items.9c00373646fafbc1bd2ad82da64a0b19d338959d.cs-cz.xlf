@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="service-how-to-create-service-items.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-435fba6" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c30c0efc931b5970ff426141fa0dc3129d827306</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\service-how-to-create-service-items.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">40a48c14697d6edbd983617ff6c29e353bc0e447</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ed067c0607fc16c9353eb3ddae2ccb57c4da111d</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>How to Create Service Items | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">How to Create Service Items | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Vytváření Předmětů servisu | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>When you receive an unregistered item for servicing, you can register it as a service item.</source><seg-source><mrk mtype="seg" mid="2">When you receive an unregistered item for servicing, you can register it as a service item.</mrk></seg-source><target><mrk mtype="seg" mid="2">Když obdržíte neregistrované zboží pro servis, můžete jej zaregistrovat jako předmět servisu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Create Service Items</source><seg-source><mrk mtype="seg" mid="3">Create Service Items</mrk></seg-source><target><mrk mtype="seg" mid="3">Vytváření předmětů servisu</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>In <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>, the term "service item" refers to equipment or items that require service.</source><seg-source><mrk mtype="seg" mid="4">In <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>, the term "service item" refers to equipment or items that require service.</mrk></seg-source><target><mrk mtype="seg" mid="4">V <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> se termín „předmět servisu“ vztahuje na vybavení nebo zboží, které vyžaduje servis.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>When you create a service order, you specify the items that need service.</source><seg-source><mrk mtype="seg" mid="5">When you create a service order, you specify the items that need service.</mrk></seg-source><target><mrk mtype="seg" mid="5">Při vytváření servisní zakázky určíte zboží, které vyžaduje servis.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>In the order, you can link a service item to an item in inventory or a service item group.</source><seg-source><mrk mtype="seg" mid="6">In the order, you can link a service item to an item in inventory or a service item group.</mrk></seg-source><target><mrk mtype="seg" mid="6">V zakázce můžete propojit předmět servisu se zbožím v zásobách nebo se skupinou předmětů servisu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>When you receive an item that needs service, you can register it as a service item.</source><seg-source><mrk mtype="seg" mid="7">When you receive an item that needs service, you can register it as a service item.</mrk></seg-source><target><mrk mtype="seg" mid="7">Když obdržíte zboží, které vyžaduje servis, můžete jej zaregistrovat jako předmět servisu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>There are several ways to do so.</source><seg-source><mrk mtype="seg" mid="8">There are several ways to do so.</mrk></seg-source><target><mrk mtype="seg" mid="8">Toho lze dosáhnout několika způsoby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>For example, you can create a service item on the <bpt id="p1">**</bpt>Service Items<ept id="p1">**</ept> page, or as part of another process, such as when working with a service order.</source><seg-source><mrk mtype="seg" mid="9">For example, you can create a service item on the <bpt id="p1">**</bpt>Service Items<ept id="p1">**</ept> page, or as part of another process, such as when working with a service order.</mrk></seg-source><target><mrk mtype="seg" mid="9">Například můžete vytvořit předmět servisu na stránce <bpt id="p1">**</bpt>Předměty servisu<ept id="p1">**</ept>, nebo v rámci jiného procesu, například při práci se servisní zakázkou.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>To create a service item</source><seg-source><mrk mtype="seg" mid="10">To create a service item</mrk></seg-source><target><mrk mtype="seg" mid="10">Vytvoření předmětu servisu</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Service Items<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="11">Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Service Items<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="11">Vyberte ikonu <bpt id="p1">![</bpt>Žárovky, která otevře funkci Řekněte mi<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Řekněte mi, co chcete dělat<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Předměty servisu<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Fill in the fields as necessary.</source><seg-source><mrk mtype="seg" mid="12">Fill in the fields as necessary.</mrk></seg-source><target><mrk mtype="seg" mid="12">Vyplňte pole podle potřeby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>To create service items within a service order</source><seg-source><mrk mtype="seg" mid="13">To create service items within a service order</mrk></seg-source><target><mrk mtype="seg" mid="13">Vytvoření předmětů servisu uvnitř servisní zakázky</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>When you receive items for service that you want to register as service items, you can create them as service items in the <bpt id="p1">**</bpt>Service Order<ept id="p1">**</ept> or <bpt id="p2">**</bpt>Service Quote<ept id="p2">**</ept> pages.</source><seg-source><mrk mtype="seg" mid="14">When you receive items for service that you want to register as service items, you can create them as service items in the <bpt id="p1">**</bpt>Service Order<ept id="p1">**</ept> or <bpt id="p2">**</bpt>Service Quote<ept id="p2">**</ept> pages.</mrk></seg-source><target><mrk mtype="seg" mid="14">Když obdržíte zboží, které chcete zaregistrovat jako předměty servisu, na servis, můžete jej vytvořit jako předměty servisu na stránkách <bpt id="p1">**</bpt>Servisní zakázky<ept id="p1">**</ept> nebo <bpt id="p2">**</bpt>Nabídka servisu<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Service Orders<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="15">Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Service Orders<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="15">Vyberte ikonu <bpt id="p1">![</bpt>Žárovky, která otevře funkci Řekněte mi<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Řekněte mi, co chcete dělat<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Servisní zakázky<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Fill in the fields as necessary.</source><seg-source><mrk mtype="seg" mid="16">Fill in the fields as necessary.</mrk></seg-source><target><mrk mtype="seg" mid="16">Vyplňte pole podle potřeby.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>Create Service Item<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="17">Choose the <bpt id="p1">**</bpt>Create Service Item<ept id="p1">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="17">Zvolte akci <bpt id="p1">**</bpt>Vytvořit předmět servisu<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>A number is assigned to the service item and a service item card is created.</source><seg-source><mrk mtype="seg" mid="18">A number is assigned to the service item and a service item card is created.</mrk></seg-source><target><mrk mtype="seg" mid="18">K předmětu servisu je přiřazeno číslo a je vytvořena karta předmětu servisu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Service Item No.<ept id="p1">**</ept> field is filled in with the number of the new service item.</source><seg-source><mrk mtype="seg" mid="19">The <bpt id="p1">**</bpt>Service Item No.<ept id="p1">**</ept> field is filled in with the number of the new service item.</mrk></seg-source><target><mrk mtype="seg" mid="19">Pole <bpt id="p1">**</bpt>Číslo předmětu servisu<ept id="p1">**</ept> je vyplněno číslem nového předmětu servisu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>To create a service item when shipping items</source><seg-source><mrk mtype="seg" mid="20">To create a service item when shipping items</mrk></seg-source><target><mrk mtype="seg" mid="20">Vytvoření předmětu servisu při dopravě zboží</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>When you ship items by posting either service orders or service invoices, the shipped items are automatically registered as service items if the following condition is met.</source><seg-source><mrk mtype="seg" mid="21">When you ship items by posting either service orders or service invoices, the shipped items are automatically registered as service items if the following condition is met.</mrk></seg-source><target><mrk mtype="seg" mid="21">Při odeslání zboží zaúčtováním buď servisních zakázek nebo servisních faktur, je expedované zboží automaticky zaregistrováno jako předměty servisu, pokud je splněna následující podmínka.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>The items must belong to a service item group with the <bpt id="p1">**</bpt>Create Service Item<ept id="p1">**</ept> check box selected.</source><seg-source><mrk mtype="seg" mid="22">The items must belong to a service item group with the <bpt id="p1">**</bpt>Create Service Item<ept id="p1">**</ept> check box selected.</mrk></seg-source><target><mrk mtype="seg" mid="22">Položky musí patřit do skupiny předmětů servisu se zaškrtnutým políčkem <bpt id="p1">**</bpt>Vytvořit položku servisu<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>If the items have serial numbers registered in the Item Tracking Lines page, this information is copied automatically to the <bpt id="p1">**</bpt>Serial No.<ept id="p1">**</ept> field on the service item card when creating service items.</source><seg-source><mrk mtype="seg" mid="23">If the items have serial numbers registered in the Item Tracking Lines page, this information is copied automatically to the <bpt id="p1">**</bpt>Serial No.<ept id="p1">**</ept> field on the service item card when creating service items.</mrk></seg-source><target><mrk mtype="seg" mid="23">Pokud má zboží registrovaná sériová čísla na stránce řádků sledování zboží, jsou tyto informace při vytváření předmětů servisu zkopírovány automaticky do pole <bpt id="p1">**</bpt>Sériové číslo<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>The following procedure shows how to create service items when you ship items on service orders.</source><seg-source><mrk mtype="seg" mid="24">The following procedure shows how to create service items when you ship items on service orders.</mrk></seg-source><target><mrk mtype="seg" mid="24">Následující postup ukazuje, jak vytvořit předměty servisu při odeslání zboží v rámci servisní zakázky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Service Orders<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="25">Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Service Orders<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="25">Vyberte ikonu <bpt id="p1">![</bpt>Žárovky, která otevře funkci Řekněte mi<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Řekněte mi, co chcete dělat<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Servisní zakázky<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Open the relevant service order.</source><seg-source><mrk mtype="seg" mid="26">Open the relevant service order.</mrk></seg-source><target><mrk mtype="seg" mid="26">Otevřete příslušnou servisní zakázku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>Post<ept id="p1">**</ept> or <bpt id="p2">**</bpt>Post and Print<ept id="p2">**</ept> action.</source><seg-source><mrk mtype="seg" mid="27">Choose the <bpt id="p1">**</bpt>Post<ept id="p1">**</ept> or <bpt id="p2">**</bpt>Post and Print<ept id="p2">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="27">Zvolte akci <bpt id="p1">**</bpt>Účtovat<ept id="p1">**</ept> nebo <bpt id="p2">**</bpt>Účtovat a Vytisknout<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>Ship<ept id="p1">**</ept> or <bpt id="p2">**</bpt>Ship and Invoice<ept id="p2">**</ept> action.</source><seg-source><mrk mtype="seg" mid="28">Choose the <bpt id="p1">**</bpt>Ship<ept id="p1">**</ept> or <bpt id="p2">**</bpt>Ship and Invoice<ept id="p2">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="28">Zvolte akci <bpt id="p1">**</bpt>Dodávka<ept id="p1">**</ept> nebo <bpt id="p2">**</bpt>Dodávka a Faktura<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>The service items are automatically created for the items on the order, provided these belong to a service item group that you have set up to create service items.</source><seg-source><mrk mtype="seg" mid="29">The service items are automatically created for the items on the order, provided these belong to a service item group that you have set up to create service items.</mrk></seg-source><target><mrk mtype="seg" mid="29">Předměty servisu jsou automaticky vytvořeny pro zboží v zakázce za předpokladu, že patří do skupiny předmětů servisu, kterou jste nastavili pro vytváření předmětů servisu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>If you registered specific serial numbers on the <bpt id="p1">**</bpt>Item Tracking Lines<ept id="p1">**</ept> page, they will be assigned to these service items.</source><seg-source><mrk mtype="seg" mid="30">If you registered specific serial numbers on the <bpt id="p1">**</bpt>Item Tracking Lines<ept id="p1">**</ept> page, they will be assigned to these service items.</mrk></seg-source><target><mrk mtype="seg" mid="30">Pokud jste zaregistrovali konkrétní sériová čísla na stránce <bpt id="p1">**</bpt>Řádky sledování zboží<ept id="p1">**</ept>, budou přiřazena k těmto předmětům servisu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>If an item is a BOM and you have exploded the BOM, the exploded BOM items are processed in the same way as regular items.</source><seg-source><mrk mtype="seg" mid="31">If an item is a BOM and you have exploded the BOM, the exploded BOM items are processed in the same way as regular items.</mrk></seg-source><target><mrk mtype="seg" mid="31">Pokud je položka kusovník a rozbalili jste ho, jsou rozbalené položky kusovníku zpracovány stejným způsobem jako běžné zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Service items are created based on the service items group condition and, optionally, the serial numbers condition.</source><seg-source><mrk mtype="seg" mid="32">Service items are created based on the service items group condition and, optionally, the serial numbers condition.</mrk></seg-source><target><mrk mtype="seg" mid="32">Předměty servisu jsou vytvářeny na základě podmínky skupiny předmětů servisu, případně podmínky sériových čísel.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Additionally, if a service item is created for an exploded BOM item that is made up of other BOM components, these items are created as service item components for the exploded BOM service item.</source><seg-source><mrk mtype="seg" mid="33">Additionally, if a service item is created for an exploded BOM item that is made up of other BOM components, these items are created as service item components for the exploded BOM service item.</mrk></seg-source><target><mrk mtype="seg" mid="33">Navíc, pokud je předmět servisu vytvořen pro rozbalenou položku kusovníku, která je tvořena jinými komponenty kusovníku, jsou tyto položky vytvořeny jako komponenty předmětu servisu pro rozbalený předmět servisu kusovníku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>If an item is a BOM and you have not exploded the BOM, a service item is created for it based on the service item group condition and, optionally, the serial numbers condition.</source><seg-source><mrk mtype="seg" mid="34">If an item is a BOM and you have not exploded the BOM, a service item is created for it based on the service item group condition and, optionally, the serial numbers condition.</mrk></seg-source><target><mrk mtype="seg" mid="34">Pokud je zboží kusovník a nemáte rozbalený kusovník, vytvoří se pro něj předmět servisu na základě podmínky skupiny předmětů servisu, případně podmínky sériových čísel.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>To insert a starting fee for a service item</source><seg-source><mrk mtype="seg" mid="35">To insert a starting fee for a service item</mrk></seg-source><target><mrk mtype="seg" mid="35">Chcete-li vložit počáteční poplatek za předmět servisu</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Service Tasks<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="36">Choose the <bpt id="p1">![</bpt>Lightbulb that opens the Tell Me feature<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Tell me what you want to do<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Service Tasks<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="36">Vyberte ikonu <bpt id="p1">![</bpt>Žárovky, která otevře funkci Řekněte mi<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Řekněte mi, co chcete dělat<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Servisní úlohy<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>Item Worksheet<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="37">Choose the <bpt id="p1">**</bpt>Item Worksheet<ept id="p1">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="37">Zvolte akci <bpt id="p1">**</bpt>Výkaz předmětu servisu<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Choose the service line, and then choose <bpt id="p1">**</bpt>Actions<ept id="p1">**</ept>, choose <bpt id="p2">**</bpt>Functions<ept id="p2">**</ept>, and then choose <bpt id="p3">**</bpt>Insert Starting Fee<ept id="p3">**</ept> action.</source><seg-source><mrk mtype="seg" mid="38">Choose the service line, and then choose <bpt id="p1">**</bpt>Actions<ept id="p1">**</ept>, choose <bpt id="p2">**</bpt>Functions<ept id="p2">**</ept>, and then choose <bpt id="p3">**</bpt>Insert Starting Fee<ept id="p3">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="38">Zvolte řádek servisu, poté zvolte <bpt id="p1">**</bpt>Akce<ept id="p1">**</ept>, vyberte <bpt id="p2">**</bpt>Funkce<ept id="p2">**</ept>, a následně akci <bpt id="p3">**</bpt>Vložit poč.poplatek<ept id="p3">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>A service line of type <bpt id="p1">**</bpt>Cost<ept id="p1">**</ept> is inserted with the starting fee.</source><seg-source><mrk mtype="seg" mid="39">A service line of type <bpt id="p1">**</bpt>Cost<ept id="p1">**</ept> is inserted with the starting fee.</mrk></seg-source><target><mrk mtype="seg" mid="39">S počátečním poplatkem je vložen servisní řádek typu <bpt id="p1">**</bpt>Náklady<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>The starting fee applies to the selected service item.</source><seg-source><mrk mtype="seg" mid="40">The starting fee applies to the selected service item.</mrk></seg-source><target><mrk mtype="seg" mid="40">Počáteční poplatek se vztahuje na vybraný předmět servisu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="41">See Also</mrk></seg-source><target><mrk mtype="seg" mid="41">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Service Items and Service Item Components<ept id="p1">](service-how-setup-service-items.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="42">Set Up Service Items and Service Item Components</mrk><ept id="p1">](service-how-setup-service-items.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="42">Nastavení Předmětů servisu a Komponent předmětů servisu</mrk><ept id="p1">](service-how-setup-service-items.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Service Management<ept id="p1">](service-setup-service.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="43">Setting Up Service Management</mrk><ept id="p1">](service-setup-service.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="43">Nastavení Správy servisu</mrk><ept id="p1">](service-setup-service.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Service Management<ept id="p1">](service-service.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="44">Service Management</mrk><ept id="p1">](service-service.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="44">Správa servisu</mrk><ept id="p1">](service-service.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
