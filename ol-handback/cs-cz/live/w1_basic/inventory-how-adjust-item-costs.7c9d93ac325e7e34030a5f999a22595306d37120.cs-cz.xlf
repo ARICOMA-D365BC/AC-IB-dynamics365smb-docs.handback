@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="inventory-how-adjust-item-costs.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-15c36f0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">cfe00248c8af05f72d2e4ffef360a4f25dceeafb</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\inventory-how-adjust-item-costs.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c7866686302daa7707fb53bfc8d14b84b603e8fa</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">920172e10397804b003f7c5f14b83edb733bc67d</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Manually Adjust the Costs of Items| Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Manually Adjust the Costs of Items| Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Ruční úprava nákladů na zboží | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>You can adjust the inventory valuation of an item using the FIFO or Average costing methods, for example, when item costs change for reasons other than transactions.</source><seg-source><mrk mtype="seg" mid="2">You can adjust the inventory valuation of an item using the FIFO or Average costing methods, for example, when item costs change for reasons other than transactions.</mrk></seg-source><target><mrk mtype="seg" mid="2">Ocenění zboží skladu můžete upravit pomocí metod FIFO nebo metod průměrné kalkulace, například když se náklady zboží změní z jiných důvodů, než jsou transakce.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Adjust Item Costs</source><seg-source><mrk mtype="seg" mid="3">Adjust Item Costs</mrk></seg-source><target><mrk mtype="seg" mid="3">Upravit cenu položky</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>The cost of an item (inventory value) that you purchase and later sell may change during its lifetime, for example because a freight cost is added to its purchase cost after you have sold the item.</source><seg-source><mrk mtype="seg" mid="4">The cost of an item (inventory value) that you purchase and later sell may change during its lifetime, for example because a freight cost is added to its purchase cost after you have sold the item.</mrk></seg-source><target><mrk mtype="seg" mid="4">Náklady na zboží (hodnotu zásob), kterou si koupíte a později prodáváte, se mohou během své životnosti měnit, například proto, že náklady na dopravu jsou po prodeji položky přidány k nákupním nákladům.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Cost adjustment is especially relevant in situations where you sell goods before you invoice the purchase of those goods.</source><seg-source><mrk mtype="seg" mid="5">Cost adjustment is especially relevant in situations where you sell goods before you invoice the purchase of those goods.</mrk></seg-source><target><mrk mtype="seg" mid="5">Úprava nákladů je zvláště důležitá v situacích, kdy zboží prodáváte před fakturací nákupu tohoto zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>To always know the correct inventory value, item costs must therefore regularly be adjusted.</source><seg-source><mrk mtype="seg" mid="6">To always know the correct inventory value, item costs must therefore regularly be adjusted.</mrk></seg-source><target><mrk mtype="seg" mid="6">Aby byla vždy známá správná hodnota inventáře, je třeba pravidelně upravovat náklady na položky.</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>This ensures that sales and profit statistics are up to date and that financial KPIs are correct.</source><seg-source><mrk mtype="seg" mid="7">This ensures that sales and profit statistics are up to date and that financial KPIs are correct.</mrk></seg-source><target><mrk mtype="seg" mid="7">To zajišťuje, že statistiky prodeje a zisku jsou aktuální a že finanční ukazatele KPI jsou správné.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Design Details: Cost Adjustment<ept id="p1">](design-details-cost-adjustment.md)</ept>.</source><seg-source><mrk mtype="seg" mid="8">For more information, see <bpt id="p1">[</bpt>Design Details:</mrk> <mrk mtype="seg" mid="9">Cost Adjustment<ept id="p1">](design-details-cost-adjustment.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="8">Pro další informace navštivte <bpt id="p1">[</bpt>Podrobnosti o designu:</mrk> <mrk mtype="seg" mid="9">Úpravy nákladů<ept id="p1">](design-details-cost-adjustment.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>As a rule, the value in the <bpt id="p1">**</bpt>Unit Cost<ept id="p1">**</ept> field on the item card is based on the standard cost for items with costing method standard.</source><seg-source><mrk mtype="seg" mid="10">As a rule, the value in the <bpt id="p1">**</bpt>Unit Cost<ept id="p1">**</ept> field on the item card is based on the standard cost for items with costing method standard.</mrk></seg-source><target><mrk mtype="seg" mid="10">Hodnota v poli <bpt id="p1">**</bpt>Pořizovací cena<ept id="p1">**</ept> na kartě zboží je zpravidla založena na pevné pořizovací ceně pro zboží se standardem metody ocenění.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>For items with all other costing methods, it is based on the calculation of the inventory available (invoiced costs and expected costs) divided by the quantity on hand.</source><seg-source><mrk mtype="seg" mid="11">For items with all other costing methods, it is based on the calculation of the inventory available (invoiced costs and expected costs) divided by the quantity on hand.</mrk></seg-source><target><mrk mtype="seg" mid="11">Kalkulace zboží se všemi ostatními metodami je založena na výpočtu dostupných zásob (fakturované náklady a očekávané náklady) děleno množstvím na skladě.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>For more information, see the "Understanding Unit Cost Calculation" section.</source><seg-source><mrk mtype="seg" mid="12">For more information, see the "Understanding Unit Cost Calculation" section.</mrk></seg-source><target><mrk mtype="seg" mid="12">Pro více informací navštivte sekci „Pochopení výpočtu pořizovací ceny“.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>In <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, item costs are automatically adjusted every time that an inventory transaction occurs, such as when posting a purchase invoice for an item.</source><seg-source><mrk mtype="seg" mid="13">In <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, item costs are automatically adjusted every time that an inventory transaction occurs, such as when posting a purchase invoice for an item.</mrk></seg-source><target><mrk mtype="seg" mid="13">V <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, náklady na zboží se automaticky upravují pokaždé, když dojde k transakci se zásobami, například při účtování nákupní faktury za zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>You can also use a function to manually adjust the costs of one or more items.</source><seg-source><mrk mtype="seg" mid="14">You can also use a function to manually adjust the costs of one or more items.</mrk></seg-source><target><mrk mtype="seg" mid="14">Pomocí funkce můžete také manuálně upravit náklady na jedno nebo více zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>This is useful, for example, when you know that item costs have changed for other reasons than item transactions.</source><seg-source><mrk mtype="seg" mid="15">This is useful, for example, when you know that item costs have changed for other reasons than item transactions.</mrk></seg-source><target><mrk mtype="seg" mid="15">To je užitečné například tehdy, když víte, že náklady na zboží se změnilo z jiných důvodů než transakce se zbožím.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Item costs are adjusted by the FIFO or the Average costing method, depending on your selection in the <bpt id="p1">**</bpt>Set Up My Company<ept id="p1">**</ept> assisted setup or in the <bpt id="p2">**</bpt>Costing Method<ept id="p2">**</ept> field on the item card.</source><seg-source><mrk mtype="seg" mid="16">Item costs are adjusted by the FIFO or the Average costing method, depending on your selection in the <bpt id="p1">**</bpt>Set Up My Company<ept id="p1">**</ept> assisted setup or in the <bpt id="p2">**</bpt>Costing Method<ept id="p2">**</ept> field on the item card.</mrk></seg-source><target><mrk mtype="seg" mid="16">Náklady na zboží se upravují metodou FIFO nebo metodou průměrné kalkulace, v závislosti na vašem výběru v nastavení asistenčního <bpt id="p1">**</bpt>Nastavení mé společnosti<ept id="p1">**</ept> nebo v poli <bpt id="p2">**</bpt>Metoda ocenění<ept id="p2">**</ept> na kartě zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Register New Items<ept id="p1">](inventory-how-register-new-items.md)</ept>.</source><seg-source><mrk mtype="seg" mid="17">For more information, see <bpt id="p1">[</bpt>Register New Items<ept id="p1">](inventory-how-register-new-items.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="17">Pro více informací navštivte <bpt id="p1">[</bpt>Registrace nového zboží<ept id="p1">](inventory-how-register-new-items.md)</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>If you use the FIFO costing method, then an item’s unit cost is the actual value of any receipt of the item.</source><seg-source><mrk mtype="seg" mid="18">If you use the FIFO costing method, then an item’s unit cost is the actual value of any receipt of the item.</mrk></seg-source><target><mrk mtype="seg" mid="18">Pokud používáte metodu ocenění FIFO, pak pořizovací cena zboží je skutečná hodnota jakéhokoli přijetí zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Inventory is valuated with the assumption that the first items placed in inventory are sold first.</source><seg-source><mrk mtype="seg" mid="19">Inventory is valuated with the assumption that the first items placed in inventory are sold first.</mrk></seg-source><target><mrk mtype="seg" mid="19">Zásoby se oceňují za předpokladu, že první zboží umístěné v zásobách jsou prodány jako první.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>If you use the Average costing method, then an item’s unit cost is calculated as the average unit cost at each point in time after a purchase.</source><seg-source><mrk mtype="seg" mid="20">If you use the Average costing method, then an item’s unit cost is calculated as the average unit cost at each point in time after a purchase.</mrk></seg-source><target><mrk mtype="seg" mid="20">Pokud použijete metodu průměrného ocenění, pořizovací cena zboží se vypočte jako průměrná pořizovací cena v každém okamžiku po nákupu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Inventory is valuated with the assumption that all inventories are sold simultaneously.</source><seg-source><mrk mtype="seg" mid="21">Inventory is valuated with the assumption that all inventories are sold simultaneously.</mrk></seg-source><target><mrk mtype="seg" mid="21">Zásoby se oceňují s předpokladem, že všechny zásoby se prodávají současně.</mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>For items that use this costing method, you can choose the <bpt id="p1">**</bpt>Unit Cost<ept id="p1">**</ept> field on the item card to view the history of transactions that the average cost is calculated from</source><seg-source><mrk mtype="seg" mid="22">For items that use this costing method, you can choose the <bpt id="p1">**</bpt>Unit Cost<ept id="p1">**</ept> field on the item card to view the history of transactions that the average cost is calculated from</mrk></seg-source><target><mrk mtype="seg" mid="22">U zboží, které používá tuto metodu ocenění, můžete vybrat pole <bpt id="p1">**</bpt>Pořizovací cena<ept id="p1">**</ept> na kartě zboží a zobrazit historii transakcí, z nichž se vypočítá průměrná cena.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>The cost adjustment function processes only value entries that have not yet been adjusted.</source><seg-source><mrk mtype="seg" mid="23">The cost adjustment function processes only value entries that have not yet been adjusted.</mrk></seg-source><target><mrk mtype="seg" mid="23">Funkce úpravy nákladů zpracovává pouze hodnoty, které ještě nebyly upraveny.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>If the function encounters a situation where changed inbound costs need to be forwarded to associated outbound entries, then new adjustment value entries are created, which are based on the information in the original value entries but contain the adjustment amount.</source><seg-source><mrk mtype="seg" mid="24">If the function encounters a situation where changed inbound costs need to be forwarded to associated outbound entries, then new adjustment value entries are created, which are based on the information in the original value entries but contain the adjustment amount.</mrk></seg-source><target><mrk mtype="seg" mid="24">Pokud se funkce setká s situací, kdy je třeba přenést změněné příchozí náklady do přidružených odchozích položek, vytvoří se nové upravené položky, které jsou založeny na informacích v položkách původní hodnoty, ale obsahují upravenou částku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>The cost adjustment function uses the posting date of the original value entry in the adjustment entry, unless that date is in a closed inventory period.</source><seg-source><mrk mtype="seg" mid="25">The cost adjustment function uses the posting date of the original value entry in the adjustment entry, unless that date is in a closed inventory period.</mrk></seg-source><target><mrk mtype="seg" mid="25">Funkce úpravy nákladů používá datum zaúčtování položky původní hodnoty do upravené položky, pokud se tento datum nenachází v uzavřeném období zásob.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>In that case, the program uses the starting date of the next open inventory period.</source><seg-source><mrk mtype="seg" mid="26">In that case, the program uses the starting date of the next open inventory period.</mrk></seg-source><target><mrk mtype="seg" mid="26">V takovém případě program používá datum zahájení dalšího otevřeného období zásob.</mrk></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>If inventory periods are not used, then the date in the <bpt id="p1">**</bpt>Allow Posting From<ept id="p1">**</ept> field in the <bpt id="p2">**</bpt>General Ledger Setup<ept id="p2">**</ept> window will define when the adjustment entry is posted.</source><seg-source><mrk mtype="seg" mid="27">If inventory periods are not used, then the date in the <bpt id="p1">**</bpt>Allow Posting From<ept id="p1">**</ept> field in the <bpt id="p2">**</bpt>General Ledger Setup<ept id="p2">**</ept> window will define when the adjustment entry is posted.</mrk></seg-source><target><mrk mtype="seg" mid="27">Pokud se nepoužije doba zásob, pak bude v poli <bpt id="p1">**</bpt>Povolit odesílání z<ept id="p1">**</ept> v okně <bpt id="p2">**</bpt>Nastavení hlavní knihy<ept id="p2">**</ept> definováno, kdy bude zaúčtována upravená položka.</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>To adjust item costs manually</source><seg-source><mrk mtype="seg" mid="28">To adjust item costs manually</mrk></seg-source><target><mrk mtype="seg" mid="28">Ruční úpravy nákladů zboží</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Adjust Cost - Item Entries<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="29">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Adjust Cost - Item Entries<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="29">Vyberte ikonu <bpt id="p1">![</bpt>Hledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Hledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Adjustace nákladů-položky zboží<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Adjust Cost - Item Entries<ept id="p1">**</ept> window, specify which items to adjust costs for.</source><seg-source><mrk mtype="seg" mid="30">In the <bpt id="p1">**</bpt>Adjust Cost - Item Entries<ept id="p1">**</ept> window, specify which items to adjust costs for.</mrk></seg-source><target><mrk mtype="seg" mid="30">V okně <bpt id="p1">**</bpt>Adjustace nákladů-položky zboží<ept id="p1">**</ept> zadejte, pro které zboží chcete upravit náklady.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> button.</source><seg-source><mrk mtype="seg" mid="31">Choose the <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> button.</mrk></seg-source><target><mrk mtype="seg" mid="31">Zvolte tlačítko <bpt id="p1">**</bpt>OK<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>To make general changes in the direct unit cost</source><seg-source><mrk mtype="seg" mid="32">To make general changes in the direct unit cost</mrk></seg-source><target><mrk mtype="seg" mid="32">Provádění obecné změny přímé pořizovací ceny</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>If you need to change the direct unit cost for several items, you can use the <bpt id="p1">**</bpt>Adjust Item Costs/Prices<ept id="p1">**</ept> batch job.</source><seg-source><mrk mtype="seg" mid="33">If you need to change the direct unit cost for several items, you can use the <bpt id="p1">**</bpt>Adjust Item Costs/Prices<ept id="p1">**</ept> batch job.</mrk></seg-source><target><mrk mtype="seg" mid="33">Pokud potřebujete změnit přímí pořizovací cenu pro zboží, můžete použít dávkovou úlohu <bpt id="p1">**</bpt>Upravit náklady/ceny zboží<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>The batch job changes the contents in the <bpt id="p1">**</bpt>Unit Price<ept id="p1">**</ept> field on the item card.</source><seg-source><mrk mtype="seg" mid="34">The batch job changes the contents in the <bpt id="p1">**</bpt>Unit Price<ept id="p1">**</ept> field on the item card.</mrk></seg-source><target><mrk mtype="seg" mid="34">Dávková úloha mění obsah v poli <bpt id="p1">**</bpt>Jednotková cena<ept id="p1">**</ept> na kartě zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>The batch job changes the content of the field in the same way for all items or selected items.</source><seg-source><mrk mtype="seg" mid="35">The batch job changes the content of the field in the same way for all items or selected items.</mrk></seg-source><target><mrk mtype="seg" mid="35">Dávková úloha mění obsah pole stejným způsobem pro všechno zboží nebo vybrané jen pro vybrané zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>The batch job multiplies the value in the field by an adjustment factor that you specify.</source><seg-source><mrk mtype="seg" mid="36">The batch job multiplies the value in the field by an adjustment factor that you specify.</mrk></seg-source><target><mrk mtype="seg" mid="36">Dávková úloha násobí hodnotu v poli pomocí faktoru úpravy, který zadáte.</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Adjust Item Costs/Prices<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="37">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Adjust Item Costs/Prices<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="37">Vyberte ikonu <bpt id="p1">![</bpt>Hledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Hledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Upravit náklady/ceny zboží<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Adjust Field<ept id="p1">**</ept> field, specify which item or SKU card field you want to adjust.</source><seg-source><mrk mtype="seg" mid="38">In the <bpt id="p1">**</bpt>Adjust Field<ept id="p1">**</ept> field, specify which item or SKU card field you want to adjust.</mrk></seg-source><target><mrk mtype="seg" mid="38">V poli <bpt id="p1">**</bpt>Upravit pole<ept id="p1">**</ept> zadejte, které zboží nebo pole karty SKJ chcete upravit.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>Adjustment Factor<ept id="p1">**</ept> field, specify the factor by which the value will be adjusted.</source><seg-source><mrk mtype="seg" mid="39">In the <bpt id="p1">**</bpt>Adjustment Factor<ept id="p1">**</ept> field, specify the factor by which the value will be adjusted.</mrk></seg-source><target><mrk mtype="seg" mid="39">V poli <bpt id="p1">**</bpt>Faktor úpravy<ept id="p1">**</ept> zadejte faktor, podle kterého bude hodnota upravena.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>For example, enter <bpt id="p1">**</bpt>1.5<ept id="p1">**</ept> to increase the value by 50%.</source><seg-source><mrk mtype="seg" mid="40">For example, enter <bpt id="p1">**</bpt>1.5<ept id="p1">**</ept> to increase the value by 50%.</mrk></seg-source><target><mrk mtype="seg" mid="40">Například zadejte <bpt id="p1">**</bpt>1,5<ept id="p1">**</ept> pro zvýšení hodnoty o 50%.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">**</bpt>Item<ept id="p1">**</ept> FastTab, set filters to specify, for example, which items to process with the batch job.</source><seg-source><mrk mtype="seg" mid="41">On the <bpt id="p1">**</bpt>Item<ept id="p1">**</ept> FastTab, set filters to specify, for example, which items to process with the batch job.</mrk></seg-source><target><mrk mtype="seg" mid="41">Na položce <bpt id="p1">**</bpt>Zboží<ept id="p1">**</ept> nastavte filtry, aby určily například, které zboží se má zpracovávat s dávkovou úlohou.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Choose the <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> button.</source><seg-source><mrk mtype="seg" mid="42">Choose the <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> button.</mrk></seg-source><target><mrk mtype="seg" mid="42">Zvolte tlačítko <bpt id="p1">**</bpt>OK<ept id="p1">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Understanding Unit Cost Calculation</source><seg-source><mrk mtype="seg" mid="43">Understanding Unit Cost Calculation</mrk></seg-source><target><mrk mtype="seg" mid="43">Pochopení výpočtu pořizovací ceny</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>As a rule, the value in the <bpt id="p1">**</bpt>Unit Cost<ept id="p1">**</ept> field on the item card is based on the standard cost for items with costing method standard.</source><seg-source><mrk mtype="seg" mid="44">As a rule, the value in the <bpt id="p1">**</bpt>Unit Cost<ept id="p1">**</ept> field on the item card is based on the standard cost for items with costing method standard.</mrk></seg-source><target><mrk mtype="seg" mid="44">Hodnota v poli <bpt id="p1">**</bpt>Pořizovací cena<ept id="p1">**</ept> na kartě zboží je zpravidla založena na pevné pořizovací ceně pro zboží se standardem metody ocenění.</mrk></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>For items with all other costing methods, it is based on the calculation of the inventory available (invoiced costs and expected costs) divided by the quantity on hand.</source><seg-source><mrk mtype="seg" mid="45">For items with all other costing methods, it is based on the calculation of the inventory available (invoiced costs and expected costs) divided by the quantity on hand.</mrk></seg-source><target><mrk mtype="seg" mid="45">Kalkulace zboží se všemi ostatními metodami je založena na výpočtu dostupných zásob (fakturované náklady a očekávané náklady) děleno množstvím na skladě.</mrk></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>How the contents of the <bpt id="p1">**</bpt>Costing Method<ept id="p1">**</ept> field influence the unit cost calculation for purchases and sales is described in more detail in the following sections.</source><seg-source><mrk mtype="seg" mid="46">How the contents of the <bpt id="p1">**</bpt>Costing Method<ept id="p1">**</ept> field influence the unit cost calculation for purchases and sales is described in more detail in the following sections.</mrk></seg-source><target><mrk mtype="seg" mid="46">V následujících částech je podrobněji popsáno, jak obsah pole <bpt id="p1">**</bpt>Metoda ocenění<ept id="p1">**</ept> ovlivňuje výpočet pořizovací ceny na nákupy a prodeje.</mrk></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Unit Cost Calculation for Purchases</source><seg-source><mrk mtype="seg" mid="47">Unit Cost Calculation for Purchases</mrk></seg-source><target><mrk mtype="seg" mid="47">Výpočet pořizovací ceny na nákupy</mrk></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>When you purchase items, the value in the <bpt id="p1">**</bpt>Last Direct Cost<ept id="p1">**</ept> field on the item card is copied to the <bpt id="p2">**</bpt>Direct Unit Cost<ept id="p2">**</ept> field on a purchase line or to the Unit Amount line on an item journal line.</source><seg-source><mrk mtype="seg" mid="48">When you purchase items, the value in the <bpt id="p1">**</bpt>Last Direct Cost<ept id="p1">**</ept> field on the item card is copied to the <bpt id="p2">**</bpt>Direct Unit Cost<ept id="p2">**</ept> field on a purchase line or to the Unit Amount line on an item journal line.</mrk></seg-source><target><mrk mtype="seg" mid="48">Při nákupu zboží se hodnota v poli <bpt id="p1">**</bpt>Poslední pořizovací cena<ept id="p1">**</ept> na kartě zboží zkopíruje do pole <bpt id="p2">**</bpt>Nákupní cena<ept id="p2">**</ept> na nákupním řádku nebo na řádku jednotkové ceny na řádku deníku zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>What you select in the <bpt id="p1">**</bpt>Costing Method<ept id="p1">**</ept> field influences how <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> calculates the contents of the <bpt id="p2">**</bpt>Unit Cost<ept id="p2">**</ept> field on the lines.</source><seg-source><mrk mtype="seg" mid="49">What you select in the <bpt id="p1">**</bpt>Costing Method<ept id="p1">**</ept> field influences how <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> calculates the contents of the <bpt id="p2">**</bpt>Unit Cost<ept id="p2">**</ept> field on the lines.</mrk></seg-source><target><mrk mtype="seg" mid="49">To, co vyberete v poli <bpt id="p1">**</bpt>Metoda ocenění<ept id="p1">**</ept>, ovlivňuje jak <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> výpočte obsah pole <bpt id="p2">**</bpt>Pořizovací cena<ept id="p2">**</ept> na řádcích.</mrk></target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Costing Method FIFO, LIFO, Specific, or Average</source><seg-source><mrk mtype="seg" mid="50">Costing Method FIFO, LIFO, Specific, or Average</mrk></seg-source><target><mrk mtype="seg" mid="50">Metoda ocenění FIFO, LIFO, specifická nebo průměrná</mrk></target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> calculates the contents of the <bpt id="p1">**</bpt>Unit Cost (LCY)<ept id="p1">**</ept> field on the purchase line or the contents of the <bpt id="p2">**</bpt>Unit Cost<ept id="p2">**</ept> field on the item journal line according to the following formula:</source><seg-source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="51">calculates the contents of the <bpt id="p1">**</bpt>Unit Cost (LCY)<ept id="p1">**</ept> field on the purchase line or the contents of the <bpt id="p2">**</bpt>Unit Cost<ept id="p2">**</ept> field on the item journal line according to the following formula:</mrk></seg-source><target><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="51">vypočítá obsah pole <bpt id="p1">**</bpt>Pořizovací cena (LM)<ept id="p1">**</ept> na nákupním řádku nebo obsah pole <bpt id="p2">**</bpt>Pořizovací cena<ept id="p2">**</ept> na řádku deníku zboží podle následujícího vzorce:</mrk></target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Unit Cost (LCY) = (Direct Unit Cost – (Discount Amount / Quantity)) x (1 + Indirect Cost % / 100) + Overhead Rate</source><seg-source><mrk mtype="seg" mid="52">Unit Cost (LCY) = (Direct Unit Cost – (Discount Amount / Quantity)) x (1 + Indirect Cost % / 100) + Overhead Rate</mrk></seg-source><target><mrk mtype="seg" mid="52">Pořizovací cena (LM) = (Nákupní cena – (Částka slevy / Množství)) x (1 + Nepřímé náklady % / 100) + Režijní náklady</mrk></target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Costing Method Standard</source><seg-source><mrk mtype="seg" mid="53">Costing Method Standard</mrk></seg-source><target><mrk mtype="seg" mid="53">Standardní metoda ocenění</mrk></target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Unit Cost (LCY)<ept id="p1">**</ept> field on the purchase line or the <bpt id="p2">**</bpt>Unit Cost<ept id="p2">**</ept> field is filled on the item journal line by copying the value in the <bpt id="p3">**</bpt>Unit Cost<ept id="p3">**</ept> field on the item card.</source><seg-source><mrk mtype="seg" mid="54">The <bpt id="p1">**</bpt>Unit Cost (LCY)<ept id="p1">**</ept> field on the purchase line or the <bpt id="p2">**</bpt>Unit Cost<ept id="p2">**</ept> field is filled on the item journal line by copying the value in the <bpt id="p3">**</bpt>Unit Cost<ept id="p3">**</ept> field on the item card.</mrk></seg-source><target><mrk mtype="seg" mid="54">Pole <bpt id="p1">**</bpt>Pořizovací cena (LM)<ept id="p1">**</ept> na nákupním řádku nebo pole <bpt id="p2">**</bpt>Pořizovací ceny<ept id="p2">**</ept> je vyplněno na řádku deníku zboží zkopírováním hodnoty do pole <bpt id="p3">**</bpt>Pořizovací ceny<ept id="p3">**</ept> na kartě zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>By using costing method set as Standard, this is always based on the standard cost.</source><seg-source><mrk mtype="seg" mid="55">By using costing method set as Standard, this is always based on the standard cost.</mrk></seg-source><target><mrk mtype="seg" mid="55">Při použití metody ocenění nastavené jako standardní je vždy založena na pevné pořizovací ceně.</mrk></target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>When you post the purchase, the unit cost from the purchase line or item journal line is copied to the purchase item invoice entry, and it can be seen on the entry list for the item.</source><seg-source><mrk mtype="seg" mid="56">When you post the purchase, the unit cost from the purchase line or item journal line is copied to the purchase item invoice entry, and it can be seen on the entry list for the item.</mrk></seg-source><target><mrk mtype="seg" mid="56">Když zaúčtujete nákup, pořizovací cena z řádku nákupu nebo řádku deníku zboží se zkopírují do položky nákupní faktury za zboží a lze ji zobrazit v seznamu položek pro zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>All Costing Methods</source><seg-source><mrk mtype="seg" mid="57">All Costing Methods</mrk></seg-source><target><mrk mtype="seg" mid="57">Všechny metody ocenění</mrk></target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>The unit cost from the source document line is used to calculate the contents of the <bpt id="p1">**</bpt>Cost Amount (Actual)<ept id="p1">**</ept> field, or if applicable, the <bpt id="p2">**</bpt>Cost Amount (Expected)<ept id="p2">**</ept> field that relates to this item entry, regardless of the costing method of the item.</source><seg-source><mrk mtype="seg" mid="58">The unit cost from the source document line is used to calculate the contents of the <bpt id="p1">**</bpt>Cost Amount (Actual)<ept id="p1">**</ept> field, or if applicable, the <bpt id="p2">**</bpt>Cost Amount (Expected)<ept id="p2">**</ept> field that relates to this item entry, regardless of the costing method of the item.</mrk></seg-source><target><mrk mtype="seg" mid="58">Pořizovací cena z řádku zdrojového dokladu se používá k výpočtu obsahu pole <bpt id="p1">**</bpt>Částka nákladů (skutečná)<ept id="p1">**</ept> nebo případně pole <bpt id="p2">**</bpt>Částka nákladů (očekávaná)<ept id="p2">**</ept>, která se vztahuje k této položce zboží, bez ohledu na způsob ocenění zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>Unit Cost Calculation for Sales</source><seg-source><mrk mtype="seg" mid="59">Unit Cost Calculation for Sales</mrk></seg-source><target><mrk mtype="seg" mid="59">Výpočet pořizovací ceny pro prodej</mrk></target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>When you sell items, the unit cost is copied from the Unit Cost field on the item card to the sales line or the item journal line.</source><seg-source><mrk mtype="seg" mid="60">When you sell items, the unit cost is copied from the Unit Cost field on the item card to the sales line or the item journal line.</mrk></seg-source><target><mrk mtype="seg" mid="60">Když prodáváte zboží, pořizovací cena se zkopíruje z pole Pořizovací cena na kartě zboží na prodejní řádek nebo na řádek deníku zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>When you post, the unit cost is copied to the sales invoice item entry, and it can be seen on the entry list for the item.</source><seg-source><mrk mtype="seg" mid="61">When you post, the unit cost is copied to the sales invoice item entry, and it can be seen on the entry list for the item.</mrk></seg-source><target><mrk mtype="seg" mid="61">Když zaúčtujete, pořizovací cena z řádku nákupu nebo řádku deníku zboží se zkopírují do položky nákupní faktury za zboží a lze ji zobrazit v seznamu položek zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> uses the unit cost from the source document line to calculate the contents of the <bpt id="p1">**</bpt>Cost Amount (Actual)<ept id="p1">**</ept> field, or if applicable, the <bpt id="p2">**</bpt>Cost Amount (Expected)<ept id="p2">**</ept> field in the value entry related to this item entry.</source><seg-source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="62">uses the unit cost from the source document line to calculate the contents of the <bpt id="p1">**</bpt>Cost Amount (Actual)<ept id="p1">**</ept> field, or if applicable, the <bpt id="p2">**</bpt>Cost Amount (Expected)<ept id="p2">**</ept> field in the value entry related to this item entry.</mrk></seg-source><target><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> <mrk mtype="seg" mid="62">používá Pořizovací cenu z řádku zdrojového dokladu k výpočtu obsahu pole <bpt id="p1">**</bpt>Částka nákladů (skutečná)<ept id="p1">**</ept> nebo případně pole <bpt id="p2">**</bpt>Částka nákladů (očekávaná)<ept id="p2">**</ept> v položce ocenění vztahující se k této položce zboží.</mrk></target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="63">See Also</mrk></seg-source><target><mrk mtype="seg" mid="63">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Managing Inventory Costs<ept id="p1">](finance-manage-inventory-costs.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="64">Managing Inventory Costs</mrk><ept id="p1">](finance-manage-inventory-costs.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="64">Správa nákladů zásob</mrk><ept id="p1">](finance-manage-inventory-costs.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Inventory<ept id="p1">](inventory-manage-inventory.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="65">Inventory</mrk><ept id="p1">](inventory-manage-inventory.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="65">Zásoby</mrk><ept id="p1">](inventory-manage-inventory.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Sales<ept id="p1">](sales-manage-sales.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="66">Sales</mrk><ept id="p1">](sales-manage-sales.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="66">Prodej</mrk><ept id="p1">](sales-manage-sales.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Purchasing<ept id="p1">](purchasing-manage-purchasing.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="67">Purchasing</mrk><ept id="p1">](purchasing-manage-purchasing.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="67">Nakupování</mrk><ept id="p1">](purchasing-manage-purchasing.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="68">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="68">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
