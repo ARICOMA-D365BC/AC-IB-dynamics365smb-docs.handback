@@ -40,7 +40,7 @@
           <source><bpt id="p1">&lt;a name="OpenXMLPart"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> To open the Custom XML part for the Report in Word</source><seg-source><bpt id="p1">&lt;a name="OpenXMLPart"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> <mrk mtype="seg" mid="9">To open the Custom XML part for the Report in Word</mrk></seg-source><target state="translated"><bpt id="p1">&lt;a name="OpenXMLPart"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> <mrk mtype="seg" mid="9">Otevření vlastní XML části pro sestavu v aplikaci Word</mrk></target>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
-          <source>If not already open, then open the Word report layout document in Word.</source><seg-source><mrk mtype="seg" mid="10">If not already open, then open the Word report layout document in Word.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="10">Pokud již není otevřen, otevřete dokument rozvržení sestavy sestavy v aplikaci Word.</mrk></target>
+          <source>If not already open, then open the Word report layout document in Word.</source><seg-source><mrk mtype="seg" mid="10">If not already open, then open the Word report layout document in Word.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="10">Pokud již není otevřena, otevřete dokument rozvržení sestavy v aplikaci Word.</mrk></target>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
           <source>For more information, see <bpt id="p1">[</bpt>Create and Modify a Custom Report Layout<ept id="p1">](ui-how-create-custom-report-layout.md)</ept>.</source><seg-source><mrk mtype="seg" mid="11">For more information, see <bpt id="p1">[</bpt>Create and Modify a Custom Report Layout<ept id="p1">](ui-how-create-custom-report-layout.md)</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">Pro více informací navštivte <bpt id="p1">[</bpt>Vytvoření a úprava vlastního rozvržení sestavy<ept id="p1">](ui-how-create-custom-report-layout.md)</ept>.</mrk></target>
@@ -76,7 +76,7 @@
           <source>After you select the custom XML part, the XML Mapping pane displays the labels and field controls that are available for the report.</source><seg-source><mrk mtype="seg" mid="21">After you select the custom XML part, the XML Mapping pane displays the labels and field controls that are available for the report.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="21">Po výběru vlastní XML části se v podokně Mapování XML zobrazí popisky a ovládací prvky pole, které jsou k dispozici pro sestavu.</mrk></target>
         </trans-unit>
         <trans-unit id="122" translate="yes" xml:space="preserve">
-          <source>To add a label or data field</source><seg-source><mrk mtype="seg" mid="22">To add a label or data field</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="22">Pro přidání popisku nebo datového pole</mrk></target>
+          <source>To add a label or data field</source><seg-source><mrk mtype="seg" mid="22">To add a label or data field</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="22">Přidání popisku nebo datového pole</mrk></target>
         </trans-unit>
         <trans-unit id="123" translate="yes" xml:space="preserve">
           <source>Place your cursor in the document where you want to add the control.</source><seg-source><mrk mtype="seg" mid="23">Place your cursor in the document where you want to add the control.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="23">Umístěte kurzor do dokumentu, kam chcete přidat ovládací prvek.</mrk></target>
@@ -91,7 +91,7 @@
           <source>You must use the <bpt id="p1">**</bpt>XML Mapping<ept id="p1">**</ept> pane to map the fields.</source><seg-source><mrk mtype="seg" mid="26">You must use the <bpt id="p1">**</bpt>XML Mapping<ept id="p1">**</ept> pane to map the fields.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="26">K mapování polí musíte použít podokno <bpt id="p1">**</bpt>Mapování XML<ept id="p1">**</ept>.</mrk></target>
         </trans-unit>
         <trans-unit id="127" translate="yes" xml:space="preserve">
-          <source>To add repeating rows of data fields to create a list</source><seg-source><mrk mtype="seg" mid="27">To add repeating rows of data fields to create a list</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="27">Pro přidání opakujících se řádků datových polí k vytvoření seznamu</mrk></target>
+          <source>To add repeating rows of data fields to create a list</source><seg-source><mrk mtype="seg" mid="27">To add repeating rows of data fields to create a list</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="27">Přidání opakujících se řádků datových polí k vytvoření seznamu</mrk></target>
         </trans-unit>
         <trans-unit id="128" translate="yes" xml:space="preserve">
           <source>In a table, add a table row that includes a column for each field that you want repeated.</source><seg-source><mrk mtype="seg" mid="28">In a table, add a table row that includes a column for each field that you want repeated.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="28">V tabulce přidejte řádek tabulky, který obsahuje sloupec pro každé pole, které chcete opakovat.</mrk></target>
