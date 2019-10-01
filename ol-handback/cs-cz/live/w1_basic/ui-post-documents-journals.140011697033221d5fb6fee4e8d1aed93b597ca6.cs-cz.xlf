@@ -19,7 +19,7 @@
           <source>Outlines posting actions and the ways you can post documents and journals.</source><seg-source><mrk mtype="seg" mid="2">Outlines posting actions and the ways you can post documents and journals.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="2">Nastiňuje akce účtování a způsoby, jak můžete účtovat doklady a deníky.</mrk></target>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
-          <source>Post Documents and Journals</source><seg-source><mrk mtype="seg" mid="3">Post Documents and Journals</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="3">Účtování dokumentů a deníků</mrk></target>
+          <source>Post Documents and Journals</source><seg-source><mrk mtype="seg" mid="3">Post Documents and Journals</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="3">Účtování dokladů a deníků</mrk></target>
         </trans-unit>
         <trans-unit id="104" translate="yes" xml:space="preserve">
           <source>Posting represents the accounting action of recording business transactions in the various company ledgers.</source><seg-source><mrk mtype="seg" mid="4">Posting represents the accounting action of recording business transactions in the various company ledgers.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="4">Účtování představuje účetní akci zaznamenávání obchodních transakcí v různých účetních knihách společnosti.</mrk></target>
@@ -28,7 +28,7 @@
           <source>Practically every document and journal in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> offers a <bpt id="p1">**</bpt>Posting<ept id="p1">**</ept> group from which you can choose between different posting actions, such as <bpt id="p2">**</bpt>Post<ept id="p2">**</ept>, <bpt id="p3">**</bpt>Preview Posting<ept id="p3">**</ept>, <bpt id="p4">**</bpt>Post and Send<ept id="p4">**</ept>, <bpt id="p5">**</bpt>Post and Email<ept id="p5">**</ept>.</source><seg-source><mrk mtype="seg" mid="5">Practically every document and journal in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> offers a <bpt id="p1">**</bpt>Posting<ept id="p1">**</ept> group from which you can choose between different posting actions, such as <bpt id="p2">**</bpt>Post<ept id="p2">**</ept>, <bpt id="p3">**</bpt>Preview Posting<ept id="p3">**</ept>, <bpt id="p4">**</bpt>Post and Send<ept id="p4">**</ept>, <bpt id="p5">**</bpt>Post and Email<ept id="p5">**</ept>.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="5">Prakticky každý doklad a deník v <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> nabízí skupinu <bpt id="p1">**</bpt>Účtování<ept id="p1">**</ept>, ze které si můžete vybrat mezi různými akcemi účtování, jako je <bpt id="p2">**</bpt>Účtovat<ept id="p2">**</ept>, <bpt id="p3">**</bpt>Náhled účtování<ept id="p3">**</ept>, <bpt id="p4">**</bpt>Účtovat a odeslat<ept id="p4">**</ept>, <bpt id="p5">**</bpt>Účtovat a odeslat Emailem<ept id="p5">**</ept>.</mrk></target>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
-          <source>The following table describes related tasks, with links to the topics that describe them.</source><seg-source><mrk mtype="seg" mid="6">The following table describes related tasks, with links to the topics that describe them.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="6">Následující tabulka popisuje sekvekci úloh s odkazy na témata, které je popisují.</mrk></target>
+          <source>The following table describes related tasks, with links to the topics that describe them.</source><seg-source><mrk mtype="seg" mid="6">The following table describes related tasks, with links to the topics that describe them.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="6">Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je popisují.</mrk></target>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
           <source>To</source><seg-source><mrk mtype="seg" mid="7">To</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Viz</mrk></target>
@@ -37,13 +37,13 @@
           <source>See</source><seg-source><mrk mtype="seg" mid="8">See</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="8">také</mrk></target>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source>Learn about posting purchase documents.</source><seg-source><mrk mtype="seg" mid="9">Learn about posting purchase documents.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="9">Zjistěte více o účtování Nákupních dokladů.</mrk></target>
+          <source>Learn about posting purchase documents.</source><seg-source><mrk mtype="seg" mid="9">Learn about posting purchase documents.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="9">Zjistěte více o účtování nákupních dokladů.</mrk></target>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Posting Purchases<ept id="p1">](ui-post-purchases.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="10">Posting Purchases</mrk><ept id="p1">](ui-post-purchases.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="10">Účtování nákupů</mrk><ept id="p1">](ui-post-purchases.md)</ept></target>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
-          <source>Learn about posting sales documents.</source><seg-source><mrk mtype="seg" mid="11">Learn about posting sales documents.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">Zjistěte více o účtování Prodejních dokladů.</mrk></target>
+          <source>Learn about posting sales documents.</source><seg-source><mrk mtype="seg" mid="11">Learn about posting sales documents.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">Zjistěte více o účtování prodejních dokladů.</mrk></target>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Posting Sales<ept id="p1">](ui-post-sales.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="12">Posting Sales</mrk><ept id="p1">](ui-post-sales.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="12">Účtování prodeje</mrk><ept id="p1">](ui-post-sales.md)</ept></target>
@@ -58,7 +58,7 @@
           <source>Preview, in a page, the entries that will be created when you post.</source><seg-source><mrk mtype="seg" mid="15">Preview, in a page, the entries that will be created when you post.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="15">V okně zobrazte náhled položek, které budou vytvořeny při účtování.</mrk></target>
         </trans-unit>
         <trans-unit id="116" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Preview Posting Results<ept id="p1">](ui-how-preview-post-results.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="16">Preview Posting Results</mrk><ept id="p1">](ui-how-preview-post-results.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="16">Zobrazte výsledky účtování</mrk><ept id="p1">](ui-how-preview-post-results.md)</ept></target>
+          <source><bpt id="p1">[</bpt>Preview Posting Results<ept id="p1">](ui-how-preview-post-results.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="16">Preview Posting Results</mrk><ept id="p1">](ui-how-preview-post-results.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="16">Zobrazení výsledků účtování</mrk><ept id="p1">](ui-how-preview-post-results.md)</ept></target>
         </trans-unit>
         <trans-unit id="117" translate="yes" xml:space="preserve">
           <source>Preview, in a report, the entries that will be created when you post.</source><seg-source><mrk mtype="seg" mid="17">Preview, in a report, the entries that will be created when you post.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="17">V sestavě zobrazte náhled položek, které budou vytvořeny při účtování.</mrk></target>
