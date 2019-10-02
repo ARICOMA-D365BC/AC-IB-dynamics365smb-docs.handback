@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" original="ui-personalization-manage.md" source-language="en-US" target-language="cs-cz">
     <header>
@@ -13,112 +13,112 @@
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
-          <source>Managing Personalization as an Administrator in Financials | Microsoft Docs</source>
+          <source>Managing Personalization as an Administrator in Financials | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Managing Personalization as an Administrator in Financials | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Správa přizpůsobení jako správce ve financích | Microsoft Docs</mrk></target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
-          <source>Learn how to customize the user interface to suit your way of working.</source>
+          <source>Learn how to customize the user interface to suit your way of working.</source><seg-source><mrk mtype="seg" mid="2">Learn how to customize the user interface to suit your way of working.</mrk></seg-source><target><mrk mtype="seg" mid="2">Naučte se, jak přizpůsobit uživatelské rozhraní tak, aby vyhovovalo vašemu způsobu práce.</mrk></target>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
-          <source>Managing Personalization as an Administrator</source>
+          <source>Managing Personalization as an Administrator</source><seg-source><mrk mtype="seg" mid="3">Managing Personalization as an Administrator</mrk></seg-source><target><mrk mtype="seg" mid="3">Správa přizpůsobení jako správce</mrk></target>
         </trans-unit>
         <trans-unit id="104" translate="yes" xml:space="preserve">
-          <source>Users can personalize their workspace to suit their own preferences.</source>
+          <source>Users can personalize their workspace to suit their own preferences.</source><seg-source><mrk mtype="seg" mid="4">Users can personalize their workspace to suit their own preferences.</mrk></seg-source><target><mrk mtype="seg" mid="4">Uživatelé si mohou přizpůsobit svůj pracovní prostor podle svých vlastních preferencí.</mrk></target>
         </trans-unit>
         <trans-unit id="105" translate="yes" xml:space="preserve">
-          <source>As an administrator, you can control and manage personalization by disabling the ability for users to personalize pages and clearing any page personalizations that users have made.</source>
+          <source>As an administrator, you can control and manage personalization by disabling the ability for users to personalize pages and clearing any page personalizations that users have made.</source><seg-source><mrk mtype="seg" mid="5">As an administrator, you can control and manage personalization by disabling the ability for users to personalize pages and clearing any page personalizations that users have made.</mrk></seg-source><target><mrk mtype="seg" mid="5">Jako správce můžete ovládat a spravovat přizpůsobení tím, že zakážete uživatelům možnost přizpůsobit stránky a vymažete všechna přizpůsobení stránek, která uživatelé měli.</mrk></target>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
-          <source>Disable personalization for a profile</source>
+          <source>Disable personalization for a profile</source><seg-source><mrk mtype="seg" mid="6">Disable personalization for a profile</mrk></seg-source><target><mrk mtype="seg" mid="6">Zakázání přizpůsobení profilu</mrk></target>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
-          <source>You can prevent all users that belong to a specific profile from being able to personalize their pages.</source>
+          <source>You can prevent all users that belong to a specific profile from being able to personalize their pages.</source><seg-source><mrk mtype="seg" mid="7">You can prevent all users that belong to a specific profile from being able to personalize their pages.</mrk></seg-source><target><mrk mtype="seg" mid="7">Můžete zabránit všem uživatelům, kteří patří k určitému profilu, možnost přizpůsobení svých stránek.</mrk></target>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
-          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Profiles<ept id="p3">**</ept>, and then choose the related link.</source>
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Profiles<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="8">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Profiles<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="8">Vyberte ikonu <bpt id="p1">![</bpt>Hledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Hledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Profily<ept id="p3">**</ept> a pak vyberte související odkaz.</mrk></target>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
-          <source>Select the profile in the list that you want to modify.</source>
+          <source>Select the profile in the list that you want to modify.</source><seg-source><mrk mtype="seg" mid="9">Select the profile in the list that you want to modify.</mrk></seg-source><target><mrk mtype="seg" mid="9">Vyberte profil ze seznamu, který chcete upravit.</mrk></target>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
-          <source>Select the <bpt id="p1">**</bpt>Disable personalization<ept id="p1">**</ept> check box, and then choose the <bpt id="p2">**</bpt>OK<ept id="p2">**</ept> button.</source>
+          <source>Select the <bpt id="p1">**</bpt>Disable personalization<ept id="p1">**</ept> check box, and then choose the <bpt id="p2">**</bpt>OK<ept id="p2">**</ept> button.</source><seg-source><mrk mtype="seg" mid="10">Select the <bpt id="p1">**</bpt>Disable personalization<ept id="p1">**</ept> check box, and then choose the <bpt id="p2">**</bpt>OK<ept id="p2">**</ept> button.</mrk></seg-source><target><mrk mtype="seg" mid="10">Zaškrtněte políčko <bpt id="p1">**</bpt>Zakázat přizpůsobení<ept id="p1">**</ept> a poté klepněte na tlačítko <bpt id="p2">**</bpt>OK<ept id="p2">**</ept>.</mrk></target>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
-          <source>Clear user personalizations</source>
+          <source>Clear user personalizations</source><seg-source><mrk mtype="seg" mid="11">Clear user personalizations</mrk></seg-source><target><mrk mtype="seg" mid="11">Vymazání přizpůsobení uživatelů</mrk></target>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
-          <source>Clearing page personalization changes the page back to its original layout before any personalization was made.</source>
+          <source>Clearing page personalization changes the page back to its original layout before any personalization was made.</source><seg-source><mrk mtype="seg" mid="12">Clearing page personalization changes the page back to its original layout before any personalization was made.</mrk></seg-source><target><mrk mtype="seg" mid="12">Vymazání přizpůsobení stránky změní stránku zpět na původní rozvržení před provedením jakéhokoli přizpůsobení,</mrk></target>
         </trans-unit>
         <trans-unit id="113" translate="yes" xml:space="preserve">
-          <source>There are two ways to clear the personalizations that users have made to pages: using the <bpt id="p1">**</bpt>Delete User Personalization<ept id="p1">**</ept> page and using the <bpt id="p2">**</bpt>User Personalization Card<ept id="p2">**</ept> page.</source>
+          <source>There are two ways to clear the personalizations that users have made to pages: using the <bpt id="p1">**</bpt>Delete User Personalization<ept id="p1">**</ept> page and using the <bpt id="p2">**</bpt>User Personalization Card<ept id="p2">**</ept> page.</source><seg-source><mrk mtype="seg" mid="13">There are two ways to clear the personalizations that users have made to pages: using the <bpt id="p1">**</bpt>Delete User Personalization<ept id="p1">**</ept> page and using the <bpt id="p2">**</bpt>User Personalization Card<ept id="p2">**</ept> page.</mrk></seg-source><target><mrk mtype="seg" mid="13">Existují dva způsoby, jak vymazat přizpůsobení, která uživatelé na stránkách provedli: pomocí stránky <bpt id="p1">**</bpt>Odstranit přizpůsobení uživatelem<ept id="p1">**</ept> a pomocí stránky <bpt id="p2">**</bpt>Karta přizpůsobení uživateli<ept id="p2">**</ept>.</mrk></target>
         </trans-unit>
         <trans-unit id="114" translate="yes" xml:space="preserve">
-          <source>Clear user personalizations by using the Delete User Personalization page</source>
+          <source>Clear user personalizations by using the Delete User Personalization page</source><seg-source><mrk mtype="seg" mid="14">Clear user personalizations by using the Delete User Personalization page</mrk></seg-source><target><mrk mtype="seg" mid="14">Vymazání přizpůsobení uživatele pomocí stránky Odstranit přizpůsobení uživatelem</mrk></target>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
-          <source>The <bpt id="p1">**</bpt>Delete User Personalization<ept id="p1">**</ept> page enables you to clear personalizations on a per-page basis for each user individually.</source>
+          <source>The <bpt id="p1">**</bpt>Delete User Personalization<ept id="p1">**</ept> page enables you to clear personalizations on a per-page basis for each user individually.</source><seg-source><mrk mtype="seg" mid="15">The <bpt id="p1">**</bpt>Delete User Personalization<ept id="p1">**</ept> page enables you to clear personalizations on a per-page basis for each user individually.</mrk></seg-source><target><mrk mtype="seg" mid="15">Stránka <bpt id="p1">**</bpt>Odstranit přizpůsobení uživatelem<ept id="p1">**</ept> umožňuje vymazat jednotlivá přizpůsobení na stránce pro každého uživatele zvlášť.</mrk></target>
         </trans-unit>
         <trans-unit id="116" translate="yes" xml:space="preserve">
-          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Delete User Personalization<ept id="p3">**</ept>, and then choose the related link.</source>
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Delete User Personalization<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="16">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>Delete User Personalization<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="16">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Odstranit přizpůsobení uživatelem<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
         </trans-unit>
         <trans-unit id="117" translate="yes" xml:space="preserve">
-          <source>The page lists all the pages that have been personalized and the user it belongs to.</source>
+          <source>The page lists all the pages that have been personalized and the user it belongs to.</source><seg-source><mrk mtype="seg" mid="17">The page lists all the pages that have been personalized and the user it belongs to.</mrk></seg-source><target><mrk mtype="seg" mid="17">Na stránce jsou uvedeny všechny stránky, které byly přizpůsobeny a uživatel, k němuž patří.</mrk></target>
         </trans-unit>
         <trans-unit id="118" translate="yes" xml:space="preserve">
-          <source>A check mark in the <bpt id="p1">**</bpt>Legacy Personalization<ept id="p1">**</ept> columns indicates that the personalization was done in an older version of <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, which handled personalization different than it does now.</source>
+          <source>A check mark in the <bpt id="p1">**</bpt>Legacy Personalization<ept id="p1">**</ept> columns indicates that the personalization was done in an older version of <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, which handled personalization different than it does now.</source><seg-source><mrk mtype="seg" mid="18">A check mark in the <bpt id="p1">**</bpt>Legacy Personalization<ept id="p1">**</ept> columns indicates that the personalization was done in an older version of <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, which handled personalization different than it does now.</mrk></seg-source><target><mrk mtype="seg" mid="18">Zaškrtnutí ve sloupcích <bpt id="p1">**</bpt>Starší verze přizpůsobení<ept id="p1">**</ept> označuje, že přizpůsobení bylo provedeno ve starší verzi <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>, která zpracovávala přizpůsobení jinak, než se to dělá teď.</mrk></target>
         </trans-unit>
         <trans-unit id="119" translate="yes" xml:space="preserve">
-          <source>Users who try to personalize these pages are locked from doing so unless they choose to unlock the page.</source>
+          <source>Users who try to personalize these pages are locked from doing so unless they choose to unlock the page.</source><seg-source><mrk mtype="seg" mid="19">Users who try to personalize these pages are locked from doing so unless they choose to unlock the page.</mrk></seg-source><target><mrk mtype="seg" mid="19">Uživatelé, kteří se pokoušejí přizpůsobit tyto stránky, jsou uzamčeni, pokud se rozhodnou stránku odemknout.</mrk></target>
         </trans-unit>
         <trans-unit id="120" translate="yes" xml:space="preserve">
-          <source>For more information, see <bpt id="p1">[</bpt>Why a page is locked from personalizing<ept id="p1">](ui-personalization-locked.md)</ept>.</source>
+          <source>For more information, see <bpt id="p1">[</bpt>Why a page is locked from personalizing<ept id="p1">](ui-personalization-locked.md)</ept>.</source><seg-source><mrk mtype="seg" mid="20">For more information, see <bpt id="p1">[</bpt>Why a page is locked from personalizing<ept id="p1">](ui-personalization-locked.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="20">Pro více informací, navštivte <bpt id="p1">[</bpt>Proč je stránka uzamčena před přizpůsobením<ept id="p1">](ui-personalization-locked.md)</ept>.</mrk></target>
         </trans-unit>
         <trans-unit id="121" translate="yes" xml:space="preserve">
-          <source>Select the entry that you want to delete, and then choose the <bpt id="p1">**</bpt>Delete<ept id="p1">**</ept> action.</source>
+          <source>Select the entry that you want to delete, and then choose the <bpt id="p1">**</bpt>Delete<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="21">Select the entry that you want to delete, and then choose the <bpt id="p1">**</bpt>Delete<ept id="p1">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="21">Vyberte položku, kterou chcete odstranit, a poté vyberte akci <bpt id="p1">**</bpt>Odstranit<ept id="p1">**</ept>.</mrk></target>
         </trans-unit>
         <trans-unit id="122" translate="yes" xml:space="preserve">
-          <source>The user will see the changes the next time they sign-in.</source>
+          <source>The user will see the changes the next time they sign-in.</source><seg-source><mrk mtype="seg" mid="22">The user will see the changes the next time they sign-in.</mrk></seg-source><target><mrk mtype="seg" mid="22">Uživatel uvidí změny při příštím přihlášení.</mrk></target>
         </trans-unit>
         <trans-unit id="123" translate="yes" xml:space="preserve">
-          <source>Clear user personalizations by using the User Personalization Card page</source>
+          <source>Clear user personalizations by using the User Personalization Card page</source><seg-source><mrk mtype="seg" mid="23">Clear user personalizations by using the User Personalization Card page</mrk></seg-source><target><mrk mtype="seg" mid="23">Vymazání přizpůsobení uživatele pomocí stránky Karta přizpůsobení uživateli</mrk></target>
         </trans-unit>
         <trans-unit id="124" translate="yes" xml:space="preserve">
-          <source>The <bpt id="p1">**</bpt>User Personalization Card<ept id="p1">**</ept> page enables you to clear the personalization on all pages for specific user.</source>
+          <source>The <bpt id="p1">**</bpt>User Personalization Card<ept id="p1">**</ept> page enables you to clear the personalization on all pages for specific user.</source><seg-source><mrk mtype="seg" mid="24">The <bpt id="p1">**</bpt>User Personalization Card<ept id="p1">**</ept> page enables you to clear the personalization on all pages for specific user.</mrk></seg-source><target><mrk mtype="seg" mid="24">Stránka <bpt id="p1">**</bpt>Karta přizpůsobení uživateli<ept id="p1">**</ept> umožňuje vymazat přizpůsobení na všech stránkách konkrétního uživatele.</mrk></target>
         </trans-unit>
         <trans-unit id="125" translate="yes" xml:space="preserve">
-          <source>This requires write permission to Table 2000000072 <bpt id="p1">**</bpt>Profile<ept id="p1">**</ept>.</source>
+          <source>This requires write permission to Table 2000000072 <bpt id="p1">**</bpt>Profile<ept id="p1">**</ept>.</source><seg-source><mrk mtype="seg" mid="25">This requires write permission to Table 2000000072 <bpt id="p1">**</bpt>Profile<ept id="p1">**</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="25">To vyžaduje oprávnění k zápisu do Tabulky 2000000072 <bpt id="p1">**</bpt>Profil<ept id="p1">**</ept>.</mrk></target>
         </trans-unit>
         <trans-unit id="126" translate="yes" xml:space="preserve">
-          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>User Personalization<ept id="p3">**</ept>, and then choose the related link.</source>
+          <source>Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>User Personalization<ept id="p3">**</ept>, and then choose the related link.</source><seg-source><mrk mtype="seg" mid="26">Choose the <bpt id="p1">![</bpt>Search for Page or Report<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>Search for Page or Report icon<ept id="p2">")</ept> icon, enter <bpt id="p3">**</bpt>User Personalization<ept id="p3">**</ept>, and then choose the related link.</mrk></seg-source><target><mrk mtype="seg" mid="26">Zvolte ikonu <bpt id="p1">![</bpt>Vyhledat stránku nebo sestavu<ept id="p1">]</ept><bpt id="p2">(media/ui-search/search_small.png "</bpt>ikona Vyhledat stránku nebo sestavu<ept id="p2">")</ept>, zadejte <bpt id="p3">**</bpt>Přizpůsobení uživatelem<ept id="p3">**</ept> a poté vyberte související odkaz.</mrk></target>
         </trans-unit>
         <trans-unit id="127" translate="yes" xml:space="preserve">
-          <source>The <bpt id="p1">**</bpt>User Personalization<ept id="p1">**</ept> page lists all users who potentially have personalized pages.</source>
+          <source>The <bpt id="p1">**</bpt>User Personalization<ept id="p1">**</ept> page lists all users who potentially have personalized pages.</source><seg-source><mrk mtype="seg" mid="27">The <bpt id="p1">**</bpt>User Personalization<ept id="p1">**</ept> page lists all users who potentially have personalized pages.</mrk></seg-source><target><mrk mtype="seg" mid="27">Na stránce <bpt id="p1">**</bpt>Přizpůsobení uživatelem<ept id="p1">**</ept> jsou uvedeny všichni uživatelé, kteří mají potenciálně přizpůsobené stránky.</mrk></target>
         </trans-unit>
         <trans-unit id="128" translate="yes" xml:space="preserve">
-          <source>If you cannot find a user in the list, this means that they do not have any personalized pages.</source>
+          <source>If you cannot find a user in the list, this means that they do not have any personalized pages.</source><seg-source><mrk mtype="seg" mid="28">If you cannot find a user in the list, this means that they do not have any personalized pages.</mrk></seg-source><target><mrk mtype="seg" mid="28">Pokud nemůžete najít uživatele v seznamu, znamená to, že nemá žádné přizpůsobené stránky.</mrk></target>
         </trans-unit>
         <trans-unit id="129" translate="yes" xml:space="preserve">
-          <source>Select the user from the list, and then choose the <bpt id="p1">**</bpt>Edit<ept id="p1">**</ept> action.</source>
+          <source>Select the user from the list, and then choose the <bpt id="p1">**</bpt>Edit<ept id="p1">**</ept> action.</source><seg-source><mrk mtype="seg" mid="29">Select the user from the list, and then choose the <bpt id="p1">**</bpt>Edit<ept id="p1">**</ept> action.</mrk></seg-source><target><mrk mtype="seg" mid="29">Vyberte uživatele ze seznamu a poté zvolte akci <bpt id="p1">**</bpt>Upravit<ept id="p1">**</ept>.</mrk></target>
         </trans-unit>
         <trans-unit id="130" translate="yes" xml:space="preserve">
-          <source>On the <bpt id="p1">**</bpt>Actions<ept id="p1">**</ept> tab, choose <bpt id="p2">**</bpt>Clear Personalized Pages<ept id="p2">**</ept>.</source>
+          <source>On the <bpt id="p1">**</bpt>Actions<ept id="p1">**</ept> tab, choose <bpt id="p2">**</bpt>Clear Personalized Pages<ept id="p2">**</ept>.</source><seg-source><mrk mtype="seg" mid="30">On the <bpt id="p1">**</bpt>Actions<ept id="p1">**</ept> tab, choose <bpt id="p2">**</bpt>Clear Personalized Pages<ept id="p2">**</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="30">Na záložce <bpt id="p1">**</bpt>Akce<ept id="p1">**</ept> zvolte <bpt id="p2">**</bpt>Vymazat přizpůsobené stránky<ept id="p2">**</ept>.</mrk></target>
         </trans-unit>
         <trans-unit id="131" translate="yes" xml:space="preserve">
-          <source>The user will see the changes the next time they sign-in.</source>
+          <source>The user will see the changes the next time they sign-in.</source><seg-source><mrk mtype="seg" mid="31">The user will see the changes the next time they sign-in.</mrk></seg-source><target><mrk mtype="seg" mid="31">Uživatel uvidí změny při příštím přihlášení.</mrk></target>
         </trans-unit>
         <trans-unit id="132" translate="yes" xml:space="preserve">
-          <source>See Also</source>
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="32">See Also</mrk></seg-source><target><mrk mtype="seg" mid="32">Viz také</mrk></target>
         </trans-unit>
         <trans-unit id="133" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Personalizing Your Workspace<ept id="p1">](ui-personalization-user.md)</ept></source>
+          <source><bpt id="p1">[</bpt>Personalizing Your Workspace<ept id="p1">](ui-personalization-user.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="33">Personalizing Your Workspace</mrk><ept id="p1">](ui-personalization-user.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="33">Přizpůsobení vašeho pracovního prostoru</mrk><ept id="p1">](ui-personalization-user.md)</ept></target>
         </trans-unit>
         <trans-unit id="134" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source>
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="34">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="34">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
         </trans-unit>
         <trans-unit id="135" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Changing Basic Settings<ept id="p1">](ui-change-basic-settings.md)</ept></source>
+          <source><bpt id="p1">[</bpt>Changing Basic Settings<ept id="p1">](ui-change-basic-settings.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="35">Changing Basic Settings</mrk><ept id="p1">](ui-change-basic-settings.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="35">Změna základního nastavení</mrk><ept id="p1">](ui-change-basic-settings.md)</ept></target>
         </trans-unit>
         <trans-unit id="136" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Changing Which Features are Displayed<ept id="p1">](ui-experiences.md)</ept></source>
+          <source><bpt id="p1">[</bpt>Changing Which Features are Displayed<ept id="p1">](ui-experiences.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="36">Changing Which Features are Displayed</mrk><ept id="p1">](ui-experiences.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="36">Změna zobrazovaných funkcí</mrk><ept id="p1">](ui-experiences.md)</ept></target>
         </trans-unit>
       </group>
     </body>

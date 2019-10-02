@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="ui-personalization-user.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-5ae97a8" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">65bd6d24395990d2b92b7eeea0c7b208f7311eef</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\ui-personalization-user.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">de077368a495925dc625f663d12c1aaf548dd1c7</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">becda611d91fa4f21abf1764a70ba8cec3196a13</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Personalizing Pages | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Personalizing Pages | Microsoft Docs</mrk></seg-source><target><mrk mtype="seg" mid="1">Přizpůsobení stránek | Microsoft Docs</mrk></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Learn how to customize the user interface to suit your way of working.</source><seg-source><mrk mtype="seg" mid="2">Learn how to customize the user interface to suit your way of working.</mrk></seg-source><target><mrk mtype="seg" mid="2">Naučte se, jak přizpůsobit uživatelské rozhraní tak, aby vyhovovalo vašemu způsobu práce.</mrk></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Personalizing Your Workspace</source><seg-source><mrk mtype="seg" mid="3">Personalizing Your Workspace</mrk></seg-source><target><mrk mtype="seg" mid="3">Přizpůsobení vašeho pracovního prostoru</mrk></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>You can customize, or <bpt id="p1">*</bpt>personalize<ept id="p1">*</ept>, your workspace to suit your work and preferences by changing pages so that they display only the information you need, where you need it.</source><seg-source><mrk mtype="seg" mid="4">You can customize, or <bpt id="p1">*</bpt>personalize<ept id="p1">*</ept>, your workspace to suit your work and preferences by changing pages so that they display only the information you need, where you need it.</mrk></seg-source><target><mrk mtype="seg" mid="4">Můžete si upravit nebo <bpt id="p1">*</bpt>přizpůsobit<ept id="p1">*</ept> váš pracovní prostor, který bude vyhovovat vaší práci a preferencím změnou stránek tak, aby se zobrazovaly pouze ty informace, které potřebujete tam, kde jsou potřeba.</mrk></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The personalization changes that you make will only affect what you see, not what other users see.</source><seg-source><mrk mtype="seg" mid="5">The personalization changes that you make will only affect what you see, not what other users see.</mrk></seg-source><target><mrk mtype="seg" mid="5">Změny přizpůsobení, které provedete, ovlivní pouze váš pracovní prostor, nikoli to, co vidí ostatní uživatelé.</mrk></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Depending on the type of page and what it includes, you can:</source><seg-source><mrk mtype="seg" mid="6">Depending on the type of page and what it includes, you can:</mrk></seg-source><target><mrk mtype="seg" mid="6">Podle typu stránky a jejího obsahu, můžete:</mrk></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Add, move, and remove fields.</source><seg-source><mrk mtype="seg" mid="7">Add, move, and remove fields.</mrk></seg-source><target><mrk mtype="seg" mid="7">Přidat, přesunout nebo odstranit pole.</mrk></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Add, move, and remove columns in a list.</source><seg-source><mrk mtype="seg" mid="8">Add, move, and remove columns in a list.</mrk></seg-source><target><mrk mtype="seg" mid="8">Přidat, přesunout nebo odstranit sloupce v seznamu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Change the freeze pane of columns in a list.</source><seg-source><mrk mtype="seg" mid="9">Change the freeze pane of columns in a list.</mrk></seg-source><target><mrk mtype="seg" mid="9">Změnit ukotvení podokna sloupců v seznamu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>The freeze pane locks one or more columns to the left side of a list so that are always present, even when you scroll horizontally.</source><seg-source><mrk mtype="seg" mid="10">The freeze pane locks one or more columns to the left side of a list so that are always present, even when you scroll horizontally.</mrk></seg-source><target><mrk mtype="seg" mid="10">Ukotvení podokna uzamče jeden nebo více sloupců na levé straně seznamu tak, aby byly vždy k dispozici, i když horizontálně rolujete.</mrk></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Adjust the width of columns in a list.</source><seg-source><mrk mtype="seg" mid="11">Adjust the width of columns in a list.</mrk></seg-source><target><mrk mtype="seg" mid="11">Upravit šířku sloupců v seznamu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Move and remove Cues (tiles).</source><seg-source><mrk mtype="seg" mid="12">Move and remove Cues (tiles).</mrk></seg-source><target><mrk mtype="seg" mid="12">Přesunout nebo odstranit Hromádky (dlaždice).</mrk></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Move and remove parts.</source><seg-source><mrk mtype="seg" mid="13">Move and remove parts.</mrk></seg-source><target><mrk mtype="seg" mid="13">Přesunout nebo odstranit díly.</mrk></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Parts are subdivisions or areas on a page that contain things like multiple fields, another page, a chart, or tiles.</source><seg-source><mrk mtype="seg" mid="14">Parts are subdivisions or areas on a page that contain things like multiple fields, another page, a chart, or tiles.</mrk></seg-source><target><mrk mtype="seg" mid="14">Díly jsou podsekce nebo oblasti na stránce, která obsahuje věci, jako například více polí, jinou stránku, graf nebo dlaždice.</mrk></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>In addition to what users can personalize, administrators and super users can override users' personalizations and define which features are accessible in all or specific companies.</source><seg-source><mrk mtype="seg" mid="15">In addition to what users can personalize, administrators and super users can override users' personalizations and define which features are accessible in all or specific companies.</mrk></seg-source><target><mrk mtype="seg" mid="15">Kromě toho, co si uživatelé mohou přizpůsobit, i administrátoři a superuživatelé mohou přepisovat přizpůsobení uživatelů a definovat, které funkce jsou dostupné ve všech nebo jen v konkrétních společnostech.</mrk></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Customizing Business Central<ept id="p1">](ui-customizing-overview.md)</ept>.</source><seg-source><mrk mtype="seg" mid="16">For more information, see <bpt id="p1">[</bpt>Customizing Business Central<ept id="p1">](ui-customizing-overview.md)</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="16">Pro více informací, navštivte <bpt id="p1">[</bpt>Přizpůsobení Business Central<ept id="p1">](ui-customizing-overview.md)</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>To personalize a page</source><seg-source><mrk mtype="seg" mid="17">To personalize a page</mrk></seg-source><target><mrk mtype="seg" mid="17">Pro přizpůsobení stránky</mrk></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>In the upper-right corner, select the <bpt id="p1">![</bpt>Settings<ept id="p1">]</ept><bpt id="p2">(media/ui-experience/settings_icon_small.png "</bpt>Settings icon for role center<ept id="p2">")</ept> icon, and then <bpt id="p3">**</bpt>Personalize<ept id="p3">**</ept>.</source><seg-source><mrk mtype="seg" mid="18">In the upper-right corner, select the <bpt id="p1">![</bpt>Settings<ept id="p1">]</ept><bpt id="p2">(media/ui-experience/settings_icon_small.png "</bpt>Settings icon for role center<ept id="p2">")</ept> icon, and then <bpt id="p3">**</bpt>Personalize<ept id="p3">**</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="18">V pravém horním rohu vyberte <bpt id="p1">![</bpt>Nastavení<ept id="p1">]</ept> <bpt id="p2">(media/ui-experience/settings_icon_small.png "</bpt>ikona Nastavení pro ikonu Cetra rolí<ept id="p2">")</ept> a poté <bpt id="p3">**</bpt>Přizpůsobit<ept id="p3">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">**</bpt>Personalizing<ept id="p1">**</ept> banner appears at the top to indicate that you can start making changes.</source><seg-source><mrk mtype="seg" mid="19">The <bpt id="p1">**</bpt>Personalizing<ept id="p1">**</ept> banner appears at the top to indicate that you can start making changes.</mrk></seg-source><target><mrk mtype="seg" mid="19">Banner <bpt id="p1">**</bpt>Přizpůsobení<ept id="p1">**</ept>  se objeví v horní části, aby naznačil, že můžete začít dělat změny.</mrk></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">![</bpt>Personalize mode<ept id="p1">]</ept><bpt id="p2">(media/ui_personalize_mode_small.png "</bpt>Personalize mode<ept id="p2">")</ept></source><seg-source><mrk mtype="seg" mid="20"><bpt id="p1">![</bpt>Personalize mode<ept id="p1">]</ept><bpt id="p2">(media/ui_personalize_mode_small.png "</bpt>Personalize mode<ept id="p2">")</ept></mrk></seg-source><target><mrk mtype="seg" mid="20"><bpt id="p1">![</bpt>Mód přizpůsobení<ept id="p1">]</ept><bpt id="p2">(media/ui_personalize_mode_small.png "</bpt>Mód přizpůsobení<ept id="p2">")</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Go to a page that you want to personalize.</source><seg-source><mrk mtype="seg" mid="21">Go to a page that you want to personalize.</mrk></seg-source><target><mrk mtype="seg" mid="21">Přejděte na stránku, kterou chcete přizpůsobit.</mrk></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>If you see a lock icon in the banner, see <bpt id="p1">[</bpt>Why the page is locked<ept id="p1">](ui-personalization-locked.md)</ept> for more details.</source><seg-source><mrk mtype="seg" mid="22">If you see a lock icon in the banner, see <bpt id="p1">[</bpt>Why the page is locked<ept id="p1">](ui-personalization-locked.md)</ept> for more details.</mrk></seg-source><target><mrk mtype="seg" mid="22">Pokud v banneru vidíte ikonu zámku, přejděte na <bpt id="p1">[</bpt>Proč je stránka uzamčena<ept id="p1">](ui-personalization-locked.md)</ept> pro více podrobností.</mrk></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Point to an area that you want to personalize, such as a field or column header in a list.</source><seg-source><mrk mtype="seg" mid="23">Point to an area that you want to personalize, such as a field or column header in a list.</mrk></seg-source><target><mrk mtype="seg" mid="23">Přesuňte ukazatel na oblast, kterou chcete přizpůsobit, například pole nebo záhlaví sloupce seznamu.</mrk></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Anything that you can personalize is immediately highlighted with an arrow or border.</source><seg-source><mrk mtype="seg" mid="24">Anything that you can personalize is immediately highlighted with an arrow or border.</mrk></seg-source><target><mrk mtype="seg" mid="24">Vše, co můžete přizpůsobit, je okamžitě zvýrazněno šipkou nebo rámečkem.</mrk></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Use this table to help make changes: <ph id="ph1">    </ph></source><seg-source><mrk mtype="seg" mid="25">Use this table to help make changes:</mrk> <ph id="ph1">    </ph></seg-source><target><mrk mtype="seg" mid="25">Použijte tuto tabulku pro pomoc k provedení změn:</mrk> <ph id="ph1">    </ph></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>What do you want to do</source><seg-source><mrk mtype="seg" mid="26">What do you want to do</mrk></seg-source><target><mrk mtype="seg" mid="26">Co chcete dělat</mrk></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>How to do it</source><seg-source><mrk mtype="seg" mid="27">How to do it</mrk></seg-source><target><mrk mtype="seg" mid="27">Jak to chcete dělat</mrk></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Move something, like a field, column in list, tile, or part</source><seg-source><mrk mtype="seg" mid="28">Move something, like a field, column in list, tile, or part</mrk></seg-source><target><mrk mtype="seg" mid="28">Něco přesunout, například pole, sloupec v seznamu, dlaždici nebo díl</mrk></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Point anywhere on what you want to move, and drag it to its new location.</source><seg-source><mrk mtype="seg" mid="29">Point anywhere on what you want to move, and drag it to its new location.</mrk></seg-source><target><mrk mtype="seg" mid="29">Přesuňte ukazatel na cokoliv, co chcete přesunout a přetáhňete to na nové místo.</mrk></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>The location is indicated by either a thick horizontal or vertical line.</source><seg-source><mrk mtype="seg" mid="30">The location is indicated by either a thick horizontal or vertical line.</mrk></seg-source><target><mrk mtype="seg" mid="30">Místo je označeno silnou vodorovnou nebo svislou čarou.</mrk></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Remove something</source><seg-source><mrk mtype="seg" mid="31">Remove something</mrk></seg-source><target><mrk mtype="seg" mid="31">Odstranění</mrk></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Select the arrowhead, and choose <bpt id="p1">&lt;b&gt;</bpt>Remove<ept id="p1">&lt;/b&gt;</ept>.</source><seg-source><mrk mtype="seg" mid="32">Select the arrowhead, and choose <bpt id="p1">&lt;b&gt;</bpt>Remove<ept id="p1">&lt;/b&gt;</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="32">Vyberte hrot šipky a zvolte <bpt id="p1">&lt;b&gt;</bpt>Odstranit<ept id="p1">&lt;/b&gt;</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Add a field or column</source><seg-source><mrk mtype="seg" mid="33">Add a field or column</mrk></seg-source><target><mrk mtype="seg" mid="33">Přidání pole nebo sloupce</mrk></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">&lt;b&gt;</bpt>Personalizing<ept id="p1">&lt;/b&gt;</ept> banner, choose <bpt id="p2">&lt;b&gt;</bpt>More<ept id="p2">&lt;/b&gt;</ept>, and then choose <bpt id="p3">&lt;b&gt;</bpt>Field<ept id="p3">&lt;/b&gt;</ept>.</source><seg-source><mrk mtype="seg" mid="34">In the <bpt id="p1">&lt;b&gt;</bpt>Personalizing<ept id="p1">&lt;/b&gt;</ept> banner, choose <bpt id="p2">&lt;b&gt;</bpt>More<ept id="p2">&lt;/b&gt;</ept>, and then choose <bpt id="p3">&lt;b&gt;</bpt>Field<ept id="p3">&lt;/b&gt;</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="34">V banneru <bpt id="p1">&lt;b&gt;</bpt>Přizpůsobení<ept id="p1">&lt;/b&gt;</ept>, zvolte <bpt id="p2">&lt;b&gt;</bpt>Více<ept id="p2">&lt;/b&gt;</ept> a poté zvolte <bpt id="p3">&lt;b&gt;</bpt>Pole<ept id="p3">&lt;/b&gt;</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">&lt;b&gt;</bpt>Add Field to Page<ept id="p1">&lt;/b&gt;</ept> pane opens on the right.</source><seg-source><mrk mtype="seg" mid="35">The <bpt id="p1">&lt;b&gt;</bpt>Add Field to Page<ept id="p1">&lt;/b&gt;</ept> pane opens on the right.</mrk></seg-source><target><mrk mtype="seg" mid="35">Podokno <bpt id="p1">&lt;b&gt;</bpt>Přidat pole na stránku<ept id="p1">&lt;/b&gt;</ept> se napravo otevře.</mrk></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>It lists the fields that you can add to the page.</source><seg-source><mrk mtype="seg" mid="36">It lists the fields that you can add to the page.</mrk></seg-source><target><mrk mtype="seg" mid="36">Uvádí pole, která můžete na stránku přidat.</mrk></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Fields marked as <bpt id="p1">&lt;b&gt;</bpt>Placed<ept id="p1">&lt;/b&gt;</ept> are already on the page.</source><seg-source><mrk mtype="seg" mid="37">Fields marked as <bpt id="p1">&lt;b&gt;</bpt>Placed<ept id="p1">&lt;/b&gt;</ept> are already on the page.</mrk></seg-source><target><mrk mtype="seg" mid="37">Pole označená jako <bpt id="p1">&lt;b&gt;</bpt>Umístěno<ept id="p1">&lt;/b&gt;</ept> jsou již na stránce.</mrk></target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Fields marked as <bpt id="p1">&lt;b&gt;</bpt>Ready<ept id="p1">&lt;/b&gt;</ept> are not currently on the page.</source><seg-source><mrk mtype="seg" mid="38">Fields marked as <bpt id="p1">&lt;b&gt;</bpt>Ready<ept id="p1">&lt;/b&gt;</ept> are not currently on the page.</mrk></seg-source><target><mrk mtype="seg" mid="38">Pole označená jako <bpt id="p1">&lt;b&gt;</bpt>Připraveno<ept id="p1">&lt;/b&gt;</ept> nejsou aktuálně na stránce.</mrk></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>To add a field, drag it from the pane to the location that you want it.</source><seg-source><mrk mtype="seg" mid="39">To add a field, drag it from the pane to the location that you want it.</mrk></seg-source><target><mrk mtype="seg" mid="39">Pro přidání pole, přetáhněte jej z podokna na potřebné místo.</mrk></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>The location is indicated by either a thick horizontal or vertical line.</source><seg-source><mrk mtype="seg" mid="40">The location is indicated by either a thick horizontal or vertical line.</mrk></seg-source><target><mrk mtype="seg" mid="40">Místo je označeno silnou vodorovnou nebo svislou čarou.</mrk></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Change the freeze pane in a list to another column</source><seg-source><mrk mtype="seg" mid="41">Change the freeze pane in a list to another column</mrk></seg-source><target><mrk mtype="seg" mid="41">Změnit ukotvení podokna v seznamu do jiného sloupce</mrk></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Select the arrowhead of the column that you want as the last column of the freeze pane, and then choose <bpt id="p1">&lt;b&gt;</bpt>Set Freeze Pane<ept id="p1">&lt;/b&gt;</ept>.</source><seg-source><mrk mtype="seg" mid="42">Select the arrowhead of the column that you want as the last column of the freeze pane, and then choose <bpt id="p1">&lt;b&gt;</bpt>Set Freeze Pane<ept id="p1">&lt;/b&gt;</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="42">Vyberte hrot šipky sloupce, který chcete jako poslední sloupec ukotvení podokna a pak zvolte <bpt id="p1">&lt;b&gt;</bpt>Nastavit podokno<ept id="p1">&lt;/b&gt;</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>If you want to set the freeze pane back to its original designed location, select the arrowhead for the current freeze pane column, and choose <bpt id="p1">&lt;b&gt;</bpt>Clear Freeze Pane<ept id="p1">&lt;/b&gt;</ept>.</source><seg-source><mrk mtype="seg" mid="43">If you want to set the freeze pane back to its original designed location, select the arrowhead for the current freeze pane column, and choose <bpt id="p1">&lt;b&gt;</bpt>Clear Freeze Pane<ept id="p1">&lt;/b&gt;</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="43">Pokud chcete nastavit ukotvení podokna zpět na původní navržené umístění, vyberte hrot šipky pro aktuální ukotvené podokno sloupce a zvolte <bpt id="p1">&lt;b&gt;</bpt>Vyčistit podokno<ept id="p1">&lt;/b&gt;</ept></mrk></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Note: You cannot remove this freeze pane.</source><seg-source><mrk mtype="seg" mid="44">Note:</mrk> <mrk mtype="seg" mid="45">You cannot remove this freeze pane.</mrk></seg-source><target><mrk mtype="seg" mid="44">Poznámka:</mrk> <mrk mtype="seg" mid="45">Nemůžete smazat toto ukotvení podokna.</mrk></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Change the width of a column</source><seg-source><mrk mtype="seg" mid="46">Change the width of a column</mrk></seg-source><target><mrk mtype="seg" mid="46">Změnit šířku sloupce</mrk></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>In the table header row, drag the column's right border.</source><seg-source><mrk mtype="seg" mid="47">In the table header row, drag the column's right border.</mrk></seg-source><target><mrk mtype="seg" mid="47">V záhlaví řádku tabulky přetáhněte pravé ohraničení sloupce.</mrk></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>To maximize the column width to fit the longest line of text in the column, double-click the right border.</source><seg-source><mrk mtype="seg" mid="48">To maximize the column width to fit the longest line of text in the column, double-click the right border.</mrk></seg-source><target><mrk mtype="seg" mid="48">Chcete-li maximalizovat šířku sloupce tak, aby se vešel i nejdelší řádek textu ve sloupci, dvakrát klikněte na pravý okraj.</mrk></target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>You cannot make changes to a list if the list is shown as tiles.</source><seg-source><mrk mtype="seg" mid="49">You cannot make changes to a list if the list is shown as tiles.</mrk></seg-source><target><mrk mtype="seg" mid="49">Nemůžete provádět změny v listu, pokud je list zobrazen v dlaždicích.</mrk></target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>You must first switch the page to the list view by selecting the <bpt id="p1">![</bpt>Show as list<ept id="p1">]</ept><bpt id="p2">(media/ui_show_as_list_icon.png "</bpt>Show as list arrow left<ept id="p2">")</ept> icon.</source><seg-source><mrk mtype="seg" mid="50">You must first switch the page to the list view by selecting the <bpt id="p1">![</bpt>Show as list<ept id="p1">]</ept><bpt id="p2">(media/ui_show_as_list_icon.png "</bpt>Show as list arrow left<ept id="p2">")</ept> icon.</mrk></seg-source><target><mrk mtype="seg" mid="50">Nejprve musíte přepnou stránku do zobrazení seznamu výběrem ikony <bpt id="p1">![</bpt>Zobrazit jako seznam<ept id="p1">]</ept><bpt id="p2">(media/ui_show_as_list_icon.png "</bpt>Zobrazit jako seznam vlevo<ept id="p2">")</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>You can continue to make changes on the same page or move to another page.</source><seg-source><mrk mtype="seg" mid="51">You can continue to make changes on the same page or move to another page.</mrk></seg-source><target><mrk mtype="seg" mid="51">Můžete pokračovat v provádění změn na stejné stránce nebo se můžete přesunout na jinou stránku.</mrk></target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Your changes are automatically saved as you make them.</source><seg-source><mrk mtype="seg" mid="52">Your changes are automatically saved as you make them.</mrk></seg-source><target><mrk mtype="seg" mid="52">Vaše změny jsou automaticky ukládány při jejich provádění.</mrk></target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>When you are done, in the <bpt id="p1">**</bpt>Personalizing<ept id="p1">**</ept> banner, choose <bpt id="p2">**</bpt>Done<ept id="p2">**</ept>.</source><seg-source><mrk mtype="seg" mid="53">When you are done, in the <bpt id="p1">**</bpt>Personalizing<ept id="p1">**</ept> banner, choose <bpt id="p2">**</bpt>Done<ept id="p2">**</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="53">Po dokončení v banneru <bpt id="p1">**</bpt>Přizpůsobení<ept id="p1">**</ept> vyberte <bpt id="p2">**</bpt>Hotovo<ept id="p2">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>Clear personalization to change a page back to its original layout</source><seg-source><mrk mtype="seg" mid="54">Clear personalization to change a page back to its original layout</mrk></seg-source><target><mrk mtype="seg" mid="54">Vymazáním přizpůsobení změníte stránku zpět na původní rozvržení.</mrk></target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>At some point, you might want to undo all the personalization changes that you have made to a page over time so that page looks like it did originally.</source><seg-source><mrk mtype="seg" mid="55">At some point, you might want to undo all the personalization changes that you have made to a page over time so that page looks like it did originally.</mrk></seg-source><target><mrk mtype="seg" mid="55">V některých případech můžete chtít vrátit zpět všechny změny přizpůsobení, které jste na stránce provedli v průběhu času, takže tato stránka bude vypadat jako původně.</mrk></target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>To do this, in the <bpt id="p1">**</bpt>Personalizing<ept id="p1">**</ept> banner, choose <bpt id="p2">**</bpt>More<ept id="p2">**</ept>, and then <bpt id="p3">**</bpt>Clear personalization<ept id="p3">**</ept>.</source><seg-source><mrk mtype="seg" mid="56">To do this, in the <bpt id="p1">**</bpt>Personalizing<ept id="p1">**</ept> banner, choose <bpt id="p2">**</bpt>More<ept id="p2">**</ept>, and then <bpt id="p3">**</bpt>Clear personalization<ept id="p3">**</ept>.</mrk></seg-source><target><mrk mtype="seg" mid="56">V banneru <bpt id="p1">**</bpt>Přizpůsobení<ept id="p1">**</ept>, zvolte <bpt id="p2">**</bpt>Více<ept id="p2">**</ept> a poté zvolte <bpt id="p3">**</bpt>Vyčisti přizpůsobení<ept id="p3">**</ept>.</mrk></target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>Personalization in detail</source><seg-source><mrk mtype="seg" mid="57">Personalization in detail</mrk></seg-source><target><mrk mtype="seg" mid="57">Přizpůsobení v detailu</mrk></target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>To help you better understand personalization, here are some pointers.</source><seg-source><mrk mtype="seg" mid="58">To help you better understand personalization, here are some pointers.</mrk></seg-source><target><mrk mtype="seg" mid="58">Zde je několik bodů, která vám pomohou lépe porozumět přizpůsobení:</mrk></target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>When you make changes to a card page that you open from a list, the changes will take effect on all records that you open from that list.</source><seg-source><mrk mtype="seg" mid="59">When you make changes to a card page that you open from a list, the changes will take effect on all records that you open from that list.</mrk></seg-source><target><mrk mtype="seg" mid="59">Když provedete změny na stránce karty, kterou otevřete ze seznamu, změny se projeví na všech záznamech, které z tohoto seznamu otevřete.</mrk></target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>For example, let's say you open a specific customer from the Customers list page, and then personalize the page by adding a field.</source><seg-source><mrk mtype="seg" mid="60">For example, let's say you open a specific customer from the Customers list page, and then personalize the page by adding a field.</mrk></seg-source><target><mrk mtype="seg" mid="60">Řekněme například, že otevřete konkrétního zákazníka ze stránky Seznam zákazníků a poté stránku přizpůsobíme přidáním pole.</mrk></target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>When you open other customers from the list, the field that you added will also be shown.</source><seg-source><mrk mtype="seg" mid="61">When you open other customers from the list, the field that you added will also be shown.</mrk></seg-source><target><mrk mtype="seg" mid="61">Když otevřete další zákazníky ze seznamu, zobrazí se také pole, které jste přidali.</mrk></target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>Changes that you make will take effect on all your Role Centers.</source><seg-source><mrk mtype="seg" mid="62">Changes that you make will take effect on all your Role Centers.</mrk></seg-source><target><mrk mtype="seg" mid="62">Změny, které provedete, se projeví ve všech vašich Centrech Rolí.</mrk></target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>For example, if you make a change to the Customer list when the Role Center is set to Business Manager, you will also see the change in the Customer list when Role Center is set to Sales Order Processor.</source><seg-source><mrk mtype="seg" mid="63">For example, if you make a change to the Customer list when the Role Center is set to Business Manager, you will also see the change in the Customer list when Role Center is set to Sales Order Processor.</mrk></seg-source><target><mrk mtype="seg" mid="63">Pokud například změníte Seznam zákazníků, když je Centra rolí nastaveno na Obchodní ředitel, uvidíte také změnu v Seznamu zákazníků, když je Centrum rolí nastaveno na Zpracovatel prodejních objednávek.</mrk></target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>Changes to a page in a pane will take effect on the page where ever it is shown.</source><seg-source><mrk mtype="seg" mid="64">Changes to a page in a pane will take effect on the page where ever it is shown.</mrk></seg-source><target><mrk mtype="seg" mid="64">Změny na stránce v podokně se projeví na stránce, kdekoliv je zobrazena.</mrk></target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>You can only add fields and columns from a predefined list, which is based on the page.</source><seg-source><mrk mtype="seg" mid="65">You can only add fields and columns from a predefined list, which is based on the page.</mrk></seg-source><target><mrk mtype="seg" mid="65">Pole a sloupce můžete přidat pouze z předdefinovaného seznamu, který je založen na stránce.</mrk></target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>You cannot create new ones.</source><seg-source><mrk mtype="seg" mid="66">You cannot create new ones.</mrk></seg-source><target><mrk mtype="seg" mid="66">Nemůžete vytvářet nové.</mrk></target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>See Also</source><seg-source><mrk mtype="seg" mid="67">See Also</mrk></seg-source><target><mrk mtype="seg" mid="67">Viz také</mrk></target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Managing Personalization<ept id="p1">](ui-personalization-manage.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="68">Managing Personalization</mrk><ept id="p1">](ui-personalization-manage.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="68">Správa přizpůsobení</mrk><ept id="p1">](ui-personalization-manage.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="69">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="69">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Changing Basic Settings<ept id="p1">](ui-change-basic-settings.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="70">Changing Basic Settings</mrk><ept id="p1">](ui-change-basic-settings.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="70">Změna základního nastavení</mrk><ept id="p1">](ui-change-basic-settings.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Changing Which Features are Displayed<ept id="p1">](ui-experiences.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="71">Changing Which Features are Displayed</mrk><ept id="p1">](ui-experiences.md)</ept></seg-source><target><bpt id="p1">[</bpt><mrk mtype="seg" mid="71">Změna zobrazovaných funkcí</mrk><ept id="p1">](ui-experiences.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
