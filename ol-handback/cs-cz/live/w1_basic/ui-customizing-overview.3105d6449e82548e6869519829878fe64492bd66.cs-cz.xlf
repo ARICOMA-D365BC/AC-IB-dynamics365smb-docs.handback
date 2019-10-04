@@ -28,7 +28,7 @@
           <source>Those who see the changes will depend on what you do, as described in this table.</source><seg-source><mrk mtype="seg" mid="5">Those who see the changes will depend on what you do, as described in this table.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="5">Ti, kteří vidí změny, budou záviset na vašich akcích, jak popisuje tato tabulka.</mrk></target>
         </trans-unit>
         <trans-unit id="106" translate="yes" xml:space="preserve">
-          <source>What you can do</source><seg-source><mrk mtype="seg" mid="6">What you can do</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="6">Co můžete udělat</mrk></target>
+          <source>What you can do</source><seg-source><mrk mtype="seg" mid="6">What you can do</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="6">Proveditelné změny</mrk></target>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
           <source>Description</source><seg-source><mrk mtype="seg" mid="7">Description</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Popis</mrk></target>
@@ -52,7 +52,7 @@
           <source>All users in all companies.</source><seg-source><mrk mtype="seg" mid="13">All users in all companies.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="13">Všichni uživatelé ve všech společnostech.</mrk></target>
         </trans-unit>
         <trans-unit id="114" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Customizing Using Extensions<ept id="p1">](ui-extensions.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="14">Customizing Using Extensions</mrk><ept id="p1">](ui-extensions.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="14">Přizpůsobení  Pomocí rozšíření</mrk><ept id="p1">](ui-extensions.md)</ept></target>
+          <source><bpt id="p1">[</bpt>Customizing Using Extensions<ept id="p1">](ui-extensions.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="14">Customizing Using Extensions</mrk><ept id="p1">](ui-extensions.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="14">Přizpůsobení pomocí rozšíření</mrk><ept id="p1">](ui-extensions.md)</ept></target>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
           <source>Change the Experience</source><seg-source><mrk mtype="seg" mid="15">Change the Experience</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="15">Změna Experience</mrk></target>

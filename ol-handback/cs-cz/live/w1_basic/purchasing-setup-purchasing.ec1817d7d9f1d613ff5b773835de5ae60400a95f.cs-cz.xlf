@@ -16,10 +16,10 @@
           <source>Overview of Tasks to Set Up Purchasing | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Overview of Tasks to Set Up Purchasing | Microsoft Docs</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="1">Přehled úkonů pro nastavení nákupu | Microsoft Docs</mrk></target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
-          <source>Describes the tasks to define your company's procurement policies and set up your purchasing processes.</source><seg-source><mrk mtype="seg" mid="2">Describes the tasks to define your company's procurement policies and set up your purchasing processes.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="2">Popisuje úkony k definici zásad zadávání zakázek vaší společnosti a nastavuje nákupní procesy.</mrk></target>
+          <source>Describes the tasks to define your company's procurement policies and set up your purchasing processes.</source><seg-source><mrk mtype="seg" mid="2">Describes the tasks to define your company's procurement policies and set up your purchasing processes.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="2">Popisuje úkony nutné k definici zásad zadávání zakázek vaší společnosti, a nastavuje nákupní procesy.</mrk></target>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
-          <source>Setting Up Purchasing</source><seg-source><mrk mtype="seg" mid="3">Setting Up Purchasing</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="3">Nastavení Nákupu</mrk></target>
+          <source>Setting Up Purchasing</source><seg-source><mrk mtype="seg" mid="3">Setting Up Purchasing</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="3">Nastavení nákupu</mrk></target>
         </trans-unit>
         <trans-unit id="104" translate="yes" xml:space="preserve">
           <source>Before you can manage purchase processes, you must configure the rules and values that define the company's purchase policies.</source><seg-source><mrk mtype="seg" mid="4">Before you can manage purchase processes, you must configure the rules and values that define the company's purchase policies.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="4">Než budete moci spravovat nákupní procesy, musíte nakonfigurovat pravidla a hodnoty, které definují nákupní zásady společnosti.</mrk></target>
@@ -43,7 +43,7 @@
           <source>To</source><seg-source><mrk mtype="seg" mid="10">To</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="10">Viz</mrk></target>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
-          <source>See</source><seg-source><mrk mtype="seg" mid="11">See</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">také</mrk></target>
+          <source>See</source><seg-source><mrk mtype="seg" mid="11">See</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">Více informací viz</mrk></target>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
           <source>Create a vendor card for each vendor that you purchase from</source><seg-source><mrk mtype="seg" mid="12">Create a vendor card for each vendor that you purchase from</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="12">Vytvořte kartu dodavatele pro každého dodavatele, od kterého nakupujete</mrk></target>
@@ -73,7 +73,7 @@
           <source>See Also</source><seg-source><mrk mtype="seg" mid="20">See Also</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="20">Viz také</mrk></target>
         </trans-unit>
         <trans-unit id="121" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Purchasing<ept id="p1">](purchasing-manage-purchasing.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="21">Purchasing</mrk><ept id="p1">](purchasing-manage-purchasing.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="21">Nakupování</mrk><ept id="p1">](purchasing-manage-purchasing.md)</ept></target>
+          <source><bpt id="p1">[</bpt>Purchasing<ept id="p1">](purchasing-manage-purchasing.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="21">Purchasing</mrk><ept id="p1">](purchasing-manage-purchasing.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="21">Nákup</mrk><ept id="p1">](purchasing-manage-purchasing.md)</ept></target>
         </trans-unit>
         <trans-unit id="122" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="22">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="22">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>

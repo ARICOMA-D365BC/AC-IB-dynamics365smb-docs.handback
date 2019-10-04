@@ -43,7 +43,7 @@
           <source>This includes outlook.com, hotmail.com, gmail.com, and others.</source><seg-source><mrk mtype="seg" mid="10">This includes outlook.com, hotmail.com, gmail.com, and others.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="10">To zahrnuje outlook.com, hotmail.com, gmail.com a další.</mrk></target>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
-          <source>If you try to sign up with a personal email address, you will get a message indicating to use a work or school email address.</source><seg-source><mrk mtype="seg" mid="11">If you try to sign up with a personal email address, you will get a message indicating to use a work or school email address.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">Pokud se pokusíte zaregistrovat pomocí své osobní e-mailové adresy, zobrazí se zpráva, že bude třeba použít pracovní nebo školní e-mailovou adresu.</mrk></target>
+          <source>If you try to sign up with a personal email address, you will get a message indicating to use a work or school email address.</source><seg-source><mrk mtype="seg" mid="11">If you try to sign up with a personal email address, you will get a message indicating to use a work or school email address.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">Pokud se pokusíte zaregistrovat pomocí své osobní e-mailové adresy, zobrazí se zpráva, že je třeba použít pracovní nebo školní e-mailovou adresu.</mrk></target>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
           <source>Troubleshooting</source><seg-source><mrk mtype="seg" mid="12">Troubleshooting</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="12">Odstraňování problémů</mrk></target>
@@ -55,13 +55,13 @@
           <source>However, there are several reasons why you may not be able to complete self-service signup.</source><seg-source><mrk mtype="seg" mid="14">However, there are several reasons why you may not be able to complete self-service signup.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="14">Existuje však několik důvodů, proč nemusí být možné samostatnou registraci dokončit.</mrk></target>
         </trans-unit>
         <trans-unit id="115" translate="yes" xml:space="preserve">
-          <source>The table below summarizes some of the most common reasons you may not be able to complete signup and ways you can workaround these issues.</source><seg-source><mrk mtype="seg" mid="15">The table below summarizes some of the most common reasons you may not be able to complete signup and ways you can workaround these issues.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="15">Níže uvedená tabulka shrnuje některé nejčastější důvody, proč není možné registraci dokončit, a způsoby, jakými tyto problémy vyřešit.</mrk></target>
+          <source>The table below summarizes some of the most common reasons you may not be able to complete signup and ways you can workaround these issues.</source><seg-source><mrk mtype="seg" mid="15">The table below summarizes some of the most common reasons you may not be able to complete signup and ways you can workaround these issues.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="15">Níže uvedená tabulka shrnuje některé nejčastější důvody proč není možné registraci dokončit, a způsoby, jakými tyto problémy vyřešit.</mrk></target>
         </trans-unit>
         <trans-unit id="116" translate="yes" xml:space="preserve">
-          <source>Symptom/Error Message</source><seg-source><mrk mtype="seg" mid="16">Symptom/Error Message</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="16">Příznak / Chybová zpráva</mrk></target>
+          <source>Symptom/Error Message</source><seg-source><mrk mtype="seg" mid="16">Symptom/Error Message</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="16">Příznak / chybová zpráva</mrk></target>
         </trans-unit>
         <trans-unit id="117" translate="yes" xml:space="preserve">
-          <source>Cause and Workaround</source><seg-source><mrk mtype="seg" mid="17">Cause and Workaround</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="17">Příčina a Řešení</mrk></target>
+          <source>Cause and Workaround</source><seg-source><mrk mtype="seg" mid="17">Cause and Workaround</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="17">Příčina a řešení</mrk></target>
         </trans-unit>
         <trans-unit id="118" translate="yes" xml:space="preserve">
           <source>For Office 365 email addresses that are not registered in a supported country, you receive a message like the following during signup:</source><seg-source><mrk mtype="seg" mid="18">For Office 365 email addresses that are not registered in a supported country, you receive a message like the following during signup:</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="18">U e-mailových adres Office 365, které nejsou registrovány v podporované zemi, se během registrace zobrazí následující zpráva:</mrk></target>
@@ -196,7 +196,7 @@
           <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="75">Working with</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="75">Práce s</mrk> <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
         </trans-unit>
         <trans-unit id="162" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Local Functionality<ept id="p1">](about-localization.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="76">Local Functionality</mrk><ept id="p1">](about-localization.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="76">Místní funkcionality</mrk><ept id="p1">](about-localization.md)</ept></target>
+          <source><bpt id="p1">[</bpt>Local Functionality<ept id="p1">](about-localization.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="76">Local Functionality</mrk><ept id="p1">](about-localization.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="76">Místní funkcionalita</mrk><ept id="p1">](about-localization.md)</ept></target>
         </trans-unit>
       </group>
     </body>

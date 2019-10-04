@@ -61,7 +61,7 @@
           <source>What was the largest sale order last week, month, or last three months?</source><seg-source><mrk mtype="seg" mid="16">What was the largest sale order last week, month, or last three months?</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="16">Jaká byla největší prodejní objednávka minulý týden, měsíc nebo poslední tři měsíce?</mrk></target>
         </trans-unit>
         <trans-unit id="117" translate="yes" xml:space="preserve">
-          <source>Who, or what, was the busiest resource, and what were the bookings?</source><seg-source><mrk mtype="seg" mid="17">Who, or what, was the busiest resource, and what were the bookings?</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="17">Kdo nebo co byl nejrušnějším zdrojem a jaké byly rezervace?</mrk></target>
+          <source>Who, or what, was the busiest resource, and what were the bookings?</source><seg-source><mrk mtype="seg" mid="17">Who, or what, was the busiest resource, and what were the bookings?</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="17">Kdo nebo co bylo nejrušnějším zdrojem a jaké byly rezervace?</mrk></target>
         </trans-unit>
         <trans-unit id="118" translate="yes" xml:space="preserve">
           <source>Have sales gone up in the last week, month, or three months, compared to the same period last year?</source><seg-source><mrk mtype="seg" mid="18">Have sales gone up in the last week, month, or three months, compared to the same period last year?</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="18">Vzrostly prodeje za poslední týden, měsíc nebo tři měsíce ve srovnání se stejným obdobím minulého roku?</mrk></target>
@@ -112,7 +112,7 @@
           <source>See Also</source><seg-source><mrk mtype="seg" mid="33">See Also</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="33">Viz také</mrk></target>
         </trans-unit>
         <trans-unit id="134" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Customizing <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Using Extensions<ept id="p1">](ui-extensions.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="34">Customizing <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Using Extensions</mrk><ept id="p1">](ui-extensions.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="34">Přizpůsobení <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Pomocí rozšíření</mrk><ept id="p1">](ui-extensions.md)</ept></target>
+          <source><bpt id="p1">[</bpt>Customizing <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Using Extensions<ept id="p1">](ui-extensions.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="34">Customizing <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> Using Extensions</mrk><ept id="p1">](ui-extensions.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="34">Přizpůsobení <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> pomocí rozšíření</mrk><ept id="p1">](ui-extensions.md)</ept></target>
         </trans-unit>
       </group>
     </body>

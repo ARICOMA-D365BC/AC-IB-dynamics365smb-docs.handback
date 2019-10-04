@@ -13,7 +13,7 @@
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
-          <source>Adding Information to Records to Yourself | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Adding Information to Records to Yourself | Microsoft Docs</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="1">Přidávání informací do Záznamů pro sebe | Microsoft Docs</mrk></target>
+          <source>Adding Information to Records to Yourself | Microsoft Docs</source><seg-source><mrk mtype="seg" mid="1">Adding Information to Records to Yourself | Microsoft Docs</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="1">Přidávání informací do záznamů pro sebe | Microsoft Docs</mrk></target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
           <source>Attach a note to any record in the application.</source><seg-source><mrk mtype="seg" mid="2">Attach a note to any record in the application.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="2">Připojte oznámení k libovolnému záznamu v aplikaci.</mrk></target>
