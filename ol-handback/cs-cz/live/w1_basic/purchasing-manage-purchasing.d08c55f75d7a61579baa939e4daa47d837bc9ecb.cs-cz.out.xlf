@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="purchasing-manage-purchasing.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-15c36f0" tool-company="Microsoft"></tool><xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">01bc8ca12f9ccee7565f6035a8d49cce74981037</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\purchasing-manage-purchasing.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fe2563d08b8b9aba1cd26d1cb77ab8401b6d9061</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1db7473ea921379c3480eb8dd39ea554db3762fa</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Overview of Tasks to Manage Purchasing | Microsoft Docs</source>
+        <target xml:lang="cs-CZ">Přehled úkolů pro správu nákupu | Micorosoft Docs</target>
+</trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Outlines tasks to manage your purchasing or procurement processes, including how purchase invoices and purchase orders work.</source>
+        <target xml:lang="cs-CZ">Popisuje úkoly pro správu procesů nákupu a nákupu, včetně způsobu práce nákupních faktur a nákupních objednávek.</target>
+</trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Purchasing</source>
+        <target xml:lang="cs-CZ">Nákup</target>
+</trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>You create a purchase invoice or purchase order to record the cost of purchases and to track accounts payable.</source>
+        <target xml:lang="cs-CZ">Můžete vytvářet nákupní fakturu nebo nákupní objednávku za účelem zaznamenání nákladů na nákupy a sledování závazků.</target>
+</trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>If you need to control an inventory, purchase invoices are also used to dynamically update inventory levels so that you can minimize your inventory costs and provide better customer service.</source>
+        <target xml:lang="cs-CZ">Pokud potřebujete kontrolovat zásoby, nákupní faktury se také používají k dynamické aktualizaci úrovní zásob, takže můžete minimalizovat náklady na zásoby a poskytovat lepší služby zákazníkům.</target>
+</trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>The purchasing costs, including service expenses, and inventory values that result from posting purchase invoices contribute to profit figures and other financial KPIs on your Role Center.</source>
+        <target xml:lang="cs-CZ">Náklady na nákup, včetně nákladů na služby a hodnoty zásob, které vyplývají z účtování nákupních faktur, přispívají k údajům o zisku a dalším finančním ukazatelům výkonnosti ve Vašem Centru rolí.</target>
+</trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>You must use purchase orders if your purchasing process requires that you record partial receipts of an order quantity, for example, because the full quantity was not available at the vendor.</source>
+        <target xml:lang="cs-CZ">Nákupní objednávky musíte použít, pokud nákupní proces vyžaduje, abyste evidovali částečné příjmy z množství objednávky, například proto, že celé množství nebylo u dodavatele k dispozici.</target>
+</trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>If you sell items by delivering directly from your vendor to your customer, as a drop shipment, then you must also use purchase orders.</source>
+        <target xml:lang="cs-CZ">Pokud prodáváte zboží s dodáním přímo od dodavatele zákazníkovi jako přímou dodávku, musíte také použít nákupní objednávky.</target>
+</trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Make Drop Shipments<ept id="p1">](sales-how-drop-shipment.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte <bpt id="p1">[</bpt>Vytvoření přímé dodávky<ept id="p1">](sales-how-drop-shipment.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>In all other aspects, purchase orders work the same way as purchase invoices.</source>
+        <target xml:lang="cs-CZ">Ve všech ostatních aspektech fungují nákupní objednávky stejným způsobem jako nákupní faktury.</target>
+</trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>You can have purchase invoices created automatically by using the OCR (Optical Character Recognition) service to convert PDF invoices from your vendors to electronic documents, which are then converted to purchase invoices by a workflow.</source>
+        <target xml:lang="cs-CZ">Nákupní faktury lze vytvářet automaticky pomocí služby OCR (Optical Character Recognition) k převodu faktur PDF od dodavatelů na elektronické dokumenty, které jsou pak převedeny na nákupní faktury.</target>
+</trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>To use this functionality, you must first sign up for the OCR service, and then perform various setup.</source>
+        <target xml:lang="cs-CZ">Chcete-li tuto funkci použít, musíte se nejprve zaregistrovat do služby OCR a poté provést různá nastavení.</target>
+</trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Process Incoming Documents<ept id="p1">](across-process-income-documents.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte <bpt id="p1">[</bpt>Zpracování Došlých dokladů<ept id="p1">](across-process-income-documents.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Products can be both inventory items and services.</source>
+        <target xml:lang="cs-CZ">Produkty mohou být skladové položky i služby.</target>
+</trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Register New Items<ept id="p1">](inventory-how-register-new-items.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte <bpt id="p1">[</bpt>Evidence nového zboží<ept id="p1">](inventory-how-register-new-items.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>For all purchase processes, you can incorporate an approval workflow, for example, to require that large purchases are approved by the accounting manager.</source>
+        <target xml:lang="cs-CZ">Pro všechny nákupní procesy můžete zahrnout Workflow pro schvalování, například pro vyžadování, aby účetní manažer schválil velké nákupy.</target>
+</trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Using Approval Workflows<ept id="p1">](across-how-use-approval-workflows.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte <bpt id="p1">[</bpt>Použití Workflow Schvalování<ept id="p1">](across-how-use-approval-workflows.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>The following table describes a sequence of tasks, with links to the topics that describe them.</source>
+        <target xml:lang="cs-CZ">Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je popisují.</target>
+</trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>To</source>
+        <target xml:lang="cs-CZ">Viz</target>
+</trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>See</source>
+        <target xml:lang="cs-CZ">také</target>
+</trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Create a purchase invoice to record your agreement with a vendor to purchase products on certain delivery and payment terms.</source>
+        <target xml:lang="cs-CZ">Vytvoření nákupní faktury za účelem zaznamenání smlouvy s dodavatelem za účelem zakoupení produktů s určitými dodacími a platebními podmínkami</target>
+</trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Record Purchases<ept id="p1">](purchasing-how-record-purchases.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Evidence nákupů<ept id="p1">](purchasing-how-record-purchases.md)</ept></target>
+</trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Create a purchase quote to reflect a request for quote from your vendor, which you can later convert to a purchase order.</source>
+        <target xml:lang="cs-CZ">Vytvořte nákupní poptávku, která bude odrážet požadavek na nabídku od vašeho dodavatele, kterou můžete později převést na nákupní objednávku.</target>
+</trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Request Quotes<ept id="p1">](purchasing-how-request-quotes.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Požadavky poptávky<ept id="p1">](purchasing-how-request-quotes.md)</ept></target>
+</trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Create a purchase invoice for all or selected lines on a sales invoice.</source>
+        <target xml:lang="cs-CZ">Vytvoření nákupní faktury pro všechny nebo vybrané řádky na prodejní faktuře.</target>
+</trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Purchase Items for a Sale<ept id="p1">](purchasing-how-purchase-products-sale.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nákup zboží pro prodej<ept id="p1">](purchasing-how-purchase-products-sale.md)</ept></target>
+</trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Perform an action on an unpaid posted purchase invoice to automatically create a credit memo and either cancel the purchase invoice or recreate it so you can make corrections.</source>
+        <target xml:lang="cs-CZ">Provedení akce s neplacenou zaúčtovanou nákupní fakturou pro automatické vytvoření dobropisu a stornování nákupní faktury nebo její opětovné vytvoření, aby bylo možné provést opravy</target>
+</trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Correct or Cancel Unpaid Sales Invoices<ept id="p1">](purchasing-how-correct-cancel-unpaid-purchase-invoices.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Opravit nebo zrušit nezaplacené prodejní faktury<ept id="p1">](purchasing-how-correct-cancel-unpaid-purchase-invoices.md)</ept></target>
+</trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Create a purchase credit memo to revert a specific posted purchase invoice to reflect which products you are returning to the vendor and which payment amount you will collect.</source>
+        <target xml:lang="cs-CZ">Vytvoření nákupního dobropisu pro vrácení určité zaúčtované nákupní faktury, která odráží produkty vracející se dodavateli a kterou částku platby shromáždíte.</target>
+</trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Process Purchase Returns or Cancellations<ept id="p1">](purchasing-how-register-new-vendors.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Zpracovat nákupní vratky nebo zrušení<ept id="p1">](purchasing-how-register-new-vendors.md)</ept></target>
+</trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Prepare to invoice multiple receipts from the same vendor once by combining the receipts on one invoice.</source>
+        <target xml:lang="cs-CZ">Příprava fakturace více příjmů od stejného dodavatele, a to kombinací příjemek na jedné faktuře.</target>
+</trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Combine Receipts on a Single Invoice<ept id="p1">](purchasing-how-to-combine-receipts.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Kombinace příjmů na jedné faktuře<ept id="p1">](purchasing-how-to-combine-receipts.md)</ept></target>
+</trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Learn how <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> calculates when you must order an item to receive it on a certain date.</source>
+        <target xml:lang="cs-CZ">Naučte se, jak &lt;x0 /> počítá, když musíte objednat zboží, aby se bylo přijato k určitému datu.<ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph></target>
+</trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Date Calculation for Purchases<ept id="p1">](purchasing-date-calculation-for-purchases.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Výpočet data pro nakupy<ept id="p1">](purchasing-date-calculation-for-purchases.md)</ept></target>
+</trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>See Also</source>
+        <target xml:lang="cs-CZ">Viz také</target>
+</trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Purchasing<ept id="p1">](purchasing-setup-purchasing.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nastavení nákupu<ept id="p1">](purchasing-setup-purchasing.md)</ept></target>
+</trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Register New Vendors<ept id="p1">](purchasing-how-register-new-vendors.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Evidence nových dodavatelům<ept id="p1">](purchasing-how-register-new-vendors.md)</ept></target>
+</trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Managing Payables<ept id="p1">](payables-manage-payables.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Správa závazků<ept id="p1">](payables-manage-payables.md)</ept></target>
+</trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Managing Projects<ept id="p1">](projects-manage-projects.md)</ept><ph id="ph1">  </ph></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Správa projektů<ept id="p1">](projects-manage-projects.md)</ept> <ph id="ph1">  </ph></target>
+</trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Práce s<ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+</trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>General Business Functionality<ept id="p1">](ui-across-business-areas.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Obecné obchodní funkcionality<ept id="p1">](ui-across-business-areas.md)</ept></target>
+</trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="inventory-manage-inventory.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-5ae97a8" tool-company="Microsoft"></tool><xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dc32b5e210332fe0fd73b6423441cb66a5c171fb</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\inventory-manage-inventory.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0a0c233071cca810a013775c61491a5ac417092f</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">72bce4663a8db6fd2008c86e91d5a1d87a547d67</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Managing Inventory| Microsoft Docs</source>
+        <target xml:lang="cs-CZ">Správa zásob| Microsoft Docs</target>
+</trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Describes how to manage the physical products that you trade in, for example, handling the stock in your warehouse.</source>
+        <target xml:lang="cs-CZ">Popisuje, jak spravovat fyzické produkty, se kterými obchodujete, například manipulaci se zásobami ve vašem skladu.</target>
+</trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Inventory</source>
+        <target xml:lang="cs-CZ">Zásoby</target>
+</trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>For each physical product that you trade in, you must create an item card of type <bpt id="p1">**</bpt>Inventory<ept id="p1">**</ept>.</source>
+        <target xml:lang="cs-CZ">Pro každý fyzický produkt, se kterým obchodujete, musíte vytvořit kartu zboží typu <bpt id="p1">**</bpt>Zásoby<ept id="p1">**</ept>.</target>
+</trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Items that you offer to customers but do not keep in inventory you can register as catalog items, which you can convert to inventory items when necessary.</source>
+        <target xml:lang="cs-CZ">Zboží, které nabízíte zákazníkům, ale neuchovávejte je v zásobách, můžete registrovat jako zboží katalogu, které můžete v případě potřeby převést na skladové zboží.</target>
+</trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>You can increase or decrease the quantity of an item in inventory by posting directly to the item ledger entries, for example, after a physical count or if you do not record purchases.</source>
+        <target xml:lang="cs-CZ">Množství zboží ve skladu můžete zvýšit nebo snížit zaúčtováním přímo do položek zboží, například po fyzickém počítání nebo pokud nezaznamenujete nákupy.</target>
+</trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Inventory increases and decreases are naturally also recorded when you post purchase and sales documents respectively.</source>
+        <target xml:lang="cs-CZ">Zvýšení a snížení zásob se přirozeně zaznamenává také při účtování nákupních a prodejních dokladů.</target>
+</trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Record Purchases<ept id="p1">](purchasing-how-record-purchases.md)</ept>, <bpt id="p2">[</bpt>Sell Products<ept id="p2">](sales-how-sell-products.md)</ept>, and <bpt id="p3">[</bpt>Invoice Sales<ept id="p3">](sales-how-invoice-sales.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte <bpt id="p1">[</bpt>Zaznamenání nákupu<ept id="p1">](purchasing-how-record-purchases.md)</ept>, <bpt id="p2">[</bpt>Prodej produktů<ept id="p2">](sales-how-sell-products.md)</ept>a <bpt id="p3">[</bpt>Fakturace prodeje<ept id="p3">](sales-how-invoice-sales.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Transfers between locations changes inventory quantities across your company's warehouses.</source>
+        <target xml:lang="cs-CZ">Převody mezi lokacemi mění množství zásob ve skladech vaší firmy.</target>
+</trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>To increase your overview of items and to help you find them, you can categorize items and give them attributes to search and sort by.</source>
+        <target xml:lang="cs-CZ">Chcete-li zvýšit přehled zboží a usnadnit jejich vyhledání, můžete zboží kategorizovat a udělit jim atributy pro vyhledávání a řazení.</target>
+</trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>The physical handling of items is referred to as warehouse activities.</source>
+        <target xml:lang="cs-CZ">Fyzické zpracování zboží se označuje jako aktivity skladu.</target>
+</trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Warehouse Management<ept id="p1">](warehouse-manage-warehouse.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte <bpt id="p1">[</bpt>Správa skladu<ept id="p1">](warehouse-manage-warehouse.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Inventory Reconciliation</source>
+        <target xml:lang="cs-CZ">Odsouhlasení zásob</target>
+</trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>When you post inventory transactions, such as sales shipments, purchase invoices, or inventory adjustments, the changed item costs are recorded in item value entries.</source>
+        <target xml:lang="cs-CZ">Při účtování skladových transakcí, jako jsou prodejní dodávky, nákupní faktury nebo adjustace skladu, se změněné náklady na zboží zaznamenávají do položek ocenění zboží.</target>
+</trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>To reflect this change of inventory value in your financial books, the inventory costs are automatically posted to the related inventory accounts in the general ledger.</source>
+        <target xml:lang="cs-CZ">Pro zohlednění této změny hodnoty zásob ve finančních knihách jsou náklady na zásoby automaticky zaúčtovány na související skladové účty v hlavní knize.</target>
+</trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>For each inventory transaction that you post, the appropriate values are posted to the inventory account, adjustment account, and COGS account in the general ledger.</source>
+        <target xml:lang="cs-CZ">Pro každou skladovou transakci, kterou účtujete, jsou příslušné hodnoty zaúčtovány na účet zásob, účet adjustace a účet COGS v hlavní knize.</target>
+</trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Reconcile Inventory Costs with the General Ledger<ept id="p1">](finance-how-to-post-inventory-costs-to-the-general-ledger.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte <bpt id="p1">[</bpt>Odsouhlasení nákladů na zboží s hlavní knihou<ept id="p1">](finance-how-to-post-inventory-costs-to-the-general-ledger.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Even though inventory costs are automatically posted to the general ledger, it is still necessary to ensure that the costs of goods are forwarded to the related outbound sales transaction, especially in situations where you sell goods before you invoice the purchase of those goods.</source>
+        <target xml:lang="cs-CZ">I když jsou náklady na zásoby automaticky zaúčtovány do hlavní knihy, je stále nutné zajistit, aby náklady na zboží byly předány na související transakci odchozího prodeje, zejména v situacích, kdy zboží prodáváte dříve, než vyfakturujete nákup tohoto zboží.</target>
+</trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>This is referred to as cost adjustment.</source>
+        <target xml:lang="cs-CZ">To se označuje jako adjustace nákladů.</target>
+</trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Item costs are automatically adjusted when you post item transactions, but you can also adjust item costs manually.</source>
+        <target xml:lang="cs-CZ">Náklady na zboží jsou automaticky adjustovány při účtování transakcí zboží, ale můžete také upravit náklady zboží ručně.</target>
+</trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Adjust Item Costs<ept id="p1">](inventory-how-adjust-item-costs.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte <bpt id="p1">[</bpt>Adjustace nákladů zboží<ept id="p1">](inventory-how-adjust-item-costs.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>To</source>
+        <target xml:lang="cs-CZ">Viz</target>
+</trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>See</source>
+        <target xml:lang="cs-CZ">také</target>
+</trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Create item cards for inventory items that you trade in.</source>
+        <target xml:lang="cs-CZ">Vytvoření karty zboží pro skladové zboží, se kterým obchodujete.</target>
+</trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Register New Items<ept id="p1">](inventory-how-register-new-items.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Evidence nového zboží<ept id="p1">](inventory-how-register-new-items.md)</ept></target>
+</trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Structure parent items that you sell as kits consisting of the parent's components or that you assemble to order or to stock.</source>
+        <target xml:lang="cs-CZ">Struktura nadřazeného zboží, které prodáváte jako sady sestávající z komponent nadřazeného nebo které sestavujete na objednávku nebo na sklad.</target>
+</trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Work with Bills of Material<ept id="p1">](inventory-how-work-BOMs.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Práce s kusovníkem<ept id="p1">](inventory-how-work-BOMs.md)</ept></target>
+</trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Maintain an overview of items and help you find and sort items by organizing them in categories.</source>
+        <target xml:lang="cs-CZ">Udržování přehledu zboží a pomoc při hledání a řazení zboží podle jejich uspořádáním v kategoriích.</target>
+</trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Categorize Items<ept id="p1">](inventory-how-categorize-items.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Kategorizace zboží<ept id="p1">](inventory-how-categorize-items.md)</ept></target>
+</trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Assign item attributes of different value types to your items to help you sort and find items.</source>
+        <target xml:lang="cs-CZ">Přiřazením atributů zboží různých typů zboží, která vám pomůžou řadit a vyhledávat zboží.</target>
+</trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Work with Item Attributes<ept id="p1">](inventory-how-work-item-attributes.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Práce s Atributy zboží<ept id="p1">](inventory-how-work-item-attributes.md)</ept></target>
+</trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Create special item cards for items that you offer to customers but do not maintain inventory for.</source>
+        <target xml:lang="cs-CZ">Vytvoření speciálních karet zboží pro zboží, které nabízíte zákazníkům, ale neudržují se pro něj zásoby.</target>
+</trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Work with Catalog Items<ept id="p1">](inventory-how-work-nonstock-items.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Práce se zbožím katalogu<ept id="p1">](inventory-how-work-nonstock-items.md)</ept></target>
+</trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Perform physical counting, make negative or positive adjustments, and change information, such as location or lot number, on item ledger entries.</source>
+        <target xml:lang="cs-CZ">Provádění fyzické inventury, provádění záporné nebo kladné úpravy a změna informací, jako je lokace nebo číslo šarže, u položek zboží.</target>
+</trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Count, Adjust, and Reclassify Inventory Inventory<ept id="p1">](inventory-how-count-adjust-reclassify.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Výpočet, úprava a přeřazení skladových zásob<ept id="p1">](inventory-how-count-adjust-reclassify.md)</ept></target>
+</trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>View the availability of items per location, by period, by sales or purchase event, or by their use on assembly or production BOMs.</source>
+        <target xml:lang="cs-CZ">Zobrazení dostupnosti zboží dle lokací, dle období, prodejní nebo nákupní události nebo jejich použití v montážích nebo výrobních kusovnících.</target>
+</trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>View the Availability of Items<ept id="p1">](inventory-how-availability-overview.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Zobrazení dostupnosti zboží<ept id="p1">](inventory-how-availability-overview.md)</ept></target>
+</trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Transfer inventory items between locations with transfer orders, to manage warehouse activities, or with the item reclassification journal.</source>
+        <target xml:lang="cs-CZ">Transfer skladového zboží mezi lokacemi s objednávkami transferu, pro správu skladu nebo pomocí deníku přeřazení zboží.</target>
+</trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Transfer Inventory Between Locations<ept id="p1">](inventory-how-transfer-between-locations.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Transfer zásob mezi lokacemi<ept id="p1">](inventory-how-transfer-between-locations.md)</ept></target>
+</trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Reserve inventory or inbound items for sales orders, purchase orders, service orders, assembly orders, or production orders.</source>
+        <target xml:lang="cs-CZ">Rezervace zásob nebo vstupního zboží pro prodejní objednávky, nákupní objednávky, servisní zakázky, montážní zakázky nebo výrobní zakázky.</target>
+</trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Reserve Items<ept id="p1">](inventory-how-to-reserve-items.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Rezervovace zboží<ept id="p1">](inventory-how-to-reserve-items.md)</ept></target>
+</trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Set up a vendor's or customer's own description for an item, so that you can easily insert their item description on trade documents.</source>
+        <target xml:lang="cs-CZ">Vytváření vlastních popisů zboží dodavatele nebo zákazníka, abyste mohli snadno vkládat popis zboží do obchodních dokladů.</target>
+</trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Use Item Cross References<ept id="p1">](inventory-how-use-item-cross-refs.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Použití křížových odkazů na položky<ept id="p1">](inventory-how-use-item-cross-refs.md)</ept></target>
+</trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Assign serial numbers or lot numbers to any outbound or inbound document or journal line, for example to track items in case of recalls.</source>
+        <target xml:lang="cs-CZ">Přiřazení sériových čísel nebo čísel šarží k jakémukoli výstupnímu nebo vstupnímu dokladu nebo řádku deníku, například ke sledování zboží v případě navrácení.</target>
+</trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Work with Serial and Lot Numbers<ept id="p1">](inventory-how-work-item-tracking.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Práce se sériovými čísly a čísly šarží<ept id="p1">](inventory-how-work-item-tracking.md)</ept></target>
+</trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Set up a vendor's or customer's own item description on your item card so that you can quickly insert their item description on trade documents.</source>
+        <target xml:lang="cs-CZ">Nastavení vlastního popisu zboží dodavatele nebo zákazníka tak, aby bylo možné rychle vložit popis zboží do obchodních dokladů.</target>
+</trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Use Item Cross-References<ept id="p1">](inventory-how-use-item-cross-refs.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Použití křížových odkazů na zboží<ept id="p1">](inventory-how-use-item-cross-refs.md)</ept></target>
+</trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Find where any serial or lot number was used in its supply chain, for example in recall situations.</source>
+        <target xml:lang="cs-CZ">Zjištění, kde bylo v dodavatelském řetězci použito sériové číslo nebo čísla šarže, například v situacích reklamace.</target>
+</trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Trace Item-Tracked Items<ept id="p1">](inventory-how-to-trace-item-tracked-items.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Sledování zboží - Sledované zboží<ept id="p1">](inventory-how-to-trace-item-tracked-items.md)</ept></target>
+</trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Block items from being entered on sales or purchase lines or from being posted in any transaction.</source>
+        <target xml:lang="cs-CZ">Zablokování zboží, které má být zadáno v prodejních nebo nákupních řádcích nebo zaúčtovány v libovolné transakci.</target>
+</trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Block Items<ept id="p1">](inventory-how-block-items.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Blokace zboží<ept id="p1">](inventory-how-block-items.md)</ept></target>
+</trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Manage business operations in sales offices, a purchasing departments, or plant planning offices across multiple locations.</source>
+        <target xml:lang="cs-CZ">Správa obchodních operací v prodejních kancelářích, nákupních odděleních nebo kancelářích pro plánování závodu na více místech.</target>
+</trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Work with Responsibility Centers<ept id="p1">](inventory-responsibility-centers.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Práce s centry zodpovědnosti<ept id="p1">](inventory-responsibility-centers.md)</ept></target>
+</trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>See Also</source>
+        <target xml:lang="cs-CZ">Viz také</target>
+</trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Warehouse Management<ept id="p1">](warehouse-manage-warehouse.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Správa skladů<ept id="p1">](warehouse-manage-warehouse.md)</ept></target>
+</trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Purchasing<ept id="p1">](purchasing-manage-purchasing.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nákup<ept id="p1">](purchasing-manage-purchasing.md)</ept></target>
+</trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Sales<ept id="p1">](sales-manage-sales.md)</ept><ph id="ph1">  </ph></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Prodej<ept id="p1">](sales-manage-sales.md)</ept><ph id="ph1">  </ph></target>
+</trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Práce s<ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+</trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>General Business Functionality<ept id="p1">](ui-across-business-areas.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Obecné obchodní funkcionality<ept id="p1">](ui-across-business-areas.md)</ept></target>
+</trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

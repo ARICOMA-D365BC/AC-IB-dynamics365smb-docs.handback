@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="finance.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-5ae97a8" tool-company="Microsoft"></tool><xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d095e710d33882cc39772c35a495b39e08e0c729</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\finance.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ed1da58a93d79290f0b7d812e085701550b51f27</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f982699e9edef0d8f2578a3bd9592578eeb85280</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Financial Management| Microsoft Docs</source>
+        <target xml:lang="cs-CZ">Správa financí | Microsoft Docs</target>
+</trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Learn about the tasks to set up finance in your business to suit all your accounting, auditing, or bookkeeping needs.</source>
+        <target xml:lang="cs-CZ">Informace o úkolech při nastavení financí v podniku, které vyhovují všem potřebám účetnictví, auditu nebo účetnictví</target>
+</trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Finance</source>
+        <target xml:lang="cs-CZ">Finance</target>
+</trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph> includes a standard configuration of most financial processes, but you can change the configuration to suit your business.</source>
+        <target xml:lang="cs-CZ"><ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph>obsahuje standardní konfiguraci většiny finančních procesů, můžete však změnit konfiguraci tak, aby vyhovovala vašim obchodním procesům.</target>
+</trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Setting Up Finance<ept id="p1">](finance-setup-finance.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte <bpt id="p1">[</bpt>Nastavení financí<ept id="p1">](finance-setup-finance.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>The default configuration includes a chart of accounts and standard posting groups that make the process of assigning default general ledger posting accounts to customers, vendors, and items more efficient.</source>
+        <target xml:lang="cs-CZ">Výchozí konfigurace zahrnuje účetní osnovu a standardní účto skupiny, které zefektivní proces přiřazování výchozích účtů hlavní knihy k odběratelům, dodavatelům a zboží.</target>
+</trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>The following table describes a sequence of tasks, with links to the topics that describe them.</source>
+        <target xml:lang="cs-CZ">Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je popisují.</target>
+</trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>To</source>
+        <target xml:lang="cs-CZ">Viz</target>
+</trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>See</source>
+        <target xml:lang="cs-CZ">také</target>
+</trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Apply incoming payments, reconcile bank accounts during payment application, and collect outstanding balances.</source>
+        <target xml:lang="cs-CZ">Vyrovnání příchozích plateb, odsouhlasení bankovních účtů během vyrovnání plateb a výběr nezaplacených zůstatků.</target>
+</trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Managing Receivables<ept id="p1">](receivables-manage-receivables.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Správa pohledávek<ept id="p1">](receivables-manage-receivables.md)</ept></target>
+</trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Make payments, apply outgoing payments, and work with checks.</source>
+        <target xml:lang="cs-CZ">Provádění plateb, používání odchozích plateb a práce s šeky.</target>
+</trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Managing Payables<ept id="p1">](payables-manage-payables.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Správa závazků<ept id="p1">](payables-manage-payables.md)</ept></target>
+</trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Make your customers submit payment before you ship to them, or submit payment to your vendors before they ship to you.</source>
+        <target xml:lang="cs-CZ">Odeslání platby zákazníkům před expedicí nebo odeslání platby dodavatelům před jejich dodáním.</target>
+</trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Invoicing Prepayments<ept id="p1">](finance-invoice-prepayments.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Fakturace záloh<ept id="p1">](finance-invoice-prepayments.md)</ept></target>
+</trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Reconcile bank accounts and transfer funds between bank accounts.</source>
+        <target xml:lang="cs-CZ">Odsouhlasení bankovních účtů a převodů peněžních prostředků mezi bankovními účty</target>
+</trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Managing Bank Accounts<ept id="p1">](bank-manage-bank-accounts.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Správa bankovních účtů<ept id="p1">](bank-manage-bank-accounts.md)</ept></target>
+</trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Set up intercompany partners and process transactions, manually or automatically, between legal entities within the same company.</source>
+        <target xml:lang="cs-CZ">Nastavení vnitropodnikových partnerů a zpracování transakcí ručně nebo automaticky mezi právnickými osobami v rámci jedné společnosti</target>
+</trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Managing Intercompany Transactions<ept id="p1">](intercompany-manage.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Správa vnitropodnikových transakcí<ept id="p1">](intercompany-manage.md)</ept></target>
+</trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Combine general ledger entries from multiple companies in one virtual consolidated company for financial analysis.</source>
+        <target xml:lang="cs-CZ">Kombinování věcných položek z více společností v jedné virtuální konsolidované firmě pro finanční analýzu.</target>
+</trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Consolidating Financial Data from Multiple Companies<ept id="p1">](finance-consolidated-company-reporting.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Konsolidace finančních údajů z více společností<ept id="p1">](finance-consolidated-company-reporting.md)</ept></target>
+</trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Analyze the costs of running your business by allocating actual and budgeted costs of operations, departments, products, and projects to cost centers.</source>
+        <target xml:lang="cs-CZ">Analýza nákladů na provoz podniku přidělením skutečných a rozpočtových nákladů operací, oddělení, produktů a projektů do nákladových středisek.</target>
+</trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Accounting for Costs<ept id="p1">](finance-manage-cost-accounting.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Účtování nákladů<ept id="p1">](finance-manage-cost-accounting.md)</ept></target>
+</trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Manage inventory and manufacturing costs, report costs, and reconcile costs with the general ledger.</source>
+        <target xml:lang="cs-CZ">Správa skladových a výrobních nákladů, vykazování nákladů a odsouhlasení nákladů s financemi</target>
+</trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Managing Inventory Costs<ept id="p1">](finance-manage-inventory-costs.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Správa nákladů na zboží<ept id="p1">](finance-manage-inventory-costs.md)</ept></target>
+</trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Understand the general ledger and the chart of accounts.</source>
+        <target xml:lang="cs-CZ">Porozumění financím a účetní osnově.</target>
+</trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Understanding the General Ledger and the COA<ept id="p1">](finance-general-ledger.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Porozumění hlavní knize a certifikátu pravosti<ept id="p1">](finance-general-ledger.md)</ept></target>
+</trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Add dimensions for richer business intelligence.</source>
+        <target xml:lang="cs-CZ">Přidání dimenze pro bohatší analytické informace.</target>
+</trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with Dimensions<ept id="p1">](finance-dimensions.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Práce s dimenzemi<ept id="p1">](finance-dimensions.md)</ept></target>
+</trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Create G/L budgets to forecast different financial activities and assign dimensions for business intelligence purposes.</source>
+        <target xml:lang="cs-CZ">Vytvoření finančních rozpočtů pro prognózu různých finančních aktivit a přiřazení dimenzí k obchodním zpravodajským účelům</target>
+</trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create G/L Budgets<ept id="p1">](finance-how-create-budgets.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Vytvořit finanční rozpočty<ept id="p1">](finance-how-create-budgets.md)</ept></target>
+</trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Record income or expenses directly in the general ledger without posting dedicated business documents.</source>
+        <target xml:lang="cs-CZ">Zaznamenání příjmu nebo nákladů přímo do hlavní knihy bez zaúčtování vyhrazených obchodních dokladů</target>
+</trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Post Transactions Directly to the General Ledger<ept id="p1">](finance-how-post-transactions-directly.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Účtování transakcí přímo do hlavní knihy<ept id="p1">](finance-how-post-transactions-directly.md)</ept></target>
+</trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Post reversing entries to undo value postings in the general journal or quantity postings on purchase and sales documents.</source>
+        <target xml:lang="cs-CZ">Zaúčtování položek stornování za účelem vrácení zaúčtování hodnoty do finančního deníku nebo do zaúčtování množství v nákupních a prodejních dokladech</target>
+</trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Reverse Postings<ept id="p1">](finance-how-reverse-journal-posting.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Reverzní účtování<ept id="p1">](finance-how-reverse-journal-posting.md)</ept></target>
+</trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Allocate an entry in a general journal to several different accounts when you post the journal.</source>
+        <target xml:lang="cs-CZ">Přidělení položky ve finanční deníku několika různým účtům při zaúčtování deníku.</target>
+</trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Allocate Costs and Income<ept id="p1">](year-allocate-costs-income.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Přidělení nákladů a výnosů<ept id="p1">](year-allocate-costs-income.md)</ept></target>
+</trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Assign extra costs, such as freight and physical handling that you incur during trade, to the involved items so that the cost is reflected in inventory valuation.</source>
+        <target xml:lang="cs-CZ">Přiřazení dodatečných nákladů, jako je dopravné nebo fyzické zpracování, které vzniknou během obchodu, k zúčastněným položkám tak, aby se náklady odrážely ve oceňování zásob.</target>
+</trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Use Item Charges to Account for Additional Trade Costs<ept id="p1">](payables-how-assign-item-charges.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Použití poplatků za zboží na účet pro dodatečné obchodní náklady<ept id="p1">](payables-how-assign-item-charges.md)</ept></target>
+</trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Post employees' personal expenses for business-related activities and reimburse employees by making payment to their bank account.</source>
+        <target xml:lang="cs-CZ">Účtování osobních nákladů zaměstnanců na činnosti spojené s podnikatelskou činností a uhradí zaměstnancům úhradu na jejich bankovní účet.</target>
+</trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Record and Reimburse Employees' Expenses<ept id="p1">](finance-how-record-reimburse-employee-expenses.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Zaznamenávání a úhdrady výdajů zaměstnanců<ept id="p1">](finance-how-record-reimburse-employee-expenses.md)</ept></target>
+</trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Recognize revenues and expenses in other periods than when the transactions were posted.</source>
+        <target xml:lang="cs-CZ">Rozpoznání výnosů a nákladů v jiných obdobích než při zaúčtování transakcí.</target>
+</trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Defer Revenues and Expenses<ept id="p1">](finance-how-defer-revenue-expenses.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Odložení výnosů a výdajů<ept id="p1">](finance-how-defer-revenue-expenses.md)</ept></target>
+</trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Learn how to use additional currencies and update currency exchange rates automatically.</source>
+        <target xml:lang="cs-CZ">Naučte se, jak používat další měny a automaticky aktualizovat směnné kurzy.</target>
+</trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Update Currency Exchange Rates<ept id="p1">](finance-how-update-currencies.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Aktualizace směnných kurzů<ept id="p1">](finance-how-update-currencies.md)</ept></target>
+</trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Import salary transactions from your payroll provider into the general ledger.</source>
+        <target xml:lang="cs-CZ">Import mzdových transakcí z vašeho systému evidence mezd do hlavní knihy.</target>
+</trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Import Payroll Transactions<ept id="p1">](finance-how-import-payroll-transactions.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Import mzdových transakcí<ept id="p1">](finance-how-import-payroll-transactions.md)</ept></target>
+</trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Monitor the flow of cash in and out of your business.</source>
+        <target xml:lang="cs-CZ">Sledujte tok hotovosti do vašeho podniku a mimo něj.</target>
+</trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Analyzing Cash Flows in Your Company<ept id="p1">](finance-analyze-cash-flow.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Analýza peněžních toků ve vaší společnosti<ept id="p1">](finance-analyze-cash-flow.md)</ept></target>
+</trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Work with financial statements and overviews in Excel.</source>
+        <target xml:lang="cs-CZ">Práce s finančními výkazy a přehledy v aplikaci Excel</target>
+</trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Analyzing Financial Statements in Excel<ept id="p1">](finance-analyze-excel.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Analýza finančních výkazů v aplikaci Excel<ept id="p1">](finance-analyze-excel.md)</ept></target>
+</trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Prepare to close a fiscal year or period.</source>
+        <target xml:lang="cs-CZ">Příprava na uzavření fiskálního roku nebo období</target>
+</trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Closing Years and Periods<ept id="p1">](year-close-years-periods.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Uzavírání roků a období<ept id="p1">](year-close-years-periods.md)</ept></target>
+</trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Prepare a report that lists VAT from sales, and submit the report to tax authorities in the EU.</source>
+        <target xml:lang="cs-CZ">Připrava sestav se seznamem DPH z prodeje a odeslání sestavy daňovým úřadům v EU.</target>
+</trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Report VAT to Tax Authorities<ept id="p1">](finance-how-report-vat.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nahlásit DPH daňovým úřadům<ept id="p1">](finance-how-report-vat.md)</ept></target>
+</trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>See Also</source>
+        <target xml:lang="cs-CZ">Viz také</target>
+</trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Finance<ept id="p1">](finance-setup-finance.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nastavení financí<ept id="p1">](finance-setup-finance.md)</ept></target>
+</trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Sales<ept id="p1">](sales-manage-sales.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Prodej<ept id="p1">](sales-manage-sales.md)</ept></target>
+</trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Purchasing<ept id="p1">](purchasing-manage-purchasing.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nákup<ept id="p1">](purchasing-manage-purchasing.md)</ept></target>
+</trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Closing Fiscal Periods<ept id="p1">](year-close-years-periods.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Uzavírání fiskálních období<ept id="p1">](year-close-years-periods.md)</ept></target>
+</trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Managing Projects<ept id="p1">](projects-manage-projects.md)</ept><ph id="ph1">  </ph></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Správa projektů<ept id="p1">](projects-manage-projects.md)</ept> <ph id="ph1">  </ph></target>
+</trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Importing Data from Other Finance Systems<ept id="p1">](across-import-data-configuration-packages.md)</ept>(across-import-data-configuration-packages.md)</source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Import dat z jiných finančních systémů<ept id="p1">](across-import-data-configuration-packages.md)</ept>(Across-import-data-Configuration-Packages.MD)</target>
+</trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with General Journals<ept id="p1">](ui-work-general-journals.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Práce s finančními deníky<ept id="p1">](ui-work-general-journals.md)</ept></target>
+</trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Práce s<ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+</trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

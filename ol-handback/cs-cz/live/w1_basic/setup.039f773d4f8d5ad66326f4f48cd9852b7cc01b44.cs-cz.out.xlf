@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="setup.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-964a5eb" tool-company="Microsoft"></tool><xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4ef409c4eb0ec95f3ac4406bf4c03e177defd69f</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\setup.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">07f6f853f97cbfd004f99e29e409d53abc74d707</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">09e80c87132338b9735e33136b42e0b71ddbef48</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Overview of Tasks to Set Up Business Central | Microsoft Docs</source>
+        <target xml:lang="cs-CZ">Přehled úkolů pro nastavení Business Central | Microsoft Docs</target>
+</trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Outlines tasks to set up, initialize, and configure Business Central to suit your needs.</source>
+        <target xml:lang="cs-CZ">Popisuje úlohy pro nastavení, inicializaci a konfiguraci aplikace Business Central tak, aby vyhovovala vašim potřebám.</target>
+</trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Setting Up <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph></source>
+        <target xml:lang="cs-CZ">Nastavení &lt;x0 /><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph></target>
+</trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> includes standard configurations for most business processes, but you can change the configuration to suit the needs of company.</source>
+        <target xml:lang="cs-CZ"><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>obsahuje standardní konfigurace pro většinu podnikových procesů, můžete však změnit konfiguraci tak, aby vyhovovala potřebám společnosti.</target>
+</trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>For example, your chart of accounts is prefilled with a number of posting accounts ready for use.</source>
+        <target xml:lang="cs-CZ">Například vaše Účtová osnova je předem vyplněna řadou účetních účtů, které jsou připraveny k použití.</target>
+</trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>You can, of course, change the chart of accounts to suit your needs.</source>
+        <target xml:lang="cs-CZ">Účetní osnovu můžete samozřejmě změnit tak, aby vyhovovala vašim potřebám.</target>
+</trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Finance<ept id="p1">](finance.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte sekci <bpt id="p1">[</bpt>Finance<ept id="p1">](finance.md)</ept></target>
+</trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>From your Role Center, you can access assisted setup guides that help you configure certain scenarios and add features to <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>.</source>
+        <target xml:lang="cs-CZ">Z centra rolí můžete získat přístup k asistovaným návodům pro instalace, které vám pomohou nakonfigurovat určité scénáře a přidat funkce do aplikace <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> .</target>
+</trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>For information about how to access all assisted and manual setup windows, see <bpt id="p1">[</bpt>Getting Ready for Doing Business<ept id="p1">](ui-get-ready-business.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Informace o přístupu ke všem asistovaným a manuálním nastavením oken naleznete v tématu <bpt id="p1">[</bpt>Příprava na podnikání<ept id="p1">](ui-get-ready-business.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>You can set up a new company in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> with RapidStart Services, which is a tool designed to shorten deployment times, improve quality of implementation, introduce a repeatable approach to implementations, and enhance productivity by automating and simplifying recurring tasks.</source>
+        <target xml:lang="cs-CZ">Novou firmu můžete vytvořit v <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> pomocí služby RapidStart Services, což je nástroj navržený pro zkrácení doby nasazení, zlepšení kvality implementace, zavedení opakovatelných přístupů k implementacím a zvýšení produktivity automatizací a zjednodušením opakovaných úloh.</target>
+</trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>For more information, see ## <bpt id="p1">[</bpt>Setting Up a Company With RapidStart Services<ept id="p1">](admin-set-up-a-company-with-rapidstart.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte <bpt id="p1">[</bpt>Nastavení společnosti pomocí RapidStart Services<ept id="p1">](admin-set-up-a-company-with-rapidstart.md)</ept></target>
+</trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Some functionality, either general or for specific business processes, can be set up manually in addition to the assisted setup.</source>
+        <target xml:lang="cs-CZ">Některé funkce, buď obecné, nebo specifické pro určité obchodní procesy, mohou být kromě asistované instalace nastaveny ručně.</target>
+</trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>The following lists some of functionality that can you can set up manually.</source>
+        <target xml:lang="cs-CZ">V následujícím seznamu jsou uvedeny některé funkce, které lze nastavit ručně.</target>
+</trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>To</source>
+        <target xml:lang="cs-CZ">Viz</target>
+</trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>See</source>
+        <target xml:lang="cs-CZ">také</target>
+</trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Set up payment methods, currencies, and the chart of accounts, and define rules and defaults for managing financial transactions.</source>
+        <target xml:lang="cs-CZ">Nastavení způsobů plateb, měn, účetní osnovy, definování pravidel a výchozích hodnot pro správu finančních transakcí.</target>
+</trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Finance<ept id="p1">](finance-setup-finance.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nastavení financí<ept id="p1">](finance-setup-finance.md)</ept></target>
+</trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Set up your own and your vendors' bank accounts and enable services for importing and exporting bank files.</source>
+        <target xml:lang="cs-CZ">Nastavení bankovních účtů svých dodavatelů a povolení služeb pro import a export bankovních souborů</target>
+</trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Banking<ept id="p1">](bank-setup-banking.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nastavení bankovnictví<ept id="p1">](bank-setup-banking.md)</ept></target>
+</trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Configure the rules and values that define your company's sales policies, register new customers, and set up how you communicate with customers.</source>
+        <target xml:lang="cs-CZ">Konfiguruace pravidel a hodnot definující prodejní zásady společnosti, zaevidujte nové zákazníky a nastavte způsob komunikace se zákazníky.</target>
+</trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Sales<ept id="p1">](sales-setup-sales.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nastavení prodeje<ept id="p1">](sales-setup-sales.md)</ept></target>
+</trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Configure the rules and values that define your company's purchasing policies, register new vendors, and prioritize your vendors for payment processing.</source>
+        <target xml:lang="cs-CZ">Nakonfigurace pravidel a hodnotami, které definují nákupní zásady vaší společnosti, zaregistrujte nové dodavatele a upřednostněte své dodavatele pro zpracování plateb.</target>
+</trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Purchasing<ept id="p1">](purchasing-setup-purchasing.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nastavení nákupu<ept id="p1">](purchasing-setup-purchasing.md)</ept></target>
+</trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Configure the rules and values that define the company's inventory policies, set up locations if you keep inventory in multiple warehouses, and categorize your items to improve searching and sorting .</source>
+        <target xml:lang="cs-CZ">Nakonfigurujte pravidla a hodnoty, které definují skladové zásady společnosti, nastavte skladová místa, pokud udržujete zásoby ve více skladech, a proveďte kategorizaci položek, abyste zlepšili vyhledávání a třídění.</target>
+</trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Inventory<ept id="p1">](inventory-setup-inventory.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nastavení zásob<ept id="p1">](inventory-setup-inventory.md)</ept></target>
+</trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Set up resources, time sheets, and jobs to manage projects.</source>
+        <target xml:lang="cs-CZ">Nastavení zdrojů, pracovních výkazů a úloh pro správu projektů.</target>
+</trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Project Management<ept id="p1">](projects-setup-projects.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nastavení správy projektu<ept id="p1">](projects-setup-projects.md)</ept></target>
+</trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Configure how to insure, maintain, and depreciate fixed assets, and how you record the costs of fixed assets in your company books.</source>
+        <target xml:lang="cs-CZ">Konfigurace způsobu pojištění, údržby a odepisování dlouhodobého majetku a způsobu zaznamenání nákladů na dlouhodobý majetek v knihách společnosti.</target>
+</trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Fixed Assets<ept id="p1">](fa-setup.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nastavení dlouhodobého majetku<ept id="p1">](fa-setup.md)</ept></target>
+</trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Define the general rules and values for warehouse processes and the specific handling at each location.</source>
+        <target xml:lang="cs-CZ">Definice hodnot pro skladové procesy a specifické zpracování v každé lokaci.</target>
+</trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Warehouse Management<ept id="p1">](warehouse-setup-warehouse.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nastavení správy skladů<ept id="p1">](warehouse-setup-warehouse.md)</ept></target>
+</trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Prepare production BOMs and routings to define how end items are produced, and prepare machine or work centers to perform the required operations.</source>
+        <target xml:lang="cs-CZ">Příprava výrobních kusovníků a TNG postupů pro definování způsobu výroby zboží a příprava strojních nebo pracovních středisek k provedení požadovaných operací.</target>
+</trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Manufacturing<ept id="p1">](production-configure-production-processes.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nastavení výroby<ept id="p1">](production-configure-production-processes.md)</ept></target>
+</trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Read best practices for setting items up for up inventory costing and supply planning.</source>
+        <target xml:lang="cs-CZ">Přečtěte si doporučené postupy pro nastavení položek pro kalkulaci nákladů na zásoby a plánování dodávek.</target>
+</trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Complex Application Areas Using Best Practices<ept id="p1">](set-up-complex-application-areas-using-best-practices.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nastavení složitých oblastí aplikací pomocí doporučených postupů<ept id="p1">](set-up-complex-application-areas-using-best-practices.md)</ept></target>
+</trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Set up an SMTP server to enable e-mail communication in and out of <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph></source>
+        <target xml:lang="cs-CZ">Nastavte server SMTP, který umožní e-mailovou komunikaci.&lt;x0 /><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph></target>
+</trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Email Manually or Using the Assisted Setup<ept id="p1">](madeira-how-setup-email.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Ruční nastavení e-mailu nebo pomocí asistovaného nastavení<ept id="p1">](madeira-how-setup-email.md)</ept></target>
+</trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Set up unique identification codes for records, such as cards, documents, and journal lines, to track them in the system.</source>
+        <target xml:lang="cs-CZ">Nastavení jedinečných identifikačních kódů pro záznamy, jako jsou karty, dokumenty a řádky deníků, ke sledování v systému</target>
+</trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Creating Number Series<ept id="p1">](ui-create-number-series.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Vytváření číselných řad<ept id="p1">](ui-create-number-series.md)</ept></target>
+</trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Set up and assign a base calendar to your company and its business partners, such as customers, vendors, or locations.</source>
+        <target xml:lang="cs-CZ">Nastavení a přiřazení základního kalendáře firmě a jejím obchodním partnerům, například zákazníkům, dodavatelům nebo lokacím.</target>
+</trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Delivery and receipt dates on future sales order, purchase order, transfer order, and production order lines are then calculated according to the calendar’s specified working days.</source>
+        <target xml:lang="cs-CZ">Termíny dodání a příjmu budoucích prodejních objednávek, objednávek, převodních objednávek a výrobních objednávek se pak počítají podle kalendářních pracovních dnů.</target>
+</trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Base Calendars<ept id="p1">](across-how-to-assign-base-calendars.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nastavení základních kalendářů<ept id="p1">](across-how-to-assign-base-calendars.md)</ept></target>
+</trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Some areas require you to be an administrator in your <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> subscription.</source>
+        <target xml:lang="cs-CZ">Některé oblasti vyžadují, abyste byli správcem <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>  ve vašem předplatném.</target>
+</trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Administration<ept id="p1">](admin-setup-and-administration.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte <bpt id="p1">[</bpt>Administrace<ept id="p1">](admin-setup-and-administration.md)</ept></target>
+</trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>See Also</source>
+        <target xml:lang="cs-CZ">Viz také</target>
+</trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Administration<ept id="p1">](admin-setup-and-administration.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Administrace<ept id="p1">](admin-setup-and-administration.md)</ept></target>
+</trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Finance<ept id="p1">](finance.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Finance<ept id="p1">](finance.md)</ept></target>
+</trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Sales<ept id="p1">](sales-manage-sales.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Prodej<ept id="p1">](sales-manage-sales.md)</ept></target>
+</trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Purchasing<ept id="p1">](purchasing-manage-purchasing.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nákup<ept id="p1">](purchasing-manage-purchasing.md)</ept></target>
+</trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Inventory<ept id="p1">](inventory-manage-inventory.md)</ept><ph id="ph1">  </ph></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Zásoby<ept id="p1">](inventory-manage-inventory.md)</ept>&lt;x1 /><ph id="ph1">  </ph></target>
+</trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Project Management<ept id="p1">](projects-manage-projects.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Správa projektu<ept id="p1">](projects-manage-projects.md)</ept></target>
+</trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Fixed Assets<ept id="p1">](fa-manage.md)</ept><ph id="ph1">  </ph></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Dlouhodobý majetek<ept id="p1">](fa-manage.md)</ept> <ph id="ph1">  </ph></target>
+</trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Assembly Management<ept id="p1">](assembly-assemble-items.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Správa montáže<ept id="p1">](assembly-assemble-items.md)</ept></target>
+</trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Manufacturing<ept id="p1">](production-manage-manufacturing.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Výroba<ept id="p1">](production-manage-manufacturing.md)</ept></target>
+</trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Warehouse Management<ept id="p1">](warehouse-manage-warehouse.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Správa skladů<ept id="p1">](warehouse-manage-warehouse.md)</ept></target>
+</trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Práce s<ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+</trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setup and Administration in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](admin-setup-and-administration.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nastavení a správa v <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](admin-setup-and-administration.md)</ept></target>
+</trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Creating New Companies in <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](about-new-company.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Vytváření nových společností v <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](about-new-company.md)</ept></target>
+</trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Welcome to <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](index.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Vítejte v <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](index.md)</ept></target>
+</trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

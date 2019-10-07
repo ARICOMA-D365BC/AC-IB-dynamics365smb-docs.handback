@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="assembly-assemble-items.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-15c36f0" tool-company="Microsoft"></tool><xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f2234000635309b9875e62319a00fc49eec1521a</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\assembly-assemble-items.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fefee923febe1dc363e9a85c9f769fd012e52efe</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">58f0f2dd8b7edd2b054d2278f56264f19919d0ec</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Assembly Management | Microsoft Docs</source>
+        <target xml:lang="cs-CZ">Správa montáže | Microsoft Docs</target>
+</trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Support companies that supply products to their customers by combining components in simple processes without the need of manufacturing functionality but with features to assemble items that integrate with existing features, such as sales, planning, reservations, and warehousing.</source>
+        <target xml:lang="cs-CZ">Podporujte společnosti, které dodávají produkty svým zákazníkům, kombinováním komponent v jednoduchých procesech bez nutnosti výrobní funkčnosti, ale s funkcemi pro sestavení zboží, které jsou integrovány s existujícími funkcemi, jako například prodej, plánování, rezervace a skladování.</target>
+</trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Assembly Management</source>
+        <target xml:lang="cs-CZ">Správa montáže</target>
+</trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>To support companies that supply products to their customers by combining components in simple processes without the need of manufacturing functionality, <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> includes features to assemble items that integrate with existing features, such as sales, planning, reservations, and warehousing.</source>
+        <target xml:lang="cs-CZ">Podporujte společnosti, které dodávají produkty svým zákazníkům, kombinováním komponent v jednoduchých procesech bez nutnosti výrobní funkčnosti, ale s funkcemi pro sestavení zboží, které jsou integrovány s existujícími funkcemi, jako například prodej, plánování, rezervace a skladování.<ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph></target>
+</trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>An assembly item is defined as a sellable item that contains an assembly BOM.</source>
+        <target xml:lang="cs-CZ">Sestavené zboží je definováno jako prodejní zboží skládající se z kusovínku montáže.</target>
+</trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Work with Bills of Material<ept id="p1">](inventory-how-work-BOMs.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte <bpt id="p1">[</bpt>Práce s kusovníkem<ept id="p1">](inventory-how-work-BOMs.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Assembly orders are internal orders, just like production orders, that are used to manage the assembly process and to connect the sales requirements with the involved warehouse activities.</source>
+        <target xml:lang="cs-CZ">Montážní zakázky jsou interní objednávky, stejně jako objednávky výrobní zakázky, které se používají ke správě procesu montáže a k propojení požadavků pr prodej s dodatenými aktivitami skladu.</target>
+</trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Assembly orders differ from other order types because they involve both output and consumption when posting.</source>
+        <target xml:lang="cs-CZ">Montážní zakázky se liši od jiných druhů objednávek, protože při zaúčtování zahrnují jak výstup tak spotřebu.</target>
+</trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>The assembly order header behaves similarly to a sales order line, and the assembly order lines behave similarly to consumption journal lines.</source>
+        <target xml:lang="cs-CZ">Hlavička montážní zakázky se chová podobně jako řádek prodejní objednávky a řádky montážní zakázky se chovají podobně jako řádky deníku spotřeby.</target>
+</trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>To support a just-in-time inventory strategy and the ability to customize products to customer requests, assembly orders may be automatically created and linked as soon as the sales order line is created.</source>
+        <target xml:lang="cs-CZ">Aby byla podporována strategie včasných inventur a schopnost přizpůsobit produkty požadavkům zákazníků, mohou být montážní zakázky automaticky vytvořeny a propojeny, jakmile je vytvořen řádek prodejní objednávky.</target>
+</trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>The link between the sales demand and the assembly supply enables sales order processors to customize the assembly item on the fly, promise delivery dates according to component availability, and to post output and shipment of the assembled item directly from their sales order interface.</source>
+        <target xml:lang="cs-CZ">Vazba mezi prodejní poptávkou a montážní zakázkou umožňuje zpracovatelům prodejních objednávek přizpůsobit průběžné zboží k montáži., přislíbit dodací data podle dostupnosti komponent a zaúčtovat výstup a dodávku sestaveného zboží přímo prodejní objednávky.</target>
+</trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Sell Items Assembled to Order<ept id="p1">](assembly-how-to-sell-items-assembled-to-order.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte <bpt id="p1">[</bpt>Prodej zboží montáže na zakázku<ept id="p1">](assembly-how-to-sell-items-assembled-to-order.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>On one sales order line, you can sell a quantity that is available and must be picked from stock together with a quantity that must be assembled to the order.</source>
+        <target xml:lang="cs-CZ">Na jednom řádku prodejní objednávky můžete prodat množství, které je k dispozici, a musí být vyskladněno ze skladu společně s množstvím, které musí být sestaveno dle objednávky.</target>
+</trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Certain rules exist to govern the distribution of such quantities to ensure that assemble-to-order quantities take priority over inventory quantities in partial shipping.</source>
+        <target xml:lang="cs-CZ">Existují určitá pravidla, kterými se řídí rozdělování těchto množství, aby se zajistilo, že množství na zakázku má přednost před množstvím zásob v částečném přepravním zboží.</target>
+</trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>For more information, see the “Combination Scenarios” section in <bpt id="p1">[</bpt>Understanding Assemble to Order and Assemble to Stock<ept id="p1">](assembly-assemble-to-order-or-assemble-to-stock.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte  sekci “Kombinované scénáře” <bpt id="p1">[</bpt>Porozumění Montáže na zakázku a montáž na sklad<ept id="p1">](assembly-assemble-to-order-or-assemble-to-stock.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Special functionality exists to govern the shipping of assemble-to-order quantities.</source>
+        <target xml:lang="cs-CZ">Existují speciální funkce, které řídí přepravu množství montáže na zakázku.</target>
+</trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>When an assemble-to-order quantity is ready to be shipped, the warehouse worker in charge posts an inventory pick for the sales order line(s) in question.</source>
+        <target xml:lang="cs-CZ">Když je množství montáže na zakázku připraveno k odeslání, odpovědný pracovník skladu zaúčtuje vyskladnění pro dotyčné řádky prodejní objednávky.</target>
+</trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>This, in turn, creates an inventory movement for the components, posts the assembly output, and the sales order shipment.</source>
+        <target xml:lang="cs-CZ">To naopak vytvoří skladový pohyb zásob komponent, zaúčtuje výstup montáže a dodávku prodejní objednávky.</target>
+</trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>For more information, see the "Handling Assemble-to-Order Items in Inventory Picks” section in <bpt id="p1">[</bpt>Pick Items with Inventory Picks<ept id="p1">](warehouse-how-to-pick-items-with-inventory-picks.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte  sekci "Zpracování zboží montáže na zakázku a vyskladnění zásob" v <bpt id="p1">[</bpt>Vyskladnění zboží pomocí vyskladnění zásob<ept id="p1">](warehouse-how-to-pick-items-with-inventory-picks.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>The following table describes a sequence of tasks, with links to the topics that describe them.</source>
+        <target xml:lang="cs-CZ">Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je popisují.</target>
+</trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>To<ept id="p1">**</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">**</bpt>Viz<ept id="p1">**</ept></target>
+</trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>See<ept id="p1">**</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">**</bpt>také<ept id="p1">**</ept></target>
+</trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Learn about the difference between assembling items right before shipping sales orders and assembling items that are intended for storage.</source>
+        <target xml:lang="cs-CZ">Přečtěte si o rozdílu mezi montáží zboží těsně před odesláním prodejních objednávek a montáží zboží, které jsou určeny ke skladování.</target>
+</trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Understanding Assemble to Order and Assemble to Stock<ept id="p1">](assembly-assemble-to-order-or-assemble-to-stock.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Princip montáže na zakázku a montáže na sklad<ept id="p1">](assembly-assemble-to-order-or-assemble-to-stock.md)</ept></target>
+</trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Fill in fields on location cards and in inventory setup to define how items flow to and from the assembly department.</source>
+        <target xml:lang="cs-CZ">Vyplněním polí na kartách lokace a v nastavení zásob definujte způsob toku zboží do a z oddělení montáže.</target>
+</trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Set Up Basic Warehouses with Operations Areas<ept id="p1">](warehouse-how-to-set-up-basic-warehouses-with-operations-areas.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nastavení základních lokací s provozními oblastmi<ept id="p1">](warehouse-how-to-set-up-basic-warehouses-with-operations-areas.md)</ept></target>
+</trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Customize an assembly item to a customer’s request during the sales process, and convert to a sale when accepted.</source>
+        <target xml:lang="cs-CZ">Přizpůsobení montáže zboží požadavku zákazníka během prodejního procesu a převedení na prodej, je-li přijat.</target>
+</trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Quote an Assemble-to-Order Sale<ept id="p1">](assembly-how-to-quote-an-assemble-to-order-sale.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nabídka prodeje montáže na zakázku<ept id="p1">](assembly-how-to-quote-an-assemble-to-order-sale.md)</ept></target>
+</trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Combine components to create an item in a simple process, to order or to stock.</source>
+        <target xml:lang="cs-CZ">Kombinováním komponent můžete vytvořit zboží v jednoduchém procesu, na zakázku nebo na sklad.</target>
+</trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Assemble Items<ept id="p1">](assembly-how-to-assemble-items.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Montáž zboží<ept id="p1">](assembly-how-to-assemble-items.md)</ept></target>
+</trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Sell assembly items that are not currently available by creating a linked assembly order to supply the full or partial sales order quantity.</source>
+        <target xml:lang="cs-CZ">Prodej zboží montáže, které momentálně není k dispozici vytvořením propojení montáže na zakázku pro dodání úplného nebo částečného množství prodejní objednávky.</target>
+</trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Sell Items Assembled to Order<ept id="p1">](assembly-how-to-sell-items-assembled-to-order.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Prodejn zboží montáže na obejdnávku<ept id="p1">](assembly-how-to-sell-items-assembled-to-order.md)</ept></target>
+</trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>When some assemble-to-order items are already in inventory, deduct that quantity from the assembly order and reserve it from inventory.</source>
+        <target xml:lang="cs-CZ">Pokud je některé zboží montáže na zakázku již na skladě, odečtěte toto množství z montážní zakázky a rezervujte je na skladu.</target>
+</trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Sell Inventory Items in Assemble-to-Order Flows<ept id="p1">](assembly-how-to-sell-inventory-items-in-assemble-to-order-flows.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Prodej skladového zboží podle montáže na zakázku<ept id="p1">](assembly-how-to-sell-inventory-items-in-assemble-to-order-flows.md)</ept></target>
+</trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>When you are selling assembly items from inventory and all items are not available, initiate an assembly order to automatically supply a part or all of the sales order quantity.</source>
+        <target xml:lang="cs-CZ">Pokud prodáváte zboží montáže ze skladu a všechny položky nejsou k dispozici, zahajte montážní zakázku, abyste automaticky dodali část nebo celé množství prodejní objednávky.</target>
+</trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Sell Assemble-to-Order Items and Inventory Items Together<ept id="p1">](assembly-how-to-sell-assemble-to-order-items-and-inventory-items-together.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Prodej Zboží montáže na zakázku a skladového zboží dohromady<ept id="p1">](assembly-how-to-sell-assemble-to-order-items-and-inventory-items-together.md)</ept></target>
+</trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Undo a posted assembly order, for example because the order was posted with mistakes that must be corrected.</source>
+        <target xml:lang="cs-CZ">Vrácení zaúčtované montážní zakázky, například proto, že zakázka byla s chybami, které je nutné opravit.</target>
+</trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Undo Assembly Posting<ept id="p1">](assembly-how-to-undo-assembly-posting.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Vrácení účtování montáže<ept id="p1">](assembly-how-to-undo-assembly-posting.md)</ept></target>
+</trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Learn about the difference between assembly BOMs and production BOMs and the involved processing differences.</source>
+        <target xml:lang="cs-CZ">Zjistětě více o rozdílu mezi kusovníkem montáže a výrobním kusovníkem a souvisejicími rozdíly ve zpracování</target>
+</trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Work with Bills of Material<ept id="p1">](inventory-how-work-BOMs.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Práce s kusovníkem<ept id="p1">](inventory-how-work-BOMs.md)</ept></target>
+</trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Learn how assembly consumption and output are handled when you post assembly orders and how the derived item and resource costs are processed and distributed to the general ledger.</source>
+        <target xml:lang="cs-CZ">Zjistěte více o tom, jak se zpracovává spotřeba montážní zakázka a výstup při při účtování a jak jsou odvozené náklady na zboží a zdroje dále jak jsou zpracovávány a distribuovány do hlavní knihy.</target>
+</trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Design Details: Assembly Order Posting<ept id="p1">](design-details-assembly-order-posting.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Podrobnosti návrhu: Účtování montážní zakázky<ept id="p1">](design-details-assembly-order-posting.md)</ept></target>
+</trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>See Also</source>
+        <target xml:lang="cs-CZ">Viz také</target>
+</trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Work with Bills of Material<ept id="p1">](inventory-how-work-BOMs.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Práce s kusovníkem<ept id="p1">](inventory-how-work-BOMs.md)</ept></target>
+</trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Inventory<ept id="p1">](inventory-manage-inventory.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Zásoby<ept id="p1">](inventory-manage-inventory.md)</ept></target>
+</trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Design Details: Warehouse Management<ept id="p1">](design-details-warehouse-management.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Podporbnosti návrhu: Správa skladu<ept id="p1">](design-details-warehouse-management.md)</ept></target>
+</trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Práce s<ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+</trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

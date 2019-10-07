@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="fa-manage.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-567ae5a" tool-company="Microsoft"></tool><xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8ce93f04c27d01a423867bb5acddf9a23be5ec1c</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">financials\fa-manage.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3bedef181f0b6f1b05cc35f43685536a578d5efa</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3631aa60f2e05aa1c6fae5d044d75c2ac9e0e933</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Manage Fixed Assets| Microsoft Docs</source>
+        <target xml:lang="cs-CZ">Správa dlouhodobého majetku | Microsoft Docs </target>
+</trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Learn about the fixed assets functionality in Financials and get an overview of how to work with fixed assets.</source>
+        <target xml:lang="cs-CZ">Informace o funkcích dlouhodobého majetku ve Financích a získání přehledu o způsobu práce s dlouhodobým majetkem</target>
+</trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Fixed Assets</source>
+        <target xml:lang="cs-CZ">Dlouhodobý majetek</target>
+</trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>The Fixed Assets functionality in <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> provides an overview of your fixed assets and ensures correct periodic depreciation.</source>
+        <target xml:lang="cs-CZ">Funkcionalita dlouhodobého majetku v aplikaci <ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> poskytuje přehled o dlouhodobém majetku a zajišťuje správné periodické odpisy.<ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph></target>
+</trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>It also enables you to keep track of your maintenance costs, manage insurance policies, post fixed asset transactions, and generate various reports and statistics.</source>
+        <target xml:lang="cs-CZ">Umožňuje také sledovat náklady na údržbu, spravovat pojistky, účtovat transakce dlouhodobého majetku a generovat různé sestavy a statistiky.</target>
+</trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>For each fixed asset, you must set up a card containing information about the asset.</source>
+        <target xml:lang="cs-CZ">Pro každý dlouhodobý majetek musíte nastavit kartu obsahující informace o majetku.</target>
+</trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>You can set up buildings or production equipment as a main asset with a component list, and you can group them in various ways, such as by class, department, or location.</source>
+        <target xml:lang="cs-CZ">Budovy nebo výrobní zařízení můžete nastavit jako hlavní aktivum se seznamem součástí a můžete je seskupit různými způsoby, například podle třídy, oddělení nebo umístění.</target>
+</trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Then you can begin to acquire, maintain, and sell the fixed assets.</source>
+        <target xml:lang="cs-CZ">Poté můžete začít nabývat, udržovat a prodávat dlouhodobý majetek.</target>
+</trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>You can also set up budgeted assets.</source>
+        <target xml:lang="cs-CZ">Můžete také nastavit rozpočtový majetek.</target>
+</trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>This makes it possible to include any anticipated acquisitions and sales in reports.</source>
+        <target xml:lang="cs-CZ">Tohle umožňuje zahrnout jakékoli očekávané zisky a prodeje v sestavách.</target>
+</trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>To keep track of fixed asset depreciations as well as other financial transactions related to fixed assets, you set up one or more depreciation books for each fixed asset in your company.</source>
+        <target xml:lang="cs-CZ">Ke sledování jak odpisů dlouhodobého majetku, tak ostatních finančních transakcí souvisejících s dlouhodobým majetkem, nastavíte jednu nebo více knih odpisů pro každý dlouhodobý majetek ve vaší společnosti.</target>
+</trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Depreciation is done by running a report to calculate periodic depreciation and fill in a journal with the resulting entries, ready to be posted.</source>
+        <target xml:lang="cs-CZ">Odpis se dělá spuštěním sestavy ke spočítání periodického odpisu a vyplněním deníku s výslednými hodnotami připravenými k zaúčtování.</target>
+</trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph> supports several depreciation methods.</source>
+        <target xml:lang="cs-CZ"><ph id="ph1">[!INCLUDE [d365fin](includes/d365fin_md.md)]</ph>podporuje několik odpisových metod.</target>
+</trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Depreciation Methods<ept id="p1">](fa-depreciation-methods.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte <bpt id="p1">[</bpt>Metody odpisu<ept id="p1">](fa-depreciation-methods.md)</ept></target>
+</trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>You can set up multiple depreciation books per fixed asset for different purposes, such as one for tax reporting and another for internal reporting.</source>
+        <target xml:lang="cs-CZ">Pro každý dlouhodobý majetek můžete vytvořit více knih odpisů pro různé účely, například pro vykazování daně a jiné pro interní vykazování.</target>
+</trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>For each asset, you can record maintenance costs and the next service date.</source>
+        <target xml:lang="cs-CZ">U každého majetku můžete zaznamenat náklady na údržbu a další servisní datum.</target>
+</trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Keeping track of maintenance expenses can be important for budgeting purposes and for making decisions about whether to replace a fixed asset.</source>
+        <target xml:lang="cs-CZ">Sledování nákladů na údržbu může být důležité pro účely rozpočtování a pro rozhodování o tom, zda vyměnit dlouhodobý majetek.</target>
+</trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Each fixed asset can be attached to one or more insurance policies.</source>
+        <target xml:lang="cs-CZ">Každý dlouhodobý majetek lze připojit k jedné nebo více pojistným smlouvám.</target>
+</trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>You can therefore easily verify that insurance policy amounts are in accordance with the value of the assets that are linked to the policy.</source>
+        <target xml:lang="cs-CZ">Můžete proto snadno ověřit, že částky pojistných smluv jsou v souladu s hodnotou majetku spojeného s pojistnou smlouvou.</target>
+</trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>This also makes it easy to monitor annual insurance premiums.</source>
+        <target xml:lang="cs-CZ">Díky tomu je také snadné sledovat roční pojistné.</target>
+</trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>You can record fixed asset transactions in the <bpt id="p1">**</bpt>Fixed Asset G/L Journal<ept id="p1">**</ept> window or in the <bpt id="p2">**</bpt>Fixed Asset Journal<ept id="p2">**</ept> window, depending on whether the transactions are for financial reporting or for internal management.</source>
+        <target xml:lang="cs-CZ">Transakce dlouhodobého majetku můžete zaznamenat v okně <bpt id="p1">**</bpt>Dinanční dením DM<ept id="p1">**</ept> nebo v okně <bpt id="p2">**</bpt>Deník dlouhodobého majetku<ept id="p2">**</ept> podle toho, zda se jedná o transakce pro finanční výkaznictví nebo pro interní správu.</target>
+</trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Help for Fixed Assets only describes how to use the <bpt id="p1">**</bpt>Fixed Asset G/L Journal<ept id="p1">**</ept> window.</source>
+        <target xml:lang="cs-CZ">Nápověda k dlouhodobému majetku popisuje pouze způsob použití okna <bpt id="p1">**</bpt>Finanční deník DM<ept id="p1">**</ept> .</target>
+</trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Set Up Fixed Asset Depreciation<ept id="p1">](fa-how-setup-depreciation.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte sekci<bpt id="p1">[</bpt>Nastavení odpisů dlouhodobého majetku<ept id="p1">](fa-how-setup-depreciation.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Before you can begin to manage fixed assets, you must set up default values, fixed asset accounting, posting groups, allocation keys, journals, and posting types.</source>
+        <target xml:lang="cs-CZ">Dříve než můžete začít spravovat dlouhodobý majetek, musíte nastavit výchozí hodnoty, účtování dlouhodobého majetku, účto skupiny, alokační klíče, deníky a typy účtování.</target>
+</trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Setting Up Fixed Assets<ept id="p1">](fa-setup.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte sekci<bpt id="p1">[</bpt>Nastavení dlouhodobého majetku<ept id="p1">](fa-setup.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>The following table describes a sequence of tasks, with links to the topics that describe them.</source>
+        <target xml:lang="cs-CZ">Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je popisují.</target>
+</trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>To</source>
+        <target xml:lang="cs-CZ">Viz</target>
+</trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>See</source>
+        <target xml:lang="cs-CZ">také</target>
+</trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Create fixed assets, assign depreciation methods, post acquisitions, salvage values, and print fixed asset lists.</source>
+        <target xml:lang="cs-CZ">Vytvoření dlouhodobého majetku, přiřazení metod odpisů, zaúčtování pořízení, hodnot při vyřazení a tisk seznamů dlouhodobého majetku</target>
+</trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Acquire Fixed Assets<ept id="p1">](fa-how-acquire.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Získání dlouhodobého majetku<ept id="p1">](fa-how-acquire.md)</ept></target>
+</trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Record service visits, post maintenance costs, and monitor maintenance costs.</source>
+        <target xml:lang="cs-CZ">Zaznamenávání návštěv údržby, účtování nákladů na údržbu a sledování nákladů na údržbu.</target>
+</trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Maintain Fixed Assets<ept id="p1">](fa-how-maintain.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Údržba dlouhodobého majetku<ept id="p1">](fa-how-maintain.md)</ept></target>
+</trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Update insurance information, post acquisition costs to insurance policies, modify insurance coverage, view insurance statistics, and list insurance policies.</source>
+        <target xml:lang="cs-CZ">Aktualizace informací o pojištění, nákladů na pořízení pojistných smluv, úprava pojistného krytí, zobrazení statistiky pojištění a pojistných smlouv.</target>
+</trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Insure Fixed Assets<ept id="p1">](fa-how-insure.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Pojištění dlouhodobého majetku<ept id="p1">](fa-how-insure.md)</ept></target>
+</trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Reclassify fixed assets, transfer fixed assets to different locations, split up or combine assets.</source>
+        <target xml:lang="cs-CZ">Přeřařezí dlouhodobého majetku, převádění dlouhodobého majetku do různých lokací, rozdělení nebo kombinace majetku</target>
+</trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Transfer, Split, or Combine Fixed Assets<ept id="p1">](fa-how-trans-split-combine.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Převod, rozdělení nebo kombinování dlouhodobého majetku<ept id="p1">](fa-how-trans-split-combine.md)</ept></target>
+</trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Adjust values of fixed assets, post appreciation, and post write-down transactions.</source>
+        <target xml:lang="cs-CZ">Úprava hodnot dlouhodobého majetku, zaúčtování zhodnocení a zaúčtování transakcí znehodnocení</target>
+</trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Revalue Fixed Assets<ept id="p1">](fa-how-revalue.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Přecenění dlouhodobého majetku<ept id="p1">](fa-how-revalue.md)</ept></target>
+</trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Calculate depreciation, post depreciation, and  analyze depreciation in fixed assets reports.</source>
+        <target xml:lang="cs-CZ">Výpočet odpisů, zaúčtování odpisů a analýza odpisů v sestavách dlouhodobého majetku</target>
+</trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Depreciate or Amortize Fixed Assets<ept id="p1">](fa-how-depreciate-amortize.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Odpisování nebo umořování dlouhodobého majetku<ept id="p1">](fa-how-depreciate-amortize.md)</ept></target>
+</trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Post disposal transactions, view disposal ledger entries, and post partial disposals.</source>
+        <target xml:lang="cs-CZ">Zaúčtování transakcí vyřazení, zobrazení položek vyřazení a zaúčtování částečného vyřazení</target>
+</trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Dispose of or Retire Fixed Assets<ept id="p1">](fa-how-dispose-retire.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Likvidace nebo vyřazení dlouhodobého majetku<ept id="p1">](fa-how-dispose-retire.md)</ept></target>
+</trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Manage fixed asset budgets, budget acquisition costs, budget disposals of fixed assets, and budget depreciation.</source>
+        <target xml:lang="cs-CZ">Správa rozpočtů dlouhodobého majetku, rozpočtových nákladů na pořízení, rozpočtu vyřazení dlouhodobého majetku a odpisů rozpočtu</target>
+</trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Manage Budgets for Fixed Assets<ept id="p1">](fa-how-manage-budgets.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Správa rozpočtů dlouhodobého majetku<ept id="p1">](fa-how-manage-budgets.md)</ept></target>
+</trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>See Also</source>
+        <target xml:lang="cs-CZ">Viz také</target>
+</trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Fixed Assets<ept id="p1">](fa-setup.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nastavení dlouhodobého majetku<ept id="p1">](fa-setup.md)</ept></target>
+</trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Changing Which Features are Displayed<ept id="p1">](ui-experiences.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Změna zobrazovaných funkcí<ept id="p1">](ui-experiences.md)</ept></target>
+</trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Finance<ept id="p1">](finance.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Finance<ept id="p1">](finance.md)</ept></target>
+</trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Welcome to <ph id="ph1">[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</ph><ept id="p1">](index.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Vítejte v <ph id="ph1">[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</ph><ept id="p1">](index.md)</ept></target>
+</trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Práce s<ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+</trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

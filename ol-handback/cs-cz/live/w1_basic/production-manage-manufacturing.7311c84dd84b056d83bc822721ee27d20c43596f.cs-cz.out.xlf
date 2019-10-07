@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="production-manage-manufacturing.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-435fba6" tool-company="Microsoft"></tool><xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3e17e6eb7700027d53cbbd2f05292a7bd828d1af</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\production-manage-manufacturing.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">801aab4760de2b8358eb957ad371c754c32780a0</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">add3989588b212f60edf9a16e3b4905592049470</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Execute Production | Microsoft Docs</source>
+        <target xml:lang="cs-CZ">Provádění výroby | Microsoft Docs</target>
+</trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>When demand is planned for and the materials have been issued according to production BOMs, then the actual production operations can start and be executed in the sequence defined by the production order routing.</source>
+        <target xml:lang="cs-CZ">Pokud je poptávka plánována a materiál byl vydán podle výrobních kusovníků, mohou být skutečné výrobní operace spouštěny a spouštěny v pořadí definovaném v TNG postupu výrobní zakázky.</target>
+</trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Manufacturing</source>
+        <target xml:lang="cs-CZ">Výroba</target>
+</trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Functionality described in this topic and sub topics is only visible in the user interface if you have the <bpt id="p1">**</bpt>Premium<ept id="p1">**</ept> experience.</source>
+        <target xml:lang="cs-CZ">Funkce popsané v tomto tématu a dílčích tématech jsou viditelné pouze v uživatelském rozhraní, pokud máte <bpt id="p1">**</bpt>Premium experience<ept id="p1">**</ept> .</target>
+</trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Changing Which Features are Displayed<ept id="p1">](ui-experiences.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte <bpt id="p1">[</bpt>Změna funkcí, které jsou zobrazeny<ept id="p1">](ui-experiences.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>When demand is planned for and the materials have been issued according to production BOMs, then the actual production operations can start and be executed in the sequence defined by the production order routing.</source>
+        <target xml:lang="cs-CZ">Pokud je poptávka plánována a materiál byl vydán podle výrobních kusovníků, mohou být skutečné výrobní operace spouštěny a spouštěny v pořadí definovaném v TNG postupu výrobní zakázky.</target>
+</trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>An important part of executing production, from a system point of view, is to post production output to the database to report progress and to update inventory with the finished items.</source>
+        <target xml:lang="cs-CZ">Důležitou součástí provádění výroby z hlediska systému je zaúčtovat výstup výroby do databáze za účelem vykazování průběhu a aktualizace zásob s dokončovým zbožím.</target>
+</trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Output posting can be done manually, by filling and posting journal lines after production operations.</source>
+        <target xml:lang="cs-CZ">Účtování výstupu lze provést ručně, vyplněním a zaúčtováním řádků deníku po operacích výroby.</target>
+</trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Or, it can be done automatically with the use of backward flushing.</source>
+        <target xml:lang="cs-CZ">Nebo to lze provést automaticky pomocí zpětného odvádení.</target>
+</trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>In that case material consumption is automatically posted along with output when the production order changes to finished.</source>
+        <target xml:lang="cs-CZ">V takovém případě je spotřeba materiálu automaticky zaúčtována společně s výstupem při změně výrobní zakázky na dokončenou.</target>
+</trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>As an alternative to the batch journal for output posting for multiple production orders, you can use the <bpt id="p1">**</bpt>Production Journal<ept id="p1">**</ept> page to post consumption and/or output for one production order line.</source>
+        <target xml:lang="cs-CZ">Jako alternativu k dávkám deníku pro účtování výstupu pro více výrobních zakázek můžete použít stránku <bpt id="p1">**</bpt>Deník Výroby<ept id="p1">**</ept> k zaúčtování spotřeby a/nebo výstupu pro jednu linku výrobní zakázky.</target>
+</trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Before you can begin to produce items, you must make various setup, such as work centers, routings, and production BOMs.</source>
+        <target xml:lang="cs-CZ">Dříve než můžete začít vyrábět zboží, musíte provést různé nastavení, například pracovní střediska, technologické postupy a výrobní kusovníky.</target>
+</trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Setting Up Manufacturing<ept id="p1">](production-configure-production-processes.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte <bpt id="p1">[</bpt>Nastavení výroby<ept id="p1">](production-configure-production-processes.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>The following table describes a sequence of tasks, with links to the topics that describe them.</source>
+        <target xml:lang="cs-CZ">Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je popisují.</target>
+</trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>To<ept id="p1">**</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">**</bpt>Viz<ept id="p1">**</ept></target>
+</trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>See<ept id="p1">**</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">**</bpt>také<ept id="p1">**</ept></target>
+</trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Understand how production orders work.</source>
+        <target xml:lang="cs-CZ">Porozumění jak výrobní zakázky fungují.</target>
+</trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>About Production Orders<ept id="p1">](production-about-production-orders.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>O výrobních zakázkách<ept id="p1">](production-about-production-orders.md)</ept></target>
+</trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Create production orders manually.</source>
+        <target xml:lang="cs-CZ">Ruční vytváření výrobních zakázek.</target>
+</trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Create Production Orders<ept id="p1">](production-how-to-create-production-orders.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Vytváření výrobních zakázek<ept id="p1">](production-how-to-create-production-orders.md)</ept></target>
+</trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Outsource all or selected operations in a production order to a subcontractor.</source>
+        <target xml:lang="cs-CZ">Zadávání všech nebo vybraných operací ve výrobní zakázce subdodavateli.</target>
+</trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Subcontract Manufacturing<ept id="p1">](production-how-to-subcontract-manufacturing.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Subdodavatelská výroba<ept id="p1">](production-how-to-subcontract-manufacturing.md)</ept></target>
+</trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Record and post production output along with material and time consumption for a single released production order line.</source>
+        <target xml:lang="cs-CZ">Zaznamenání a zaúčtování výstupu výroby spolu se spotřebou materiálu a časem pro jeden řádek vydané výrobní zakázky.</target>
+</trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Post Consumption and Output for One Released Production Order Line<ept id="p1">](production-how-to-register-consumption-and-output.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Zaúčtování spotřeby a výstupu pro jeden řádek vydané výrobní zakázky<ept id="p1">](production-how-to-register-consumption-and-output.md)</ept></target>
+</trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Batch post the quantity of components used per operation in a journal that can processes multiple planned production orders.</source>
+        <target xml:lang="cs-CZ">Dávkové zaúčtování množství komponent použitých pro operaci v deníku, které mohou zpracovávat více plánovaných výrobních zakázek.</target>
+</trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Batch Post Consumption<ept id="p1">](production-how-to-post-consumption.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Dávkové účtování spotřeby<ept id="p1">](production-how-to-post-consumption.md)</ept></target>
+</trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Post the quantity of finished items and the time spent per operation in a journal that can processes multiple released production orders.</source>
+        <target xml:lang="cs-CZ">Účtování množství hotového zboží a čas strávený na operaci v deníku, který dokáže zpracovat více vydaných výrobních zakázek.</target>
+</trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Batch Post Output and Run Times<ept id="p1">](production-how-to-post-output-quantity.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Dávkové zaúčtování výstupu a spuštění<ept id="p1">](production-how-to-post-output-quantity.md)</ept></target>
+</trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Undo output, for example because of a data entry error occurred and incorrect amount.</source>
+        <target xml:lang="cs-CZ">Vrácení výstupu, například z důvodu chyby v zadání dat a nesprávné částky</target>
+</trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Reverse Output Posting<ept id="p1">](production-how-to-reverse-output-posting.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Reverzivní účtování výstupu<ept id="p1">](production-how-to-reverse-output-posting.md)</ept></target>
+</trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Post the number of items produced in each finished operation which do not qualify as finished output, but as scrapped material.</source>
+        <target xml:lang="cs-CZ">Účtování několika zboží vyrobených v každé dokončené operaci, které nelze zařadit jako dokončený výstup, ale jako vyřazovaný materiál.</target>
+</trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Post Scrap<ept id="p1">](production-how-to-post-scrap.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Účtování odpadu<ept id="p1">](production-how-to-post-scrap.md)</ept></target>
+</trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>View the shop floor load as a result of planned and released production orders.</source>
+        <target xml:lang="cs-CZ">Zobrazení zatížení dílny v důsledku plánovaných a vydaných výrobních zakázek.</target>
+</trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>View the Load in Work and Machine Centers<ept id="p1">](production-how-to-view-the-load-on-work-centers.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Zobrazit zatížení v pracovních a strojních centrech<ept id="p1">](production-how-to-view-the-load-on-work-centers.md)</ept></target>
+</trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Use the <bpt id="p1">**</bpt>Capacity Journal<ept id="p1">**</ept> page to post consumed capacities that are not assigned to a production order, such as maintenance work.</source>
+        <target xml:lang="cs-CZ">Stránka <bpt id="p1">**</bpt>Deník kapacit<ept id="p1">**</ept> slouží k zaúčtování spotřebovaných kapacit, které nejsou přiřazeny k výrobní zakázce, například k údržbě.</target>
+</trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Post Capacities<ept id="p1">](production-how-to-post-capacities.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Účtování kapacit<ept id="p1">](production-how-to-post-capacities.md)</ept></target>
+</trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Calculate and adjust the cost of finished production items and consumed components for financial reconciliation.</source>
+        <target xml:lang="cs-CZ">Výpočet a úprava nákladů na dokončené výrobní položky a spotřebované komponenty pro finanční odsouhlasení</target>
+</trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>About Finished Production Order Costs<ept id="p1">](finance-about-finished-production-order-costs.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>O nákladech na dokončenou výrobní zakázku<ept id="p1">](finance-about-finished-production-order-costs.md)</ept></target>
+</trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>See Also</source>
+        <target xml:lang="cs-CZ">Viz také</target>
+</trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Manufacturing<ept id="p1">](production-configure-production-processes.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nastavení výroby<ept id="p1">](production-configure-production-processes.md)</ept></target>
+</trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Planning<ept id="p1">](production-planning.md)</ept><ph id="ph1">    </ph></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Plánování<ept id="p1">](production-planning.md)</ept>&lt;x1 /><ph id="ph1">    </ph></target>
+</trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Inventory<ept id="p1">](inventory-manage-inventory.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Zásoby<ept id="p1">](inventory-manage-inventory.md)</ept></target>
+</trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Purchasing<ept id="p1">](purchasing-manage-purchasing.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nákup<ept id="p1">](purchasing-manage-purchasing.md)</ept></target>
+</trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Práce s<ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+</trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

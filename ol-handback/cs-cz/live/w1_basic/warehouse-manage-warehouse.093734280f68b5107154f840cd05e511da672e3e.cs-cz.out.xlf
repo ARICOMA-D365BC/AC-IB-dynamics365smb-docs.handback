@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="warehouse-manage-warehouse.md" source-language="en-US" target-language="cs-cz">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-5ae97a8" tool-company="Microsoft"></tool><xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a7b8ebe9ea06d7f39ac2bc70a83eca09a8739a56</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">business-central\warehouse-manage-warehouse.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">w1_basic</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">HT</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">877bc8ddbf44c7d5b0410a4de07926c2ce7c6efe</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6ef92b8b971ba59a1039c7479fa663ac4886caf1</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>Warehouse Activities | Microsoft Docs</source>
+        <target xml:lang="cs-CZ">Skladové aktivity | Microsoft Docs</target>
+</trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>After goods are received and before goods are shipped, a series of internal warehouse activities take place to ensure an effective flow through the warehouse and to organize and maintain company inventories.</source>
+        <target xml:lang="cs-CZ">Po přijetí zboží a před odesláním zboží probíhá řada interních činností skladu, aby byl zajištěn efektivní tok zboží přes sklad a aby byla organizována a udržována inventura společnosti.</target>
+</trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Warehouse Management</source>
+        <target xml:lang="cs-CZ">Správa skladů</target>
+</trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>After goods are received and before goods are shipped, a series of internal warehouse activities take place to ensure an effective flow through the warehouse and to organize and maintain company inventories.</source>
+        <target xml:lang="cs-CZ">Po přijetí zboží a před odesláním zboží probíhá řada interních činností skladu, aby byl zajištěn efektivní tok zboží přes sklad a aby byla organizována a udržována inventura společnosti.</target>
+</trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Typical warehouse activities include putting items away, moving items inside or between warehouses, and picking items for assembly, production, or shipment.</source>
+        <target xml:lang="cs-CZ">Typické skladové aktivity zahrnují zaskladnění zboží, přesouvání zboží uvnitř nebo mezi sklady a vyskladnění zboží pro montáž, výrobu nebo dodávku.</target>
+</trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Assembling items for sale or inventory may also be considered warehouse activities, but these are covered elsewhere.</source>
+        <target xml:lang="cs-CZ">Montáž zboží za účelem prodeje nebo inventarizace lze rovněž považovat za aktivity skladu, ale tyto položky jsou zahrnuty jinde.</target>
+</trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Assembly Management<ept id="p1">](assembly-assemble-items.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte <bpt id="p1">[</bpt>Správa montáže<ept id="p1">](assembly-assemble-items.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>In large warehouses, these different handling tasks can be separated by departments and the integration managed by a directed workflow.</source>
+        <target xml:lang="cs-CZ">Ve velkých skladech lze tyto různé úlohy zpracování oddělit podle oddělení a integrace spravované řízeným pracovním postupem.</target>
+</trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>In simpler installations, the flow is less formalized and the warehouse activities are performed with so-called inventory put-aways and inventory picks.</source>
+        <target xml:lang="cs-CZ">V jednodušších instalacích je tok méně formální a aktivity skladu jsou prováděny pomocí takzvaných zaskladnění zásob a vyskladnění zásob.</target>
+</trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>For more information about basic versus advanced warehouse configurations, see <bpt id="p1">[</bpt>Design Details: Warehouse Overview<ept id="p1">](design-details-warehouse-overview.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Další informace o základních a pokročilých konfiguracích skladu najdete v <bpt id="p1">[</bpt>Podrobnosti návrhu: Přehled skladů<ept id="p1">](design-details-warehouse-overview.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Before you can perform warehouse activities, you must set the system up for the relevant complexity of warehouse processing.</source>
+        <target xml:lang="cs-CZ">Před provedením aktivit skladu je nutné nastavit systém pro příslušnou složitost zpracování ve skladu.</target>
+</trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Setting Up Warehouse Management<ept id="p1">](warehouse-setup-warehouse.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte <bpt id="p1">[</bpt>Nastavení správy skladu<ept id="p1">](warehouse-setup-warehouse.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>The inventory-related tasks of counting, adjusting, and reclassifying items may involve warehouse tasks that must be performed on warehouse entries before they can be synchronized with the related item ledger entries.</source>
+        <target xml:lang="cs-CZ">Úlohy související se zásobami pro počítání, úpravy a přeřazení zboží mohou zahrnovat úlohy skladu, které musí být provedeny v položkách skladu předtím, než je lze synchronizovat se souvisejícími položkami zboží.</target>
+</trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Count, Adjust, and Reclassify Inventory<ept id="p1">](inventory-how-count-adjust-reclassify.md)</ept>.</source>
+        <target xml:lang="cs-CZ">Pro více informací navštivte <bpt id="p1">[</bpt>Počítání, adjustace a přeřazení zboží<ept id="p1">](inventory-how-count-adjust-reclassify.md)</ept>.</target>
+</trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>The following table describes a sequence of tasks, with links to the topics that describe them.</source>
+        <target xml:lang="cs-CZ">Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je popisují.</target>
+</trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>To<ept id="p1">**</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">**</bpt>Viz<ept id="p1">**</ept></target>
+</trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>See<ept id="p1">**</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">**</bpt>také<ept id="p1">**</ept></target>
+</trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Record the receipt of items at warehouse locations, either with a purchase order only, in simple location setups, or with a warehouse receipt, in case of semi or fully automated warehouse processing at the location.</source>
+        <target xml:lang="cs-CZ">Zaznamenání příjmu zboží do skladových lokací, a to buď pouze s nákupní objednávkou, v jednoduchém nastavení skladů nebo s příjmem na sklad v případě polonebo plně automatizovaného zpracování skladu v lokaci.</target>
+</trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Receive Items<ept id="p1">](warehouse-how-receive-items.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Příjem zboží<ept id="p1">](warehouse-how-receive-items.md)</ept></target>
+</trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Bypass the put-away and pick processes to expedite an item straight from receiving or production to shipping.</source>
+        <target xml:lang="cs-CZ">Vynechání procesů zaskladnění a vyskladnění za účelem urychlení  příjmu zboží  přímo z objednávky nebo z výroby do expedice</target>
+</trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Cross-Dock Items<ept id="p1">](warehouse-how-to-cross-dock-items.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Položky přeložení<ept id="p1">](warehouse-how-to-cross-dock-items.md)</ept></target>
+</trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Put away items received from purchases, sales returns, transfers, or production output according to the configured warehouse process.</source>
+        <target xml:lang="cs-CZ">Zaskladnění zboží přijatého z nákupů, prodejních vratek, transferů nebo výstupu výroby podle nakonfigurovaného procesu skladu</target>
+</trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Putting Items Away<ept id="p1">](warehouse-put-away-items.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Zaskladnění zboží<ept id="p1">](warehouse-put-away-items.md)</ept></target>
+</trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Move items between bins in the warehouse.</source>
+        <target xml:lang="cs-CZ">Přesun zboží mezi přihrádkami ve skladu</target>
+</trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Moving Items<ept id="p1">](warehouse-move-items.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Přesouvání zboží<ept id="p1">](warehouse-move-items.md)</ept></target>
+</trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Pick items to be shipped, transferred, or consumed in assembly or production, according to the configured warehouse process.</source>
+        <target xml:lang="cs-CZ">Vyskladnění zboží, které má být dodáno, převedeno nebo spotřebováno v montáži nebo výrobě, podle konfigurovaného procesu skladu</target>
+</trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Picking Items<ept id="p1">](warehouse-pick-items.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Vyskladnění zboží<ept id="p1">](warehouse-pick-items.md)</ept></target>
+</trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Record the shipment of items from warehouse locations, either with a sales order only, in simple location setups, or with a warehouse shipment, in case of semi or fully automated warehouse processes at the location.</source>
+        <target xml:lang="cs-CZ">Poznamenejte si dodávku zboží ze skladových lokací, a to buď pouze s prodejní objednávkou, v jednoduchém nastavení skladu, nebo s dodávkou ze skladu, v případě polotovarů nebo plně automatizovaných skladových procesů v lokaci.</target>
+</trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Ship Items<ept id="p1">](warehouse-how-ship-items.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Odeslání položek<ept id="p1">](warehouse-how-ship-items.md)</ept></target>
+</trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>See Also</source>
+        <target xml:lang="cs-CZ">Viz také</target>
+</trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Inventory<ept id="p1">](inventory-manage-inventory.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Zásoby<ept id="p1">](inventory-manage-inventory.md)</ept></target>
+</trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting Up Warehouse Management<ept id="p1">](warehouse-setup-warehouse.md)</ept><ph id="ph1">   </ph></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Nastavení správy skladů<ept id="p1">](warehouse-setup-warehouse.md)</ept><ph id="ph1">   </ph></target>
+</trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Assembly Management<ept id="p1">](assembly-assemble-items.md)</ept><ph id="ph1">  </ph></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Správa montáže<ept id="p1">](assembly-assemble-items.md)</ept><ph id="ph1">  </ph></target>
+</trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Design Details: Warehouse Management<ept id="p1">](design-details-warehouse-management.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Podporbnosti návrhu: Správa skladu<ept id="p1">](design-details-warehouse-management.md)</ept></target>
+</trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with <ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></source>
+        <target xml:lang="cs-CZ"><bpt id="p1">[</bpt>Práce s<ph id="ph1">[!INCLUDE[d365fin](includes/d365fin_md.md)]</ph><ept id="p1">](ui-work-product.md)</ept></target>
+</trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
