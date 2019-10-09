@@ -31,7 +31,7 @@
           <source>For example, if you have a standard list of symptom codes that is common to all your service management implementations, you can copy the codes easily from one company to another.</source><seg-source><mrk mtype="seg" mid="6">For example, if you have a standard list of symptom codes that is common to all your service management implementations, you can copy the codes easily from one company to another.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="6">Pokud například máte standardní seznam kódů příznaku, který je společný pro všechny implementace správy služeb, můžete je snadno zkopírovat z jedné společnosti do druhé.</mrk></target>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
-          <source>To copy data to a new company using RapidStart Services</source><seg-source><mrk mtype="seg" mid="7">To copy data to a new company using RapidStart Services</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Pro kopírování dat do nové společnosti pomocí služeb RapidStart</mrk></target>
+          <source>To copy data to a new company using RapidStart Services</source><seg-source><mrk mtype="seg" mid="7">To copy data to a new company using RapidStart Services</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Kopírování dat do nové společnosti pomocí služeb RapidStart</mrk></target>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
           <source>Open the new company.</source><seg-source><mrk mtype="seg" mid="8">Open the new company.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="8">Otevřete novou společnost.</mrk></target>
