@@ -70,7 +70,7 @@
           <source>Refresh/reload page</source><seg-source><mrk mtype="seg" mid="19">Refresh/reload page</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="19">Obnovit/znovu načíst stránku</mrk></target>
         </trans-unit>
         <trans-unit id="120" translate="yes" xml:space="preserve">
-          <source>Close the current page or drop-down.</source><seg-source><mrk mtype="seg" mid="20">Close the current page or drop-down.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="20">Zavřete aktuální stránku nebo rozevírací seznam.</mrk></target>
+          <source>Close the current page or drop-down.</source><seg-source><mrk mtype="seg" mid="20">Close the current page or drop-down.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="20">Zavře aktuální stránku nebo rozevírací seznam.</mrk></target>
         </trans-unit>
         <trans-unit id="121" translate="yes" xml:space="preserve">
           <source><bpt id="p1">**</bpt>Navigate and select rows<ept id="p1">**</ept></source><seg-source><bpt id="p1">**</bpt><mrk mtype="seg" mid="21">Navigate and select rows</mrk><ept id="p1">**</ept></seg-source><target state="translated"><bpt id="p1">**</bpt><mrk mtype="seg" mid="21">Naviguje a vybere řádky</mrk><ept id="p1">**</ept></target>

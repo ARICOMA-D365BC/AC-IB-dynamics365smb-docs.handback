@@ -34,19 +34,19 @@
           <source>However, there are some things you need to set up yourself.</source><seg-source><mrk mtype="seg" mid="7">However, there are some things you need to set up yourself.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Některé věci, ale musíte nastavit sami.</mrk></target>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
-          <source>For example, if you want to use dimensions as a basis for business intelligence.</source><seg-source><mrk mtype="seg" mid="8">For example, if you want to use dimensions as a basis for business intelligence.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="8">Například pokud chcete použít dimenze jako základ business intelligence.</mrk></target>
+          <source>For example, if you want to use dimensions as a basis for business intelligence.</source><seg-source><mrk mtype="seg" mid="8">For example, if you want to use dimensions as a basis for business intelligence.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="8">Například, pokud chcete použít dimenze jako základ Business intelligence.</mrk></target>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
           <source>The following table describes a sequence of tasks, with links to the topics that describe them.</source><seg-source><mrk mtype="seg" mid="9">The following table describes a sequence of tasks, with links to the topics that describe them.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="9">Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je popisují.</mrk></target>
         </trans-unit>
         <trans-unit id="110" translate="yes" xml:space="preserve">
-          <source>To</source><seg-source><mrk mtype="seg" mid="10">To</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="10">Viz</mrk></target>
+          <source>To</source><seg-source><mrk mtype="seg" mid="10">To</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="10">Pro</mrk></target>
         </trans-unit>
         <trans-unit id="111" translate="yes" xml:space="preserve">
-          <source>See</source><seg-source><mrk mtype="seg" mid="11">See</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">také</mrk></target>
+          <source>See</source><seg-source><mrk mtype="seg" mid="11">See</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="11">Viz</mrk></target>
         </trans-unit>
         <trans-unit id="112" translate="yes" xml:space="preserve">
-          <source>Choose how you pay your vendors.</source><seg-source><mrk mtype="seg" mid="12">Choose how you pay your vendors.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="12">Volba jak platit Vašim dodavatelům.</mrk></target>
+          <source>Choose how you pay your vendors.</source><seg-source><mrk mtype="seg" mid="12">Choose how you pay your vendors.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="12">Možnosti jak platit vašim dodavatelům.</mrk></target>
         </trans-unit>
         <trans-unit id="113" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Defining Payment Methods<ept id="p1">](finance-payment-methods.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="13">Defining Payment Methods</mrk><ept id="p1">](finance-payment-methods.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="13">Definování způsobu platby</mrk><ept id="p1">](finance-payment-methods.md)</ept></target>
@@ -64,7 +64,7 @@
           <source><bpt id="p1">[</bpt>Work with Payment Tolerances and Payment Discount Tolerances<ept id="p1">](finance-payment-tolerance-and-payment-discount-tolerance.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="17">Work with Payment Tolerances and Payment Discount Tolerances</mrk><ept id="p1">](finance-payment-tolerance-and-payment-discount-tolerance.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="17">Práce s odchylkami platby a tolerancemi platebních slev</mrk><ept id="p1">](finance-payment-tolerance-and-payment-discount-tolerance.md)</ept></target>
         </trans-unit>
         <trans-unit id="118" translate="yes" xml:space="preserve">
-          <source>Set up fiscal periods.</source><seg-source><mrk mtype="seg" mid="18">Set up fiscal periods.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="18">Nastavit fiskální období.</mrk></target>
+          <source>Set up fiscal periods.</source><seg-source><mrk mtype="seg" mid="18">Set up fiscal periods.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="18">Nastavení fiskálního období.</mrk></target>
         </trans-unit>
         <trans-unit id="119" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Open a New Fiscal Year<ept id="p1">](finance-how-open-new-fiscal-year.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="19">Open a New Fiscal Year</mrk><ept id="p1">](finance-how-open-new-fiscal-year.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="19">Otevření nového fiskálního roku</mrk><ept id="p1">](finance-how-open-new-fiscal-year.md)</ept></target>
@@ -79,16 +79,16 @@
           <source>Set your Sales and Purchases features up to handle payments in foreign currencies.</source><seg-source><mrk mtype="seg" mid="23">Set your Sales and Purchases features up to handle payments in foreign currencies.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="23">Nastavte funkce Prodej a Nákup tak, aby zpracovávaly platby v cizích měnách.</mrk></target>
         </trans-unit>
         <trans-unit id="123" translate="yes" xml:space="preserve">
-          <source><bpt id="p1">[</bpt>Enable Application of Ledger Entries in Different Currencies<ept id="p1">](finance-how-enable-application-ledger-entries-different-currencies.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="24">Enable Application of Ledger Entries in Different Currencies</mrk><ept id="p1">](finance-how-enable-application-ledger-entries-different-currencies.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="24">Umožnit aplikaci položek v různých měnách</mrk><ept id="p1">](finance-how-enable-application-ledger-entries-different-currencies.md)</ept></target>
+          <source><bpt id="p1">[</bpt>Enable Application of Ledger Entries in Different Currencies<ept id="p1">](finance-how-enable-application-ledger-entries-different-currencies.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="24">Enable Application of Ledger Entries in Different Currencies</mrk><ept id="p1">](finance-how-enable-application-ledger-entries-different-currencies.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="24">Umožnění aplikaci položek v různých měnách</mrk><ept id="p1">](finance-how-enable-application-ledger-entries-different-currencies.md)</ept></target>
         </trans-unit>
         <trans-unit id="124" translate="yes" xml:space="preserve">
-          <source>Add new accounts to the existing chart of accounts.</source><seg-source><mrk mtype="seg" mid="25">Add new accounts to the existing chart of accounts.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="25">Přidejte nové účty k existující účetní osnově.</mrk></target>
+          <source>Add new accounts to the existing chart of accounts.</source><seg-source><mrk mtype="seg" mid="25">Add new accounts to the existing chart of accounts.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="25">Přidání nových účtů k existující účetní osnově.</mrk></target>
         </trans-unit>
         <trans-unit id="125" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Setting Up the Chart of Accounts<ept id="p1">](finance-setup-chart-accounts.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="26">Setting Up the Chart of Accounts</mrk><ept id="p1">](finance-setup-chart-accounts.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="26">Nastavení účetní osnovy</mrk><ept id="p1">](finance-setup-chart-accounts.md)</ept></target>
         </trans-unit>
         <trans-unit id="126" translate="yes" xml:space="preserve">
-          <source>Set up business intelligence (BI) charts to analyze cash flow.</source><seg-source><mrk mtype="seg" mid="27">Set up business intelligence (BI) charts to analyze cash flow.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="27">Nastavte grafy business intelligence (BI) pro analýzu cashflow.</mrk></target>
+          <source>Set up business intelligence (BI) charts to analyze cash flow.</source><seg-source><mrk mtype="seg" mid="27">Set up business intelligence (BI) charts to analyze cash flow.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="27">Nastavení grafů Business intelligence (BI) pro analýzu cashflow.</mrk></target>
         </trans-unit>
         <trans-unit id="127" translate="yes" xml:space="preserve">
           <source><bpt id="p1">[</bpt>Setting Up Cash Flow Analysis<ept id="p1">](finance-setup-cash-flow-analyses.md)</ept></source><seg-source><bpt id="p1">[</bpt><mrk mtype="seg" mid="28">Setting Up Cash Flow Analysis</mrk><ept id="p1">](finance-setup-cash-flow-analyses.md)</ept></seg-source><target state="translated"><bpt id="p1">[</bpt><mrk mtype="seg" mid="28">Nastavení analýzy cashflow</mrk><ept id="p1">](finance-setup-cash-flow-analyses.md)</ept></target>

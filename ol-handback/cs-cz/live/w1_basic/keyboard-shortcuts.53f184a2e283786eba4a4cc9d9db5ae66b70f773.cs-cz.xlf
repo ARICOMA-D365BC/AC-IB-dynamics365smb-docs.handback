@@ -16,7 +16,7 @@
           <source>Keyboard Shortcuts</source><seg-source><mrk mtype="seg" mid="1">Keyboard Shortcuts</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="1">Klávesové zkratky</mrk></target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve" restype="x-metadata">
-          <source>The complete list of keyboard shortcut combinations to work efficiently with your data.</source><seg-source><mrk mtype="seg" mid="2">The complete list of keyboard shortcut combinations to work efficiently with your data.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="2">Kompletní seznam kombinací klávesových zkratek za účelem zvýšení efektivnosti práce při pracování s Vašimi daty.</mrk></target>
+          <source>The complete list of keyboard shortcut combinations to work efficiently with your data.</source><seg-source><mrk mtype="seg" mid="2">The complete list of keyboard shortcut combinations to work efficiently with your data.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="2">Kompletní seznam kombinací klávesových zkratek za účelem zvýšení efektivnosti práce při pracování s vašimi daty.</mrk></target>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
           <source>Keyboard Shortcuts</source><seg-source><mrk mtype="seg" mid="3">Keyboard Shortcuts</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="3">Klávesové zkratky</mrk></target>
@@ -31,10 +31,10 @@
           <source>Overview</source><seg-source><mrk mtype="seg" mid="6">Overview</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="6">Přehled</mrk></target>
         </trans-unit>
         <trans-unit id="107" translate="yes" xml:space="preserve">
-          <source>The keyboard shortcuts aide accessibility and can make it easier and more efficient to navigate to different areas and elements on a page.</source><seg-source><mrk mtype="seg" mid="7">The keyboard shortcuts aide accessibility and can make it easier and more efficient to navigate to different areas and elements on a page.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Klávesové zkratky usnadňují přístup a mohou zefektivnit navigaci do různých oblastí a prvků na stránce.</mrk></target>
+          <source>The keyboard shortcuts aide accessibility and can make it easier and more efficient to navigate to different areas and elements on a page.</source><seg-source><mrk mtype="seg" mid="7">The keyboard shortcuts aide accessibility and can make it easier and more efficient to navigate to different areas and elements on a page.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="7">Klávesové zkratky usnadňují přístup a mohou zefektivnit navigaci do různých prvků a oblastí na stránce.</mrk></target>
         </trans-unit>
         <trans-unit id="108" translate="yes" xml:space="preserve">
-          <source>The keyboard shortcuts are supported by most web browsers; however, the behavior may vary slightly.</source><seg-source><mrk mtype="seg" mid="8">The keyboard shortcuts are supported by most web browsers; however, the behavior may vary slightly.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="8">Klávesové zkratky jsou podporovány většinou webových prohlížečů, avšak chování se však může mírně lišit.</mrk></target>
+          <source>The keyboard shortcuts are supported by most web browsers; however, the behavior may vary slightly.</source><seg-source><mrk mtype="seg" mid="8">The keyboard shortcuts are supported by most web browsers; however, the behavior may vary slightly.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="8">Klávesové zkratky jsou podporovány většinou webových prohlížečů, avšak chování se může mírně lišit.</mrk></target>
         </trans-unit>
         <trans-unit id="109" translate="yes" xml:space="preserve">
           <source>The keyboard shortcuts described here refer to the U.S. keyboard layout.</source><seg-source><mrk mtype="seg" mid="9">The keyboard shortcuts described here refer to the U.S. keyboard layout.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="9">Zde popsané klávesové zkratky se vztahují k americkému rozložení klávesnice.</mrk></target>
@@ -139,7 +139,7 @@
           <source>Esc</source><seg-source><mrk mtype="seg" mid="42">Esc</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="42">Esc</mrk></target>
         </trans-unit>
         <trans-unit id="143" translate="yes" xml:space="preserve">
-          <source>Close the current page or drop-down.</source><seg-source><mrk mtype="seg" mid="43">Close the current page or drop-down.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="43">Zavřete aktuální stránku nebo rozevírací seznam.</mrk></target>
+          <source>Close the current page or drop-down.</source><seg-source><mrk mtype="seg" mid="43">Close the current page or drop-down.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="43">Zavře aktuální stránku nebo rozevírací seznam.</mrk></target>
         </trans-unit>
         <trans-unit id="144" translate="yes" xml:space="preserve">
           <source>Keyboard Shortcuts in Lists</source><seg-source><mrk mtype="seg" mid="44">Keyboard Shortcuts in Lists</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="44">Klávesové zkratky v seznamech</mrk></target>
@@ -172,19 +172,19 @@
           <source>Up Arrow</source><seg-source><mrk mtype="seg" mid="53">Up Arrow</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="53">Šipka nahoru</mrk></target>
         </trans-unit>
         <trans-unit id="154" translate="yes" xml:space="preserve">
-          <source>Move in the same column to the field in the row above.</source><seg-source><mrk mtype="seg" mid="54">Move in the same column to the field in the row above.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="54">Přesune Vás ve stejném sloupci do pole v řádku nad ním.</mrk></target>
+          <source>Move in the same column to the field in the row above.</source><seg-source><mrk mtype="seg" mid="54">Move in the same column to the field in the row above.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="54">Přesune vás ve stejném sloupci do pole v řádku nad ním.</mrk></target>
         </trans-unit>
         <trans-unit id="155" translate="yes" xml:space="preserve">
-          <source>Move in the same column to the tile in the row above.</source><seg-source><mrk mtype="seg" mid="55">Move in the same column to the tile in the row above.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="55">Přesune Vás ve stejném sloupci do dlaždice v řádku nad ní.</mrk></target>
+          <source>Move in the same column to the tile in the row above.</source><seg-source><mrk mtype="seg" mid="55">Move in the same column to the tile in the row above.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="55">Přesune vás ve stejném sloupci do dlaždice v řádku nad ní.</mrk></target>
         </trans-unit>
         <trans-unit id="156" translate="yes" xml:space="preserve">
           <source>Down Arrow</source><seg-source><mrk mtype="seg" mid="56">Down Arrow</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="56">Šipka dolů</mrk></target>
         </trans-unit>
         <trans-unit id="157" translate="yes" xml:space="preserve">
-          <source>Move in the same column to the field in the row below.</source><seg-source><mrk mtype="seg" mid="57">Move in the same column to the field in the row below.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="57">Přesune Vás ve stejném sloupci do pole v řádku pod ním.</mrk></target>
+          <source>Move in the same column to the field in the row below.</source><seg-source><mrk mtype="seg" mid="57">Move in the same column to the field in the row below.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="57">Přesune vás ve stejném sloupci do pole v řádku pod ním.</mrk></target>
         </trans-unit>
         <trans-unit id="158" translate="yes" xml:space="preserve">
-          <source>Move in the same column to the tile in the row below.</source><seg-source><mrk mtype="seg" mid="58">Move in the same column to the tile in the row below.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="58">Přesune Vás ve stejném sloupci do dlaždice v řádku pod ní.</mrk></target>
+          <source>Move in the same column to the tile in the row below.</source><seg-source><mrk mtype="seg" mid="58">Move in the same column to the tile in the row below.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="58">Přesune vás ve stejném sloupci do dlaždice v řádku pod ní.</mrk></target>
         </trans-unit>
         <trans-unit id="159" translate="yes" xml:space="preserve">
           <source>Right Arrow</source><seg-source><mrk mtype="seg" mid="59">Right Arrow</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="59">Šipka vpravo</mrk></target>
@@ -493,7 +493,7 @@
           <source>You can only do this in editable lists.</source><seg-source><mrk mtype="seg" mid="160">You can only do this in editable lists.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="160">To můžete provádět jen v editovatelných seznamech.</mrk></target>
         </trans-unit>
         <trans-unit id="261" translate="yes" xml:space="preserve">
-          <source>Using this shortcut followed by a Tab lets you quickly fill out fields in line items that you want to have the same value as the row above.</source><seg-source><mrk mtype="seg" mid="161">Using this shortcut followed by a Tab lets you quickly fill out fields in line items that you want to have the same value as the row above.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="161">Pomocí této zkratky následované tabulátorem můžete rychle vyplnit pole v řádkových položkách, kde chcete mít stejnou hodnotu jako  na výše uvedeném řádku.</mrk></target>
+          <source>Using this shortcut followed by a Tab lets you quickly fill out fields in line items that you want to have the same value as the row above.</source><seg-source><mrk mtype="seg" mid="161">Using this shortcut followed by a Tab lets you quickly fill out fields in line items that you want to have the same value as the row above.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="161">Pomocí této zkratky následované tabulátorem můžete rychle vyplnit pole v řádkových položkách, kde chcete mít stejnou hodnotu jako na výše uvedeném řádku.</mrk></target>
         </trans-unit>
         <trans-unit id="262" translate="yes" xml:space="preserve">
           <source><bpt id="p1">&lt;a name="KeyboardFilter"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> Keyboard Shortcuts for Searching and Filtering Lists</source><seg-source><bpt id="p1">&lt;a name="KeyboardFilter"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> <mrk mtype="seg" mid="162">Keyboard Shortcuts for Searching and Filtering Lists</mrk></seg-source><target state="translated"><bpt id="p1">&lt;a name="KeyboardFilter"&gt;</bpt><ept id="p1">&lt;/a&gt;</ept> <mrk mtype="seg" mid="162">Klávesové zkratky pro vyhledávání a filtrování seznamů</mrk></target>
@@ -517,7 +517,7 @@
           <source>Activates the search box, so you can start typing your search text.</source><seg-source><mrk mtype="seg" mid="168">Activates the search box, so you can start typing your search text.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="168">Aktivuje vyhledávací pole, takže můžete začít psát hledaný text.</mrk></target>
         </trans-unit>
         <trans-unit id="269" translate="yes" xml:space="preserve">
-          <source>If the search box is already activated, F3 returns to the list without clearing the search text.</source><seg-source><mrk mtype="seg" mid="169">If the search box is already activated, F3 returns to the list without clearing the search text.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="169">Pokud je vyhledávací pole již aktivováno, F3  Vás vrátí do seznamu bez vymazání hledaného textu.</mrk></target>
+          <source>If the search box is already activated, F3 returns to the list without clearing the search text.</source><seg-source><mrk mtype="seg" mid="169">If the search box is already activated, F3 returns to the list without clearing the search text.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="169">Pokud je vyhledávací pole již aktivováno, F3 vás vrátí do seznamu bez vymazání hledaného textu.</mrk></target>
         </trans-unit>
         <trans-unit id="270" translate="yes" xml:space="preserve">
           <source>Shift+F3</source><seg-source><mrk mtype="seg" mid="170">Shift+F3</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="170">Shift+F3</mrk></target>
@@ -529,7 +529,7 @@
           <source>If the filter pane is not open, Shift+F3 opens it and focuses on the <bpt id="p1">**</bpt>+ Filter<ept id="p1">**</ept> action under <bpt id="p2">**</bpt>Filter list by<ept id="p2">**</ept>, which lets you just hit Enter to start adding a field filter.</source><seg-source><mrk mtype="seg" mid="172">If the filter pane is not open, Shift+F3 opens it and focuses on the <bpt id="p1">**</bpt>+ Filter<ept id="p1">**</ept> action under <bpt id="p2">**</bpt>Filter list by<ept id="p2">**</ept>, which lets you just hit Enter to start adding a field filter.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="172">Pokud není podokno filtru otevřené, Shift+F3 jej otevře a zobrazí akci <bpt id="p1">**</bpt>+ Filtr<ept id="p1">**</ept> v seznamu <bpt id="p2">**</bpt>Filtrovat podle<ept id="p2">**</ept>, což vám umožní stisknout klávesu Enter a začít přidávat filtr pole.</mrk></target>
         </trans-unit>
         <trans-unit id="273" translate="yes" xml:space="preserve">
-          <source>If the filter pane is already open, Shift+F3 closes it but does not clear any filters that you have added.</source><seg-source><mrk mtype="seg" mid="173">If the filter pane is already open, Shift+F3 closes it but does not clear any filters that you have added.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="173">Pokud je podokno filtru již otevřené, Shift+F3 jej uzavře, ale nevymaže žádné Vámi přidané filtry.</mrk></target>
+          <source>If the filter pane is already open, Shift+F3 closes it but does not clear any filters that you have added.</source><seg-source><mrk mtype="seg" mid="173">If the filter pane is already open, Shift+F3 closes it but does not clear any filters that you have added.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="173">Pokud je podokno filtru již otevřené, Shift+F3 jej uzavře, ale nevymaže žádné vámi přidané filtry.</mrk></target>
         </trans-unit>
         <trans-unit id="274" translate="yes" xml:space="preserve">
           <source>Ctrl+Shift+F3</source><seg-source><mrk mtype="seg" mid="174">Ctrl+Shift+F3</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="174">Ctrl+ Shift+F3</mrk></target>
@@ -571,10 +571,10 @@
           <source>Focus is on the new filter field which lets start typing the filter criteria right away.</source><seg-source><mrk mtype="seg" mid="186">Focus is on the new filter field which lets start typing the filter criteria right away.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="186">Zaměření je na novém poli filtru, které umožňuje ihned začít psát kritéria filtru.</mrk></target>
         </trans-unit>
         <trans-unit id="287" translate="yes" xml:space="preserve">
-          <source>This does the same as selecting <bpt id="p1">**</bpt>Filter<ept id="p1">**</ept> from the column heading.</source><seg-source><mrk mtype="seg" mid="187">This does the same as selecting <bpt id="p1">**</bpt>Filter<ept id="p1">**</ept> from the column heading.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="187">Toto udělá stejnou akci, jako výběr položky <bpt id="p1">**</bpt>Filtrovat<ept id="p1">**</ept> z nadpisu sloupce.</mrk></target>
+          <source>This does the same as selecting <bpt id="p1">**</bpt>Filter<ept id="p1">**</ept> from the column heading.</source><seg-source><mrk mtype="seg" mid="187">This does the same as selecting <bpt id="p1">**</bpt>Filter<ept id="p1">**</ept> from the column heading.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="187">Toto udělá stejnou akci, jako výběr položky <bpt id="p1">**</bpt>Filtrovat<ept id="p1">**</ept> z nadpisu sloupce</mrk></target>
         </trans-unit>
         <trans-unit id="288" translate="yes" xml:space="preserve">
-          <source>er menu.</source><seg-source><mrk mtype="seg" mid="188">er menu.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="188">Nabídka er</mrk></target>
+          <source>er menu.</source><seg-source><mrk mtype="seg" mid="188">er menu.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="188">. </mrk></target>
         </trans-unit>
         <trans-unit id="289" translate="yes" xml:space="preserve">
           <source>Displays the filter pane, adds the filter, sets focus to it so the user can type a value to filter on.</source><seg-source><mrk mtype="seg" mid="189">Displays the filter pane, adds the filter, sets focus to it so the user can type a value to filter on.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="189">Zobrazí podokno filtru, přidá filtr a nastaví na něj zaměření, takže uživatel může zadat hodnotu, na kterou se má filtrovat.</mrk></target>
@@ -601,7 +601,7 @@
           <source>Ctrl+Enter</source><seg-source><mrk mtype="seg" mid="196">Ctrl+Enter</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="196">Ctrl+Enter</mrk></target>
         </trans-unit>
         <trans-unit id="297" translate="yes" xml:space="preserve">
-          <source>Returns to the list from the filter pane.</source><seg-source><mrk mtype="seg" mid="197">Returns to the list from the filter pane.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="197">Návratí do seznamu z podokna filtru.</mrk></target>
+          <source>Returns to the list from the filter pane.</source><seg-source><mrk mtype="seg" mid="197">Returns to the list from the filter pane.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="197">Navrátí do seznamu z podokna filtru.</mrk></target>
         </trans-unit>
         <trans-unit id="298" translate="yes" xml:space="preserve">
           <source><ph id="ph1">&lt;a name="calendarshortcuts"/&gt;</ph> Keyboard Shortcuts in the Calendar (Date Picker)</source><seg-source><ph id="ph1">&lt;a name="calendarshortcuts"/&gt;</ph> <mrk mtype="seg" mid="198">Keyboard Shortcuts in the Calendar (Date Picker)</mrk></seg-source><target state="translated"><ph id="ph1">&lt;a name="calendarshortcuts"/&gt;</ph> <mrk mtype="seg" mid="198">Klávesové zkratky v kalendáři (Výběr data)</mrk></target>
@@ -631,7 +631,7 @@
           <source>Page Down</source><seg-source><mrk mtype="seg" mid="206">Page Down</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="206">Page Down</mrk></target>
         </trans-unit>
         <trans-unit id="307" translate="yes" xml:space="preserve">
-          <source>Move to the next month.</source><seg-source><mrk mtype="seg" mid="207">Move to the next month.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="207">Přesune do dalšího měsíce</mrk></target>
+          <source>Move to the next month.</source><seg-source><mrk mtype="seg" mid="207">Move to the next month.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="207">Přesune do následujícího měsíce</mrk></target>
         </trans-unit>
         <trans-unit id="308" translate="yes" xml:space="preserve">
           <source>Ctrl+Home</source><seg-source><mrk mtype="seg" mid="208">Ctrl+Home</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="208">Ctrl+Home</mrk></target>
@@ -664,7 +664,7 @@
           <source>(Cmd+Right Arrow)</source><seg-source><mrk mtype="seg" mid="217">(Cmd+Right Arrow)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="217">(Cmd+šipka vpravo)</mrk></target>
         </trans-unit>
         <trans-unit id="318" translate="yes" xml:space="preserve">
-          <source>Move to the next day.</source><seg-source><mrk mtype="seg" mid="218">Move to the next day.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="218">Přesune na další den.</mrk></target>
+          <source>Move to the next day.</source><seg-source><mrk mtype="seg" mid="218">Move to the next day.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="218">Přesune na následující den.</mrk></target>
         </trans-unit>
         <trans-unit id="319" translate="yes" xml:space="preserve">
           <source>Ctrl+Up Arrow</source><seg-source><mrk mtype="seg" mid="219">Ctrl+Up Arrow</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="219">(Ctrl+šipka nahoru)</mrk></target>
@@ -682,7 +682,7 @@
           <source>(Cmd+Down Arrow)</source><seg-source><mrk mtype="seg" mid="223">(Cmd+Down Arrow)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="223">(Cmd+šipka dolů)</mrk></target>
         </trans-unit>
         <trans-unit id="324" translate="yes" xml:space="preserve">
-          <source>Move to the next week, same day of the week.</source><seg-source><mrk mtype="seg" mid="224">Move to the next week, same day of the week.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="224">Přesune na další týden, stejný den v týdnu.</mrk></target>
+          <source>Move to the next week, same day of the week.</source><seg-source><mrk mtype="seg" mid="224">Move to the next week, same day of the week.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="224">Přesune na následující týden, stejný den v týdnu.</mrk></target>
         </trans-unit>
         <trans-unit id="325" translate="yes" xml:space="preserve">
           <source>Enter</source><seg-source><mrk mtype="seg" mid="225">Enter</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="225">Enter</mrk></target>

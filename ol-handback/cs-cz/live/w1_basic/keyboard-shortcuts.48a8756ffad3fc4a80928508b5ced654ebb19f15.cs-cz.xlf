@@ -124,19 +124,19 @@
           <source>Up Arrow</source><seg-source><mrk mtype="seg" mid="37">Up Arrow</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="37">Šipka nahoru</mrk></target>
         </trans-unit>
         <trans-unit id="138" translate="yes" xml:space="preserve">
-          <source>Move in the same column to the field in the row above.</source><seg-source><mrk mtype="seg" mid="38">Move in the same column to the field in the row above.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="38">Přesune Vás ve stejném sloupci do pole v řádku nad ním.</mrk></target>
+          <source>Move in the same column to the field in the row above.</source><seg-source><mrk mtype="seg" mid="38">Move in the same column to the field in the row above.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="38">Přesune vás ve stejném sloupci do pole v řádku nad ním.</mrk></target>
         </trans-unit>
         <trans-unit id="139" translate="yes" xml:space="preserve">
-          <source>Move in the same column to the tile in the row above.</source><seg-source><mrk mtype="seg" mid="39">Move in the same column to the tile in the row above.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="39">Přesune Vás ve stejném sloupci do dlaždice v řádku nad ní.</mrk></target>
+          <source>Move in the same column to the tile in the row above.</source><seg-source><mrk mtype="seg" mid="39">Move in the same column to the tile in the row above.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="39">Přesune vás ve stejném sloupci do dlaždice v řádku nad ní.</mrk></target>
         </trans-unit>
         <trans-unit id="140" translate="yes" xml:space="preserve">
           <source>Down Arrow</source><seg-source><mrk mtype="seg" mid="40">Down Arrow</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="40">Šipka dolů</mrk></target>
         </trans-unit>
         <trans-unit id="141" translate="yes" xml:space="preserve">
-          <source>Move in the same column to the field in the row below.</source><seg-source><mrk mtype="seg" mid="41">Move in the same column to the field in the row below.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="41">Přesune Vás ve stejném sloupci do pole v řádku pod ním.</mrk></target>
+          <source>Move in the same column to the field in the row below.</source><seg-source><mrk mtype="seg" mid="41">Move in the same column to the field in the row below.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="41">Přesune vás ve stejném sloupci do pole v řádku pod ním.</mrk></target>
         </trans-unit>
         <trans-unit id="142" translate="yes" xml:space="preserve">
-          <source>Move in the same column to the tile in the row below.</source><seg-source><mrk mtype="seg" mid="42">Move in the same column to the tile in the row below.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="42">Přesune Vás ve stejném sloupci do dlaždice v řádku pod ní.</mrk></target>
+          <source>Move in the same column to the tile in the row below.</source><seg-source><mrk mtype="seg" mid="42">Move in the same column to the tile in the row below.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="42">Přesune vás ve stejném sloupci do dlaždice v řádku pod ní.</mrk></target>
         </trans-unit>
         <trans-unit id="143" translate="yes" xml:space="preserve">
           <source>Right Arrow</source><seg-source><mrk mtype="seg" mid="43">Right Arrow</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="43">Šipka vpravo</mrk></target>
@@ -193,10 +193,10 @@
           <source>(Fn+up Arrow)</source><seg-source><mrk mtype="seg" mid="60">(Fn+up Arrow)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="60">(Fn+šipka nahoru)</mrk></target>
         </trans-unit>
         <trans-unit id="161" translate="yes" xml:space="preserve">
-          <source>Move in the same column to the uppermost visible row.</source><seg-source><mrk mtype="seg" mid="61">Move in the same column to the uppermost visible row.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="61">Přesune Vás ve stejném sloupci do nejvyššího viditelného řádku.</mrk></target>
+          <source>Move in the same column to the uppermost visible row.</source><seg-source><mrk mtype="seg" mid="61">Move in the same column to the uppermost visible row.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="61">Přesune vás ve stejném sloupci do nejvyššího viditelného řádku.</mrk></target>
         </trans-unit>
         <trans-unit id="162" translate="yes" xml:space="preserve">
-          <source>Move in the same column to the uppermost visible row.</source><seg-source><mrk mtype="seg" mid="62">Move in the same column to the uppermost visible row.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="62">Přesune Vás ve stejném sloupci do nejvyššího viditelného řádku.</mrk></target>
+          <source>Move in the same column to the uppermost visible row.</source><seg-source><mrk mtype="seg" mid="62">Move in the same column to the uppermost visible row.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="62">Přesune vás ve stejném sloupci do nejvyššího viditelného řádku.</mrk></target>
         </trans-unit>
         <trans-unit id="163" translate="yes" xml:space="preserve">
           <source>Page Down</source><seg-source><mrk mtype="seg" mid="63">Page Down</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="63">Page Down</mrk></target>
@@ -205,10 +205,10 @@
           <source>(Fn+down Arrow)</source><seg-source><mrk mtype="seg" mid="64">(Fn+down Arrow)</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="64">(Fn+šipka dolů)</mrk></target>
         </trans-unit>
         <trans-unit id="165" translate="yes" xml:space="preserve">
-          <source>Move in the same column to lowermost visible row.</source><seg-source><mrk mtype="seg" mid="65">Move in the same column to lowermost visible row.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="65">Přesune Vás ve stejném sloupci do nejvyššího viditelného řádku.</mrk></target>
+          <source>Move in the same column to lowermost visible row.</source><seg-source><mrk mtype="seg" mid="65">Move in the same column to lowermost visible row.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="65">Přesune vás ve stejném sloupci do nejvyššího viditelného řádku.</mrk></target>
         </trans-unit>
         <trans-unit id="166" translate="yes" xml:space="preserve">
-          <source>Move in the same column to the lowermost visible row.</source><seg-source><mrk mtype="seg" mid="66">Move in the same column to the lowermost visible row.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="66">Přesune Vás ve stejném sloupci do nejnižšího viditelného řádku.</mrk></target>
+          <source>Move in the same column to the lowermost visible row.</source><seg-source><mrk mtype="seg" mid="66">Move in the same column to the lowermost visible row.</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="66">Přesune vás ve stejném sloupci do nejnižšího viditelného řádku.</mrk></target>
         </trans-unit>
         <trans-unit id="167" translate="yes" xml:space="preserve">
           <source>Enter</source><seg-source><mrk mtype="seg" mid="67">Enter</mrk></seg-source><target state="translated"><mrk mtype="seg" mid="67">Enter</mrk></target>
